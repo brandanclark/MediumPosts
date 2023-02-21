@@ -1,0 +1,332 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-26,MIN,Colorado Avalanche,L,2,4,MIN,Oklahoma City Thunder,L,100,104
+2012-01-04,MIN,Vancouver Canucks,L,0,3,MIN,Memphis Grizzlies,L,86,90
+2012-01-10,MIN,San Jose Sharks,W,5,4,MIN,Chicago Bulls,L,100,111
+2012-01-14,MIN,St. Louis Blues,L,2,3,MIN,Atlanta Hawks,L,91,93
+2012-01-21,MIN,Dallas Stars,W,5,2,MIN,Utah Jazz,L,98,108
+2012-02-04,MIN,Dallas Stars,L,1,2,MIN,Houston Rockets,W,100,91
+2012-02-07,MIN,Columbus Blue Jackets,L,1,3,MIN,Sacramento Kings,W,86,84
+2012-02-11,MIN,Columbus Blue Jackets,L,1,3,MIN,New York Knicks,L,98,100
+2012-02-19,MIN,Boston Bruins,W,2,0,MIN,Philadelphia 76ers,W,92,91
+2012-02-28,MIN,Los Angeles Kings,L,0,4,MIN,Los Angeles Clippers,W,109,97
+2012-03-01,MIN,Montreal Canadiens,L,4,5,MIN,Phoenix Suns,L,95,104
+2012-03-19,MIN,Vancouver Canucks,W,2,0,MIN,Golden State Warriors,W,97,93
+2012-03-25,MIN,Washington Capitals,L,0,3,MIN,Denver Nuggets,W,117,100
+2012-03-27,MIN,New York Rangers,L,2,3,MIN,Memphis Grizzlies,L,86,93
+2012-04-01,MIN,Chicago Blackhawks,W,5,4,MIN,Portland Trail Blazers,L,106,119
+2012-04-07,MIN,Phoenix Coyotes,L,1,4,MIN,New Orleans Hornets,L,90,99
+2013-01-19,MIN,Colorado Avalanche,W,4,2,MIN,Houston Rockets,W,92,79
+2013-01-25,MIN,Detroit Red Wings,L,3,5,MIN,Washington Wizards,L,101,114
+2013-01-30,MIN,Chicago Blackhawks,W,3,2,MIN,Los Angeles Clippers,L,90,96
+2013-02-01,MIN,Anaheim Ducks,L,1,3,MIN,Los Angeles Lakers,L,100,111
+2013-02-04,MIN,Phoenix Coyotes,L,1,2,MIN,Portland Trail Blazers,L,98,100
+2013-02-11,MIN,Calgary Flames,W,2,1,MIN,Cleveland Cavaliers,W,100,92
+2013-02-26,MIN,Calgary Flames,W,2,1,MIN,Phoenix Suns,L,83,84
+2013-02-28,MIN,Phoenix Coyotes,W,4,3,MIN,Los Angeles Lakers,L,94,116
+2013-03-09,MIN,Nashville Predators,W,2,1,MIN,Denver Nuggets,L,88,111
+2013-03-10,MIN,Vancouver Canucks,W,4,2,MIN,Dallas Mavericks,L,77,100
+2013-03-12,MIN,Anaheim Ducks,L,1,2,MIN,San Antonio Spurs,W,107,83
+2013-03-18,MIN,Vancouver Canucks,W,3,1,MIN,Memphis Grizzlies,L,77,92
+2013-03-27,MIN,Phoenix Coyotes,W,4,3,MIN,Los Angeles Lakers,L,117,120
+2013-03-29,MIN,Dallas Stars,L,3,5,MIN,Oklahoma City Thunder,W,101,93
+2013-03-30,MIN,Los Angeles Kings,W,4,3,MIN,Memphis Grizzlies,L,86,99
+2013-04-01,MIN,St. Louis Blues,L,1,4,MIN,Boston Celtics,W,110,100
+2013-04-03,MIN,San Jose Sharks,L,2,4,MIN,Milwaukee Bucks,W,107,98
+2013-04-09,MIN,Chicago Blackhawks,L,0,1,MIN,Golden State Warriors,L,89,105
+2013-04-13,MIN,Columbus Blue Jackets,L,2,3,MIN,Phoenix Suns,W,105,93
+2013-04-15,MIN,Calgary Flames,W,4,3,MIN,Utah Jazz,L,80,96
+2013-11-01,MIN,Montreal Canadiens,W,4,3,MIN,Oklahoma City Thunder,W,100,81
+2013-11-03,MIN,New Jersey Devils,W,4,0,MIN,New York Knicks,W,109,100
+2013-11-13,MIN,Toronto Maple Leafs,W,2,1,MIN,Cleveland Cavaliers,W,124,95
+2013-11-15,MIN,Florida Panthers,W,3,2,MIN,Denver Nuggets,L,113,117
+2013-11-19,MIN,Montreal Canadiens,L,2,6,MIN,Washington Wizards,L,100,104
+2013-11-20,MIN,Ottawa Senators,W,4,3,MIN,Los Angeles Clippers,L,98,102
+2013-11-23,MIN,Winnipeg Jets,W,3,2,MIN,Houston Rockets,L,101,112
+2013-11-25,MIN,St. Louis Blues,L,0,3,MIN,Indiana Pacers,L,84,98
+2013-11-27,MIN,Phoenix Coyotes,L,1,3,MIN,Denver Nuggets,L,110,117
+2013-11-30,MIN,Colorado Avalanche,L,2,3,MIN,Dallas Mavericks,W,112,106
+2013-12-11,MIN,Anaheim Ducks,L,1,2,MIN,Philadelphia 76ers,W,106,99
+2013-12-22,MIN,New York Rangers,L,1,4,MIN,Los Angeles Clippers,L,116,120
+2013-12-27,MIN,Winnipeg Jets,L,4,6,MIN,Washington Wizards,W,120,98
+2014-01-04,MIN,Washington Capitals,W,5,3,MIN,Oklahoma City Thunder,L,111,115
+2014-01-12,MIN,Nashville Predators,W,4,0,MIN,San Antonio Spurs,L,86,104
+2014-01-18,MIN,Dallas Stars,W,3,2,MIN,Utah Jazz,W,98,72
+2014-01-21,MIN,Dallas Stars,L,0,4,MIN,Utah Jazz,W,112,97
+2014-01-25,MIN,San Jose Sharks,L,2,3,MIN,Portland Trail Blazers,L,104,115
+2014-02-01,MIN,Calgary Flames,L,3,4,MIN,Atlanta Hawks,L,113,120
+2014-02-04,MIN,Tampa Bay Lightning,W,2,1,MIN,Los Angeles Lakers,W,109,99
+2014-03-03,MIN,Calgary Flames,W,3,2,MIN,Denver Nuggets,W,132,128
+2014-03-09,MIN,St. Louis Blues,L,2,3,MIN,Toronto Raptors,L,104,111
+2014-03-11,MIN,Edmonton Oilers,L,3,4,MIN,Milwaukee Bucks,W,112,101
+2014-03-20,MIN,New Jersey Devils,L,3,4,MIN,Houston Rockets,L,106,129
+2014-03-23,MIN,Detroit Red Wings,W,4,3,MIN,Phoenix Suns,L,120,127
+2014-03-26,MIN,Vancouver Canucks,L,2,5,MIN,Atlanta Hawks,W,107,83
+2014-03-31,MIN,Los Angeles Kings,W,3,2,MIN,Los Angeles Clippers,L,104,114
+2014-04-05,MIN,Pittsburgh Penguins,W,4,0,MIN,Orlando Magic,L,92,100
+2014-04-08,MIN,Boston Bruins,W,4,3,MIN,San Antonio Spurs,W,110,91
+2014-04-13,MIN,Nashville Predators,L,3,7,MIN,Sacramento Kings,L,103,106
+2014-10-30,MIN,San Jose Sharks,W,4,3,MIN,Detroit Pistons,W,97,91
+2014-11-01,MIN,Dallas Stars,W,4,1,MIN,Chicago Bulls,L,105,106
+2014-11-08,MIN,Montreal Canadiens,L,1,4,MIN,Miami Heat,L,92,102
+2014-11-15,MIN,Dallas Stars,W,2,1,MIN,Dallas Mavericks,L,117,131
+2014-11-22,MIN,Tampa Bay Lightning,L,1,2,MIN,Sacramento Kings,L,101,113
+2014-11-26,MIN,Los Angeles Kings,L,0,4,MIN,Milwaukee Bucks,L,86,103
+2014-11-28,MIN,Dallas Stars,W,5,4,MIN,Los Angeles Lakers,W,120,119
+2014-12-03,MIN,Montreal Canadiens,W,2,1,MIN,Philadelphia 76ers,L,77,85
+2014-12-05,MIN,Anaheim Ducks,L,4,5,MIN,Houston Rockets,L,112,114
+2014-12-16,MIN,Chicago Blackhawks,L,3,5,MIN,Washington Wizards,L,95,109
+2014-12-23,MIN,Philadelphia Flyers,L,2,5,MIN,Cleveland Cavaliers,L,104,125
+2014-12-27,MIN,Winnipeg Jets,L,3,4,MIN,Golden State Warriors,L,97,110
+2015-01-03,MIN,Dallas Stars,L,1,7,MIN,Utah Jazz,L,89,101
+2015-01-10,MIN,Nashville Predators,L,1,3,MIN,San Antonio Spurs,L,93,108
+2015-01-13,MIN,Pittsburgh Penguins,L,2,7,MIN,Indiana Pacers,W,110,101
+2015-01-17,MIN,Arizona Coyotes,W,3,1,MIN,Denver Nuggets,W,113,105
+2015-01-19,MIN,Columbus Blue Jackets,L,1,3,MIN,Charlotte Hornets,L,80,105
+2015-02-09,MIN,Vancouver Canucks,W,5,3,MIN,Atlanta Hawks,L,105,117
+2015-02-20,MIN,Edmonton Oilers,W,4,0,MIN,Phoenix Suns,W,111,109
+2015-02-28,MIN,Colorado Avalanche,W,3,1,MIN,Memphis Grizzlies,L,97,101
+2015-03-13,MIN,Anaheim Ducks,L,1,2,MIN,Oklahoma City Thunder,L,99,113
+2015-03-19,MIN,Washington Capitals,L,2,3,MIN,New York Knicks,W,95,92
+2015-03-23,MIN,Toronto Maple Leafs,W,2,1,MIN,Utah Jazz,W,106,104
+2015-03-27,MIN,Calgary Flames,W,4,2,MIN,Houston Rockets,L,110,120
+2015-04-07,MIN,Chicago Blackhawks,W,2,1,MIN,Sacramento Kings,L,111,116
+2015-04-11,MIN,St. Louis Blues,L,2,4,MIN,Golden State Warriors,L,101,110
+2015-10-30,MIN,Chicago Blackhawks,W,5,4,MIN,Denver Nuggets,W,95,78
+2015-11-05,MIN,Nashville Predators,L,2,3,MIN,Miami Heat,L,84,96
+2015-11-07,MIN,Tampa Bay Lightning,W,1,0,MIN,Chicago Bulls,W,102,93
+2015-11-10,MIN,Winnipeg Jets,W,5,3,MIN,Charlotte Hornets,L,95,104
+2015-11-12,MIN,Carolina Hurricanes,W,3,2,MIN,Golden State Warriors,L,116,129
+2015-11-17,MIN,Pittsburgh Penguins,L,3,4,MIN,Miami Heat,W,103,91
+2015-11-25,MIN,Vancouver Canucks,L,2,3,MIN,Atlanta Hawks,W,99,95
+2015-11-27,MIN,Winnipeg Jets,L,1,3,MIN,Sacramento Kings,W,101,91
+2015-12-01,MIN,Chicago Blackhawks,W,2,1,MIN,Orlando Magic,L,93,96
+2015-12-05,MIN,Colorado Avalanche,W,3,0,MIN,Portland Trail Blazers,L,103,109
+2015-12-07,MIN,Colorado Avalanche,L,1,2,MIN,Los Angeles Clippers,L,106,110
+2015-12-11,MIN,Arizona Coyotes,L,1,2,MIN,Denver Nuggets,L,108,111
+2015-12-15,MIN,Vancouver Canucks,W,6,2,MIN,Denver Nuggets,L,100,112
+2015-12-21,MIN,Dallas Stars,L,3,6,MIN,Boston Celtics,L,99,113
+2015-12-26,MIN,Pittsburgh Penguins,L,1,3,MIN,Indiana Pacers,L,88,102
+2015-12-28,MIN,Detroit Red Wings,W,3,1,MIN,San Antonio Spurs,L,95,101
+2015-12-31,MIN,St. Louis Blues,W,3,1,MIN,Detroit Pistons,L,90,115
+2016-01-02,MIN,Tampa Bay Lightning,L,2,3,MIN,Milwaukee Bucks,L,85,95
+2016-01-10,MIN,New Jersey Devils,L,1,2,MIN,Dallas Mavericks,L,87,93
+2016-01-12,MIN,Buffalo Sabres,L,2,3,MIN,Oklahoma City Thunder,L,96,101
+2016-01-15,MIN,Winnipeg Jets,L,0,1,MIN,Oklahoma City Thunder,L,93,113
+2016-01-20,MIN,Anaheim Ducks,L,1,3,MIN,Dallas Mavericks,L,94,106
+2016-01-23,MIN,San Jose Sharks,L,3,4,MIN,Memphis Grizzlies,W,106,101
+2016-01-25,MIN,Arizona Coyotes,L,1,2,MIN,Cleveland Cavaliers,L,107,114
+2016-02-02,MIN,New York Islanders,L,3,5,MIN,Los Angeles Lakers,L,115,119
+2016-02-06,MIN,St. Louis Blues,L,1,4,MIN,Chicago Bulls,W,112,105
+2016-02-28,MIN,Florida Panthers,W,3,1,MIN,Dallas Mavericks,L,101,128
+2016-03-05,MIN,Buffalo Sabres,W,3,2,MIN,Brooklyn Nets,W,132,118
+2016-03-26,MIN,Colorado Avalanche,W,4,0,MIN,Utah Jazz,L,84,93
+2016-04-01,MIN,Detroit Red Wings,L,2,3,MIN,Utah Jazz,L,85,98
+2016-04-03,MIN,Winnipeg Jets,L,1,5,MIN,Dallas Mavericks,L,78,88
+2016-04-05,MIN,San Jose Sharks,L,0,3,MIN,Golden State Warriors,W,124,117
+2016-04-09,MIN,Calgary Flames,L,1,2,MIN,Portland Trail Blazers,W,106,105
+2016-10-29,MIN,Dallas Stars,W,4,0,MIN,Sacramento Kings,L,103,106
+2016-11-01,MIN,Buffalo Sabres,L,1,2,MIN,Memphis Grizzlies,W,116,80
+2016-11-05,MIN,Colorado Avalanche,L,0,1,MIN,Oklahoma City Thunder,L,92,112
+2016-11-12,MIN,Philadelphia Flyers,L,2,3,MIN,Los Angeles Clippers,L,105,119
+2016-11-13,MIN,Ottawa Senators,W,2,1,MIN,Los Angeles Lakers,W,125,99
+2016-11-15,MIN,Calgary Flames,L,0,1,MIN,Charlotte Hornets,L,108,115
+2016-11-17,MIN,Boston Bruins,W,1,0,MIN,Philadelphia 76ers,W,110,86
+2016-11-19,MIN,Colorado Avalanche,L,2,3,MIN,Memphis Grizzlies,L,71,93
+2016-11-21,MIN,Dallas Stars,L,2,3,MIN,Boston Celtics,L,93,99
+2016-11-23,MIN,Winnipeg Jets,W,3,1,MIN,New Orleans Pelicans,L,96,117
+2016-11-25,MIN,Pittsburgh Penguins,W,6,2,MIN,Phoenix Suns,W,98,85
+2016-11-26,MIN,St. Louis Blues,L,3,4,MIN,Golden State Warriors,L,102,115
+2016-12-02,MIN,Calgary Flames,L,2,3,MIN,New York Knicks,L,114,118
+2016-12-09,MIN,Edmonton Oilers,W,3,2,MIN,Detroit Pistons,L,90,117
+2016-12-11,MIN,St. Louis Blues,W,3,1,MIN,Golden State Warriors,L,108,116
+2016-12-13,MIN,Florida Panthers,W,5,1,MIN,Chicago Bulls,W,99,94
+2016-12-17,MIN,Arizona Coyotes,W,4,1,MIN,Houston Rockets,L,109,111
+2016-12-23,MIN,New York Rangers,W,7,4,MIN,Sacramento Kings,L,105,109
+2017-01-07,MIN,Los Angeles Kings,L,3,4,MIN,Utah Jazz,L,92,94
+2017-01-15,MIN,Chicago Blackhawks,W,3,2,MIN,Dallas Mavericks,L,87,98
+2017-01-17,MIN,New Jersey Devils,L,3,4,MIN,San Antonio Spurs,L,114,122
+2017-01-19,MIN,Arizona Coyotes,W,4,3,MIN,Los Angeles Clippers,W,104,101
+2017-01-22,MIN,Nashville Predators,L,2,4,MIN,Denver Nuggets,W,111,108
+2017-01-24,MIN,Dallas Stars,W,3,2,MIN,Phoenix Suns,W,112,111
+2017-01-26,MIN,St. Louis Blues,W,5,1,MIN,Indiana Pacers,L,103,109
+2017-02-01,MIN,Calgary Flames,L,1,5,MIN,Cleveland Cavaliers,L,97,125
+2017-02-04,MIN,Vancouver Canucks,W,6,3,MIN,Memphis Grizzlies,L,99,107
+2017-02-08,MIN,Chicago Blackhawks,L,3,4,MIN,Toronto Raptors,W,112,109
+2017-02-10,MIN,Tampa Bay Lightning,W,2,1,MIN,New Orleans Pelicans,L,106,122
+2017-02-12,MIN,Detroit Red Wings,W,6,3,MIN,Chicago Bulls,W,117,89
+2017-02-14,MIN,Anaheim Ducks,L,0,1,MIN,Cleveland Cavaliers,L,108,116
+2017-02-27,MIN,Los Angeles Kings,W,5,4,MIN,Sacramento Kings,W,102,88
+2017-03-10,MIN,Florida Panthers,W,7,4,MIN,Golden State Warriors,W,103,102
+2017-03-19,MIN,Winnipeg Jets,L,4,5,MIN,New Orleans Pelicans,L,109,123
+2017-03-21,MIN,San Jose Sharks,W,3,2,MIN,San Antonio Spurs,L,93,100
+2017-03-25,MIN,Vancouver Canucks,L,2,4,MIN,Portland Trail Blazers,L,100,112
+2017-03-28,MIN,Washington Capitals,L,4,5,MIN,Indiana Pacers,W,115,114
+2017-03-30,MIN,Ottawa Senators,W,5,1,MIN,Los Angeles Lakers,W,119,104
+2017-04-01,MIN,Nashville Predators,L,0,3,MIN,Sacramento Kings,L,117,123
+2017-04-04,MIN,Carolina Hurricanes,W,5,3,MIN,Golden State Warriors,L,107,121
+2017-04-06,MIN,Colorado Avalanche,W,4,3,MIN,Portland Trail Blazers,L,98,105
+2017-10-20,MIN,Winnipeg Jets,L,3,4,MIN,Utah Jazz,W,100,97
+2017-10-24,MIN,Vancouver Canucks,L,0,1,MIN,Indiana Pacers,L,107,130
+2017-11-04,MIN,Chicago Blackhawks,L,0,2,MIN,Dallas Mavericks,W,112,99
+2017-11-08,MIN,Toronto Maple Leafs,L,2,4,MIN,Golden State Warriors,L,101,125
+2017-11-11,MIN,Philadelphia Flyers,W,1,0,MIN,Phoenix Suns,L,110,118
+2017-11-20,MIN,New Jersey Devils,L,3,4,MIN,Charlotte Hornets,L,102,118
+2017-11-22,MIN,Buffalo Sabres,W,5,4,MIN,Orlando Magic,W,124,118
+2017-11-24,MIN,Colorado Avalanche,W,3,2,MIN,Miami Heat,L,97,109
+2017-12-10,MIN,San Jose Sharks,W,4,3,MIN,Dallas Mavericks,W,97,92
+2017-12-12,MIN,Calgary Flames,W,2,1,MIN,Philadelphia 76ers,L,112,118
+2017-12-14,MIN,Toronto Maple Leafs,W,2,0,MIN,Sacramento Kings,W,119,96
+2017-12-16,MIN,Edmonton Oilers,L,2,3,MIN,Phoenix Suns,L,106,108
+2017-12-23,MIN,Tampa Bay Lightning,L,0,3,MIN,Phoenix Suns,W,115,106
+2017-12-27,MIN,Dallas Stars,W,4,2,MIN,Denver Nuggets,W,128,125
+2018-01-06,MIN,Colorado Avalanche,L,2,7,MIN,New Orleans Pelicans,W,116,98
+2018-01-10,MIN,Chicago Blackhawks,W,2,1,MIN,Oklahoma City Thunder,W,104,88
+2018-01-14,MIN,Vancouver Canucks,L,2,3,MIN,Portland Trail Blazers,W,120,103
+2018-01-20,MIN,Tampa Bay Lightning,W,5,2,MIN,Toronto Raptors,W,115,109
+2018-01-22,MIN,Ottawa Senators,W,3,1,MIN,Los Angeles Clippers,W,126,118
+2018-01-25,MIN,Pittsburgh Penguins,L,3,6,MIN,Golden State Warriors,L,113,126
+2018-01-30,MIN,Columbus Blue Jackets,W,3,2,MIN,Toronto Raptors,L,104,109
+2018-02-03,MIN,Dallas Stars,L,1,6,MIN,New Orleans Pelicans,W,118,107
+2018-02-13,MIN,New York Rangers,W,3,2,MIN,Houston Rockets,L,108,126
+2018-02-15,MIN,Washington Capitals,L,2,5,MIN,Los Angeles Lakers,W,119,111
+2018-02-23,MIN,New York Rangers,W,4,1,MIN,Houston Rockets,L,102,120
+2018-03-01,MIN,Arizona Coyotes,L,3,5,MIN,Portland Trail Blazers,L,99,108
+2018-03-02,MIN,Colorado Avalanche,L,1,7,MIN,Utah Jazz,L,108,116
+2018-03-13,MIN,Colorado Avalanche,L,1,5,MIN,Washington Wizards,W,116,111
+2018-03-17,MIN,Arizona Coyotes,W,3,1,MIN,San Antonio Spurs,L,101,117
+2018-03-24,MIN,Nashville Predators,W,4,1,MIN,Philadelphia 76ers,L,108,120
+2018-04-05,MIN,Los Angeles Kings,L,4,5,MIN,Denver Nuggets,L,96,100
+2018-10-19,MIN,Dallas Stars,W,3,1,MIN,Cleveland Cavaliers,W,131,123
+2018-10-20,MIN,Tampa Bay Lightning,W,5,4,MIN,Dallas Mavericks,L,136,140
+2018-10-29,MIN,Vancouver Canucks,L,2,5,MIN,Los Angeles Lakers,W,124,120
+2018-11-09,MIN,Anaheim Ducks,W,5,1,MIN,Sacramento Kings,L,110,121
+2018-11-18,MIN,Chicago Blackhawks,L,1,3,MIN,Memphis Grizzlies,L,87,100
+2018-11-21,MIN,Ottawa Senators,W,6,4,MIN,Denver Nuggets,L,101,103
+2018-11-23,MIN,Winnipeg Jets,W,4,2,MIN,Brooklyn Nets,W,112,102
+2018-12-01,MIN,Toronto Maple Leafs,L,3,5,MIN,Boston Celtics,L,109,118
+2018-12-15,MIN,Calgary Flames,L,1,2,MIN,Phoenix Suns,L,99,107
+2018-12-31,MIN,Pittsburgh Penguins,L,2,3,MIN,New Orleans Pelicans,L,114,123
+2019-01-08,MIN,Boston Bruins,L,0,4,MIN,Oklahoma City Thunder,W,119,117
+2019-01-12,MIN,Detroit Red Wings,L,2,5,MIN,New Orleans Pelicans,W,110,106
+2019-01-15,MIN,Los Angeles Kings,W,3,2,MIN,Philadelphia 76ers,L,107,149
+2019-02-02,MIN,Chicago Blackhawks,L,3,4,MIN,Denver Nuggets,L,106,107
+2019-02-05,MIN,Buffalo Sabres,L,4,5,MIN,Memphis Grizzlies,L,106,108
+2019-02-07,MIN,Edmonton Oilers,L,1,4,MIN,Orlando Magic,L,112,122
+2019-02-22,MIN,Detroit Red Wings,W,3,2,MIN,New York Knicks,W,115,104
+2019-03-03,MIN,Nashville Predators,L,2,3,MIN,Washington Wizards,L,121,135
+2019-03-05,MIN,Nashville Predators,L,4,5,MIN,Oklahoma City Thunder,W,131,120
+2019-03-14,MIN,Dallas Stars,L,1,4,MIN,Utah Jazz,L,100,120
+2019-03-17,MIN,New York Islanders,L,2,3,MIN,Houston Rockets,L,102,117
+2019-03-19,MIN,Colorado Avalanche,L,1,3,MIN,Golden State Warriors,L,107,117
+2019-03-23,MIN,Carolina Hurricanes,L,1,5,MIN,Memphis Grizzlies,W,112,99
+2019-03-29,MIN,Vegas Golden Knights,W,3,2,MIN,Golden State Warriors,W,131,130
+2019-10-30,MIN,St. Louis Blues,L,1,2,MIN,Philadelphia 76ers,L,95,117
+2019-11-02,MIN,St. Louis Blues,L,3,4,MIN,Washington Wizards,W,131,109
+2019-11-16,MIN,Carolina Hurricanes,L,3,4,MIN,Houston Rockets,L,105,125
+2019-11-23,MIN,Boston Bruins,L,4,5,MIN,Phoenix Suns,L,98,100
+2019-11-25,MIN,New York Rangers,L,2,3,MIN,Atlanta Hawks,W,125,113
+2019-12-01,MIN,Dallas Stars,W,3,2,MIN,Memphis Grizzlies,L,107,115
+2019-12-21,MIN,Winnipeg Jets,L,0,6,MIN,Portland Trail Blazers,L,106,113
+2019-12-23,MIN,Calgary Flames,W,3,0,MIN,Golden State Warriors,L,104,113
+2020-01-05,MIN,Calgary Flames,L,4,5,MIN,Cleveland Cavaliers,W,118,103
+2020-01-09,MIN,Calgary Flames,L,1,2,MIN,Portland Trail Blazers,W,116,102
+2020-01-18,MIN,Dallas Stars,W,7,0,MIN,Toronto Raptors,L,112,122
+2020-01-20,MIN,Florida Panthers,L,4,5,MIN,Denver Nuggets,L,100,107
+2020-01-22,MIN,Detroit Red Wings,W,4,2,MIN,Chicago Bulls,L,110,117
+2020-02-01,MIN,Boston Bruins,L,1,6,MIN,Los Angeles Clippers,L,106,118
+2020-02-21,MIN,Edmonton Oilers,W,5,3,MIN,Boston Celtics,L,117,127
+2020-02-23,MIN,St. Louis Blues,L,1,4,MIN,Denver Nuggets,L,116,128
+2020-02-28,MIN,Columbus Blue Jackets,W,5,0,MIN,Orlando Magic,L,125,136
+2020-03-01,MIN,Washington Capitals,L,3,4,MIN,Dallas Mavericks,L,91,111
+2020-03-03,MIN,Nashville Predators,W,3,1,MIN,New Orleans Pelicans,W,139,134
+2020-03-08,MIN,Anaheim Ducks,W,5,4,MIN,New Orleans Pelicans,L,107,120
+2021-01-18,MIN,Anaheim Ducks,L,0,1,MIN,Atlanta Hawks,L,97,108
+2021-01-20,MIN,Anaheim Ducks,W,3,2,MIN,Orlando Magic,L,96,97
+2021-01-22,MIN,San Jose Sharks,W,4,1,MIN,Atlanta Hawks,L,98,116
+2021-01-31,MIN,Colorado Avalanche,W,4,3,MIN,Cleveland Cavaliers,W,109,104
+2021-02-16,MIN,Los Angeles Kings,L,0,4,MIN,Los Angeles Lakers,L,104,112
+2021-02-24,MIN,Colorado Avalanche,W,6,2,MIN,Chicago Bulls,L,126,133
+2021-02-27,MIN,Los Angeles Kings,W,4,3,MIN,Washington Wizards,L,112,128
+2021-03-03,MIN,Vegas Golden Knights,L,1,5,MIN,Charlotte Hornets,L,102,135
+2021-03-14,MIN,Arizona Coyotes,W,4,1,MIN,Portland Trail Blazers,W,114,112
+2021-03-16,MIN,Arizona Coyotes,W,3,0,MIN,Los Angeles Lakers,L,121,137
+2021-03-18,MIN,Colorado Avalanche,L,1,5,MIN,Phoenix Suns,W,123,119
+2021-03-22,MIN,Anaheim Ducks,W,2,1,MIN,Oklahoma City Thunder,L,103,112
+2021-03-24,MIN,Anaheim Ducks,W,3,2,MIN,Dallas Mavericks,L,108,128
+2021-03-29,MIN,San Jose Sharks,L,3,4,MIN,Brooklyn Nets,L,107,112
+2021-03-31,MIN,San Jose Sharks,L,2,4,MIN,New York Knicks,W,102,101
+2021-04-03,MIN,Vegas Golden Knights,W,2,1,MIN,Philadelphia 76ers,L,113,122
+2021-04-05,MIN,Colorado Avalanche,L,4,5,MIN,Sacramento Kings,W,116,106
+2021-04-07,MIN,Colorado Avalanche,W,8,3,MIN,Indiana Pacers,L,137,141
+2021-04-09,MIN,St. Louis Blues,L,1,9,MIN,Boston Celtics,L,136,145
+2021-04-14,MIN,Arizona Coyotes,W,5,2,MIN,Milwaukee Bucks,L,105,130
+2021-04-16,MIN,San Jose Sharks,W,3,2,MIN,Miami Heat,W,119,111
+2021-04-21,MIN,Arizona Coyotes,W,4,1,MIN,Sacramento Kings,L,125,128
+2021-04-24,MIN,San Jose Sharks,W,6,3,MIN,Utah Jazz,W,101,96
+2021-04-29,MIN,St. Louis Blues,L,4,5,MIN,Golden State Warriors,W,126,114
+2021-05-01,MIN,St. Louis Blues,W,4,3,MIN,New Orleans Pelicans,L,136,140
+2021-05-05,MIN,Vegas Golden Knights,L,2,3,MIN,Memphis Grizzlies,L,135,139
+2021-05-07,MIN,Anaheim Ducks,W,4,3,MIN,Miami Heat,L,112,121
+2021-05-13,MIN,St. Louis Blues,L,3,7,MIN,Denver Nuggets,L,103,114
+2021-10-23,MIN,Anaheim Ducks,W,4,3,MIN,New Orleans Pelicans,W,96,89
+2021-10-30,MIN,Colorado Avalanche,L,1,4,MIN,Denver Nuggets,L,91,93
+2021-11-10,MIN,Arizona Coyotes,W,5,2,MIN,Golden State Warriors,L,110,123
+2021-11-13,MIN,Seattle Kraken,W,4,2,MIN,Los Angeles Clippers,L,102,129
+2021-11-18,MIN,Dallas Stars,W,7,2,MIN,San Antonio Spurs,W,115,90
+2021-11-20,MIN,Florida Panthers,L,4,5,MIN,Memphis Grizzlies,W,138,95
+2021-11-24,MIN,New Jersey Devils,W,3,2,MIN,Miami Heat,W,113,101
+2021-11-26,MIN,Winnipeg Jets,W,7,1,MIN,Charlotte Hornets,L,115,133
+2021-12-12,MIN,Vegas Golden Knights,L,4,6,MIN,Portland Trail Blazers,W,116,111
+2022-01-28,MIN,New York Rangers,W,3,2,MIN,Phoenix Suns,L,124,134
+2022-01-30,MIN,New York Islanders,W,4,3,MIN,Utah Jazz,W,126,106
+2022-02-08,MIN,Winnipeg Jets,L,0,2,MIN,Sacramento Kings,W,134,114
+2022-02-16,MIN,Winnipeg Jets,L,3,6,MIN,Toronto Raptors,L,91,103
+2022-02-24,MIN,Toronto Maple Leafs,L,1,3,MIN,Memphis Grizzlies,W,119,114
+2022-03-01,MIN,Calgary Flames,L,1,5,MIN,Golden State Warriors,W,129,114
+2022-03-04,MIN,Buffalo Sabres,L,4,5,MIN,Oklahoma City Thunder,W,138,101
+2022-03-11,MIN,Columbus Blue Jackets,L,2,3,MIN,Orlando Magic,L,110,118
+2022-03-16,MIN,Boston Bruins,W,4,2,MIN,Los Angeles Lakers,W,124,104
+2022-03-19,MIN,Chicago Blackhawks,W,3,1,MIN,Milwaukee Bucks,W,138,119
+2022-03-21,MIN,Vegas Golden Knights,W,3,0,MIN,Dallas Mavericks,L,108,110
+2022-03-27,MIN,Colorado Avalanche,W,3,2,MIN,Boston Celtics,L,112,134
+2022-04-03,MIN,Washington Capitals,W,5,1,MIN,Houston Rockets,W,139,132
+2022-04-05,MIN,Nashville Predators,L,2,6,MIN,Washington Wizards,L,114,132
+2022-04-10,MIN,Los Angeles Kings,W,6,3,MIN,Chicago Bulls,L,120,124
+2022-04-12,MIN,Edmonton Oilers,W,5,1,MIN,Los Angeles Clippers,W,109,104
+2022-10-30,MIN,Chicago Blackhawks,W,4,3,MIN,San Antonio Spurs,L,98,107
+2022-11-01,MIN,Montreal Canadiens,W,4,1,MIN,Phoenix Suns,L,107,116
+2022-11-09,MIN,Anaheim Ducks,W,4,1,MIN,Phoenix Suns,L,117,129
+2022-11-11,MIN,Seattle Kraken,W,1,0,MIN,Memphis Grizzlies,L,103,114
+2022-11-13,MIN,San Jose Sharks,L,2,3,MIN,Cleveland Cavaliers,W,129,124
+2022-11-19,MIN,Carolina Hurricanes,W,2,1,MIN,Philadelphia 76ers,W,112,109
+2022-11-23,MIN,Winnipeg Jets,W,6,1,MIN,Indiana Pacers,W,115,101
+2022-11-25,MIN,Toronto Maple Leafs,L,3,4,MIN,Charlotte Hornets,L,108,110
+2022-11-27,MIN,Arizona Coyotes,W,4,3,MIN,Golden State Warriors,L,114,137
+2022-12-03,MIN,Anaheim Ducks,W,5,4,MIN,Oklahoma City Thunder,L,128,135
+2022-12-07,MIN,Calgary Flames,L,3,5,MIN,Indiana Pacers,W,121,115
+2022-12-09,MIN,Edmonton Oilers,L,2,5,MIN,Utah Jazz,W,118,108
+2022-12-10,MIN,Vancouver Canucks,W,3,0,MIN,Portland Trail Blazers,L,118,124
+2022-12-12,MIN,Edmonton Oilers,W,2,1,MIN,Portland Trail Blazers,L,112,133
+2022-12-14,MIN,Detroit Red Wings,W,4,1,MIN,Los Angeles Clippers,L,88,99
+2022-12-16,MIN,Chicago Blackhawks,W,4,1,MIN,Oklahoma City Thunder,W,112,110
+2022-12-18,MIN,Ottawa Senators,W,4,2,MIN,Chicago Bulls,W,150,126
+2022-12-21,MIN,Anaheim Ducks,W,4,1,MIN,Dallas Mavericks,L,99,104
+2022-12-31,MIN,St. Louis Blues,W,5,2,MIN,Detroit Pistons,L,104,116
+2023-01-04,MIN,Tampa Bay Lightning,W,5,1,MIN,Portland Trail Blazers,W,113,106
+2023-01-08,MIN,St. Louis Blues,L,0,3,MIN,Houston Rockets,W,104,96
+2023-01-14,MIN,Arizona Coyotes,W,2,1,MIN,Cleveland Cavaliers,W,110,102
+2023-01-19,MIN,Carolina Hurricanes,L,2,5,MIN,Toronto Raptors,W,128,126
+2023-01-21,MIN,Florida Panthers,L,3,5,MIN,Houston Rockets,W,113,104
+2023-01-28,MIN,Buffalo Sabres,W,3,2,MIN,Sacramento Kings,W,117,110
+2023-02-08,MIN,Dallas Stars,L,1,4,MIN,Utah Jazz,W,143,118
+2023-02-13,MIN,Florida Panthers,L,1,2,MIN,Dallas Mavericks,W,124,121
+2023-02-24,MIN,Toronto Maple Leafs,,,,MIN,Charlotte Hornets,,,
+2023-02-26,MIN,Columbus Blue Jackets,,,,MIN,Golden State Warriors,,,
+2023-02-28,MIN,New York Islanders,,,,MIN,Los Angeles Clippers,,,
+2023-03-04,MIN,Calgary Flames,,,,MIN,Sacramento Kings,,,
+2023-03-07,MIN,Calgary Flames,,,,MIN,Philadelphia 76ers,,,
+2023-03-15,MIN,St. Louis Blues,,,,MIN,Boston Celtics,,,
+2023-03-18,MIN,Boston Bruins,,,,MIN,Toronto Raptors,,,
+2023-03-27,MIN,Seattle Kraken,,,,MIN,Sacramento Kings,,,
+2023-03-29,MIN,Colorado Avalanche,,,,MIN,Phoenix Suns,,,
+2023-04-08,MIN,St. Louis Blues,,,,MIN,San Antonio Spurs,,,

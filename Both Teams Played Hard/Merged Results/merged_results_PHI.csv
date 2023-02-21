@@ -1,0 +1,341 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2012-01-07,PHI,Ottawa Senators,W,3,2,PHI,Toronto Raptors,W,97,62
+2012-01-10,PHI,Carolina Hurricanes,W,2,1,PHI,Sacramento Kings,W,112,85
+2012-01-14,PHI,Nashville Predators,L,2,4,PHI,Washington Wizards,W,103,90
+2012-01-21,PHI,New Jersey Devils,W,4,1,PHI,Miami Heat,L,92,113
+2012-02-04,PHI,New Jersey Devils,L,4,6,PHI,Atlanta Hawks,W,98,87
+2012-02-11,PHI,New York Rangers,L,2,5,PHI,Cleveland Cavaliers,W,99,84
+2012-02-21,PHI,Winnipeg Jets,W,5,4,PHI,Memphis Grizzlies,L,76,89
+2012-02-28,PHI,San Jose Sharks,L,0,1,PHI,Detroit Pistons,W,97,68
+2012-03-04,PHI,Washington Capitals,W,1,0,PHI,Chicago Bulls,L,91,96
+2012-03-11,PHI,New Jersey Devils,L,1,4,PHI,New York Knicks,W,106,94
+2012-03-17,PHI,Boston Bruins,L,2,3,PHI,Chicago Bulls,L,80,89
+2012-03-31,PHI,Ottawa Senators,L,3,4,PHI,Atlanta Hawks,W,95,90
+2012-04-03,PHI,New York Rangers,L,3,5,PHI,Miami Heat,L,93,99
+2012-04-07,PHI,Pittsburgh Penguins,L,2,4,PHI,Orlando Magic,L,82,88
+2013-01-22,PHI,New Jersey Devils,L,0,3,PHI,Milwaukee Bucks,L,102,110
+2013-01-26,PHI,Florida Panthers,W,7,1,PHI,New York Knicks,W,97,80
+2013-02-01,PHI,Washington Capitals,L,2,3,PHI,Sacramento Kings,W,89,80
+2013-02-09,PHI,Carolina Hurricanes,W,4,3,PHI,Charlotte Bobcats,W,87,76
+2013-02-11,PHI,Toronto Maple Leafs,L,2,5,PHI,Los Angeles Clippers,L,90,107
+2013-02-20,PHI,Pittsburgh Penguins,W,6,5,PHI,Minnesota Timberwolves,L,87,94
+2013-02-23,PHI,Winnipeg Jets,W,5,3,PHI,Miami Heat,L,90,114
+2013-03-02,PHI,Ottawa Senators,W,2,1,PHI,Golden State Warriors,W,104,97
+2013-03-05,PHI,New York Rangers,L,2,4,PHI,Boston Celtics,L,101,109
+2013-03-10,PHI,Buffalo Sabres,W,3,2,PHI,Orlando Magic,L,91,99
+2013-03-13,PHI,New Jersey Devils,L,2,5,PHI,Miami Heat,L,94,98
+2013-03-18,PHI,Tampa Bay Lightning,L,2,4,PHI,Portland Trail Blazers,W,101,100
+2013-03-24,PHI,Pittsburgh Penguins,L,1,2,PHI,Sacramento Kings,W,117,103
+2013-03-30,PHI,Boston Bruins,W,3,1,PHI,Charlotte Bobcats,W,100,92
+2013-04-03,PHI,Montreal Canadiens,W,5,3,PHI,Charlotte Bobcats,L,83,88
+2013-04-06,PHI,Winnipeg Jets,L,1,4,PHI,Miami Heat,L,87,106
+2013-04-09,PHI,New York Islanders,L,1,4,PHI,Brooklyn Nets,L,83,104
+2013-04-15,PHI,Montreal Canadiens,W,7,3,PHI,Detroit Pistons,L,101,109
+2013-11-01,PHI,Washington Capitals,L,0,7,PHI,Washington Wizards,W,109,102
+2013-11-02,PHI,New Jersey Devils,W,1,0,PHI,Chicago Bulls,W,107,104
+2013-11-09,PHI,Edmonton Oilers,W,4,2,PHI,Cleveland Cavaliers,L,125,127
+2013-11-13,PHI,Pittsburgh Penguins,W,2,1,PHI,Houston Rockets,W,123,117
+2013-11-15,PHI,Winnipeg Jets,L,2,3,PHI,Atlanta Hawks,L,103,113
+2013-11-23,PHI,New York Islanders,W,5,2,PHI,Indiana Pacers,L,98,106
+2013-11-27,PHI,Tampa Bay Lightning,L,2,4,PHI,Orlando Magic,L,94,105
+2013-11-29,PHI,Winnipeg Jets,W,2,1,PHI,New Orleans Pelicans,L,105,121
+2013-12-07,PHI,Dallas Stars,L,1,5,PHI,Denver Nuggets,L,92,103
+2013-12-09,PHI,Ottawa Senators,L,4,5,PHI,Los Angeles Clippers,L,83,94
+2013-12-11,PHI,Chicago Blackhawks,L,2,7,PHI,Minnesota Timberwolves,L,99,106
+2013-12-21,PHI,Columbus Blue Jackets,L,3,6,PHI,Milwaukee Bucks,L,106,116
+2013-12-28,PHI,Edmonton Oilers,W,4,3,PHI,Phoenix Suns,L,101,115
+2014-01-02,PHI,Colorado Avalanche,L,1,2,PHI,Sacramento Kings,W,113,104
+2014-01-04,PHI,Phoenix Coyotes,W,5,3,PHI,Portland Trail Blazers,W,101,99
+2014-01-07,PHI,New Jersey Devils,W,3,2,PHI,Cleveland Cavaliers,L,93,111
+2014-01-11,PHI,Tampa Bay Lightning,L,3,6,PHI,New York Knicks,L,92,102
+2014-01-18,PHI,New York Islanders,W,6,4,PHI,Chicago Bulls,L,78,103
+2014-01-20,PHI,New York Islanders,L,3,4,PHI,Washington Wizards,L,99,107
+2014-01-22,PHI,Carolina Hurricanes,L,2,3,PHI,New York Knicks,W,110,106
+2014-01-25,PHI,Boston Bruins,L,1,6,PHI,Oklahoma City Thunder,L,91,103
+2014-02-01,PHI,Los Angeles Kings,W,2,0,PHI,Detroit Pistons,L,96,113
+2014-02-03,PHI,San Jose Sharks,W,5,2,PHI,Brooklyn Nets,L,102,108
+2014-03-01,PHI,New York Rangers,W,4,2,PHI,Washington Wizards,L,103,122
+2014-03-02,PHI,Washington Capitals,W,5,4,PHI,Orlando Magic,L,81,92
+2014-03-08,PHI,Toronto Maple Leafs,L,3,4,PHI,Utah Jazz,L,92,104
+2014-03-15,PHI,Pittsburgh Penguins,W,4,0,PHI,Memphis Grizzlies,L,77,103
+2014-03-22,PHI,St. Louis Blues,W,4,1,PHI,Chicago Bulls,L,81,91
+2014-03-24,PHI,Los Angeles Kings,L,2,3,PHI,San Antonio Spurs,L,91,113
+2014-04-05,PHI,Boston Bruins,L,2,5,PHI,Brooklyn Nets,L,101,105
+2014-04-12,PHI,Pittsburgh Penguins,W,4,3,PHI,Charlotte Bobcats,L,105,111
+2014-11-01,PHI,Florida Panthers,L,1,2,PHI,Miami Heat,L,96,114
+2014-11-14,PHI,Columbus Blue Jackets,L,3,4,PHI,Houston Rockets,L,87,88
+2014-11-19,PHI,New York Rangers,L,0,2,PHI,Boston Celtics,L,90,101
+2014-11-22,PHI,Columbus Blue Jackets,W,4,2,PHI,New York Knicks,L,83,91
+2014-11-24,PHI,New York Islanders,L,0,1,PHI,Portland Trail Blazers,L,104,114
+2014-11-26,PHI,Detroit Red Wings,L,2,5,PHI,Brooklyn Nets,L,91,99
+2014-11-29,PHI,New York Rangers,L,2,5,PHI,Dallas Mavericks,L,103,110
+2014-12-03,PHI,Anaheim Ducks,L,4,5,PHI,Minnesota Timberwolves,W,85,77
+2014-12-06,PHI,Los Angeles Kings,W,2,1,PHI,Detroit Pistons,W,108,101
+2014-12-13,PHI,Carolina Hurricanes,W,5,1,PHI,Memphis Grizzlies,L,115,120
+2014-12-21,PHI,Winnipeg Jets,W,4,3,PHI,Orlando Magic,W,96,88
+2014-12-23,PHI,Minnesota Wild,W,5,2,PHI,Miami Heat,W,91,87
+2014-12-27,PHI,Nashville Predators,L,1,4,PHI,Utah Jazz,L,71,88
+2015-01-02,PHI,Carolina Hurricanes,L,1,2,PHI,Phoenix Suns,L,96,112
+2015-01-03,PHI,New Jersey Devils,L,2,5,PHI,Los Angeles Clippers,L,91,127
+2015-01-10,PHI,Boston Bruins,L,1,3,PHI,Indiana Pacers,W,93,92
+2015-01-14,PHI,Washington Capitals,L,0,1,PHI,Toronto Raptors,L,84,100
+2015-01-17,PHI,Buffalo Sabres,W,4,3,PHI,Detroit Pistons,L,89,107
+2015-01-19,PHI,New York Islanders,L,4,7,PHI,Washington Wizards,L,76,111
+2015-01-31,PHI,Toronto Maple Leafs,W,1,0,PHI,Atlanta Hawks,L,85,91
+2015-02-22,PHI,Washington Capitals,W,3,2,PHI,Orlando Magic,L,98,103
+2015-03-07,PHI,Boston Bruins,L,2,3,PHI,Atlanta Hawks,W,92,84
+2015-03-14,PHI,Detroit Red Wings,W,7,2,PHI,Brooklyn Nets,L,87,94
+2015-03-25,PHI,Chicago Blackhawks,W,4,1,PHI,Denver Nuggets,W,99,85
+2015-04-01,PHI,Pittsburgh Penguins,W,4,1,PHI,Washington Wizards,L,93,106
+2015-04-04,PHI,Carolina Hurricanes,L,2,3,PHI,Charlotte Hornets,L,91,92
+2015-04-05,PHI,Pittsburgh Penguins,W,4,1,PHI,New York Knicks,L,91,101
+2015-04-11,PHI,Ottawa Senators,L,1,3,PHI,Chicago Bulls,L,107,114
+2015-10-30,PHI,Buffalo Sabres,L,1,3,PHI,Utah Jazz,L,71,99
+2015-11-02,PHI,Vancouver Canucks,L,1,4,PHI,Cleveland Cavaliers,L,100,107
+2015-11-07,PHI,Winnipeg Jets,W,3,0,PHI,Orlando Magic,L,97,105
+2015-11-14,PHI,Carolina Hurricanes,W,3,2,PHI,San Antonio Spurs,L,83,92
+2015-11-21,PHI,Ottawa Senators,L,0,4,PHI,Miami Heat,L,91,96
+2015-11-23,PHI,Carolina Hurricanes,W,3,2,PHI,Minnesota Timberwolves,L,95,100
+2015-11-25,PHI,New York Islanders,L,1,3,PHI,Boston Celtics,L,80,84
+2015-11-27,PHI,Nashville Predators,W,3,2,PHI,Houston Rockets,L,114,116
+2015-12-01,PHI,Ottawa Senators,W,4,2,PHI,Los Angeles Lakers,W,103,91
+2015-12-05,PHI,Columbus Blue Jackets,L,1,4,PHI,Denver Nuggets,L,105,108
+2015-12-10,PHI,St. Louis Blues,W,4,2,PHI,Brooklyn Nets,L,91,100
+2015-12-11,PHI,Dallas Stars,L,1,3,PHI,Detroit Pistons,L,95,107
+2015-12-30,PHI,San Jose Sharks,L,2,4,PHI,Sacramento Kings,W,110,105
+2016-01-02,PHI,Los Angeles Kings,L,1,2,PHI,Los Angeles Clippers,L,99,130
+2016-01-07,PHI,Minnesota Wild,W,4,3,PHI,Atlanta Hawks,L,98,126
+2016-01-09,PHI,New York Islanders,W,4,0,PHI,Toronto Raptors,L,95,108
+2016-01-16,PHI,New York Rangers,L,2,3,PHI,Portland Trail Blazers,W,114,89
+2016-01-27,PHI,Washington Capitals,W,4,3,PHI,Detroit Pistons,L,97,110
+2016-02-06,PHI,New York Rangers,L,2,3,PHI,Brooklyn Nets,W,103,98
+2016-02-19,PHI,Montreal Canadiens,L,2,3,PHI,New Orleans Pelicans,L,114,121
+2016-02-23,PHI,Carolina Hurricanes,L,1,3,PHI,Orlando Magic,L,115,124
+2016-02-29,PHI,Calgary Flames,W,5,3,PHI,Washington Wizards,L,108,116
+2016-03-11,PHI,Tampa Bay Lightning,W,3,1,PHI,Brooklyn Nets,W,95,89
+2016-03-12,PHI,Florida Panthers,L,4,5,PHI,Detroit Pistons,L,111,125
+2016-03-15,PHI,Detroit Red Wings,W,4,3,PHI,Brooklyn Nets,L,114,131
+2016-03-21,PHI,New York Islanders,W,4,1,PHI,Indiana Pacers,L,75,91
+2016-03-26,PHI,Arizona Coyotes,L,1,2,PHI,Portland Trail Blazers,L,105,108
+2016-04-02,PHI,Ottawa Senators,W,3,2,PHI,Indiana Pacers,L,102,115
+2016-04-10,PHI,New York Islanders,W,5,2,PHI,Milwaukee Bucks,L,108,109
+2016-10-29,PHI,Pittsburgh Penguins,L,4,5,PHI,Atlanta Hawks,L,72,104
+2016-11-02,PHI,Detroit Red Wings,W,4,3,PHI,Charlotte Hornets,L,93,109
+2016-11-05,PHI,Montreal Canadiens,L,4,5,PHI,Cleveland Cavaliers,L,101,102
+2016-11-11,PHI,Toronto Maple Leafs,L,3,6,PHI,Indiana Pacers,W,109,105
+2016-11-12,PHI,Minnesota Wild,W,3,2,PHI,Atlanta Hawks,L,96,117
+2016-11-17,PHI,Winnipeg Jets,W,5,2,PHI,Minnesota Timberwolves,L,86,110
+2016-11-19,PHI,Tampa Bay Lightning,L,0,3,PHI,Phoenix Suns,W,120,105
+2016-11-23,PHI,Tampa Bay Lightning,L,2,4,PHI,Memphis Grizzlies,L,99,104
+2016-11-25,PHI,New York Rangers,L,2,3,PHI,Chicago Bulls,L,89,105
+2016-11-27,PHI,Calgary Flames,W,5,3,PHI,Cleveland Cavaliers,L,108,112
+2016-12-03,PHI,Chicago Blackhawks,W,3,1,PHI,Boston Celtics,L,106,107
+2016-12-06,PHI,Florida Panthers,W,3,2,PHI,Memphis Grizzlies,L,91,96
+2016-12-08,PHI,Edmonton Oilers,W,6,5,PHI,New Orleans Pelicans,W,99,88
+2016-12-11,PHI,Detroit Red Wings,W,1,0,PHI,Detroit Pistons,W,97,79
+2016-12-14,PHI,Colorado Avalanche,W,4,3,PHI,Toronto Raptors,L,114,123
+2016-12-30,PHI,San Jose Sharks,L,0,2,PHI,Denver Nuggets,W,124,122
+2017-01-08,PHI,Columbus Blue Jackets,L,1,2,PHI,Brooklyn Nets,W,105,95
+2017-01-14,PHI,Boston Bruins,L,3,6,PHI,Washington Wizards,L,93,109
+2017-01-21,PHI,New Jersey Devils,L,1,4,PHI,Atlanta Hawks,L,93,110
+2017-01-25,PHI,New York Rangers,W,2,0,PHI,Milwaukee Bucks,W,114,109
+2017-02-02,PHI,Montreal Canadiens,W,3,1,PHI,San Antonio Spurs,L,86,102
+2017-02-04,PHI,Los Angeles Kings,L,0,1,PHI,Miami Heat,L,102,125
+2017-02-06,PHI,St. Louis Blues,L,0,2,PHI,Detroit Pistons,L,96,113
+2017-02-09,PHI,New York Islanders,L,1,3,PHI,Orlando Magic,W,112,111
+2017-02-11,PHI,San Jose Sharks,W,2,1,PHI,Miami Heat,W,117,109
+2017-02-15,PHI,Calgary Flames,L,1,3,PHI,Boston Celtics,L,108,116
+2017-02-25,PHI,Pittsburgh Penguins,L,2,4,PHI,New York Knicks,L,109,110
+2017-03-04,PHI,Washington Capitals,L,1,2,PHI,Detroit Pistons,L,106,136
+2017-03-09,PHI,Toronto Maple Leafs,L,2,4,PHI,Portland Trail Blazers,L,108,114
+2017-03-11,PHI,Boston Bruins,L,1,2,PHI,Los Angeles Clippers,L,100,112
+2017-03-19,PHI,Carolina Hurricanes,W,4,3,PHI,Boston Celtics,W,105,99
+2017-03-26,PHI,Pittsburgh Penguins,W,6,2,PHI,Indiana Pacers,L,94,107
+2017-03-28,PHI,Ottawa Senators,W,3,2,PHI,Brooklyn Nets,W,106,101
+2017-04-02,PHI,New York Rangers,L,3,4,PHI,Toronto Raptors,L,105,113
+2017-04-04,PHI,New Jersey Devils,L,0,1,PHI,Brooklyn Nets,L,118,141
+2017-04-08,PHI,Columbus Blue Jackets,W,4,2,PHI,Milwaukee Bucks,L,82,90
+2017-10-21,PHI,Edmonton Oilers,W,2,1,PHI,Toronto Raptors,L,94,128
+2017-10-28,PHI,Toronto Maple Leafs,W,4,2,PHI,Dallas Mavericks,W,112,110
+2017-10-30,PHI,Arizona Coyotes,L,3,4,PHI,Houston Rockets,W,115,107
+2017-11-01,PHI,Chicago Blackhawks,L,0,3,PHI,Atlanta Hawks,W,119,109
+2017-11-09,PHI,Chicago Blackhawks,W,3,1,PHI,Sacramento Kings,L,108,109
+2017-11-11,PHI,Minnesota Wild,L,0,1,PHI,Golden State Warriors,L,114,135
+2017-11-18,PHI,Calgary Flames,L,4,5,PHI,Golden State Warriors,L,116,124
+2017-11-22,PHI,New York Islanders,L,3,4,PHI,Portland Trail Blazers,W,101,81
+2017-11-27,PHI,Pittsburgh Penguins,L,4,5,PHI,Cleveland Cavaliers,L,91,113
+2017-12-02,PHI,Boston Bruins,L,0,3,PHI,Detroit Pistons,W,108,103
+2017-12-04,PHI,Calgary Flames,W,5,2,PHI,Phoenix Suns,L,101,115
+2017-12-07,PHI,Vancouver Canucks,W,4,1,PHI,Los Angeles Lakers,L,104,107
+2017-12-12,PHI,Toronto Maple Leafs,W,4,2,PHI,Minnesota Timberwolves,W,118,112
+2017-12-18,PHI,Los Angeles Kings,L,1,4,PHI,Chicago Bulls,L,115,117
+2017-12-23,PHI,Columbus Blue Jackets,L,1,2,PHI,Toronto Raptors,L,86,102
+2017-12-28,PHI,Florida Panthers,L,2,3,PHI,Portland Trail Blazers,L,110,114
+2018-01-18,PHI,Toronto Maple Leafs,W,3,2,PHI,Boston Celtics,W,89,80
+2018-01-20,PHI,New Jersey Devils,W,3,1,PHI,Milwaukee Bucks,W,116,94
+2018-01-31,PHI,Washington Capitals,L,3,5,PHI,Brooklyn Nets,L,108,116
+2018-02-03,PHI,Ottawa Senators,L,3,4,PHI,Indiana Pacers,L,92,100
+2018-02-06,PHI,Carolina Hurricanes,W,2,1,PHI,Washington Wizards,W,115,102
+2018-02-10,PHI,Arizona Coyotes,W,4,3,PHI,Los Angeles Clippers,W,112,98
+2018-02-22,PHI,Columbus Blue Jackets,W,2,1,PHI,Chicago Bulls,W,116,115
+2018-02-24,PHI,Ottawa Senators,W,5,3,PHI,Orlando Magic,W,116,105
+2018-03-01,PHI,Carolina Hurricanes,L,1,4,PHI,Cleveland Cavaliers,W,108,97
+2018-03-04,PHI,Florida Panthers,L,1,4,PHI,Milwaukee Bucks,L,110,118
+2018-03-08,PHI,Boston Bruins,L,2,3,PHI,Miami Heat,L,99,108
+2018-03-15,PHI,Columbus Blue Jackets,L,3,5,PHI,New York Knicks,W,118,110
+2018-03-22,PHI,New York Rangers,W,4,3,PHI,Orlando Magic,W,118,98
+2018-03-28,PHI,Colorado Avalanche,W,2,1,PHI,New York Knicks,W,118,101
+2018-04-01,PHI,Boston Bruins,W,4,3,PHI,Charlotte Hornets,W,119,102
+2018-04-03,PHI,New York Islanders,L,4,5,PHI,Brooklyn Nets,W,121,95
+2018-10-16,PHI,Florida Panthers,W,6,5,PHI,Boston Celtics,L,87,105
+2018-10-18,PHI,Columbus Blue Jackets,L,3,6,PHI,Chicago Bulls,W,127,108
+2018-10-20,PHI,New Jersey Devils,W,5,2,PHI,Orlando Magic,W,116,115
+2018-10-27,PHI,New York Islanders,L,1,6,PHI,Charlotte Hornets,W,105,103
+2018-10-30,PHI,Anaheim Ducks,W,3,2,PHI,Toronto Raptors,L,112,129
+2018-11-01,PHI,Los Angeles Kings,W,5,2,PHI,Los Angeles Clippers,W,122,113
+2018-11-03,PHI,San Jose Sharks,L,3,4,PHI,Detroit Pistons,W,109,99
+2018-11-10,PHI,Chicago Blackhawks,W,4,0,PHI,Memphis Grizzlies,L,106,112
+2018-11-17,PHI,Tampa Bay Lightning,L,5,6,PHI,Charlotte Hornets,W,122,119
+2018-11-21,PHI,Buffalo Sabres,L,2,5,PHI,New Orleans Pelicans,W,121,120
+2018-11-23,PHI,New York Rangers,W,4,0,PHI,Cleveland Cavaliers,L,112,121
+2018-12-12,PHI,Calgary Flames,L,5,6,PHI,Brooklyn Nets,L,124,127
+2018-12-14,PHI,Edmonton Oilers,L,1,4,PHI,Indiana Pacers,L,101,113
+2018-12-22,PHI,Columbus Blue Jackets,L,3,4,PHI,Toronto Raptors,W,126,101
+2018-12-27,PHI,Tampa Bay Lightning,L,5,6,PHI,Utah Jazz,W,114,97
+2019-01-01,PHI,Nashville Predators,L,0,4,PHI,Los Angeles Clippers,W,119,113
+2019-01-05,PHI,Calgary Flames,L,2,3,PHI,Dallas Mavericks,W,106,100
+2019-01-08,PHI,Washington Capitals,L,3,5,PHI,Washington Wizards,W,132,115
+2019-01-19,PHI,Montreal Canadiens,W,5,2,PHI,Oklahoma City Thunder,L,115,117
+2019-01-29,PHI,New York Rangers,W,1,0,PHI,Los Angeles Lakers,W,121,105
+2019-01-31,PHI,Boston Bruins,W,3,2,PHI,Golden State Warriors,W,113,104
+2019-02-02,PHI,Edmonton Oilers,W,5,4,PHI,Sacramento Kings,L,108,115
+2019-02-12,PHI,Minnesota Wild,W,5,4,PHI,Boston Celtics,L,109,112
+2019-02-21,PHI,Montreal Canadiens,L,1,5,PHI,Miami Heat,W,106,102
+2019-02-23,PHI,Pittsburgh Penguins,W,4,3,PHI,Portland Trail Blazers,L,115,130
+2019-02-28,PHI,Columbus Blue Jackets,L,3,4,PHI,Oklahoma City Thunder,W,108,104
+2019-03-06,PHI,Washington Capitals,L,3,5,PHI,Chicago Bulls,L,107,108
+2019-03-15,PHI,Toronto Maple Leafs,L,6,7,PHI,Sacramento Kings,W,123,114
+2019-03-17,PHI,Pittsburgh Penguins,W,2,1,PHI,Milwaukee Bucks,W,130,125
+2019-03-19,PHI,Montreal Canadiens,L,1,3,PHI,Charlotte Hornets,W,118,114
+2019-03-23,PHI,New York Islanders,L,2,4,PHI,Atlanta Hawks,L,127,129
+2019-03-30,PHI,Carolina Hurricanes,L,2,5,PHI,Minnesota Timberwolves,W,118,109
+2019-04-04,PHI,St. Louis Blues,L,3,7,PHI,Milwaukee Bucks,L,122,128
+2019-04-06,PHI,Carolina Hurricanes,L,3,4,PHI,Chicago Bulls,W,116,96
+2019-10-26,PHI,Columbus Blue Jackets,W,7,4,PHI,Detroit Pistons,W,117,111
+2019-11-02,PHI,Toronto Maple Leafs,L,3,4,PHI,Portland Trail Blazers,W,129,128
+2019-11-10,PHI,Boston Bruins,W,3,2,PHI,Charlotte Hornets,W,114,106
+2019-11-13,PHI,Washington Capitals,L,1,2,PHI,Orlando Magic,L,97,112
+2019-11-15,PHI,Ottawa Senators,L,1,2,PHI,Oklahoma City Thunder,L,119,127
+2019-11-23,PHI,Calgary Flames,L,2,3,PHI,Miami Heat,W,113,86
+2019-11-25,PHI,Vancouver Canucks,W,2,1,PHI,Toronto Raptors,L,96,101
+2019-11-27,PHI,Columbus Blue Jackets,W,3,2,PHI,Sacramento Kings,W,97,91
+2019-11-29,PHI,Detroit Red Wings,W,6,1,PHI,New York Knicks,W,101,95
+2019-11-30,PHI,Montreal Canadiens,W,4,3,PHI,Indiana Pacers,W,119,116
+2019-12-05,PHI,Arizona Coyotes,L,1,3,PHI,Washington Wizards,L,113,119
+2019-12-07,PHI,Ottawa Senators,W,4,3,PHI,Cleveland Cavaliers,W,141,94
+2019-12-15,PHI,Winnipeg Jets,L,3,7,PHI,Brooklyn Nets,L,89,109
+2019-12-21,PHI,Ottawa Senators,W,5,4,PHI,Washington Wizards,W,125,108
+2019-12-23,PHI,New York Rangers,W,5,1,PHI,Detroit Pistons,W,125,109
+2019-12-28,PHI,San Jose Sharks,L,1,6,PHI,Miami Heat,L,116,117
+2019-12-31,PHI,Los Angeles Kings,L,3,5,PHI,Indiana Pacers,L,97,115
+2020-01-11,PHI,Tampa Bay Lightning,L,0,1,PHI,Dallas Mavericks,L,91,109
+2020-01-13,PHI,Boston Bruins,W,6,5,PHI,Indiana Pacers,L,95,101
+2020-01-15,PHI,St. Louis Blues,W,4,3,PHI,Brooklyn Nets,W,117,106
+2020-01-18,PHI,Los Angeles Kings,W,4,1,PHI,New York Knicks,W,90,87
+2020-02-01,PHI,Colorado Avalanche,W,6,3,PHI,Boston Celtics,L,95,116
+2020-02-03,PHI,Detroit Red Wings,W,3,0,PHI,Miami Heat,L,106,137
+2020-02-06,PHI,New Jersey Devils,L,0,5,PHI,Milwaukee Bucks,L,101,112
+2020-02-11,PHI,New York Islanders,L,3,5,PHI,Los Angeles Clippers,W,110,103
+2020-02-20,PHI,Columbus Blue Jackets,W,4,3,PHI,Brooklyn Nets,W,112,104
+2020-02-22,PHI,Winnipeg Jets,W,4,2,PHI,Milwaukee Bucks,L,98,119
+2020-03-01,PHI,New York Rangers,W,5,3,PHI,Los Angeles Clippers,L,130,136
+2020-03-05,PHI,Carolina Hurricanes,W,4,1,PHI,Sacramento Kings,W,125,108
+2020-03-07,PHI,Buffalo Sabres,W,3,1,PHI,Golden State Warriors,L,114,118
+2021-01-23,PHI,Boston Bruins,L,1,6,PHI,Detroit Pistons,W,114,110
+2021-01-31,PHI,New York Islanders,W,4,3,PHI,Indiana Pacers,W,119,110
+2021-02-03,PHI,Boston Bruins,L,3,4,PHI,Charlotte Hornets,W,118,111
+2021-02-21,PHI,Boston Bruins,L,3,7,PHI,Toronto Raptors,L,103,110
+2021-02-27,PHI,Buffalo Sabres,W,3,0,PHI,Cleveland Cavaliers,L,109,112
+2021-03-11,PHI,Washington Capitals,L,3,5,PHI,Chicago Bulls,W,127,105
+2021-03-17,PHI,New York Rangers,L,0,9,PHI,Milwaukee Bucks,L,105,109
+2021-03-20,PHI,New York Islanders,L,1,6,PHI,Sacramento Kings,W,129,105
+2021-03-23,PHI,New Jersey Devils,L,3,4,PHI,Golden State Warriors,W,108,98
+2021-03-25,PHI,New York Rangers,L,3,8,PHI,Los Angeles Lakers,W,109,101
+2021-03-27,PHI,New York Rangers,W,2,1,PHI,Los Angeles Clippers,L,112,122
+2021-04-03,PHI,New York Islanders,L,2,3,PHI,Minnesota Timberwolves,W,122,113
+2021-04-06,PHI,Boston Bruins,L,2,4,PHI,Boston Celtics,W,106,96
+2021-04-10,PHI,Boston Bruins,W,3,2,PHI,Oklahoma City Thunder,W,117,93
+2021-04-22,PHI,New York Rangers,W,3,2,PHI,Milwaukee Bucks,L,117,124
+2021-05-03,PHI,Pittsburgh Penguins,W,7,2,PHI,Chicago Bulls,W,106,94
+2021-05-07,PHI,Washington Capitals,W,4,2,PHI,New Orleans Pelicans,W,109,107
+2021-05-08,PHI,Washington Capitals,L,1,2,PHI,Detroit Pistons,W,118,104
+2021-10-20,PHI,Boston Bruins,W,6,3,PHI,New Orleans Pelicans,W,117,97
+2021-10-28,PHI,Vancouver Canucks,W,2,1,PHI,Detroit Pistons,W,110,102
+2021-10-30,PHI,Calgary Flames,L,0,4,PHI,Atlanta Hawks,W,122,94
+2021-11-04,PHI,Pittsburgh Penguins,L,2,3,PHI,Detroit Pistons,W,109,98
+2021-11-06,PHI,Washington Capitals,W,2,1,PHI,Chicago Bulls,W,114,105
+2021-11-13,PHI,Dallas Stars,L,2,5,PHI,Indiana Pacers,L,113,118
+2021-11-16,PHI,Calgary Flames,W,2,1,PHI,Utah Jazz,L,85,120
+2021-11-18,PHI,Tampa Bay Lightning,L,3,4,PHI,Denver Nuggets,W,103,89
+2021-11-20,PHI,Boston Bruins,L,2,5,PHI,Portland Trail Blazers,L,111,118
+2021-11-24,PHI,Florida Panthers,L,1,2,PHI,Golden State Warriors,L,96,116
+2021-12-01,PHI,New York Rangers,L,1,4,PHI,Boston Celtics,L,87,88
+2021-12-06,PHI,Colorado Avalanche,L,5,7,PHI,Charlotte Hornets,W,127,124
+2021-12-08,PHI,New Jersey Devils,L,0,3,PHI,Charlotte Hornets,W,110,106
+2021-12-11,PHI,Arizona Coyotes,W,5,3,PHI,Golden State Warriors,W,102,93
+2021-12-16,PHI,Montreal Canadiens,L,2,3,PHI,Brooklyn Nets,L,105,114
+2021-12-30,PHI,San Jose Sharks,L,2,3,PHI,Brooklyn Nets,W,110,102
+2022-01-15,PHI,New York Rangers,L,2,3,PHI,Miami Heat,W,109,98
+2022-01-17,PHI,New York Islanders,L,1,4,PHI,Washington Wizards,L,98,117
+2022-01-25,PHI,New York Islanders,L,3,4,PHI,New Orleans Pelicans,W,117,107
+2022-01-29,PHI,Los Angeles Kings,W,4,3,PHI,Sacramento Kings,W,103,101
+2022-02-12,PHI,Detroit Red Wings,L,2,4,PHI,Cleveland Cavaliers,W,103,93
+2022-02-15,PHI,Pittsburgh Penguins,L,4,5,PHI,Boston Celtics,L,87,135
+2022-02-17,PHI,Washington Capitals,L,3,5,PHI,Milwaukee Bucks,W,123,120
+2022-03-05,PHI,Chicago Blackhawks,W,4,3,PHI,Miami Heat,L,82,99
+2022-03-10,PHI,Florida Panthers,L,3,6,PHI,Brooklyn Nets,L,100,129
+2022-03-13,PHI,Montreal Canadiens,L,3,4,PHI,Orlando Magic,W,116,114
+2022-03-18,PHI,Ottawa Senators,L,1,3,PHI,Dallas Mavericks,W,111,101
+2022-03-20,PHI,New York Islanders,W,2,1,PHI,Toronto Raptors,L,88,93
+2022-03-25,PHI,Colorado Avalanche,L,3,6,PHI,Los Angeles Clippers,W,122,97
+2022-03-27,PHI,Nashville Predators,L,4,5,PHI,Phoenix Suns,L,104,114
+2022-03-29,PHI,Minnesota Wild,L,1,4,PHI,Milwaukee Bucks,L,116,118
+2022-04-02,PHI,Toronto Maple Leafs,L,3,6,PHI,Charlotte Hornets,W,144,114
+2022-04-03,PHI,New York Rangers,W,4,3,PHI,Cleveland Cavaliers,W,112,108
+2022-04-05,PHI,Columbus Blue Jackets,L,2,4,PHI,Indiana Pacers,W,131,122
+2022-04-07,PHI,Columbus Blue Jackets,W,4,1,PHI,Toronto Raptors,L,114,119
+2022-04-09,PHI,Anaheim Ducks,L,3,5,PHI,Indiana Pacers,W,133,120
+2022-10-18,PHI,Tampa Bay Lightning,W,3,2,PHI,Boston Celtics,L,117,126
+2022-10-22,PHI,Nashville Predators,W,3,1,PHI,San Antonio Spurs,L,105,114
+2022-10-29,PHI,Carolina Hurricanes,L,3,4,PHI,Chicago Bulls,W,114,109
+2022-11-02,PHI,Toronto Maple Leafs,L,2,5,PHI,Washington Wizards,L,111,121
+2022-11-10,PHI,Columbus Blue Jackets,L,2,5,PHI,Atlanta Hawks,L,95,104
+2022-11-12,PHI,Ottawa Senators,L,1,4,PHI,Atlanta Hawks,W,121,109
+2022-11-13,PHI,Dallas Stars,L,1,5,PHI,Utah Jazz,W,105,98
+2022-11-19,PHI,Montreal Canadiens,L,4,5,PHI,Minnesota Timberwolves,L,109,112
+2022-11-23,PHI,Washington Capitals,L,2,3,PHI,Charlotte Hornets,L,101,107
+2022-11-25,PHI,Pittsburgh Penguins,L,1,4,PHI,Orlando Magic,W,107,99
+2022-12-05,PHI,Colorado Avalanche,W,5,3,PHI,Houston Rockets,L,123,132
+2022-12-09,PHI,Vegas Golden Knights,L,1,2,PHI,Los Angeles Lakers,W,133,122
+2022-12-11,PHI,Arizona Coyotes,L,4,5,PHI,Charlotte Hornets,W,131,113
+2022-12-13,PHI,Colorado Avalanche,L,2,3,PHI,Sacramento Kings,W,123,103
+2022-12-23,PHI,Carolina Hurricanes,L,5,6,PHI,Los Angeles Clippers,W,119,114
+2022-12-31,PHI,Los Angeles Kings,W,4,2,PHI,Oklahoma City Thunder,W,115,96
+2023-01-02,PHI,Anaheim Ducks,W,4,1,PHI,New Orleans Pelicans,W,120,111
+2023-01-08,PHI,Toronto Maple Leafs,L,2,6,PHI,Detroit Pistons,W,123,111
+2023-01-14,PHI,Washington Capitals,W,3,1,PHI,Utah Jazz,W,118,117
+2023-01-17,PHI,Anaheim Ducks,W,5,2,PHI,Los Angeles Clippers,W,120,110
+2023-01-19,PHI,Chicago Blackhawks,L,1,4,PHI,Portland Trail Blazers,W,105,95
+2023-01-21,PHI,Detroit Red Wings,W,2,1,PHI,Sacramento Kings,W,129,127
+2023-01-28,PHI,Winnipeg Jets,W,4,0,PHI,Denver Nuggets,W,126,119
+2023-02-11,PHI,Nashville Predators,L,1,2,PHI,Brooklyn Nets,W,101,98
+2023-02-25,PHI,New Jersey Devils,,,,PHI,Boston Celtics,,,
+2023-03-01,PHI,New York Rangers,,,,PHI,Miami Heat,,,
+2023-03-07,PHI,Tampa Bay Lightning,,,,PHI,Minnesota Timberwolves,,,
+2023-03-17,PHI,Buffalo Sabres,,,,PHI,Charlotte Hornets,,,
+2023-03-18,PHI,Carolina Hurricanes,,,,PHI,Indiana Pacers,,,
+2023-03-25,PHI,Detroit Red Wings,,,,PHI,Phoenix Suns,,,
+2023-04-02,PHI,Pittsburgh Penguins,,,,PHI,Milwaukee Bucks,,,
+2023-04-04,PHI,St. Louis Blues,,,,PHI,Boston Celtics,,,
+2023-04-06,PHI,Dallas Stars,,,,PHI,Miami Heat,,,
+2023-04-09,PHI,Boston Bruins,,,,PHI,Brooklyn Nets,,,

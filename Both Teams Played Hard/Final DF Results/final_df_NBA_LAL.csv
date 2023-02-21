@@ -1,0 +1,949 @@
+NBA Team,Date,Start,Opponent,Result,Team Score,Opponent Score
+LAL,2011-12-25,5:00p,Chicago Bulls,L,87,88
+LAL,2011-12-26,10:00p,Sacramento Kings,L,91,100
+LAL,2011-12-27,10:30p,Utah Jazz,W,96,71
+LAL,2011-12-29,10:30p,New York Knicks,W,99,82
+LAL,2011-12-31,3:30p,Denver Nuggets,W,92,89
+LAL,2012-01-01,8:00p,Denver Nuggets,L,90,99
+LAL,2012-01-03,10:30p,Houston Rockets,W,108,99
+LAL,2012-01-05,10:30p,Portland Trail Blazers,L,96,107
+LAL,2012-01-06,10:30p,Golden State Warriors,W,97,90
+LAL,2012-01-08,9:30p,Memphis Grizzlies,W,90,82
+LAL,2012-01-10,10:30p,Phoenix Suns,W,99,83
+LAL,2012-01-11,9:00p,Utah Jazz,W,90,87
+LAL,2012-01-13,10:30p,Cleveland Cavaliers,W,97,92
+LAL,2012-01-14,10:30p,Los Angeles Clippers,L,94,102
+LAL,2012-01-16,10:30p,Dallas Mavericks,W,73,70
+LAL,2012-01-19,8:00p,Miami Heat,L,87,98
+LAL,2012-01-20,8:00p,Orlando Magic,L,80,92
+LAL,2012-01-22,9:30p,Indiana Pacers,L,96,98
+LAL,2012-01-25,10:30p,Los Angeles Clippers,W,96,91
+LAL,2012-01-28,8:30p,Milwaukee Bucks,L,89,100
+LAL,2012-01-29,7:00p,Minnesota Timberwolves,W,106,101
+LAL,2012-01-31,10:30p,Charlotte Bobcats,W,106,73
+LAL,2012-02-03,10:30p,Denver Nuggets,W,93,89
+LAL,2012-02-04,9:00p,Utah Jazz,L,87,96
+LAL,2012-02-06,7:00p,Philadelphia 76ers,L,90,95
+LAL,2012-02-09,8:00p,Boston Celtics,W,88,87
+LAL,2012-02-10,8:00p,New York Knicks,L,85,92
+LAL,2012-02-12,1:00p,Toronto Raptors,W,94,92
+LAL,2012-02-14,10:30p,Atlanta Hawks,W,86,78
+LAL,2012-02-17,10:30p,Phoenix Suns,W,111,99
+LAL,2012-02-19,8:00p,Phoenix Suns,L,90,102
+LAL,2012-02-20,10:30p,Portland Trail Blazers,W,103,92
+LAL,2012-02-22,9:30p,Dallas Mavericks,W,96,91
+LAL,2012-02-23,9:30p,Oklahoma City Thunder,L,85,100
+LAL,2012-02-29,10:30p,Minnesota Timberwolves,W,104,85
+LAL,2012-03-02,10:30p,Sacramento Kings,W,115,107
+LAL,2012-03-04,3:30p,Miami Heat,W,93,83
+LAL,2012-03-06,7:30p,Detroit Pistons,L,85,88
+LAL,2012-03-07,7:00p,Washington Wizards,L,101,106
+LAL,2012-03-09,8:00p,Minnesota Timberwolves,W,105,102
+LAL,2012-03-11,3:30p,Boston Celtics,W,97,94
+LAL,2012-03-13,8:00p,Memphis Grizzlies,W,116,111
+LAL,2012-03-14,8:00p,New Orleans Hornets,W,107,101
+LAL,2012-03-16,10:30p,Minnesota Timberwolves,W,97,92
+LAL,2012-03-18,9:30p,Utah Jazz,L,99,103
+LAL,2012-03-20,8:00p,Houston Rockets,L,104,107
+LAL,2012-03-21,9:30p,Dallas Mavericks,W,109,93
+LAL,2012-03-23,10:30p,Portland Trail Blazers,W,103,96
+LAL,2012-03-25,10:30p,Memphis Grizzlies,L,96,102
+LAL,2012-03-27,10:30p,Golden State Warriors,W,104,101
+LAL,2012-03-29,10:30p,Oklahoma City Thunder,L,93,102
+LAL,2012-03-31,3:30p,New Orleans Hornets,W,88,85
+LAL,2012-04-01,9:30p,Golden State Warriors,W,120,112
+LAL,2012-04-03,10:30p,New Jersey Nets,W,91,87
+LAL,2012-04-04,10:30p,Los Angeles Clippers,W,113,108
+LAL,2012-04-06,10:30p,Houston Rockets,L,107,112
+LAL,2012-04-07,10:00p,Phoenix Suns,L,105,125
+LAL,2012-04-09,8:00p,New Orleans Hornets,W,93,91
+LAL,2012-04-11,8:30p,San Antonio Spurs,W,98,84
+LAL,2012-04-13,10:30p,Denver Nuggets,W,103,97
+LAL,2012-04-15,3:30p,Dallas Mavericks,W,112,108
+LAL,2012-04-17,10:30p,San Antonio Spurs,L,91,112
+LAL,2012-04-18,10:30p,Golden State Warriors,W,99,87
+LAL,2012-04-20,9:30p,San Antonio Spurs,L,97,121
+LAL,2012-04-22,3:30p,Oklahoma City Thunder,W,114,106
+LAL,2012-04-26,10:30p,Sacramento Kings,L,96,113
+LAL,2012-10-30,10:30p,Dallas Mavericks,L,91,99
+LAL,2012-10-31,10:30p,Portland Trail Blazers,L,106,116
+LAL,2012-11-02,10:30p,Los Angeles Clippers,L,95,105
+LAL,2012-11-04,9:30p,Detroit Pistons,W,108,79
+LAL,2012-11-07,9:00p,Utah Jazz,L,86,95
+LAL,2012-11-09,10:30p,Golden State Warriors,W,101,77
+LAL,2012-11-11,9:30p,Sacramento Kings,W,103,90
+LAL,2012-11-13,10:30p,San Antonio Spurs,L,82,84
+LAL,2012-11-16,10:30p,Phoenix Suns,W,114,102
+LAL,2012-11-18,9:30p,Houston Rockets,W,119,108
+LAL,2012-11-20,10:30p,Brooklyn Nets,W,95,90
+LAL,2012-11-21,10:00p,Sacramento Kings,L,97,113
+LAL,2012-11-23,8:00p,Memphis Grizzlies,L,98,106
+LAL,2012-11-24,8:30p,Dallas Mavericks,W,115,89
+LAL,2012-11-27,10:30p,Indiana Pacers,L,77,79
+LAL,2012-11-30,10:30p,Denver Nuggets,W,122,103
+LAL,2012-12-02,9:30p,Orlando Magic,L,103,113
+LAL,2012-12-04,8:00p,Houston Rockets,L,105,107
+LAL,2012-12-05,8:00p,New Orleans Hornets,W,103,87
+LAL,2012-12-07,9:30p,Oklahoma City Thunder,L,108,114
+LAL,2012-12-09,9:30p,Utah Jazz,L,110,117
+LAL,2012-12-11,7:00p,Cleveland Cavaliers,L,94,100
+LAL,2012-12-13,8:00p,New York Knicks,L,107,116
+LAL,2012-12-14,7:00p,Washington Wizards,W,102,96
+LAL,2012-12-16,6:00p,Philadelphia 76ers,W,111,98
+LAL,2012-12-18,10:30p,Charlotte Bobcats,W,101,100
+LAL,2012-12-22,10:30p,Golden State Warriors,W,118,115
+LAL,2012-12-25,3:00p,New York Knicks,W,100,94
+LAL,2012-12-26,9:00p,Denver Nuggets,L,114,126
+LAL,2012-12-28,10:30p,Portland Trail Blazers,W,104,87
+LAL,2013-01-01,10:30p,Philadelphia 76ers,L,99,103
+LAL,2013-01-04,10:30p,Los Angeles Clippers,L,102,107
+LAL,2013-01-06,9:30p,Denver Nuggets,L,105,112
+LAL,2013-01-08,8:00p,Houston Rockets,L,112,125
+LAL,2013-01-09,8:00p,San Antonio Spurs,L,105,108
+LAL,2013-01-11,10:30p,Oklahoma City Thunder,L,101,116
+LAL,2013-01-13,9:30p,Cleveland Cavaliers,W,113,93
+LAL,2013-01-15,10:30p,Milwaukee Bucks,W,104,88
+LAL,2013-01-17,10:30p,Miami Heat,L,90,99
+LAL,2013-01-20,1:00p,Toronto Raptors,L,103,108
+LAL,2013-01-21,9:30p,Chicago Bulls,L,83,95
+LAL,2013-01-23,8:00p,Memphis Grizzlies,L,93,106
+LAL,2013-01-25,10:30p,Utah Jazz,W,102,84
+LAL,2013-01-27,3:30p,Oklahoma City Thunder,W,105,96
+LAL,2013-01-29,10:30p,New Orleans Hornets,W,111,106
+LAL,2013-01-30,10:30p,Phoenix Suns,L,86,92
+LAL,2013-02-01,9:30p,Minnesota Timberwolves,W,111,100
+LAL,2013-02-03,1:00p,Detroit Pistons,W,98,97
+LAL,2013-02-05,7:30p,Brooklyn Nets,W,92,83
+LAL,2013-02-07,8:00p,Boston Celtics,L,95,116
+LAL,2013-02-08,7:00p,Charlotte Bobcats,W,100,93
+LAL,2013-02-10,3:30p,Miami Heat,L,97,107
+LAL,2013-02-12,10:30p,Phoenix Suns,W,91,85
+LAL,2013-02-14,10:30p,Los Angeles Clippers,L,101,125
+LAL,2013-02-20,10:30p,Boston Celtics,W,113,99
+LAL,2013-02-22,10:30p,Portland Trail Blazers,W,111,107
+LAL,2013-02-24,1:00p,Dallas Mavericks,W,103,99
+LAL,2013-02-25,9:00p,Denver Nuggets,L,108,119
+LAL,2013-02-28,10:30p,Minnesota Timberwolves,W,116,94
+LAL,2013-03-03,9:30p,Atlanta Hawks,W,99,98
+LAL,2013-03-05,9:30p,Oklahoma City Thunder,L,105,122
+LAL,2013-03-06,8:00p,New Orleans Hornets,W,108,102
+LAL,2013-03-08,10:30p,Toronto Raptors,W,118,116
+LAL,2013-03-10,3:30p,Chicago Bulls,W,90,81
+LAL,2013-03-12,7:00p,Orlando Magic,W,106,97
+LAL,2013-03-13,7:30p,Atlanta Hawks,L,92,96
+LAL,2013-03-15,7:00p,Indiana Pacers,W,99,93
+LAL,2013-03-17,9:30p,Sacramento Kings,W,113,102
+LAL,2013-03-18,10:00p,Phoenix Suns,L,76,99
+LAL,2013-03-22,10:30p,Washington Wizards,L,100,103
+LAL,2013-03-25,10:30p,Golden State Warriors,L,103,109
+LAL,2013-03-27,8:00p,Minnesota Timberwolves,W,120,117
+LAL,2013-03-28,8:00p,Milwaukee Bucks,L,103,113
+LAL,2013-03-30,10:00p,Sacramento Kings,W,103,98
+LAL,2013-04-02,10:30p,Dallas Mavericks,W,101,81
+LAL,2013-04-05,10:30p,Memphis Grizzlies,W,86,84
+LAL,2013-04-07,3:30p,Los Angeles Clippers,L,95,109
+LAL,2013-04-09,10:30p,New Orleans Hornets,W,104,96
+LAL,2013-04-10,10:00p,Portland Trail Blazers,W,113,106
+LAL,2013-04-12,10:30p,Golden State Warriors,W,118,116
+LAL,2013-04-14,9:30p,San Antonio Spurs,W,91,86
+LAL,2013-04-17,10:30p,Houston Rockets,W,99,95
+LAL,2013-10-29,10:30p,Los Angeles Clippers,W,116,103
+LAL,2013-10-30,10:30p,Golden State Warriors,L,94,125
+LAL,2013-11-01,10:30p,San Antonio Spurs,L,85,91
+LAL,2013-11-03,9:30p,Atlanta Hawks,W,105,103
+LAL,2013-11-05,8:30p,Dallas Mavericks,L,104,123
+LAL,2013-11-07,9:30p,Houston Rockets,W,99,98
+LAL,2013-11-08,8:00p,New Orleans Pelicans,L,85,96
+LAL,2013-11-10,9:30p,Minnesota Timberwolves,L,90,113
+LAL,2013-11-12,10:30p,New Orleans Pelicans,W,116,95
+LAL,2013-11-13,9:00p,Denver Nuggets,L,99,111
+LAL,2013-11-15,10:30p,Memphis Grizzlies,L,86,89
+LAL,2013-11-17,9:30p,Detroit Pistons,W,114,99
+LAL,2013-11-22,10:30p,Golden State Warriors,W,102,95
+LAL,2013-11-24,9:30p,Sacramento Kings,W,100,86
+LAL,2013-11-26,7:00p,Washington Wizards,L,111,116
+LAL,2013-11-27,7:30p,Brooklyn Nets,W,99,94
+LAL,2013-11-29,7:30p,Detroit Pistons,W,106,102
+LAL,2013-12-01,9:30p,Portland Trail Blazers,L,108,114
+LAL,2013-12-06,10:00p,Sacramento Kings,W,106,100
+LAL,2013-12-08,9:30p,Toronto Raptors,L,94,106
+LAL,2013-12-10,10:30p,Phoenix Suns,L,108,114
+LAL,2013-12-13,8:00p,Oklahoma City Thunder,L,97,122
+LAL,2013-12-14,7:00p,Charlotte Bobcats,W,88,85
+LAL,2013-12-16,7:30p,Atlanta Hawks,L,100,114
+LAL,2013-12-17,8:00p,Memphis Grizzlies,W,96,92
+LAL,2013-12-20,10:30p,Minnesota Timberwolves,W,104,91
+LAL,2013-12-21,10:30p,Golden State Warriors,L,83,102
+LAL,2013-12-23,9:00p,Phoenix Suns,L,90,117
+LAL,2013-12-25,5:00p,Miami Heat,L,95,101
+LAL,2013-12-27,9:00p,Utah Jazz,L,103,105
+LAL,2013-12-29,9:30p,Philadelphia 76ers,L,104,111
+LAL,2013-12-31,10:30p,Milwaukee Bucks,L,79,94
+LAL,2014-01-03,10:30p,Utah Jazz,W,110,99
+LAL,2014-01-05,9:30p,Denver Nuggets,L,115,137
+LAL,2014-01-07,8:30p,Dallas Mavericks,L,97,110
+LAL,2014-01-08,8:00p,Houston Rockets,L,99,113
+LAL,2014-01-10,10:30p,Los Angeles Clippers,L,87,123
+LAL,2014-01-14,10:30p,Cleveland Cavaliers,L,118,120
+LAL,2014-01-15,9:00p,Phoenix Suns,L,114,121
+LAL,2014-01-17,7:30p,Boston Celtics,W,107,104
+LAL,2014-01-19,1:00p,Toronto Raptors,W,112,106
+LAL,2014-01-20,8:00p,Chicago Bulls,L,100,102
+LAL,2014-01-23,8:00p,Miami Heat,L,102,109
+LAL,2014-01-24,7:00p,Orlando Magic,L,105,114
+LAL,2014-01-26,3:30p,New York Knicks,L,103,110
+LAL,2014-01-28,10:30p,Indiana Pacers,L,92,104
+LAL,2014-01-31,10:30p,Charlotte Bobcats,L,100,110
+LAL,2014-02-04,8:00p,Minnesota Timberwolves,L,99,109
+LAL,2014-02-05,7:00p,Cleveland Cavaliers,W,119,108
+LAL,2014-02-07,7:00p,Philadelphia 76ers,W,112,98
+LAL,2014-02-09,3:30p,Chicago Bulls,L,86,92
+LAL,2014-02-11,10:30p,Utah Jazz,L,79,96
+LAL,2014-02-13,10:30p,Oklahoma City Thunder,L,103,107
+LAL,2014-02-19,10:30p,Houston Rockets,L,108,134
+LAL,2014-02-21,10:30p,Boston Celtics,W,101,92
+LAL,2014-02-23,9:00p,Brooklyn Nets,L,102,108
+LAL,2014-02-25,7:00p,Indiana Pacers,L,98,118
+LAL,2014-02-26,8:00p,Memphis Grizzlies,L,103,108
+LAL,2014-02-28,10:30p,Sacramento Kings,W,126,122
+LAL,2014-03-03,10:00p,Portland Trail Blazers,W,107,106
+LAL,2014-03-04,10:30p,New Orleans Pelicans,L,125,132
+LAL,2014-03-06,10:30p,Los Angeles Clippers,L,94,142
+LAL,2014-03-07,9:00p,Denver Nuggets,L,126,134
+LAL,2014-03-09,3:30p,Oklahoma City Thunder,W,114,110
+LAL,2014-03-13,9:30p,Oklahoma City Thunder,L,102,131
+LAL,2014-03-14,8:30p,San Antonio Spurs,L,85,119
+LAL,2014-03-19,10:30p,San Antonio Spurs,L,109,125
+LAL,2014-03-21,10:30p,Washington Wizards,L,107,117
+LAL,2014-03-23,9:30p,Orlando Magic,W,103,94
+LAL,2014-03-25,10:30p,New York Knicks,W,127,96
+LAL,2014-03-27,8:00p,Milwaukee Bucks,L,105,108
+LAL,2014-03-28,8:00p,Minnesota Timberwolves,L,107,143
+LAL,2014-03-30,9:30p,Phoenix Suns,W,115,99
+LAL,2014-04-01,10:30p,Portland Trail Blazers,L,112,124
+LAL,2014-04-02,10:00p,Sacramento Kings,L,102,107
+LAL,2014-04-04,10:30p,Dallas Mavericks,L,95,107
+LAL,2014-04-06,3:30p,Los Angeles Clippers,L,97,120
+LAL,2014-04-08,10:30p,Houston Rockets,L,130,145
+LAL,2014-04-11,10:30p,Golden State Warriors,L,95,112
+LAL,2014-04-13,9:30p,Memphis Grizzlies,L,90,102
+LAL,2014-04-14,9:00p,Utah Jazz,W,119,104
+LAL,2014-04-16,8:00p,San Antonio Spurs,W,113,100
+LAL,2014-10-28,10:30p,Houston Rockets,L,90,108
+LAL,2014-10-29,10:00p,Phoenix Suns,L,99,119
+LAL,2014-10-31,10:30p,Los Angeles Clippers,L,111,118
+LAL,2014-11-01,10:30p,Golden State Warriors,L,104,127
+LAL,2014-11-04,10:30p,Phoenix Suns,L,106,112
+LAL,2014-11-09,9:30p,Charlotte Hornets,W,107,92
+LAL,2014-11-11,8:00p,Memphis Grizzlies,L,102,107
+LAL,2014-11-12,8:00p,New Orleans Pelicans,L,102,109
+LAL,2014-11-14,10:00p,San Antonio Spurs,L,80,93
+LAL,2014-11-16,9:30p,Golden State Warriors,L,115,136
+LAL,2014-11-18,7:30p,Atlanta Hawks,W,114,109
+LAL,2014-11-19,9:30p,Houston Rockets,W,98,92
+LAL,2014-11-21,8:30p,Dallas Mavericks,L,106,140
+LAL,2014-11-23,9:30p,Denver Nuggets,L,94,101
+LAL,2014-11-26,10:30p,Memphis Grizzlies,L,93,99
+LAL,2014-11-28,10:30p,Minnesota Timberwolves,L,119,120
+LAL,2014-11-30,9:30p,Toronto Raptors,W,129,122
+LAL,2014-12-02,7:30p,Detroit Pistons,W,106,96
+LAL,2014-12-03,7:00p,Washington Wizards,L,95,111
+LAL,2014-12-05,7:30p,Boston Celtics,L,96,113
+LAL,2014-12-07,9:30p,New Orleans Pelicans,L,87,104
+LAL,2014-12-09,10:30p,Sacramento Kings,W,98,95
+LAL,2014-12-12,9:30p,San Antonio Spurs,W,112,110
+LAL,2014-12-14,7:00p,Minnesota Timberwolves,W,100,94
+LAL,2014-12-15,7:00p,Indiana Pacers,L,91,110
+LAL,2014-12-19,10:30p,Oklahoma City Thunder,L,103,104
+LAL,2014-12-21,6:00p,Sacramento Kings,L,101,108
+LAL,2014-12-23,10:30p,Golden State Warriors,W,115,105
+LAL,2014-12-25,8:00p,Chicago Bulls,L,93,113
+LAL,2014-12-26,8:30p,Dallas Mavericks,L,98,102
+LAL,2014-12-28,9:30p,Phoenix Suns,L,107,116
+LAL,2014-12-30,9:00p,Denver Nuggets,W,111,103
+LAL,2015-01-02,10:30p,Memphis Grizzlies,L,106,109
+LAL,2015-01-04,9:30p,Indiana Pacers,W,88,87
+LAL,2015-01-05,10:00p,Portland Trail Blazers,L,94,98
+LAL,2015-01-07,10:30p,Los Angeles Clippers,L,89,114
+LAL,2015-01-09,10:30p,Orlando Magic,W,101,84
+LAL,2015-01-11,9:30p,Portland Trail Blazers,L,94,106
+LAL,2015-01-13,10:30p,Miami Heat,L,75,78
+LAL,2015-01-15,10:30p,Cleveland Cavaliers,L,102,109
+LAL,2015-01-16,9:00p,Utah Jazz,L,85,94
+LAL,2015-01-19,10:00p,Phoenix Suns,L,100,115
+LAL,2015-01-21,8:00p,New Orleans Pelicans,L,80,96
+LAL,2015-01-23,8:30p,San Antonio Spurs,L,85,99
+LAL,2015-01-25,9:30p,Houston Rockets,L,87,99
+LAL,2015-01-27,10:30p,Washington Wizards,L,92,98
+LAL,2015-01-29,10:30p,Chicago Bulls,W,123,118
+LAL,2015-02-01,2:00p,New York Knicks,L,80,92
+LAL,2015-02-04,8:00p,Milwaukee Bucks,L,105,113
+LAL,2015-02-06,7:00p,Orlando Magic,L,97,103
+LAL,2015-02-08,3:30p,Cleveland Cavaliers,L,105,120
+LAL,2015-02-10,10:30p,Denver Nuggets,L,96,106
+LAL,2015-02-11,10:00p,Portland Trail Blazers,L,86,102
+LAL,2015-02-20,10:30p,Brooklyn Nets,L,105,114
+LAL,2015-02-22,9:30p,Boston Celtics,W,118,111
+LAL,2015-02-25,9:00p,Utah Jazz,W,100,97
+LAL,2015-02-27,10:30p,Milwaukee Bucks,W,101,93
+LAL,2015-03-01,6:30p,Oklahoma City Thunder,L,101,108
+LAL,2015-03-03,7:00p,Charlotte Hornets,L,103,104
+LAL,2015-03-04,8:00p,Miami Heat,L,94,100
+LAL,2015-03-06,8:00p,Memphis Grizzlies,L,90,97
+LAL,2015-03-08,9:30p,Dallas Mavericks,L,93,100
+LAL,2015-03-10,10:30p,Detroit Pistons,W,93,85
+LAL,2015-03-12,10:30p,New York Knicks,L,94,101
+LAL,2015-03-15,9:30p,Atlanta Hawks,L,86,91
+LAL,2015-03-16,10:30p,Golden State Warriors,L,105,108
+LAL,2015-03-19,10:30p,Utah Jazz,L,73,80
+LAL,2015-03-22,9:30p,Philadelphia 76ers,W,101,87
+LAL,2015-03-24,8:00p,Oklahoma City Thunder,L,117,127
+LAL,2015-03-25,8:00p,Minnesota Timberwolves,W,101,99
+LAL,2015-03-27,7:30p,Toronto Raptors,L,83,94
+LAL,2015-03-29,3:30p,Brooklyn Nets,L,99,107
+LAL,2015-03-30,7:00p,Philadelphia 76ers,W,113,111
+LAL,2015-04-01,10:30p,New Orleans Pelicans,L,92,113
+LAL,2015-04-03,10:30p,Portland Trail Blazers,L,77,107
+LAL,2015-04-05,9:30p,Los Angeles Clippers,L,78,106
+LAL,2015-04-07,10:30p,Los Angeles Clippers,L,100,105
+LAL,2015-04-08,9:00p,Denver Nuggets,L,101,119
+LAL,2015-04-10,10:30p,Minnesota Timberwolves,W,106,98
+LAL,2015-04-12,9:30p,Dallas Mavericks,L,106,120
+LAL,2015-04-13,10:00p,Sacramento Kings,L,92,102
+LAL,2015-04-15,10:30p,Sacramento Kings,L,99,122
+LAL,2015-10-28,10:30p,Minnesota Timberwolves,L,111,112
+LAL,2015-10-30,10:00p,Sacramento Kings,L,114,132
+LAL,2015-11-01,9:30p,Dallas Mavericks,L,93,103
+LAL,2015-11-03,10:30p,Denver Nuggets,L,109,120
+LAL,2015-11-06,7:30p,Brooklyn Nets,W,104,98
+LAL,2015-11-08,3:30p,New York Knicks,L,95,99
+LAL,2015-11-10,7:30p,Miami Heat,L,88,101
+LAL,2015-11-11,7:00p,Orlando Magic,L,99,101
+LAL,2015-11-13,8:30p,Dallas Mavericks,L,82,90
+LAL,2015-11-15,9:30p,Detroit Pistons,W,97,85
+LAL,2015-11-16,9:00p,Phoenix Suns,L,101,120
+LAL,2015-11-20,10:30p,Toronto Raptors,L,91,102
+LAL,2015-11-22,9:30p,Portland Trail Blazers,L,93,107
+LAL,2015-11-24,10:30p,Golden State Warriors,L,77,111
+LAL,2015-11-28,10:00p,Portland Trail Blazers,L,96,108
+LAL,2015-11-29,9:30p,Indiana Pacers,L,103,107
+LAL,2015-12-01,7:00p,Philadelphia 76ers,L,91,103
+LAL,2015-12-02,7:00p,Washington Wizards,W,108,104
+LAL,2015-12-04,8:00p,Atlanta Hawks,L,87,100
+LAL,2015-12-06,6:00p,Detroit Pistons,L,91,111
+LAL,2015-12-07,7:30p,Toronto Raptors,L,93,102
+LAL,2015-12-09,8:00p,Minnesota Timberwolves,L,122,123
+LAL,2015-12-11,9:30p,San Antonio Spurs,L,87,109
+LAL,2015-12-12,8:00p,Houston Rockets,L,97,126
+LAL,2015-12-15,10:30p,Milwaukee Bucks,W,113,95
+LAL,2015-12-17,10:30p,Houston Rockets,L,87,107
+LAL,2015-12-19,5:00p,Oklahoma City Thunder,L,78,118
+LAL,2015-12-22,9:00p,Denver Nuggets,W,111,107
+LAL,2015-12-23,10:30p,Oklahoma City Thunder,L,85,120
+LAL,2015-12-25,10:30p,Los Angeles Clippers,L,84,94
+LAL,2015-12-27,6:00p,Memphis Grizzlies,L,96,112
+LAL,2015-12-28,7:00p,Charlotte Hornets,L,98,108
+LAL,2015-12-30,7:30p,Boston Celtics,W,112,104
+LAL,2016-01-01,10:30p,Philadelphia 76ers,W,93,84
+LAL,2016-01-03,9:30p,Phoenix Suns,W,97,77
+LAL,2016-01-05,10:30p,Golden State Warriors,L,88,109
+LAL,2016-01-07,10:30p,Sacramento Kings,L,115,118
+LAL,2016-01-08,10:30p,Oklahoma City Thunder,L,113,117
+LAL,2016-01-10,9:30p,Utah Jazz,L,74,86
+LAL,2016-01-12,10:30p,New Orleans Pelicans,W,95,91
+LAL,2016-01-14,10:30p,Golden State Warriors,L,98,116
+LAL,2016-01-16,9:00p,Utah Jazz,L,82,109
+LAL,2016-01-17,9:30p,Houston Rockets,L,95,112
+LAL,2016-01-20,10:30p,Sacramento Kings,L,93,112
+LAL,2016-01-22,10:30p,San Antonio Spurs,L,95,108
+LAL,2016-01-23,10:30p,Portland Trail Blazers,L,103,121
+LAL,2016-01-26,10:30p,Dallas Mavericks,L,90,92
+LAL,2016-01-28,10:30p,Chicago Bulls,L,91,114
+LAL,2016-01-29,10:30p,Los Angeles Clippers,L,93,105
+LAL,2016-01-31,9:30p,Charlotte Hornets,L,82,101
+LAL,2016-02-02,10:30p,Minnesota Timberwolves,W,119,115
+LAL,2016-02-04,9:30p,New Orleans Pelicans,W,99,96
+LAL,2016-02-06,8:30p,San Antonio Spurs,L,102,106
+LAL,2016-02-08,7:00p,Indiana Pacers,L,87,89
+LAL,2016-02-10,8:00p,Cleveland Cavaliers,L,111,120
+LAL,2016-02-19,10:30p,San Antonio Spurs,L,113,119
+LAL,2016-02-21,8:00p,Chicago Bulls,L,115,126
+LAL,2016-02-22,8:00p,Milwaukee Bucks,L,101,108
+LAL,2016-02-24,8:00p,Memphis Grizzlies,L,119,128
+LAL,2016-02-26,10:30p,Memphis Grizzlies,L,95,112
+LAL,2016-03-01,10:30p,Brooklyn Nets,W,107,101
+LAL,2016-03-02,9:00p,Denver Nuggets,L,107,117
+LAL,2016-03-04,10:30p,Atlanta Hawks,L,77,106
+LAL,2016-03-06,3:30p,Golden State Warriors,W,112,95
+LAL,2016-03-08,10:30p,Orlando Magic,W,107,98
+LAL,2016-03-10,10:30p,Cleveland Cavaliers,L,108,120
+LAL,2016-03-13,9:30p,New York Knicks,L,87,90
+LAL,2016-03-15,10:30p,Sacramento Kings,L,98,106
+LAL,2016-03-18,10:30p,Phoenix Suns,L,90,95
+LAL,2016-03-22,10:30p,Memphis Grizzlies,W,107,100
+LAL,2016-03-23,10:00p,Phoenix Suns,L,107,119
+LAL,2016-03-25,10:30p,Denver Nuggets,L,105,116
+LAL,2016-03-27,9:30p,Washington Wizards,L,88,101
+LAL,2016-03-28,9:00p,Utah Jazz,L,75,123
+LAL,2016-03-30,10:30p,Miami Heat,W,102,100
+LAL,2016-04-03,9:30p,Boston Celtics,L,100,107
+LAL,2016-04-05,10:30p,Los Angeles Clippers,L,81,103
+LAL,2016-04-06,10:30p,Los Angeles Clippers,L,81,91
+LAL,2016-04-08,8:00p,New Orleans Pelicans,L,102,110
+LAL,2016-04-10,3:30p,Houston Rockets,L,110,130
+LAL,2016-04-11,8:00p,Oklahoma City Thunder,L,79,112
+LAL,2016-04-13,10:30p,Utah Jazz,W,101,96
+LAL,2016-10-26,10:30p,Houston Rockets,W,120,114
+LAL,2016-10-28,9:00p,Utah Jazz,L,89,96
+LAL,2016-10-30,7:00p,Oklahoma City Thunder,L,96,113
+LAL,2016-11-01,7:00p,Indiana Pacers,L,108,115
+LAL,2016-11-02,7:30p,Atlanta Hawks,W,123,116
+LAL,2016-11-04,10:30p,Golden State Warriors,W,117,97
+LAL,2016-11-06,9:30p,Phoenix Suns,W,119,108
+LAL,2016-11-08,10:30p,Dallas Mavericks,L,97,109
+LAL,2016-11-10,10:30p,Sacramento Kings,W,101,91
+LAL,2016-11-12,7:00p,New Orleans Pelicans,W,126,99
+LAL,2016-11-13,7:00p,Minnesota Timberwolves,L,99,125
+LAL,2016-11-15,10:30p,Brooklyn Nets,W,125,118
+LAL,2016-11-18,10:30p,San Antonio Spurs,L,107,116
+LAL,2016-11-20,9:30p,Chicago Bulls,L,110,118
+LAL,2016-11-22,10:30p,Oklahoma City Thunder,W,111,109
+LAL,2016-11-23,10:30p,Golden State Warriors,L,106,149
+LAL,2016-11-25,10:30p,Golden State Warriors,L,85,109
+LAL,2016-11-27,9:30p,Atlanta Hawks,W,109,94
+LAL,2016-11-29,8:00p,New Orleans Pelicans,L,88,105
+LAL,2016-11-30,8:00p,Chicago Bulls,W,96,90
+LAL,2016-12-02,7:30p,Toronto Raptors,L,80,113
+LAL,2016-12-03,8:00p,Memphis Grizzlies,L,100,103
+LAL,2016-12-05,10:30p,Utah Jazz,L,101,107
+LAL,2016-12-07,8:00p,Houston Rockets,L,95,134
+LAL,2016-12-09,10:30p,Phoenix Suns,L,115,119
+LAL,2016-12-11,9:30p,New York Knicks,L,112,118
+LAL,2016-12-12,10:30p,Sacramento Kings,L,92,116
+LAL,2016-12-14,7:30p,Brooklyn Nets,L,97,107
+LAL,2016-12-16,8:00p,Philadelphia 76ers,W,100,89
+LAL,2016-12-17,7:30p,Cleveland Cavaliers,L,108,119
+LAL,2016-12-20,7:00p,Charlotte Hornets,L,113,117
+LAL,2016-12-22,8:00p,Miami Heat,L,107,115
+LAL,2016-12-23,7:00p,Orlando Magic,L,90,109
+LAL,2016-12-25,10:30p,Los Angeles Clippers,W,111,102
+LAL,2016-12-27,10:30p,Utah Jazz,L,100,102
+LAL,2016-12-29,10:30p,Dallas Mavericks,L,89,101
+LAL,2017-01-01,9:30p,Toronto Raptors,L,114,123
+LAL,2017-01-03,10:30p,Memphis Grizzlies,W,116,102
+LAL,2017-01-05,10:30p,Portland Trail Blazers,L,109,118
+LAL,2017-01-06,10:30p,Miami Heat,W,127,100
+LAL,2017-01-08,9:30p,Orlando Magic,W,111,95
+LAL,2017-01-10,10:30p,Portland Trail Blazers,L,87,108
+LAL,2017-01-12,8:30p,San Antonio Spurs,L,94,134
+LAL,2017-01-14,3:30p,Los Angeles Clippers,L,97,113
+LAL,2017-01-15,9:30p,Detroit Pistons,L,97,102
+LAL,2017-01-17,10:30p,Denver Nuggets,L,121,127
+LAL,2017-01-20,10:30p,Indiana Pacers,W,108,95
+LAL,2017-01-22,3:30p,Dallas Mavericks,L,73,122
+LAL,2017-01-25,10:30p,Portland Trail Blazers,L,98,105
+LAL,2017-01-26,10:30p,Utah Jazz,L,88,96
+LAL,2017-01-31,10:30p,Denver Nuggets,W,120,116
+LAL,2017-02-02,7:00p,Washington Wizards,L,108,116
+LAL,2017-02-03,8:00p,Boston Celtics,L,107,113
+LAL,2017-02-06,7:00p,New York Knicks,W,121,107
+LAL,2017-02-08,7:30p,Detroit Pistons,L,102,121
+LAL,2017-02-10,8:00p,Milwaukee Bucks,W,122,114
+LAL,2017-02-14,10:30p,Sacramento Kings,L,96,97
+LAL,2017-02-15,9:00p,Phoenix Suns,L,101,137
+LAL,2017-02-24,8:00p,Oklahoma City Thunder,L,93,110
+LAL,2017-02-26,3:30p,San Antonio Spurs,L,98,119
+LAL,2017-02-28,10:30p,Charlotte Hornets,L,104,109
+LAL,2017-03-03,10:30p,Boston Celtics,L,95,115
+LAL,2017-03-05,9:30p,New Orleans Pelicans,L,97,105
+LAL,2017-03-07,8:30p,Dallas Mavericks,L,111,122
+LAL,2017-03-09,10:30p,Phoenix Suns,W,122,110
+LAL,2017-03-12,9:30p,Philadelphia 76ers,L,116,118
+LAL,2017-03-13,10:30p,Denver Nuggets,L,101,129
+LAL,2017-03-15,8:00p,Houston Rockets,L,100,139
+LAL,2017-03-17,10:30p,Milwaukee Bucks,L,103,107
+LAL,2017-03-19,9:30p,Cleveland Cavaliers,L,120,125
+LAL,2017-03-21,10:30p,Los Angeles Clippers,L,109,133
+LAL,2017-03-24,10:30p,Minnesota Timberwolves,W,130,119
+LAL,2017-03-26,9:30p,Portland Trail Blazers,L,81,97
+LAL,2017-03-28,10:30p,Washington Wizards,L,108,119
+LAL,2017-03-30,8:00p,Minnesota Timberwolves,L,104,119
+LAL,2017-04-01,3:30p,Los Angeles Clippers,L,104,115
+LAL,2017-04-02,3:30p,Memphis Grizzlies,W,108,103
+LAL,2017-04-05,8:30p,San Antonio Spurs,W,102,95
+LAL,2017-04-07,10:30p,Sacramento Kings,W,98,94
+LAL,2017-04-09,9:30p,Minnesota Timberwolves,W,110,109
+LAL,2017-04-11,10:30p,New Orleans Pelicans,W,108,96
+LAL,2017-04-12,10:30p,Golden State Warriors,L,94,109
+LAL,2017-10-19,10:30p,Los Angeles Clippers,L,92,108
+LAL,2017-10-20,10:00p,Phoenix Suns,W,132,130
+LAL,2017-10-22,9:30p,New Orleans Pelicans,L,112,119
+LAL,2017-10-25,10:30p,Washington Wizards,W,102,99
+LAL,2017-10-27,10:30p,Toronto Raptors,L,92,101
+LAL,2017-10-28,9:00p,Utah Jazz,L,81,96
+LAL,2017-10-31,10:30p,Detroit Pistons,W,113,93
+LAL,2017-11-02,10:30p,Portland Trail Blazers,L,110,113
+LAL,2017-11-03,10:30p,Brooklyn Nets,W,124,112
+LAL,2017-11-05,9:30p,Memphis Grizzlies,W,107,102
+LAL,2017-11-08,8:00p,Boston Celtics,L,96,107
+LAL,2017-11-09,7:00p,Washington Wizards,L,95,111
+LAL,2017-11-11,8:30p,Milwaukee Bucks,L,90,98
+LAL,2017-11-13,9:00p,Phoenix Suns,W,100,93
+LAL,2017-11-15,10:30p,Philadelphia 76ers,L,109,115
+LAL,2017-11-17,10:30p,Phoenix Suns,L,113,122
+LAL,2017-11-19,9:30p,Denver Nuggets,W,127,109
+LAL,2017-11-21,10:30p,Chicago Bulls,W,103,94
+LAL,2017-11-22,10:30p,Sacramento Kings,L,102,113
+LAL,2017-11-27,10:30p,Los Angeles Clippers,L,115,120
+LAL,2017-11-29,10:30p,Golden State Warriors,L,123,127
+LAL,2017-12-02,9:00p,Denver Nuggets,L,100,115
+LAL,2017-12-03,9:30p,Houston Rockets,L,95,118
+LAL,2017-12-07,8:00p,Philadelphia 76ers,W,107,104
+LAL,2017-12-09,7:00p,Charlotte Hornets,W,110,99
+LAL,2017-12-12,7:00p,New York Knicks,L,109,113
+LAL,2017-12-14,8:00p,Cleveland Cavaliers,L,112,121
+LAL,2017-12-18,10:30p,Golden State Warriors,L,114,116
+LAL,2017-12-20,8:00p,Houston Rockets,W,122,116
+LAL,2017-12-22,10:30p,Golden State Warriors,L,106,113
+LAL,2017-12-23,9:30p,Portland Trail Blazers,L,92,95
+LAL,2017-12-25,10:30p,Minnesota Timberwolves,L,104,121
+LAL,2017-12-27,10:30p,Memphis Grizzlies,L,99,109
+LAL,2017-12-29,10:30p,Los Angeles Clippers,L,106,121
+LAL,2017-12-31,7:00p,Houston Rockets,L,142,148
+LAL,2018-01-01,8:00p,Minnesota Timberwolves,L,96,114
+LAL,2018-01-03,10:30p,Oklahoma City Thunder,L,96,133
+LAL,2018-01-05,10:30p,Charlotte Hornets,L,94,108
+LAL,2018-01-07,9:30p,Atlanta Hawks,W,132,113
+LAL,2018-01-09,10:30p,Sacramento Kings,W,99,86
+LAL,2018-01-11,10:30p,San Antonio Spurs,W,93,81
+LAL,2018-01-13,2:00p,Dallas Mavericks,W,107,101
+LAL,2018-01-15,5:30p,Memphis Grizzlies,L,114,123
+LAL,2018-01-17,8:00p,Oklahoma City Thunder,L,90,114
+LAL,2018-01-19,10:30p,Indiana Pacers,W,99,86
+LAL,2018-01-21,3:30p,New York Knicks,W,127,107
+LAL,2018-01-23,10:30p,Boston Celtics,W,108,107
+LAL,2018-01-26,8:00p,Chicago Bulls,W,108,103
+LAL,2018-01-28,6:00p,Toronto Raptors,L,111,123
+LAL,2018-01-31,7:00p,Orlando Magic,L,105,127
+LAL,2018-02-02,7:30p,Brooklyn Nets,W,102,99
+LAL,2018-02-04,2:00p,Oklahoma City Thunder,W,108,104
+LAL,2018-02-06,10:30p,Phoenix Suns,W,112,93
+LAL,2018-02-08,10:30p,Oklahoma City Thunder,W,106,81
+LAL,2018-02-10,8:30p,Dallas Mavericks,L,123,130
+LAL,2018-02-14,8:00p,New Orleans Pelicans,L,117,139
+LAL,2018-02-15,9:00p,Minnesota Timberwolves,L,111,119
+LAL,2018-02-23,10:30p,Dallas Mavericks,W,124,102
+LAL,2018-02-24,10:00p,Sacramento Kings,W,113,108
+LAL,2018-02-26,7:30p,Atlanta Hawks,W,123,104
+LAL,2018-03-01,7:30p,Miami Heat,W,131,113
+LAL,2018-03-03,9:00p,San Antonio Spurs,W,116,112
+LAL,2018-03-05,10:30p,Portland Trail Blazers,L,103,108
+LAL,2018-03-07,10:30p,Orlando Magic,W,108,107
+LAL,2018-03-09,9:00p,Denver Nuggets,L,116,125
+LAL,2018-03-11,9:00p,Cleveland Cavaliers,W,127,113
+LAL,2018-03-13,10:30p,Denver Nuggets,W,112,103
+LAL,2018-03-14,10:30p,Golden State Warriors,L,106,117
+LAL,2018-03-16,10:30p,Miami Heat,L,91,92
+LAL,2018-03-19,7:00p,Indiana Pacers,L,100,110
+LAL,2018-03-22,8:00p,New Orleans Pelicans,L,125,128
+LAL,2018-03-24,8:00p,Memphis Grizzlies,W,100,93
+LAL,2018-03-26,7:00p,Detroit Pistons,L,106,112
+LAL,2018-03-28,10:30p,Dallas Mavericks,W,103,93
+LAL,2018-03-30,10:30p,Milwaukee Bucks,L,122,124
+LAL,2018-04-01,9:30p,Sacramento Kings,L,83,84
+LAL,2018-04-03,9:00p,Utah Jazz,L,110,117
+LAL,2018-04-04,10:30p,San Antonio Spurs,W,122,112
+LAL,2018-04-06,10:30p,Minnesota Timberwolves,L,96,113
+LAL,2018-04-08,6:00p,Utah Jazz,L,97,112
+LAL,2018-04-10,10:30p,Houston Rockets,L,99,105
+LAL,2018-04-11,10:30p,Los Angeles Clippers,W,115,100
+LAL,2018-10-18,10:30p,Portland Trail Blazers,L,119,128
+LAL,2018-10-20,10:30p,Houston Rockets,L,115,124
+LAL,2018-10-22,10:30p,San Antonio Spurs,L,142,143
+LAL,2018-10-24,10:00p,Phoenix Suns,W,131,113
+LAL,2018-10-25,10:30p,Denver Nuggets,W,121,114
+LAL,2018-10-27,8:30p,San Antonio Spurs,L,106,110
+LAL,2018-10-29,8:00p,Minnesota Timberwolves,L,120,124
+LAL,2018-10-31,10:30p,Dallas Mavericks,W,114,113
+LAL,2018-11-03,10:00p,Portland Trail Blazers,W,114,110
+LAL,2018-11-04,9:30p,Toronto Raptors,L,107,121
+LAL,2018-11-07,10:30p,Minnesota Timberwolves,W,114,110
+LAL,2018-11-10,10:00p,Sacramento Kings,W,101,86
+LAL,2018-11-11,9:30p,Atlanta Hawks,W,107,106
+LAL,2018-11-14,10:30p,Portland Trail Blazers,W,126,117
+LAL,2018-11-17,7:00p,Orlando Magic,L,117,130
+LAL,2018-11-18,6:00p,Miami Heat,W,113,97
+LAL,2018-11-21,8:00p,Cleveland Cavaliers,W,109,105
+LAL,2018-11-23,10:30p,Utah Jazz,W,90,83
+LAL,2018-11-25,3:30p,Orlando Magic,L,104,108
+LAL,2018-11-27,9:00p,Denver Nuggets,L,85,117
+LAL,2018-11-29,10:30p,Indiana Pacers,W,104,96
+LAL,2018-11-30,10:30p,Dallas Mavericks,W,114,103
+LAL,2018-12-02,3:30p,Phoenix Suns,W,120,96
+LAL,2018-12-05,10:30p,San Antonio Spurs,W,121,113
+LAL,2018-12-07,8:30p,San Antonio Spurs,L,120,133
+LAL,2018-12-08,8:00p,Memphis Grizzlies,W,111,88
+LAL,2018-12-10,10:30p,Miami Heat,W,108,105
+LAL,2018-12-13,8:00p,Houston Rockets,L,111,126
+LAL,2018-12-15,7:00p,Charlotte Hornets,W,128,100
+LAL,2018-12-16,6:00p,Washington Wizards,L,110,128
+LAL,2018-12-18,7:30p,Brooklyn Nets,L,110,115
+LAL,2018-12-21,10:30p,New Orleans Pelicans,W,112,104
+LAL,2018-12-23,9:30p,Memphis Grizzlies,L,99,107
+LAL,2018-12-25,8:00p,Golden State Warriors,W,127,101
+LAL,2018-12-27,10:00p,Sacramento Kings,L,116,117
+LAL,2018-12-28,10:30p,Los Angeles Clippers,L,107,118
+LAL,2018-12-30,9:30p,Sacramento Kings,W,121,114
+LAL,2019-01-02,10:30p,Oklahoma City Thunder,L,100,107
+LAL,2019-01-04,10:30p,New York Knicks,L,112,119
+LAL,2019-01-06,3:30p,Minnesota Timberwolves,L,86,108
+LAL,2019-01-07,8:30p,Dallas Mavericks,W,107,97
+LAL,2019-01-09,10:30p,Detroit Pistons,W,113,100
+LAL,2019-01-11,10:00p,Utah Jazz,L,95,113
+LAL,2019-01-13,9:30p,Cleveland Cavaliers,L,95,101
+LAL,2019-01-15,10:30p,Chicago Bulls,W,107,100
+LAL,2019-01-17,9:30p,Oklahoma City Thunder,W,138,128
+LAL,2019-01-19,8:30p,Houston Rockets,L,134,138
+LAL,2019-01-21,10:30p,Golden State Warriors,L,111,130
+LAL,2019-01-24,10:30p,Minnesota Timberwolves,L,105,120
+LAL,2019-01-27,9:30p,Phoenix Suns,W,116,102
+LAL,2019-01-29,10:30p,Philadelphia 76ers,L,105,121
+LAL,2019-01-31,10:30p,Los Angeles Clippers,W,123,120
+LAL,2019-02-02,8:30p,Golden State Warriors,L,101,115
+LAL,2019-02-05,7:00p,Indiana Pacers,L,94,136
+LAL,2019-02-07,8:00p,Boston Celtics,W,129,128
+LAL,2019-02-10,3:30p,Philadelphia 76ers,L,120,143
+LAL,2019-02-12,7:30p,Atlanta Hawks,L,113,117
+LAL,2019-02-21,10:30p,Houston Rockets,W,111,106
+LAL,2019-02-23,7:00p,New Orleans Pelicans,L,115,128
+LAL,2019-02-25,8:00p,Memphis Grizzlies,L,105,110
+LAL,2019-02-27,10:30p,New Orleans Pelicans,W,125,119
+LAL,2019-03-01,10:30p,Milwaukee Bucks,L,120,131
+LAL,2019-03-02,9:00p,Phoenix Suns,L,109,118
+LAL,2019-03-04,10:30p,Los Angeles Clippers,L,105,113
+LAL,2019-03-06,10:30p,Denver Nuggets,L,99,115
+LAL,2019-03-09,8:30p,Boston Celtics,L,107,120
+LAL,2019-03-12,8:00p,Chicago Bulls,W,123,107
+LAL,2019-03-14,8:00p,Toronto Raptors,L,98,111
+LAL,2019-03-15,7:00p,Detroit Pistons,L,97,111
+LAL,2019-03-17,12:00p,New York Knicks,L,123,124
+LAL,2019-03-19,8:00p,Milwaukee Bucks,L,101,115
+LAL,2019-03-22,10:30p,Brooklyn Nets,L,106,111
+LAL,2019-03-24,9:30p,Sacramento Kings,W,111,106
+LAL,2019-03-26,10:30p,Washington Wizards,W,124,106
+LAL,2019-03-27,10:30p,Utah Jazz,L,100,115
+LAL,2019-03-29,10:30p,Charlotte Hornets,W,129,115
+LAL,2019-03-31,6:00p,New Orleans Pelicans,W,130,102
+LAL,2019-04-02,8:00p,Oklahoma City Thunder,L,103,119
+LAL,2019-04-04,10:30p,Golden State Warriors,L,90,108
+LAL,2019-04-05,10:30p,Los Angeles Clippers,W,122,117
+LAL,2019-04-07,9:30p,Utah Jazz,W,113,109
+LAL,2019-04-09,10:30p,Portland Trail Blazers,L,101,104
+LAL,2019-10-22,10:30p,Los Angeles Clippers,L,102,112
+LAL,2019-10-25,10:30p,Utah Jazz,W,95,86
+LAL,2019-10-27,9:30p,Charlotte Hornets,W,120,101
+LAL,2019-10-29,10:30p,Memphis Grizzlies,W,120,91
+LAL,2019-11-01,9:30p,Dallas Mavericks,W,119,110
+LAL,2019-11-03,7:00p,San Antonio Spurs,W,103,96
+LAL,2019-11-05,8:00p,Chicago Bulls,W,118,112
+LAL,2019-11-08,10:30p,Miami Heat,W,95,80
+LAL,2019-11-10,9:30p,Toronto Raptors,L,104,113
+LAL,2019-11-12,9:00p,Phoenix Suns,W,123,115
+LAL,2019-11-13,10:00p,Golden State Warriors,W,120,94
+LAL,2019-11-15,10:30p,Sacramento Kings,W,99,97
+LAL,2019-11-17,9:30p,Atlanta Hawks,W,122,101
+LAL,2019-11-19,10:30p,Oklahoma City Thunder,W,112,107
+LAL,2019-11-22,8:00p,Oklahoma City Thunder,W,130,127
+LAL,2019-11-23,8:00p,Memphis Grizzlies,W,109,108
+LAL,2019-11-25,8:30p,San Antonio Spurs,W,114,104
+LAL,2019-11-27,9:30p,New Orleans Pelicans,W,114,110
+LAL,2019-11-29,10:30p,Washington Wizards,W,125,103
+LAL,2019-12-01,4:00p,Dallas Mavericks,L,100,114
+LAL,2019-12-03,9:00p,Denver Nuggets,W,105,96
+LAL,2019-12-04,9:00p,Utah Jazz,W,121,96
+LAL,2019-12-06,10:30p,Portland Trail Blazers,W,136,113
+LAL,2019-12-08,9:30p,Minnesota Timberwolves,W,142,125
+LAL,2019-12-11,7:00p,Orlando Magic,W,96,87
+LAL,2019-12-13,7:00p,Miami Heat,W,113,110
+LAL,2019-12-15,6:00p,Atlanta Hawks,W,101,96
+LAL,2019-12-17,7:00p,Indiana Pacers,L,102,105
+LAL,2019-12-19,8:00p,Milwaukee Bucks,L,104,111
+LAL,2019-12-22,9:30p,Denver Nuggets,L,104,128
+LAL,2019-12-25,8:00p,Los Angeles Clippers,L,106,111
+LAL,2019-12-28,10:00p,Portland Trail Blazers,W,128,120
+LAL,2019-12-29,9:30p,Dallas Mavericks,W,108,95
+LAL,2020-01-01,10:30p,Phoenix Suns,W,117,107
+LAL,2020-01-03,10:30p,New Orleans Pelicans,W,123,113
+LAL,2020-01-05,10:00p,Detroit Pistons,W,106,99
+LAL,2020-01-07,10:30p,New York Knicks,W,117,87
+LAL,2020-01-10,9:45p,Dallas Mavericks,W,129,114
+LAL,2020-01-11,8:00p,Oklahoma City Thunder,W,125,110
+LAL,2020-01-13,10:30p,Cleveland Cavaliers,W,128,99
+LAL,2020-01-15,10:30p,Orlando Magic,L,118,119
+LAL,2020-01-18,8:30p,Houston Rockets,W,124,115
+LAL,2020-01-20,7:30p,Boston Celtics,L,107,139
+LAL,2020-01-22,7:30p,New York Knicks,W,100,92
+LAL,2020-01-23,8:00p,Brooklyn Nets,W,128,113
+LAL,2020-01-25,8:30p,Philadelphia 76ers,L,91,108
+LAL,2020-01-31,10:30p,Portland Trail Blazers,L,119,127
+LAL,2020-02-01,10:00p,Sacramento Kings,W,129,113
+LAL,2020-02-04,10:00p,San Antonio Spurs,W,129,102
+LAL,2020-02-06,10:30p,Houston Rockets,L,111,121
+LAL,2020-02-08,8:30p,Golden State Warriors,W,125,120
+LAL,2020-02-10,10:30p,Phoenix Suns,W,125,100
+LAL,2020-02-12,10:00p,Denver Nuggets,W,120,116
+LAL,2020-02-21,10:30p,Memphis Grizzlies,W,117,105
+LAL,2020-02-23,3:30p,Boston Celtics,W,114,112
+LAL,2020-02-25,10:00p,New Orleans Pelicans,W,118,109
+LAL,2020-02-27,10:30p,Golden State Warriors,W,116,86
+LAL,2020-02-29,8:00p,Memphis Grizzlies,L,88,105
+LAL,2020-03-01,8:00p,New Orleans Pelicans,W,122,114
+LAL,2020-03-03,10:00p,Philadelphia 76ers,W,120,107
+LAL,2020-03-06,10:30p,Milwaukee Bucks,W,113,103
+LAL,2020-03-08,3:30p,Los Angeles Clippers,W,112,103
+LAL,2020-03-10,10:30p,Brooklyn Nets,L,102,104
+LAL,2020-07-30,9:00p,Los Angeles Clippers,W,103,101
+LAL,2020-08-01,8:30p,Toronto Raptors,L,92,107
+LAL,2020-08-03,9:00p,Utah Jazz,W,116,108
+LAL,2020-08-05,6:30p,Oklahoma City Thunder,L,86,105
+LAL,2020-08-06,9:00p,Houston Rockets,L,97,113
+LAL,2020-08-08,6:00p,Indiana Pacers,L,111,116
+LAL,2020-08-10,9:00p,Denver Nuggets,W,124,121
+LAL,2020-08-13,1:30p,Sacramento Kings,L,122,136
+LAL,2020-12-22,10:00p,Los Angeles Clippers,L,109,116
+LAL,2020-12-25,8:00p,Dallas Mavericks,W,138,115
+LAL,2020-12-27,10:00p,Minnesota Timberwolves,W,127,91
+LAL,2020-12-28,10:00p,Portland Trail Blazers,L,107,115
+LAL,2020-12-30,8:30p,San Antonio Spurs,W,121,107
+LAL,2021-01-01,8:00p,San Antonio Spurs,W,109,103
+LAL,2021-01-03,6:00p,Memphis Grizzlies,W,108,94
+LAL,2021-01-05,8:00p,Memphis Grizzlies,W,94,92
+LAL,2021-01-07,10:00p,San Antonio Spurs,L,109,118
+LAL,2021-01-08,10:00p,Chicago Bulls,W,117,115
+LAL,2021-01-10,7:00p,Houston Rockets,W,120,102
+LAL,2021-01-12,8:00p,Houston Rockets,W,117,100
+LAL,2021-01-13,8:00p,Oklahoma City Thunder,W,128,99
+LAL,2021-01-15,10:00p,New Orleans Pelicans,W,112,95
+LAL,2021-01-18,10:00p,Golden State Warriors,L,113,115
+LAL,2021-01-21,7:30p,Milwaukee Bucks,W,113,106
+LAL,2021-01-23,9:00p,Chicago Bulls,W,101,90
+LAL,2021-01-25,8:00p,Cleveland Cavaliers,W,115,108
+LAL,2021-01-27,7:30p,Philadelphia 76ers,L,106,107
+LAL,2021-01-28,8:00p,Detroit Pistons,L,92,107
+LAL,2021-01-30,8:30p,Boston Celtics,W,96,95
+LAL,2021-02-01,7:30p,Atlanta Hawks,W,107,99
+LAL,2021-02-04,10:00p,Denver Nuggets,W,114,93
+LAL,2021-02-06,10:00p,Detroit Pistons,W,135,129
+LAL,2021-02-08,10:00p,Oklahoma City Thunder,W,119,112
+LAL,2021-02-10,10:00p,Oklahoma City Thunder,W,114,113
+LAL,2021-02-12,10:00p,Memphis Grizzlies,W,115,105
+LAL,2021-02-14,10:00p,Denver Nuggets,L,105,122
+LAL,2021-02-16,8:00p,Minnesota Timberwolves,W,112,104
+LAL,2021-02-18,10:00p,Brooklyn Nets,L,98,109
+LAL,2021-02-20,8:30p,Miami Heat,L,94,96
+LAL,2021-02-22,10:00p,Washington Wizards,L,124,127
+LAL,2021-02-24,10:00p,Utah Jazz,L,89,114
+LAL,2021-02-26,10:00p,Portland Trail Blazers,W,102,93
+LAL,2021-02-28,8:00p,Golden State Warriors,W,117,91
+LAL,2021-03-02,10:00p,Phoenix Suns,L,104,114
+LAL,2021-03-03,10:00p,Sacramento Kings,L,120,123
+LAL,2021-03-12,10:30p,Indiana Pacers,W,105,100
+LAL,2021-03-15,10:30p,Golden State Warriors,W,128,97
+LAL,2021-03-16,10:30p,Minnesota Timberwolves,W,137,121
+LAL,2021-03-18,10:30p,Charlotte Hornets,W,116,105
+LAL,2021-03-20,3:30p,Atlanta Hawks,L,94,99
+LAL,2021-03-21,10:00p,Phoenix Suns,L,94,111
+LAL,2021-03-23,7:30p,New Orleans Pelicans,L,111,128
+LAL,2021-03-25,10:00p,Philadelphia 76ers,L,101,109
+LAL,2021-03-26,10:30p,Cleveland Cavaliers,W,100,86
+LAL,2021-03-28,10:00p,Orlando Magic,W,96,93
+LAL,2021-03-31,10:00p,Milwaukee Bucks,L,97,112
+LAL,2021-04-02,10:00p,Sacramento Kings,W,115,94
+LAL,2021-04-04,3:30p,Los Angeles Clippers,L,86,104
+LAL,2021-04-06,7:30p,Toronto Raptors,W,110,101
+LAL,2021-04-08,7:30p,Miami Heat,L,104,110
+LAL,2021-04-10,8:30p,Brooklyn Nets,W,126,101
+LAL,2021-04-12,7:30p,New York Knicks,L,96,111
+LAL,2021-04-13,8:00p,Charlotte Hornets,W,101,93
+LAL,2021-04-15,10:00p,Boston Celtics,L,113,121
+LAL,2021-04-17,4:30p,Utah Jazz,W,127,115
+LAL,2021-04-19,10:00p,Utah Jazz,L,97,111
+LAL,2021-04-22,9:30p,Dallas Mavericks,L,110,115
+LAL,2021-04-24,8:30p,Dallas Mavericks,L,93,108
+LAL,2021-04-26,7:00p,Orlando Magic,W,114,103
+LAL,2021-04-28,7:30p,Washington Wizards,L,107,116
+LAL,2021-04-30,10:30p,Sacramento Kings,L,106,110
+LAL,2021-05-02,10:00p,Toronto Raptors,L,114,121
+LAL,2021-05-03,10:00p,Denver Nuggets,W,93,89
+LAL,2021-05-06,10:00p,Los Angeles Clippers,L,94,118
+LAL,2021-05-07,10:00p,Portland Trail Blazers,L,101,106
+LAL,2021-05-09,10:00p,Phoenix Suns,W,123,110
+LAL,2021-05-11,10:00p,New York Knicks,W,101,99
+LAL,2021-05-12,10:30p,Houston Rockets,W,124,122
+LAL,2021-05-15,1:00p,Indiana Pacers,W,122,115
+LAL,2021-05-16,9:00p,New Orleans Pelicans,W,110,98
+LAL,2021-05-19,10:00p,Golden State Warriors,W,103,100
+LAL,2021-10-19,10:00p,Golden State Warriors,L,114,121
+LAL,2021-10-22,10:00p,Phoenix Suns,L,105,115
+LAL,2021-10-24,9:30p,Memphis Grizzlies,W,121,118
+LAL,2021-10-26,8:30p,San Antonio Spurs,W,125,121
+LAL,2021-10-27,8:00p,Oklahoma City Thunder,L,115,123
+LAL,2021-10-29,10:30p,Cleveland Cavaliers,W,113,101
+LAL,2021-10-31,10:30p,Houston Rockets,W,95,85
+LAL,2021-11-02,10:30p,Houston Rockets,W,119,117
+LAL,2021-11-04,10:30p,Oklahoma City Thunder,L,104,107
+LAL,2021-11-06,10:30p,Portland Trail Blazers,L,90,105
+LAL,2021-11-08,10:30p,Charlotte Hornets,W,126,123
+LAL,2021-11-10,10:00p,Miami Heat,W,120,117
+LAL,2021-11-12,10:30p,Minnesota Timberwolves,L,83,107
+LAL,2021-11-14,3:30p,San Antonio Spurs,W,114,106
+LAL,2021-11-15,10:30p,Chicago Bulls,L,103,121
+LAL,2021-11-17,7:30p,Milwaukee Bucks,L,102,109
+LAL,2021-11-19,7:30p,Boston Celtics,L,108,130
+LAL,2021-11-21,6:00p,Detroit Pistons,W,121,116
+LAL,2021-11-23,7:30p,New York Knicks,L,100,106
+LAL,2021-11-24,7:00p,Indiana Pacers,W,124,116
+LAL,2021-11-26,10:30p,Sacramento Kings,L,137,141
+LAL,2021-11-28,9:30p,Detroit Pistons,W,110,106
+LAL,2021-11-30,10:00p,Sacramento Kings,W,117,92
+LAL,2021-12-03,10:00p,Los Angeles Clippers,L,115,119
+LAL,2021-12-07,10:00p,Boston Celtics,W,117,102
+LAL,2021-12-09,8:00p,Memphis Grizzlies,L,95,108
+LAL,2021-12-10,8:00p,Oklahoma City Thunder,W,116,95
+LAL,2021-12-12,9:30p,Orlando Magic,W,106,94
+LAL,2021-12-15,7:30p,Dallas Mavericks,W,107,104
+LAL,2021-12-17,10:00p,Minnesota Timberwolves,L,92,110
+LAL,2021-12-19,8:00p,Chicago Bulls,L,110,115
+LAL,2021-12-21,10:00p,Phoenix Suns,L,90,108
+LAL,2021-12-23,10:30p,San Antonio Spurs,L,110,138
+LAL,2021-12-25,8:00p,Brooklyn Nets,L,115,122
+LAL,2021-12-28,8:00p,Houston Rockets,W,132,123
+LAL,2021-12-29,8:00p,Memphis Grizzlies,L,99,104
+LAL,2021-12-31,10:30p,Portland Trail Blazers,W,139,106
+LAL,2022-01-02,9:30p,Minnesota Timberwolves,W,108,103
+LAL,2022-01-04,10:30p,Sacramento Kings,W,122,114
+LAL,2022-01-07,10:00p,Atlanta Hawks,W,134,118
+LAL,2022-01-09,9:30p,Memphis Grizzlies,L,119,127
+LAL,2022-01-12,10:00p,Sacramento Kings,L,116,125
+LAL,2022-01-15,9:00p,Denver Nuggets,L,96,133
+LAL,2022-01-17,10:30p,Utah Jazz,W,101,95
+LAL,2022-01-19,10:30p,Indiana Pacers,L,104,111
+LAL,2022-01-21,7:00p,Orlando Magic,W,116,105
+LAL,2022-01-23,6:00p,Miami Heat,L,107,113
+LAL,2022-01-25,7:30p,Brooklyn Nets,W,106,96
+LAL,2022-01-27,7:30p,Philadelphia 76ers,L,87,105
+LAL,2022-01-28,7:30p,Charlotte Hornets,L,114,117
+LAL,2022-01-30,1:00p,Atlanta Hawks,L,121,129
+LAL,2022-02-02,10:30p,Portland Trail Blazers,W,99,94
+LAL,2022-02-03,10:00p,Los Angeles Clippers,L,110,111
+LAL,2022-02-05,8:30p,New York Knicks,W,122,115
+LAL,2022-02-08,10:00p,Milwaukee Bucks,L,116,131
+LAL,2022-02-09,10:00p,Portland Trail Blazers,L,105,107
+LAL,2022-02-12,8:30p,Golden State Warriors,L,115,117
+LAL,2022-02-16,10:00p,Utah Jazz,W,106,101
+LAL,2022-02-25,10:00p,Los Angeles Clippers,L,102,105
+LAL,2022-02-27,10:00p,New Orleans Pelicans,L,95,123
+LAL,2022-03-01,10:00p,Dallas Mavericks,L,104,109
+LAL,2022-03-03,10:00p,Los Angeles Clippers,L,111,132
+LAL,2022-03-05,8:30p,Golden State Warriors,W,124,116
+LAL,2022-03-07,8:30p,San Antonio Spurs,L,110,117
+LAL,2022-03-09,8:00p,Houston Rockets,L,130,139
+LAL,2022-03-11,10:30p,Washington Wizards,W,122,109
+LAL,2022-03-13,9:00p,Phoenix Suns,L,111,140
+LAL,2022-03-14,10:30p,Toronto Raptors,L,103,114
+LAL,2022-03-16,8:00p,Minnesota Timberwolves,L,104,124
+LAL,2022-03-18,7:30p,Toronto Raptors,W,128,123
+LAL,2022-03-19,8:00p,Washington Wizards,L,119,127
+LAL,2022-03-21,7:00p,Cleveland Cavaliers,W,131,120
+LAL,2022-03-23,10:00p,Philadelphia 76ers,L,121,126
+LAL,2022-03-27,7:00p,New Orleans Pelicans,L,108,116
+LAL,2022-03-29,7:30p,Dallas Mavericks,L,110,128
+LAL,2022-03-31,10:00p,Utah Jazz,L,109,122
+LAL,2022-04-01,10:30p,New Orleans Pelicans,L,111,114
+LAL,2022-04-03,3:30p,Denver Nuggets,L,118,129
+LAL,2022-04-05,10:30p,Phoenix Suns,L,110,121
+LAL,2022-04-07,10:00p,Golden State Warriors,L,112,128
+LAL,2022-04-08,10:30p,Oklahoma City Thunder,W,120,101
+LAL,2022-04-10,9:30p,Denver Nuggets,W,146,141
+LAL,2022-10-18,10:00p,Golden State Warriors,L,109,123
+LAL,2022-10-20,10:00p,Los Angeles Clippers,L,97,103
+LAL,2022-10-23,3:30p,Portland Trail Blazers,L,104,106
+LAL,2022-10-26,10:00p,Denver Nuggets,L,99,110
+LAL,2022-10-28,8:00p,Minnesota Timberwolves,L,102,111
+LAL,2022-10-30,9:30p,Denver Nuggets,W,121,110
+LAL,2022-11-02,10:30p,New Orleans Pelicans,W,120,117
+LAL,2022-11-04,10:30p,Utah Jazz,L,116,130
+LAL,2022-11-06,3:30p,Cleveland Cavaliers,L,100,114
+LAL,2022-11-07,10:15p,Utah Jazz,L,116,139
+LAL,2022-11-09,10:00p,Los Angeles Clippers,L,101,114
+LAL,2022-11-11,10:30p,Sacramento Kings,L,114,120
+LAL,2022-11-13,9:30p,Brooklyn Nets,W,116,103
+LAL,2022-11-18,10:30p,Detroit Pistons,W,128,121
+LAL,2022-11-20,9:30p,San Antonio Spurs,W,123,92
+LAL,2022-11-22,10:00p,Phoenix Suns,L,105,115
+LAL,2022-11-25,8:00p,San Antonio Spurs,W,105,94
+LAL,2022-11-26,8:00p,San Antonio Spurs,W,143,138
+LAL,2022-11-28,10:30p,Indiana Pacers,L,115,116
+LAL,2022-11-30,10:30p,Portland Trail Blazers,W,128,109
+LAL,2022-12-02,7:30p,Milwaukee Bucks,W,133,129
+LAL,2022-12-04,6:00p,Washington Wizards,W,130,119
+LAL,2022-12-06,7:30p,Cleveland Cavaliers,L,102,116
+LAL,2022-12-07,7:30p,Toronto Raptors,L,113,126
+LAL,2022-12-09,7:30p,Philadelphia 76ers,L,122,133
+LAL,2022-12-11,6:00p,Detroit Pistons,W,124,117
+LAL,2022-12-13,10:00p,Boston Celtics,L,118,122
+LAL,2022-12-16,10:00p,Denver Nuggets,W,126,108
+LAL,2022-12-18,9:30p,Washington Wizards,W,119,117
+LAL,2022-12-19,9:00p,Phoenix Suns,L,104,130
+LAL,2022-12-21,10:00p,Sacramento Kings,L,120,134
+LAL,2022-12-23,10:30p,Charlotte Hornets,L,130,134
+LAL,2022-12-25,2:30p,Dallas Mavericks,L,115,124
+LAL,2022-12-27,7:00p,Orlando Magic,W,129,110
+LAL,2022-12-28,7:30p,Miami Heat,L,98,112
+LAL,2022-12-30,7:30p,Atlanta Hawks,W,130,121
+LAL,2023-01-02,7:00p,Charlotte Hornets,W,121,115
+LAL,2023-01-04,10:00p,Miami Heat,W,112,109
+LAL,2023-01-06,10:30p,Atlanta Hawks,W,130,114
+LAL,2023-01-07,10:00p,Sacramento Kings,W,136,134
+LAL,2023-01-09,9:00p,Denver Nuggets,L,109,122
+LAL,2023-01-12,10:00p,Dallas Mavericks,L,115,119
+LAL,2023-01-15,9:30p,Philadelphia 76ers,L,112,113
+LAL,2023-01-16,10:30p,Houston Rockets,W,140,132
+LAL,2023-01-18,10:30p,Sacramento Kings,L,111,116
+LAL,2023-01-20,10:00p,Memphis Grizzlies,W,122,121
+LAL,2023-01-22,9:00p,Portland Trail Blazers,W,121,112
+LAL,2023-01-24,10:00p,Los Angeles Clippers,L,115,133
+LAL,2023-01-25,10:30p,San Antonio Spurs,W,113,104
+LAL,2023-01-28,8:30p,Boston Celtics,L,121,125
+LAL,2023-01-30,7:30p,Brooklyn Nets,L,104,121
+LAL,2023-01-31,7:30p,New York Knicks,W,129,123
+LAL,2023-02-02,7:00p,Indiana Pacers,W,112,111
+LAL,2023-02-04,6:00p,New Orleans Pelicans,L,126,131
+LAL,2023-02-07,10:00p,Oklahoma City Thunder,L,130,133
+LAL,2023-02-09,10:00p,Milwaukee Bucks,L,106,115
+LAL,2023-02-11,8:30p,Golden State Warriors,W,109,103
+LAL,2023-02-13,10:00p,Portland Trail Blazers,L,115,127
+LAL,2023-02-15,10:00p,New Orleans Pelicans,W,120,102
+LAL,2023-02-23,10:00p,Golden State Warriors,,,
+LAL,2023-02-26,3:30p,Dallas Mavericks,,,
+LAL,2023-02-28,8:00p,Memphis Grizzlies,,,
+LAL,2023-03-01,8:00p,Oklahoma City Thunder,,,
+LAL,2023-03-03,10:30p,Minnesota Timberwolves,,,
+LAL,2023-03-05,3:30p,Golden State Warriors,,,
+LAL,2023-03-07,10:00p,Memphis Grizzlies,,,
+LAL,2023-03-10,10:30p,Toronto Raptors,,,
+LAL,2023-03-12,9:00p,New York Knicks,,,
+LAL,2023-03-14,8:00p,New Orleans Pelicans,,,
+LAL,2023-03-15,8:00p,Houston Rockets,,,
+LAL,2023-03-17,10:30p,Dallas Mavericks,,,
+LAL,2023-03-19,9:30p,Orlando Magic,,,
+LAL,2023-03-22,10:00p,Phoenix Suns,,,
+LAL,2023-03-24,10:30p,Oklahoma City Thunder,,,
+LAL,2023-03-26,3:30p,Chicago Bulls,,,
+LAL,2023-03-29,8:00p,Chicago Bulls,,,
+LAL,2023-03-31,8:00p,Minnesota Timberwolves,,,
+LAL,2023-04-02,7:00p,Houston Rockets,,,
+LAL,2023-04-04,9:00p,Utah Jazz,,,
+LAL,2023-04-05,10:00p,Los Angeles Clippers,,,
+LAL,2023-04-07,10:30p,Phoenix Suns,,,
+LAL,2023-04-09,3:30p,Utah Jazz,,,

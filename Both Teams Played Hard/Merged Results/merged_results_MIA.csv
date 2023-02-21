@@ -1,0 +1,360 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-27,FLA,Toronto Maple Leafs,W,5,3,MIA,Boston Celtics,W,115,107
+2011-12-30,FLA,New York Rangers,L,1,4,MIA,Minnesota Timberwolves,W,103,101
+2012-01-05,FLA,New York Rangers,L,2,3,MIA,Atlanta Hawks,W,116,109
+2012-01-13,FLA,Pittsburgh Penguins,L,1,4,MIA,Denver Nuggets,L,104,117
+2012-01-21,FLA,Winnipeg Jets,W,4,3,MIA,Philadelphia 76ers,W,113,92
+2012-01-24,FLA,Philadelphia Flyers,L,2,3,MIA,Cleveland Cavaliers,W,92,85
+2012-02-01,FLA,Washington Capitals,W,4,2,MIA,Milwaukee Bucks,L,97,105
+2012-02-03,FLA,Winnipeg Jets,W,2,1,MIA,Philadelphia 76ers,W,99,79
+2012-02-07,FLA,Washington Capitals,L,0,4,MIA,Cleveland Cavaliers,W,107,91
+2012-02-12,FLA,New York Islanders,W,4,1,MIA,Atlanta Hawks,W,107,87
+2012-02-17,FLA,Washington Capitals,L,1,2,MIA,Cleveland Cavaliers,W,111,87
+2012-02-19,FLA,Anaheim Ducks,L,0,2,MIA,Orlando Magic,W,90,78
+2012-02-23,FLA,Minnesota Wild,L,2,3,MIA,New York Knicks,W,102,88
+2012-03-01,FLA,Winnipeg Jets,L,0,7,MIA,Portland Trail Blazers,W,107,93
+2012-03-04,FLA,Ottawa Senators,W,4,2,MIA,Los Angeles Lakers,L,83,93
+2012-03-13,FLA,Toronto Maple Leafs,W,5,2,MIA,Orlando Magic,L,98,104
+2012-03-20,FLA,Philadelphia Flyers,W,2,1,MIA,Phoenix Suns,W,99,95
+2012-03-23,FLA,Edmonton Oilers,L,1,2,MIA,Detroit Pistons,W,88,73
+2012-03-25,FLA,New York Islanders,L,2,3,MIA,Oklahoma City Thunder,L,87,103
+2012-03-29,FLA,Minnesota Wild,L,2,3,MIA,Dallas Mavericks,W,106,85
+2012-03-30,FLA,Columbus Blue Jackets,L,1,4,MIA,Toronto Raptors,W,113,101
+2012-04-01,FLA,Detroit Red Wings,L,1,2,MIA,Boston Celtics,L,72,91
+2012-04-03,FLA,Winnipeg Jets,L,4,5,MIA,Philadelphia 76ers,W,99,93
+2013-02-03,FLA,Buffalo Sabres,W,4,3,MIA,Toronto Raptors,W,100,85
+2013-02-12,FLA,Washington Capitals,L,5,6,MIA,Portland Trail Blazers,W,117,104
+2013-02-14,FLA,Montreal Canadiens,L,0,1,MIA,Oklahoma City Thunder,W,110,100
+2013-02-21,FLA,Philadelphia Flyers,W,5,2,MIA,Chicago Bulls,W,86,67
+2013-02-24,FLA,Boston Bruins,L,1,4,MIA,Cleveland Cavaliers,W,109,105
+2013-02-26,FLA,Pittsburgh Penguins,W,6,4,MIA,Sacramento Kings,W,141,129
+2013-03-03,FLA,Carolina Hurricanes,L,2,3,MIA,New York Knicks,W,99,93
+2013-03-08,FLA,Winnipeg Jets,L,2,3,MIA,Philadelphia 76ers,W,102,93
+2013-03-10,FLA,Montreal Canadiens,L,2,5,MIA,Indiana Pacers,W,105,91
+2013-03-12,FLA,Tampa Bay Lightning,L,2,3,MIA,Atlanta Hawks,W,98,81
+2013-03-24,FLA,New York Islanders,L,0,3,MIA,Charlotte Bobcats,W,109,77
+2013-04-02,FLA,Tampa Bay Lightning,W,3,2,MIA,New York Knicks,L,90,102
+2013-04-06,FLA,Washington Capitals,L,3,4,MIA,Philadelphia 76ers,W,106,87
+2013-11-01,FLA,St. Louis Blues,L,0,4,MIA,Brooklyn Nets,L,100,101
+2013-11-05,FLA,Edmonton Oilers,L,3,4,MIA,Toronto Raptors,W,104,95
+2013-11-07,FLA,Boston Bruins,L,1,4,MIA,Los Angeles Clippers,W,102,97
+2013-11-09,FLA,Ottawa Senators,L,2,3,MIA,Boston Celtics,L,110,111
+2013-11-12,FLA,Anaheim Ducks,W,3,2,MIA,Milwaukee Bucks,W,118,95
+2013-11-15,FLA,Minnesota Wild,L,2,3,MIA,Dallas Mavericks,W,110,104
+2013-11-16,FLA,Colorado Avalanche,W,4,1,MIA,Charlotte Bobcats,W,97,81
+2013-11-19,FLA,Vancouver Canucks,W,3,2,MIA,Atlanta Hawks,W,104,88
+2013-11-25,FLA,Philadelphia Flyers,W,3,1,MIA,Phoenix Suns,W,107,92
+2013-11-27,FLA,New York Rangers,L,2,5,MIA,Cleveland Cavaliers,W,95,84
+2013-12-03,FLA,Ottawa Senators,L,2,4,MIA,Detroit Pistons,L,97,107
+2013-12-05,FLA,Winnipeg Jets,W,5,2,MIA,Chicago Bulls,L,87,107
+2013-12-07,FLA,Detroit Red Wings,W,2,1,MIA,Minnesota Timberwolves,W,103,82
+2013-12-08,FLA,Chicago Blackhawks,L,2,6,MIA,Detroit Pistons,W,110,95
+2013-12-10,FLA,Detroit Red Wings,W,3,2,MIA,Indiana Pacers,L,84,90
+2013-12-20,FLA,Winnipeg Jets,L,2,5,MIA,Sacramento Kings,W,122,103
+2013-12-23,FLA,Tampa Bay Lightning,L,1,6,MIA,Atlanta Hawks,W,121,119
+2013-12-28,FLA,Detroit Red Wings,L,3,4,MIA,Portland Trail Blazers,W,108,107
+2014-01-04,FLA,Nashville Predators,W,5,4,MIA,Orlando Magic,W,110,94
+2014-01-09,FLA,Buffalo Sabres,W,2,1,MIA,New York Knicks,L,92,102
+2014-01-18,FLA,Carolina Hurricanes,L,2,3,MIA,Charlotte Bobcats,W,104,96
+2014-01-20,FLA,Pittsburgh Penguins,W,5,1,MIA,Atlanta Hawks,L,114,121
+2014-01-21,FLA,Buffalo Sabres,W,4,3,MIA,Boston Celtics,W,93,86
+2014-01-26,FLA,Detroit Red Wings,W,5,4,MIA,San Antonio Spurs,W,113,101
+2014-02-01,FLA,Columbus Blue Jackets,L,1,4,MIA,New York Knicks,W,106,91
+2014-02-27,FLA,Washington Capitals,L,4,5,MIA,New York Knicks,W,108,82
+2014-03-01,FLA,Columbus Blue Jackets,L,3,6,MIA,Orlando Magic,W,112,98
+2014-03-04,FLA,Boston Bruins,L,1,4,MIA,Houston Rockets,L,103,106
+2014-03-09,FLA,Boston Bruins,L,2,5,MIA,Chicago Bulls,L,88,95
+2014-03-14,FLA,New Jersey Devils,W,5,3,MIA,Denver Nuggets,L,107,111
+2014-03-16,FLA,Vancouver Canucks,L,3,4,MIA,Houston Rockets,W,113,104
+2014-03-18,FLA,San Jose Sharks,W,3,2,MIA,Cleveland Cavaliers,W,100,96
+2014-03-22,FLA,Los Angeles Kings,L,0,4,MIA,New Orleans Pelicans,L,95,105
+2014-03-29,FLA,Montreal Canadiens,L,1,4,MIA,Milwaukee Bucks,W,88,67
+2014-03-31,FLA,New Jersey Devils,L,3,6,MIA,Toronto Raptors,W,93,83
+2014-04-04,FLA,Calgary Flames,L,1,2,MIA,Minnesota Timberwolves,L,121,122
+2014-04-06,FLA,Dallas Stars,W,3,2,MIA,New York Knicks,W,102,91
+2014-04-08,FLA,Philadelphia Flyers,L,2,5,MIA,Brooklyn Nets,L,87,88
+2014-04-12,FLA,Columbus Blue Jackets,L,2,3,MIA,Atlanta Hawks,L,85,98
+2014-11-01,FLA,Philadelphia Flyers,W,2,1,MIA,Philadelphia 76ers,W,114,96
+2014-11-04,FLA,Boston Bruins,L,1,2,MIA,Houston Rockets,L,91,108
+2014-11-08,FLA,Calgary Flames,L,4,6,MIA,Minnesota Timberwolves,W,102,92
+2014-11-14,FLA,New York Islanders,L,3,4,MIA,Atlanta Hawks,L,103,114
+2014-11-16,FLA,Anaheim Ducks,W,6,2,MIA,Milwaukee Bucks,L,84,91
+2014-11-20,FLA,San Jose Sharks,W,3,2,MIA,Los Angeles Clippers,L,93,110
+2014-11-22,FLA,Nashville Predators,L,2,3,MIA,Orlando Magic,W,99,92
+2014-12-01,FLA,Columbus Blue Jackets,L,1,2,MIA,Washington Wizards,L,86,107
+2014-12-12,FLA,Detroit Red Wings,W,3,2,MIA,Utah Jazz,W,100,95
+2014-12-16,FLA,Washington Capitals,W,2,1,MIA,Brooklyn Nets,W,95,91
+2014-12-31,FLA,New York Rangers,L,2,5,MIA,Indiana Pacers,L,95,106
+2015-01-04,FLA,Washington Capitals,L,3,4,MIA,Brooklyn Nets,W,88,84
+2015-01-08,FLA,Vancouver Canucks,W,3,1,MIA,Portland Trail Blazers,L,83,99
+2015-01-11,FLA,Edmonton Oilers,W,4,2,MIA,Los Angeles Clippers,W,104,90
+2015-01-13,FLA,Winnipeg Jets,L,2,8,MIA,Los Angeles Lakers,W,78,75
+2015-01-27,FLA,Detroit Red Wings,L,4,5,MIA,Milwaukee Bucks,L,102,109
+2015-02-03,FLA,New York Islanders,W,4,2,MIA,Detroit Pistons,L,91,108
+2015-02-21,FLA,Ottawa Senators,L,1,4,MIA,New Orleans Pelicans,L,91,105
+2015-02-28,FLA,Buffalo Sabres,W,5,3,MIA,Atlanta Hawks,L,91,93
+2015-03-07,FLA,New York Islanders,W,4,3,MIA,Sacramento Kings,W,114,109
+2015-03-24,FLA,Tampa Bay Lightning,L,3,4,MIA,Milwaukee Bucks,L,88,89
+2015-03-29,FLA,Ottawa Senators,W,4,2,MIA,Detroit Pistons,W,109,102
+2015-03-31,FLA,Boston Bruins,L,2,3,MIA,San Antonio Spurs,L,81,95
+2015-04-02,FLA,Carolina Hurricanes,W,6,1,MIA,Cleveland Cavaliers,L,88,114
+2015-04-04,FLA,Tampa Bay Lightning,L,0,4,MIA,Detroit Pistons,L,98,99
+2015-04-05,FLA,Montreal Canadiens,L,1,4,MIA,Indiana Pacers,L,89,112
+2015-04-09,FLA,Boston Bruins,W,4,2,MIA,Chicago Bulls,L,78,89
+2015-04-11,FLA,New Jersey Devils,W,3,2,MIA,Toronto Raptors,L,104,107
+2015-10-30,FLA,Boston Bruins,L,1,3,MIA,Cleveland Cavaliers,L,92,102
+2015-11-05,FLA,San Jose Sharks,L,2,5,MIA,Minnesota Timberwolves,W,96,84
+2015-11-10,FLA,Calgary Flames,W,4,3,MIA,Los Angeles Lakers,W,101,88
+2015-11-12,FLA,Buffalo Sabres,L,2,3,MIA,Utah Jazz,W,92,91
+2015-11-19,FLA,Anaheim Ducks,L,1,3,MIA,Sacramento Kings,W,116,109
+2015-11-21,FLA,New York Rangers,L,4,5,MIA,Philadelphia 76ers,W,96,91
+2015-11-23,FLA,Los Angeles Kings,L,1,3,MIA,New York Knicks,W,95,78
+2015-11-27,FLA,New York Islanders,W,3,2,MIA,New York Knicks,W,97,78
+2015-12-03,FLA,Nashville Predators,W,2,1,MIA,Oklahoma City Thunder,W,97,95
+2015-12-18,FLA,Carolina Hurricanes,W,2,0,MIA,Toronto Raptors,L,94,108
+2015-12-20,FLA,Vancouver Canucks,W,5,4,MIA,Portland Trail Blazers,W,116,109
+2015-12-22,FLA,Ottawa Senators,W,2,1,MIA,Detroit Pistons,L,92,93
+2015-12-29,FLA,Montreal Canadiens,W,3,1,MIA,Memphis Grizzlies,L,90,99
+2016-01-03,FLA,Minnesota Wild,W,2,1,MIA,Washington Wizards,W,97,75
+2016-01-11,FLA,Vancouver Canucks,L,2,3,MIA,Golden State Warriors,L,103,111
+2016-01-13,FLA,Calgary Flames,L,0,6,MIA,Los Angeles Clippers,L,90,104
+2016-01-17,FLA,Tampa Bay Lightning,L,1,3,MIA,Oklahoma City Thunder,L,74,99
+2016-01-22,FLA,Chicago Blackhawks,W,4,0,MIA,Toronto Raptors,L,81,101
+2016-01-26,FLA,Toronto Maple Leafs,W,5,1,MIA,Brooklyn Nets,W,102,98
+2016-02-02,FLA,Washington Capitals,W,5,2,MIA,Houston Rockets,L,102,115
+2016-02-09,FLA,Buffalo Sabres,W,7,4,MIA,San Antonio Spurs,L,101,119
+2016-02-20,FLA,Winnipeg Jets,W,3,1,MIA,Washington Wizards,W,114,94
+2016-02-27,FLA,Columbus Blue Jackets,L,3,4,MIA,Boston Celtics,L,89,101
+2016-02-28,FLA,Minnesota Wild,L,1,3,MIA,New York Knicks,W,98,81
+2016-03-01,FLA,Winnipeg Jets,W,3,2,MIA,Chicago Bulls,W,129,111
+2016-03-03,FLA,Colorado Avalanche,L,2,3,MIA,Phoenix Suns,W,108,92
+2016-03-12,FLA,Philadelphia Flyers,W,5,4,MIA,Toronto Raptors,L,104,112
+2016-03-14,FLA,New York Islanders,L,2,3,MIA,Denver Nuggets,W,124,119
+2016-03-17,FLA,Toronto Maple Leafs,W,4,1,MIA,Charlotte Hornets,L,106,109
+2016-03-19,FLA,Detroit Red Wings,L,3,5,MIA,Cleveland Cavaliers,W,122,101
+2016-04-02,FLA,Montreal Canadiens,W,4,3,MIA,Portland Trail Blazers,L,93,110
+2016-04-05,FLA,Montreal Canadiens,W,4,1,MIA,Detroit Pistons,W,107,89
+2016-04-07,FLA,Ottawa Senators,L,1,3,MIA,Chicago Bulls,W,106,98
+2016-10-30,FLA,Detroit Red Wings,W,5,2,MIA,San Antonio Spurs,L,99,106
+2016-11-01,FLA,Boston Bruins,L,1,2,MIA,Sacramento Kings,W,108,96
+2016-11-07,FLA,Tampa Bay Lightning,W,3,1,MIA,Oklahoma City Thunder,L,85,97
+2016-11-10,FLA,San Jose Sharks,L,2,4,MIA,Chicago Bulls,L,95,98
+2016-11-12,FLA,New York Islanders,W,3,2,MIA,Utah Jazz,L,91,102
+2016-11-15,FLA,Montreal Canadiens,W,4,3,MIA,Atlanta Hawks,L,90,93
+2016-11-17,FLA,Toronto Maple Leafs,L,1,6,MIA,Milwaukee Bucks,W,96,73
+2016-11-19,FLA,Ottawa Senators,W,4,1,MIA,Washington Wizards,W,114,111
+2016-11-26,FLA,Columbus Blue Jackets,W,2,1,MIA,Memphis Grizzlies,L,107,110
+2016-12-01,FLA,Detroit Red Wings,W,2,1,MIA,Utah Jazz,W,111,110
+2016-12-03,FLA,Ottawa Senators,L,0,2,MIA,Portland Trail Blazers,L,92,99
+2016-12-06,FLA,Philadelphia Flyers,L,2,3,MIA,New York Knicks,L,103,114
+2016-12-10,FLA,Vancouver Canucks,W,4,2,MIA,Chicago Bulls,L,100,105
+2016-12-16,FLA,Colorado Avalanche,W,3,1,MIA,Los Angeles Clippers,L,98,102
+2016-12-20,FLA,Buffalo Sabres,W,4,3,MIA,Orlando Magic,L,130,136
+2016-12-22,FLA,Boston Bruins,L,1,3,MIA,Los Angeles Lakers,W,115,107
+2016-12-23,FLA,Detroit Red Wings,L,3,4,MIA,New Orleans Pelicans,L,87,91
+2016-12-29,FLA,Montreal Canadiens,L,2,3,MIA,Charlotte Hornets,L,82,91
+2017-01-04,FLA,Winnipeg Jets,L,1,4,MIA,Sacramento Kings,W,107,102
+2017-01-06,FLA,Nashville Predators,W,2,1,MIA,Los Angeles Lakers,L,100,127
+2017-01-13,FLA,New York Islanders,L,2,5,MIA,Milwaukee Bucks,L,108,116
+2017-01-17,FLA,Calgary Flames,L,2,5,MIA,Houston Rockets,W,109,103
+2017-01-23,FLA,Arizona Coyotes,L,2,3,MIA,Golden State Warriors,W,105,102
+2017-02-11,FLA,Nashville Predators,W,7,4,MIA,Philadelphia 76ers,L,109,117
+2017-02-15,FLA,San Jose Sharks,W,6,5,MIA,Houston Rockets,W,117,109
+2017-02-24,FLA,Calgary Flames,L,2,4,MIA,Atlanta Hawks,W,108,90
+2017-03-04,FLA,Dallas Stars,L,1,2,MIA,Cleveland Cavaliers,W,120,92
+2017-03-11,FLA,Tampa Bay Lightning,L,2,3,MIA,Toronto Raptors,W,104,89
+2017-03-17,FLA,New York Rangers,W,4,3,MIA,Minnesota Timberwolves,W,123,105
+2017-03-19,FLA,Pittsburgh Penguins,L,0,4,MIA,Portland Trail Blazers,L,104,115
+2017-03-21,FLA,Carolina Hurricanes,L,3,4,MIA,Phoenix Suns,W,112,97
+2017-03-23,FLA,Arizona Coyotes,W,3,1,MIA,Toronto Raptors,L,84,101
+2017-03-28,FLA,Toronto Maple Leafs,L,2,3,MIA,Detroit Pistons,W,97,96
+2017-04-08,FLA,Buffalo Sabres,W,3,0,MIA,Washington Wizards,W,106,103
+2017-10-21,FLA,Washington Capitals,W,4,1,MIA,Indiana Pacers,W,112,108
+2017-10-28,FLA,Detroit Red Wings,L,2,3,MIA,Boston Celtics,L,90,96
+2017-10-30,FLA,Tampa Bay Lightning,L,5,8,MIA,Minnesota Timberwolves,L,122,125
+2017-11-10,FLA,Buffalo Sabres,W,4,1,MIA,Utah Jazz,W,84,74
+2017-11-19,FLA,Anaheim Ducks,L,2,3,MIA,Indiana Pacers,L,95,120
+2017-11-22,FLA,Toronto Maple Leafs,W,2,1,MIA,Boston Celtics,W,104,98
+2017-11-28,FLA,New York Rangers,W,5,4,MIA,Cleveland Cavaliers,L,97,108
+2017-12-01,FLA,San Jose Sharks,L,1,2,MIA,Charlotte Hornets,W,105,100
+2017-12-09,FLA,Colorado Avalanche,L,3,7,MIA,Brooklyn Nets,W,101,89
+2017-12-11,FLA,Detroit Red Wings,W,2,1,MIA,Memphis Grizzlies,W,107,82
+2017-12-22,FLA,Minnesota Wild,W,4,2,MIA,Dallas Mavericks,W,113,101
+2017-12-23,FLA,Ottawa Senators,W,1,0,MIA,New Orleans Pelicans,L,94,109
+2017-12-30,FLA,Montreal Canadiens,W,2,0,MIA,Orlando Magic,W,117,111
+2018-01-05,FLA,Detroit Red Wings,L,2,4,MIA,New York Knicks,W,107,103
+2018-01-07,FLA,Columbus Blue Jackets,L,2,3,MIA,Utah Jazz,W,103,102
+2018-01-09,FLA,St. Louis Blues,W,7,4,MIA,Toronto Raptors,W,90,89
+2018-01-19,FLA,Vegas Golden Knights,W,4,3,MIA,Brooklyn Nets,L,95,101
+2018-01-20,FLA,Nashville Predators,L,3,4,MIA,Charlotte Hornets,W,106,105
+2018-01-25,FLA,Washington Capitals,L,2,4,MIA,Sacramento Kings,L,88,89
+2018-02-03,FLA,Detroit Red Wings,W,3,2,MIA,Detroit Pistons,L,107,111
+2018-02-09,FLA,Los Angeles Kings,L,1,3,MIA,Milwaukee Bucks,W,91,85
+2018-02-14,FLA,Vancouver Canucks,W,4,3,MIA,Philadelphia 76ers,L,102,104
+2018-02-24,FLA,Pittsburgh Penguins,W,6,5,MIA,Memphis Grizzlies,W,115,89
+2018-02-27,FLA,Toronto Maple Leafs,W,3,2,MIA,Philadelphia 76ers,W,102,101
+2018-03-01,FLA,New Jersey Devils,W,3,2,MIA,Los Angeles Lakers,L,113,131
+2018-03-06,FLA,Tampa Bay Lightning,L,4,5,MIA,Washington Wizards,L,113,117
+2018-03-08,FLA,Montreal Canadiens,W,5,0,MIA,Philadelphia 76ers,W,108,99
+2018-03-10,FLA,New York Rangers,W,4,3,MIA,Washington Wizards,W,129,102
+2018-03-12,FLA,Ottawa Senators,L,3,5,MIA,Portland Trail Blazers,L,99,115
+2018-03-19,FLA,Montreal Canadiens,W,2,0,MIA,Denver Nuggets,W,149,141
+2018-03-29,FLA,Ottawa Senators,L,2,3,MIA,Chicago Bulls,W,103,92
+2018-03-31,FLA,Boston Bruins,L,1,5,MIA,Brooklyn Nets,L,109,110
+2018-04-03,FLA,Nashville Predators,W,2,1,MIA,Atlanta Hawks,W,101,98
+2018-10-20,FLA,Detroit Red Wings,L,3,4,MIA,Charlotte Hornets,L,112,113
+2018-10-24,FLA,New York Islanders,W,3,2,MIA,New York Knicks,W,110,87
+2018-10-27,FLA,New Jersey Devils,L,2,3,MIA,Portland Trail Blazers,W,120,111
+2018-11-10,FLA,New York Islanders,W,4,2,MIA,Washington Wizards,L,110,116
+2018-11-23,FLA,Carolina Hurricanes,L,1,4,MIA,Chicago Bulls,W,103,96
+2018-11-30,FLA,Buffalo Sabres,W,3,2,MIA,New Orleans Pelicans,W,106,101
+2018-12-04,FLA,Boston Bruins,W,5,0,MIA,Orlando Magic,L,90,105
+2018-12-08,FLA,New York Rangers,L,4,5,MIA,Los Angeles Clippers,W,121,98
+2018-12-20,FLA,Toronto Maple Leafs,L,1,6,MIA,Houston Rockets,W,101,99
+2018-12-22,FLA,Detroit Red Wings,W,2,1,MIA,Milwaukee Bucks,W,94,87
+2018-12-23,FLA,Chicago Blackhawks,W,6,3,MIA,Orlando Magic,W,115,91
+2018-12-28,FLA,Montreal Canadiens,L,3,5,MIA,Cleveland Cavaliers,W,118,94
+2019-01-08,FLA,Pittsburgh Penguins,L,1,5,MIA,Denver Nuggets,L,99,103
+2019-01-10,FLA,Edmonton Oilers,L,3,4,MIA,Boston Celtics,W,115,99
+2019-01-15,FLA,Montreal Canadiens,L,1,5,MIA,Milwaukee Bucks,L,86,124
+2019-01-18,FLA,Toronto Maple Leafs,W,3,1,MIA,Detroit Pistons,L,93,98
+2019-01-19,FLA,Nashville Predators,W,4,2,MIA,Chicago Bulls,W,117,103
+2019-01-21,FLA,San Jose Sharks,W,6,2,MIA,Boston Celtics,L,99,107
+2019-02-01,FLA,Nashville Predators,L,1,4,MIA,Oklahoma City Thunder,L,102,118
+2019-02-02,FLA,Vegas Golden Knights,W,3,1,MIA,Indiana Pacers,L,88,95
+2019-02-05,FLA,St. Louis Blues,L,2,3,MIA,Portland Trail Blazers,W,118,108
+2019-02-10,FLA,Tampa Bay Lightning,L,2,5,MIA,Golden State Warriors,L,118,120
+2019-02-21,FLA,Carolina Hurricanes,L,3,4,MIA,Philadelphia 76ers,L,102,106
+2019-02-23,FLA,Los Angeles Kings,W,6,1,MIA,Detroit Pistons,L,96,119
+2019-02-25,FLA,Colorado Avalanche,W,4,3,MIA,Phoenix Suns,L,121,124
+2019-02-28,FLA,Vegas Golden Knights,L,5,6,MIA,Houston Rockets,L,118,121
+2019-03-02,FLA,Carolina Hurricanes,L,3,4,MIA,Brooklyn Nets,W,117,88
+2019-03-08,FLA,Minnesota Wild,W,6,2,MIA,Cleveland Cavaliers,W,126,110
+2019-03-10,FLA,Detroit Red Wings,W,6,1,MIA,Toronto Raptors,L,104,125
+2019-03-17,FLA,Anaheim Ducks,L,2,3,MIA,Charlotte Hornets,W,93,75
+2019-03-23,FLA,Boston Bruins,L,3,7,MIA,Washington Wizards,W,113,108
+2019-03-26,FLA,Montreal Canadiens,L,1,6,MIA,Orlando Magic,L,99,104
+2019-03-28,FLA,Ottawa Senators,W,5,2,MIA,Dallas Mavericks,W,105,99
+2019-03-30,FLA,Boston Bruins,W,4,1,MIA,New York Knicks,W,100,92
+2019-04-01,FLA,Washington Capitals,W,5,3,MIA,Boston Celtics,L,105,110
+2019-10-27,FLA,Edmonton Oilers,W,6,2,MIA,Minnesota Timberwolves,L,109,116
+2019-11-07,FLA,Washington Capitals,L,4,5,MIA,Phoenix Suns,W,124,108
+2019-11-12,FLA,Boston Bruins,W,5,4,MIA,Detroit Pistons,W,117,108
+2019-11-14,FLA,Winnipeg Jets,L,3,4,MIA,Cleveland Cavaliers,W,108,97
+2019-11-16,FLA,New York Rangers,W,4,3,MIA,New Orleans Pelicans,W,109,94
+2019-11-23,FLA,Carolina Hurricanes,L,2,4,MIA,Philadelphia 76ers,L,86,113
+2019-11-27,FLA,Washington Capitals,L,3,4,MIA,Houston Rockets,L,108,117
+2019-12-03,FLA,Minnesota Wild,L,2,4,MIA,Toronto Raptors,W,121,110
+2019-12-08,FLA,San Jose Sharks,W,5,1,MIA,Chicago Bulls,W,110,105
+2019-12-10,FLA,Tampa Bay Lightning,L,1,2,MIA,Atlanta Hawks,W,135,121
+2019-12-14,FLA,Boston Bruins,L,2,4,MIA,Dallas Mavericks,W,122,118
+2019-12-16,FLA,Ottawa Senators,W,6,1,MIA,Memphis Grizzlies,L,111,118
+2019-12-20,FLA,Dallas Stars,W,7,4,MIA,New York Knicks,W,129,114
+2019-12-23,FLA,Tampa Bay Lightning,L,1,6,MIA,Utah Jazz,W,107,104
+2019-12-28,FLA,Detroit Red Wings,W,5,4,MIA,Philadelphia 76ers,W,117,116
+2020-01-02,FLA,Ottawa Senators,W,6,3,MIA,Toronto Raptors,W,84,76
+2020-01-05,FLA,Pittsburgh Penguins,W,4,1,MIA,Portland Trail Blazers,W,122,111
+2020-01-12,FLA,Toronto Maple Leafs,W,8,4,MIA,New York Knicks,L,121,124
+2020-01-20,FLA,Minnesota Wild,W,5,4,MIA,Sacramento Kings,W,118,113
+2020-02-01,FLA,Montreal Canadiens,L,0,4,MIA,Orlando Magic,W,102,89
+2020-02-03,FLA,Toronto Maple Leafs,W,5,3,MIA,Philadelphia 76ers,W,137,106
+2020-02-10,FLA,Philadelphia Flyers,L,1,4,MIA,Golden State Warriors,W,113,101
+2020-02-20,FLA,Los Angeles Kings,L,4,5,MIA,Atlanta Hawks,L,124,129
+2020-02-22,FLA,Vegas Golden Knights,L,3,5,MIA,Cleveland Cavaliers,W,124,105
+2020-02-29,FLA,Chicago Blackhawks,L,2,3,MIA,Brooklyn Nets,W,116,113
+2021-01-28,FLA,Columbus Blue Jackets,L,2,3,MIA,Los Angeles Clippers,L,105,109
+2021-01-30,FLA,Detroit Red Wings,W,3,2,MIA,Sacramento Kings,W,105,104
+2021-02-05,FLA,Nashville Predators,W,2,1,MIA,Washington Wizards,W,122,95
+2021-02-07,FLA,Detroit Red Wings,L,1,4,MIA,New York Knicks,W,109,103
+2021-02-09,FLA,Detroit Red Wings,W,2,1,MIA,New York Knicks,W,98,96
+2021-02-11,FLA,Tampa Bay Lightning,W,5,2,MIA,Houston Rockets,W,101,94
+2021-02-13,FLA,Tampa Bay Lightning,L,1,6,MIA,Utah Jazz,L,94,112
+2021-02-15,FLA,Tampa Bay Lightning,W,6,4,MIA,Los Angeles Clippers,L,118,125
+2021-02-17,FLA,Carolina Hurricanes,W,4,3,MIA,Golden State Warriors,L,112,120
+2021-02-20,FLA,Detroit Red Wings,L,1,2,MIA,Los Angeles Lakers,W,96,94
+2021-02-22,FLA,Dallas Stars,W,3,1,MIA,Oklahoma City Thunder,W,108,94
+2021-02-24,FLA,Dallas Stars,L,0,3,MIA,Toronto Raptors,W,116,108
+2021-03-04,FLA,Nashville Predators,W,5,4,MIA,New Orleans Pelicans,W,103,93
+2021-03-11,FLA,Columbus Blue Jackets,W,5,4,MIA,Orlando Magic,W,111,103
+2021-03-21,FLA,Tampa Bay Lightning,L,3,5,MIA,Indiana Pacers,L,106,109
+2021-03-23,FLA,Chicago Blackhawks,L,2,3,MIA,Phoenix Suns,L,100,110
+2021-03-25,FLA,Chicago Blackhawks,L,0,3,MIA,Portland Trail Blazers,L,122,125
+2021-04-01,FLA,Detroit Red Wings,W,3,2,MIA,Golden State Warriors,W,116,109
+2021-04-03,FLA,Columbus Blue Jackets,W,5,2,MIA,Cleveland Cavaliers,W,115,101
+2021-04-06,FLA,Carolina Hurricanes,L,2,5,MIA,Memphis Grizzlies,L,112,124
+2021-04-08,FLA,Carolina Hurricanes,L,0,3,MIA,Los Angeles Lakers,W,110,104
+2021-04-13,FLA,Dallas Stars,W,3,2,MIA,Phoenix Suns,L,86,106
+2021-04-19,FLA,Columbus Blue Jackets,W,4,2,MIA,Houston Rockets,W,113,91
+2021-04-24,FLA,Carolina Hurricanes,W,4,3,MIA,Chicago Bulls,W,106,101
+2021-04-26,FLA,Nashville Predators,L,1,4,MIA,Chicago Bulls,L,102,110
+2021-05-01,FLA,Chicago Blackhawks,W,5,4,MIA,Cleveland Cavaliers,W,124,107
+2021-10-21,FLA,Colorado Avalanche,W,4,1,MIA,Milwaukee Bucks,W,137,95
+2021-10-23,FLA,Philadelphia Flyers,W,4,2,MIA,Indiana Pacers,L,91,102
+2021-10-25,FLA,Arizona Coyotes,W,5,3,MIA,Orlando Magic,W,107,90
+2021-10-27,FLA,Boston Bruins,W,4,1,MIA,Brooklyn Nets,W,106,93
+2021-10-29,FLA,Detroit Red Wings,W,3,2,MIA,Charlotte Hornets,W,114,99
+2021-10-30,FLA,Boston Bruins,L,2,3,MIA,Memphis Grizzlies,W,129,103
+2021-11-04,FLA,Washington Capitals,W,5,4,MIA,Boston Celtics,L,78,95
+2021-11-06,FLA,Carolina Hurricanes,W,5,2,MIA,Utah Jazz,W,118,115
+2021-11-08,FLA,New York Rangers,L,3,4,MIA,Denver Nuggets,L,96,113
+2021-11-11,FLA,Pittsburgh Penguins,L,2,3,MIA,Los Angeles Clippers,L,109,112
+2021-11-13,FLA,Tampa Bay Lightning,L,2,3,MIA,Utah Jazz,W,111,105
+2021-11-18,FLA,New Jersey Devils,W,4,1,MIA,Washington Wizards,W,112,97
+2021-11-20,FLA,Minnesota Wild,W,5,4,MIA,Washington Wizards,L,100,103
+2021-11-24,FLA,Philadelphia Flyers,W,2,1,MIA,Minnesota Timberwolves,L,101,113
+2021-11-27,FLA,Seattle Kraken,L,1,4,MIA,Chicago Bulls,W,107,104
+2021-12-04,FLA,St. Louis Blues,W,4,3,MIA,Milwaukee Bucks,L,102,124
+2022-01-08,FLA,Carolina Hurricanes,W,4,3,MIA,Phoenix Suns,W,123,100
+2022-01-14,FLA,Dallas Stars,W,7,1,MIA,Atlanta Hawks,W,124,118
+2022-01-15,FLA,Columbus Blue Jackets,W,9,2,MIA,Philadelphia 76ers,L,98,109
+2022-01-21,FLA,Vancouver Canucks,W,2,1,MIA,Atlanta Hawks,L,108,110
+2022-01-23,FLA,Seattle Kraken,L,3,5,MIA,Los Angeles Lakers,W,113,107
+2022-01-29,FLA,San Jose Sharks,W,5,4,MIA,Toronto Raptors,L,120,124
+2022-01-31,FLA,Columbus Blue Jackets,W,8,4,MIA,Boston Celtics,L,92,122
+2022-02-01,FLA,New York Rangers,L,2,5,MIA,Toronto Raptors,L,106,110
+2022-02-26,FLA,Edmonton Oilers,L,3,4,MIA,San Antonio Spurs,W,133,129
+2022-03-03,FLA,Ottawa Senators,W,3,0,MIA,Brooklyn Nets,W,113,107
+2022-03-05,FLA,Detroit Red Wings,W,6,2,MIA,Philadelphia 76ers,W,99,82
+2022-03-07,FLA,Buffalo Sabres,W,6,1,MIA,Houston Rockets,W,123,106
+2022-03-15,FLA,San Jose Sharks,W,3,2,MIA,Detroit Pistons,W,105,98
+2022-03-18,FLA,Anaheim Ducks,W,3,0,MIA,Oklahoma City Thunder,W,120,108
+2022-03-26,FLA,Ottawa Senators,W,4,3,MIA,Brooklyn Nets,L,95,110
+2022-04-02,FLA,New Jersey Devils,W,7,6,MIA,Chicago Bulls,W,127,109
+2022-04-03,FLA,Buffalo Sabres,W,5,3,MIA,Toronto Raptors,W,114,109
+2022-04-05,FLA,Toronto Maple Leafs,W,7,6,MIA,Charlotte Hornets,W,144,115
+2022-04-08,FLA,Buffalo Sabres,W,4,3,MIA,Atlanta Hawks,W,113,109
+2022-10-19,FLA,Philadelphia Flyers,W,4,3,MIA,Chicago Bulls,L,108,116
+2022-10-21,FLA,Tampa Bay Lightning,L,2,3,MIA,Boston Celtics,L,104,111
+2022-10-27,FLA,Philadelphia Flyers,L,3,4,MIA,Golden State Warriors,L,110,123
+2022-10-29,FLA,Ottawa Senators,W,5,3,MIA,Sacramento Kings,L,113,119
+2022-11-01,FLA,Arizona Coyotes,L,1,3,MIA,Golden State Warriors,W,116,109
+2022-11-12,FLA,Edmonton Oilers,L,2,4,MIA,Charlotte Hornets,W,132,115
+2022-11-20,FLA,Columbus Blue Jackets,L,3,5,MIA,Cleveland Cavaliers,L,87,113
+2022-11-23,FLA,Boston Bruins,W,5,2,MIA,Washington Wizards,W,113,105
+2022-12-06,FLA,Winnipeg Jets,L,2,5,MIA,Detroit Pistons,L,96,116
+2022-12-08,FLA,Detroit Red Wings,W,5,1,MIA,Los Angeles Clippers,W,115,110
+2022-12-10,FLA,Tampa Bay Lightning,L,1,4,MIA,San Antonio Spurs,L,111,115
+2022-12-15,FLA,Pittsburgh Penguins,L,2,4,MIA,Houston Rockets,W,111,108
+2022-12-17,FLA,New Jersey Devils,W,4,2,MIA,San Antonio Spurs,W,111,101
+2022-12-23,FLA,New York Islanders,L,1,5,MIA,Indiana Pacers,L,108,111
+2022-12-30,FLA,Carolina Hurricanes,L,0,4,MIA,Denver Nuggets,L,119,124
+2023-01-06,FLA,Detroit Red Wings,W,3,2,MIA,Phoenix Suns,W,104,96
+2023-01-08,FLA,Dallas Stars,L,1,5,MIA,Brooklyn Nets,L,101,102
+2023-01-10,FLA,Colorado Avalanche,W,5,4,MIA,Oklahoma City Thunder,W,112,111
+2023-01-12,FLA,Vegas Golden Knights,L,2,4,MIA,Milwaukee Bucks,W,108,102
+2023-01-14,FLA,Vancouver Canucks,W,4,3,MIA,Milwaukee Bucks,W,111,95
+2023-01-16,FLA,Buffalo Sabres,W,4,1,MIA,Atlanta Hawks,L,113,121
+2023-01-24,FLA,Pittsburgh Penguins,L,6,7,MIA,Boston Celtics,W,98,95
+2023-01-27,FLA,Los Angeles Kings,L,3,4,MIA,Orlando Magic,W,110,105
+2023-02-11,FLA,Colorado Avalanche,L,3,5,MIA,Orlando Magic,W,107,103
+2023-02-13,FLA,Minnesota Wild,W,2,1,MIA,Denver Nuggets,L,108,112
+2023-02-24,FLA,Buffalo Sabres,,,,MIA,Milwaukee Bucks,,,
+2023-03-04,FLA,Pittsburgh Penguins,,,,MIA,Atlanta Hawks,,,
+2023-03-10,FLA,Chicago Blackhawks,,,,MIA,Cleveland Cavaliers,,,
+2023-03-11,FLA,Winnipeg Jets,,,,MIA,Orlando Magic,,,
+2023-03-18,FLA,New Jersey Devils,,,,MIA,Chicago Bulls,,,
+2023-03-25,FLA,New York Rangers,,,,MIA,Brooklyn Nets,,,
+2023-03-29,FLA,Toronto Maple Leafs,,,,MIA,New York Knicks,,,
+2023-04-01,FLA,Columbus Blue Jackets,,,,MIA,Dallas Mavericks,,,
+2023-04-04,FLA,Buffalo Sabres,,,,MIA,Detroit Pistons,,,
+2023-04-06,FLA,Ottawa Senators,,,,MIA,Philadelphia 76ers,,,

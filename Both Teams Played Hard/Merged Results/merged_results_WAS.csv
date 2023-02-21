@@ -1,0 +1,303 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-26,WSH,Buffalo Sabres,L,2,4,WAS,New Jersey Nets,L,84,90
+2011-12-28,WSH,New York Rangers,W,4,1,WAS,Atlanta Hawks,L,83,101
+2011-12-30,WSH,Buffalo Sabres,W,3,1,WAS,Milwaukee Bucks,L,81,102
+2012-01-11,WSH,Pittsburgh Penguins,W,1,0,WAS,Chicago Bulls,L,64,78
+2012-01-13,WSH,Tampa Bay Lightning,W,4,3,WAS,Philadelphia 76ers,L,89,120
+2012-01-18,WSH,Montreal Canadiens,W,3,0,WAS,Oklahoma City Thunder,W,105,102
+2012-01-20,WSH,Carolina Hurricanes,L,0,3,WAS,Denver Nuggets,L,104,108
+2012-01-22,WSH,Pittsburgh Penguins,L,3,4,WAS,Boston Celtics,L,94,100
+2012-02-01,WSH,Florida Panthers,L,2,4,WAS,Orlando Magic,L,103,109
+2012-02-04,WSH,Montreal Canadiens,W,3,0,WAS,Los Angeles Clippers,L,81,107
+2012-02-12,WSH,New York Rangers,L,2,3,WAS,Detroit Pistons,W,98,77
+2012-02-17,WSH,Florida Panthers,W,2,1,WAS,Utah Jazz,L,100,114
+2012-02-20,WSH,Carolina Hurricanes,L,0,5,WAS,Phoenix Suns,L,88,104
+2012-02-22,WSH,Ottawa Senators,L,2,5,WAS,Sacramento Kings,L,107,115
+2012-02-28,WSH,New York Islanders,W,3,2,WAS,Milwaukee Bucks,L,118,119
+2012-03-10,WSH,Boston Bruins,W,4,3,WAS,Portland Trail Blazers,L,99,110
+2012-03-13,WSH,New York Islanders,W,5,4,WAS,Dallas Mavericks,L,98,107
+2012-03-16,WSH,Winnipeg Jets,L,2,3,WAS,Atlanta Hawks,L,88,102
+2012-03-18,WSH,Chicago Blackhawks,L,2,5,WAS,Memphis Grizzlies,L,92,97
+2012-03-22,WSH,Philadelphia Flyers,L,1,2,WAS,Indiana Pacers,L,83,85
+2012-03-25,WSH,Minnesota Wild,W,3,0,WAS,Boston Celtics,L,76,88
+2012-03-29,WSH,Boston Bruins,W,3,2,WAS,Indiana Pacers,L,89,93
+2012-04-02,WSH,Tampa Bay Lightning,L,2,4,WAS,Milwaukee Bucks,L,98,112
+2012-04-05,WSH,Florida Panthers,W,4,2,WAS,Detroit Pistons,L,94,99
+2013-01-19,WSH,Tampa Bay Lightning,L,3,6,WAS,Los Angeles Clippers,L,87,94
+2013-01-25,WSH,New Jersey Devils,L,2,3,WAS,Minnesota Timberwolves,W,114,101
+2013-02-01,WSH,Philadelphia Flyers,W,3,2,WAS,Memphis Grizzlies,L,76,85
+2013-02-23,WSH,New Jersey Devils,W,5,1,WAS,Houston Rockets,W,105,103
+2013-02-27,WSH,Philadelphia Flyers,L,1,4,WAS,Detroit Pistons,L,95,96
+2013-03-09,WSH,New York Islanders,L,2,5,WAS,Charlotte Bobcats,W,104,87
+2013-03-12,WSH,Carolina Hurricanes,L,0,4,WAS,Cleveland Cavaliers,L,90,95
+2013-03-16,WSH,Boston Bruins,L,1,4,WAS,Phoenix Suns,W,127,105
+2013-03-22,WSH,Winnipeg Jets,W,6,1,WAS,Los Angeles Lakers,W,103,100
+2013-03-31,WSH,Philadelphia Flyers,L,4,5,WAS,Toronto Raptors,W,109,92
+2013-04-02,WSH,Carolina Hurricanes,W,5,3,WAS,Chicago Bulls,W,90,86
+2013-04-06,WSH,Florida Panthers,W,4,3,WAS,Indiana Pacers,W,104,85
+2013-04-07,WSH,Tampa Bay Lightning,W,4,2,WAS,Boston Celtics,L,96,107
+2013-04-09,WSH,Montreal Canadiens,W,3,2,WAS,New York Knicks,L,99,120
+2013-11-01,WSH,Philadelphia Flyers,W,7,0,WAS,Philadelphia 76ers,L,102,109
+2013-11-10,WSH,Colorado Avalanche,L,1,4,WAS,Oklahoma City Thunder,L,105,106
+2013-11-12,WSH,Columbus Blue Jackets,W,4,3,WAS,Dallas Mavericks,L,95,105
+2013-11-20,WSH,Pittsburgh Penguins,L,0,4,WAS,Cleveland Cavaliers,W,98,91
+2013-11-22,WSH,Montreal Canadiens,L,2,3,WAS,Toronto Raptors,L,88,96
+2013-11-23,WSH,Toronto Maple Leafs,L,1,2,WAS,New York Knicks,W,98,89
+2013-11-27,WSH,Ottawa Senators,L,4,6,WAS,Milwaukee Bucks,W,100,92
+2013-11-29,WSH,Montreal Canadiens,W,3,2,WAS,Indiana Pacers,L,73,93
+2013-11-30,WSH,New York Islanders,W,3,2,WAS,Atlanta Hawks,W,108,101
+2013-12-13,WSH,Florida Panthers,L,2,3,WAS,Atlanta Hawks,L,99,101
+2013-12-21,WSH,New Jersey Devils,L,4,5,WAS,Boston Celtics,W,106,99
+2013-12-27,WSH,New York Rangers,W,3,2,WAS,Minnesota Timberwolves,L,98,120
+2013-12-30,WSH,Ottawa Senators,L,1,3,WAS,Detroit Pistons,W,106,99
+2014-01-10,WSH,Toronto Maple Leafs,W,3,2,WAS,Indiana Pacers,L,66,93
+2014-01-15,WSH,Pittsburgh Penguins,L,3,4,WAS,Miami Heat,W,114,97
+2014-01-17,WSH,Columbus Blue Jackets,L,1,5,WAS,Chicago Bulls,W,96,93
+2014-01-24,WSH,New Jersey Devils,L,1,2,WAS,Phoenix Suns,W,101,95
+2014-01-25,WSH,Montreal Canadiens,W,5,0,WAS,Utah Jazz,L,101,104
+2014-01-28,WSH,Buffalo Sabres,W,5,4,WAS,Golden State Warriors,W,88,85
+2014-02-27,WSH,Florida Panthers,W,5,4,WAS,Toronto Raptors,W,134,129
+2014-03-01,WSH,Boston Bruins,W,4,2,WAS,Philadelphia 76ers,W,122,103
+2014-03-05,WSH,Philadelphia Flyers,L,4,6,WAS,Utah Jazz,W,104,91
+2014-03-08,WSH,Phoenix Coyotes,W,3,2,WAS,Milwaukee Bucks,W,114,107
+2014-03-10,WSH,Pittsburgh Penguins,L,2,3,WAS,Miami Heat,L,90,99
+2014-03-14,WSH,Vancouver Canucks,W,4,3,WAS,Orlando Magic,W,105,101
+2014-03-18,WSH,Anaheim Ducks,W,3,2,WAS,Sacramento Kings,L,111,117
+2014-03-20,WSH,Los Angeles Kings,L,1,2,WAS,Portland Trail Blazers,L,103,116
+2014-03-29,WSH,Boston Bruins,L,2,4,WAS,Atlanta Hawks,W,101,97
+2014-04-04,WSH,New Jersey Devils,L,1,2,WAS,New York Knicks,W,90,89
+2014-04-05,WSH,New York Islanders,W,4,3,WAS,Chicago Bulls,L,78,96
+2014-04-11,WSH,Chicago Blackhawks,W,4,0,WAS,Orlando Magic,W,96,86
+2014-10-29,WSH,Detroit Red Wings,L,2,4,WAS,Miami Heat,L,95,107
+2014-11-01,WSH,Tampa Bay Lightning,L,3,4,WAS,Milwaukee Bucks,W,108,97
+2014-11-04,WSH,Calgary Flames,L,3,4,WAS,New York Knicks,W,98,83
+2014-11-07,WSH,Chicago Blackhawks,W,3,2,WAS,Toronto Raptors,L,84,103
+2014-11-08,WSH,Carolina Hurricanes,W,4,3,WAS,Indiana Pacers,W,97,90
+2014-11-15,WSH,St. Louis Blues,L,1,4,WAS,Orlando Magic,W,98,93
+2014-11-22,WSH,Buffalo Sabres,L,1,2,WAS,Milwaukee Bucks,W,111,100
+2014-11-26,WSH,New York Islanders,L,2,3,WAS,Cleveland Cavaliers,L,87,113
+2014-11-29,WSH,Toronto Maple Leafs,L,2,6,WAS,New Orleans Pelicans,W,83,80
+2014-12-16,WSH,Florida Panthers,L,1,2,WAS,Minnesota Timberwolves,W,109,95
+2014-12-23,WSH,New York Rangers,L,2,4,WAS,Chicago Bulls,L,91,99
+2014-12-27,WSH,Pittsburgh Penguins,W,3,0,WAS,Boston Celtics,W,101,88
+2014-12-29,WSH,New York Islanders,L,3,4,WAS,Houston Rockets,W,104,103
+2015-01-07,WSH,Toronto Maple Leafs,W,6,2,WAS,New York Knicks,W,101,91
+2015-01-14,WSH,Philadelphia Flyers,W,1,0,WAS,Chicago Bulls,W,105,99
+2015-01-16,WSH,Nashville Predators,L,3,4,WAS,Brooklyn Nets,L,80,102
+2015-01-17,WSH,Dallas Stars,L,4,5,WAS,Brooklyn Nets,W,99,90
+2015-01-27,WSH,Columbus Blue Jackets,L,3,4,WAS,Los Angeles Lakers,W,98,92
+2015-01-28,WSH,Pittsburgh Penguins,W,4,0,WAS,Phoenix Suns,L,98,106
+2015-01-31,WSH,Montreal Canadiens,L,0,1,WAS,Toronto Raptors,L,116,120
+2015-02-05,WSH,Ottawa Senators,W,2,1,WAS,Charlotte Hornets,L,87,94
+2015-02-11,WSH,San Jose Sharks,W,5,4,WAS,Toronto Raptors,L,93,95
+2015-02-22,WSH,Philadelphia Flyers,L,2,3,WAS,Detroit Pistons,L,89,106
+2015-02-25,WSH,Pittsburgh Penguins,L,3,4,WAS,Minnesota Timberwolves,L,77,97
+2015-02-27,WSH,Carolina Hurricanes,L,0,3,WAS,Philadelphia 76ers,L,81,89
+2015-03-03,WSH,Columbus Blue Jackets,W,5,3,WAS,Chicago Bulls,L,92,97
+2015-03-07,WSH,Buffalo Sabres,W,6,1,WAS,Milwaukee Bucks,L,85,91
+2015-03-16,WSH,Buffalo Sabres,W,4,3,WAS,Portland Trail Blazers,W,105,97
+2015-03-29,WSH,New York Rangers,W,5,2,WAS,Houston Rockets,L,91,99
+2015-04-04,WSH,Ottawa Senators,L,3,4,WAS,Memphis Grizzlies,W,92,83
+2015-04-08,WSH,Boston Bruins,W,3,0,WAS,Philadelphia 76ers,W,119,90
+2015-10-28,WSH,Pittsburgh Penguins,L,1,3,WAS,Orlando Magic,W,88,87
+2015-10-30,WSH,Columbus Blue Jackets,W,2,1,WAS,Milwaukee Bucks,W,118,113
+2015-10-31,WSH,Florida Panthers,W,2,1,WAS,New York Knicks,L,110,117
+2015-11-07,WSH,Toronto Maple Leafs,W,3,2,WAS,Atlanta Hawks,L,99,114
+2015-11-10,WSH,Detroit Red Wings,L,0,1,WAS,Oklahoma City Thunder,L,101,125
+2015-11-21,WSH,Colorado Avalanche,W,7,3,WAS,Detroit Pistons,W,97,95
+2015-11-25,WSH,Winnipeg Jets,W,5,3,WAS,Charlotte Hornets,L,87,101
+2015-11-27,WSH,Tampa Bay Lightning,W,4,2,WAS,Boston Celtics,L,78,111
+2015-11-28,WSH,Toronto Maple Leafs,W,4,2,WAS,Toronto Raptors,L,82,84
+2015-12-12,WSH,Tampa Bay Lightning,W,2,1,WAS,Dallas Mavericks,W,114,111
+2015-12-14,WSH,Pittsburgh Penguins,W,4,1,WAS,Memphis Grizzlies,L,95,112
+2015-12-16,WSH,Ottawa Senators,W,2,1,WAS,San Antonio Spurs,L,95,114
+2015-12-21,WSH,Carolina Hurricanes,W,2,1,WAS,Sacramento Kings,W,113,99
+2015-12-26,WSH,Montreal Canadiens,W,3,1,WAS,Brooklyn Nets,W,111,96
+2015-12-28,WSH,Buffalo Sabres,W,2,0,WAS,Los Angeles Clippers,L,91,108
+2015-12-30,WSH,Buffalo Sabres,W,5,2,WAS,Toronto Raptors,L,91,94
+2016-01-09,WSH,New York Rangers,W,4,3,WAS,Orlando Magic,W,105,99
+2016-01-16,WSH,Buffalo Sabres,L,1,4,WAS,Boston Celtics,L,117,119
+2016-02-06,WSH,New Jersey Devils,W,3,2,WAS,Charlotte Hornets,L,104,108
+2016-02-09,WSH,Nashville Predators,W,5,3,WAS,New York Knicks,W,111,108
+2016-02-11,WSH,Minnesota Wild,W,4,3,WAS,Milwaukee Bucks,L,92,99
+2016-02-18,WSH,New York Islanders,W,3,2,WAS,Utah Jazz,W,103,89
+2016-02-20,WSH,New Jersey Devils,W,4,3,WAS,Miami Heat,L,94,114
+2016-02-24,WSH,Montreal Canadiens,L,3,4,WAS,Chicago Bulls,L,104,109
+2016-02-26,WSH,Minnesota Wild,W,3,2,WAS,Philadelphia 76ers,W,103,94
+2016-02-28,WSH,Chicago Blackhawks,L,2,3,WAS,Cleveland Cavaliers,W,113,99
+2016-03-02,WSH,Toronto Maple Leafs,W,3,2,WAS,Minnesota Timberwolves,W,104,98
+2016-03-04,WSH,New York Rangers,L,2,3,WAS,Cleveland Cavaliers,L,83,108
+2016-03-05,WSH,Boston Bruins,W,2,1,WAS,Indiana Pacers,L,99,100
+2016-03-12,WSH,San Jose Sharks,L,2,5,WAS,Denver Nuggets,L,100,116
+2016-03-25,WSH,New Jersey Devils,W,1,0,WAS,Minnesota Timberwolves,L,129,132
+2016-03-30,WSH,Philadelphia Flyers,L,1,2,WAS,Sacramento Kings,L,111,120
+2016-04-01,WSH,Colorado Avalanche,W,4,2,WAS,Phoenix Suns,W,106,99
+2016-04-10,WSH,Anaheim Ducks,L,0,2,WAS,Charlotte Hornets,W,113,98
+2016-10-30,WSH,Calgary Flames,W,3,1,WAS,Memphis Grizzlies,L,103,112
+2016-11-05,WSH,Florida Panthers,W,4,2,WAS,Orlando Magic,L,86,88
+2016-11-11,WSH,Chicago Blackhawks,W,3,2,WAS,Cleveland Cavaliers,L,94,105
+2016-11-12,WSH,Carolina Hurricanes,L,1,5,WAS,Chicago Bulls,L,95,106
+2016-11-16,WSH,Pittsburgh Penguins,W,7,1,WAS,Philadelphia 76ers,L,102,109
+2016-11-25,WSH,Buffalo Sabres,W,3,1,WAS,Orlando Magic,W,94,91
+2016-11-26,WSH,Toronto Maple Leafs,L,2,4,WAS,San Antonio Spurs,L,100,112
+2016-12-05,WSH,Buffalo Sabres,W,3,2,WAS,Brooklyn Nets,W,118,113
+2016-12-16,WSH,Carolina Hurricanes,W,4,3,WAS,Detroit Pistons,W,122,108
+2016-12-21,WSH,Philadelphia Flyers,L,2,3,WAS,Chicago Bulls,W,107,97
+2016-12-23,WSH,Tampa Bay Lightning,W,4,0,WAS,Milwaukee Bucks,L,96,123
+2017-01-03,WSH,Toronto Maple Leafs,W,6,5,WAS,Dallas Mavericks,L,105,113
+2017-01-11,WSH,Pittsburgh Penguins,W,5,2,WAS,Boston Celtics,L,108,117
+2017-01-16,WSH,Pittsburgh Penguins,L,7,8,WAS,Portland Trail Blazers,W,120,101
+2017-01-19,WSH,St. Louis Blues,W,7,3,WAS,New York Knicks,W,113,110
+2017-01-21,WSH,Dallas Stars,W,4,3,WAS,Detroit Pistons,L,112,113
+2017-01-23,WSH,Carolina Hurricanes,W,6,1,WAS,Charlotte Hornets,W,109,99
+2017-01-24,WSH,Ottawa Senators,L,0,3,WAS,Boston Celtics,W,123,108
+2017-01-31,WSH,New York Islanders,L,2,3,WAS,New York Knicks,W,117,101
+2017-02-04,WSH,Montreal Canadiens,W,3,2,WAS,New Orleans Pelicans,W,105,91
+2017-02-24,WSH,Edmonton Oilers,W,2,1,WAS,Philadelphia 76ers,L,112,120
+2017-02-28,WSH,New York Rangers,W,4,1,WAS,Golden State Warriors,W,112,108
+2017-03-11,WSH,Los Angeles Kings,L,2,4,WAS,Portland Trail Blazers,W,125,124
+2017-03-18,WSH,Tampa Bay Lightning,W,5,3,WAS,Charlotte Hornets,L,93,98
+2017-03-25,WSH,Arizona Coyotes,W,4,1,WAS,Cleveland Cavaliers,W,127,115
+2017-03-28,WSH,Minnesota Wild,W,5,4,WAS,Los Angeles Lakers,W,119,108
+2017-03-29,WSH,Colorado Avalanche,W,5,3,WAS,Los Angeles Clippers,L,124,133
+2017-03-31,WSH,Arizona Coyotes,L,3,6,WAS,Utah Jazz,L,88,95
+2017-04-02,WSH,Columbus Blue Jackets,W,3,2,WAS,Golden State Warriors,L,115,139
+2017-04-04,WSH,Toronto Maple Leafs,W,4,1,WAS,Charlotte Hornets,W,118,111
+2017-04-08,WSH,Boston Bruins,W,3,1,WAS,Miami Heat,L,103,106
+2017-10-20,WSH,Detroit Red Wings,W,4,3,WAS,Detroit Pistons,W,115,111
+2017-10-29,WSH,Calgary Flames,L,1,2,WAS,Sacramento Kings,W,110,83
+2017-11-07,WSH,Buffalo Sabres,L,1,3,WAS,Dallas Mavericks,L,99,113
+2017-11-20,WSH,Calgary Flames,L,1,4,WAS,Milwaukee Bucks,W,99,88
+2017-11-22,WSH,Ottawa Senators,W,5,2,WAS,Charlotte Hornets,L,124,129
+2017-11-25,WSH,Toronto Maple Leafs,W,4,2,WAS,Portland Trail Blazers,L,105,108
+2017-12-04,WSH,San Jose Sharks,W,4,1,WAS,Utah Jazz,L,69,116
+2017-12-12,WSH,Colorado Avalanche,W,5,2,WAS,Brooklyn Nets,L,98,103
+2017-12-19,WSH,Dallas Stars,W,4,3,WAS,New Orleans Pelicans,W,116,106
+2017-12-22,WSH,Arizona Coyotes,L,2,3,WAS,Brooklyn Nets,L,84,119
+2017-12-23,WSH,Vegas Golden Knights,L,0,3,WAS,Orlando Magic,W,130,103
+2017-12-27,WSH,New York Rangers,L,0,1,WAS,Atlanta Hawks,L,99,113
+2018-01-12,WSH,Carolina Hurricanes,W,4,3,WAS,Orlando Magic,W,125,119
+2018-01-19,WSH,Montreal Canadiens,L,2,3,WAS,Detroit Pistons,W,122,112
+2018-01-25,WSH,Florida Panthers,W,4,2,WAS,Oklahoma City Thunder,L,112,121
+2018-02-06,WSH,Columbus Blue Jackets,W,3,2,WAS,Philadelphia 76ers,L,102,115
+2018-02-22,WSH,Florida Panthers,L,2,3,WAS,Cleveland Cavaliers,W,110,103
+2018-02-27,WSH,Ottawa Senators,W,3,2,WAS,Milwaukee Bucks,W,107,104
+2018-03-06,WSH,Anaheim Ducks,L,0,4,WAS,Miami Heat,W,117,113
+2018-03-10,WSH,San Jose Sharks,W,2,0,WAS,Miami Heat,L,102,129
+2018-04-01,WSH,Pittsburgh Penguins,W,3,1,WAS,Chicago Bulls,L,94,113
+2018-04-05,WSH,Nashville Predators,L,3,4,WAS,Cleveland Cavaliers,L,115,119
+2018-10-22,WSH,Vancouver Canucks,W,5,2,WAS,Portland Trail Blazers,W,125,124
+2018-11-09,WSH,Columbus Blue Jackets,L,1,2,WAS,Orlando Magic,L,108,117
+2018-11-14,WSH,Winnipeg Jets,L,1,3,WAS,Cleveland Cavaliers,W,119,95
+2018-11-16,WSH,Colorado Avalanche,W,3,2,WAS,Brooklyn Nets,L,104,115
+2018-11-23,WSH,Detroit Red Wings,W,3,1,WAS,Toronto Raptors,L,107,125
+2018-11-24,WSH,New York Rangers,W,5,3,WAS,New Orleans Pelicans,W,124,114
+2018-11-26,WSH,New York Islanders,W,4,1,WAS,Houston Rockets,W,135,131
+2018-11-30,WSH,New Jersey Devils,W,6,3,WAS,Philadelphia 76ers,L,98,123
+2018-12-08,WSH,Columbus Blue Jackets,W,4,0,WAS,Cleveland Cavaliers,L,101,116
+2018-12-14,WSH,Carolina Hurricanes,W,6,5,WAS,Brooklyn Nets,L,118,125
+2018-12-19,WSH,Pittsburgh Penguins,L,1,2,WAS,Houston Rockets,L,118,136
+2018-12-22,WSH,Ottawa Senators,W,4,0,WAS,Phoenix Suns,W,149,146
+2018-12-29,WSH,Ottawa Senators,W,3,2,WAS,Charlotte Hornets,W,130,126
+2019-01-04,WSH,Dallas Stars,L,1,2,WAS,Miami Heat,L,109,115
+2019-01-06,WSH,Detroit Red Wings,W,3,2,WAS,Oklahoma City Thunder,W,116,98
+2019-01-08,WSH,Philadelphia Flyers,W,5,3,WAS,Philadelphia 76ers,L,115,132
+2019-02-09,WSH,Florida Panthers,L,4,5,WAS,Chicago Bulls,W,134,125
+2019-02-11,WSH,Los Angeles Kings,W,6,4,WAS,Detroit Pistons,L,112,121
+2019-02-23,WSH,Buffalo Sabres,L,2,5,WAS,Indiana Pacers,L,112,119
+2019-03-01,WSH,New York Islanders,W,3,1,WAS,Boston Celtics,L,96,107
+2019-03-03,WSH,New York Rangers,W,3,2,WAS,Minnesota Timberwolves,W,135,121
+2019-03-06,WSH,Philadelphia Flyers,W,5,3,WAS,Dallas Mavericks,W,132,123
+2019-03-08,WSH,New Jersey Devils,W,3,0,WAS,Charlotte Hornets,L,111,112
+2019-03-16,WSH,Tampa Bay Lightning,L,3,6,WAS,Memphis Grizzlies,W,135,128
+2019-03-20,WSH,Tampa Bay Lightning,L,4,5,WAS,Chicago Bulls,L,120,126
+2019-03-26,WSH,Carolina Hurricanes,W,4,1,WAS,Los Angeles Lakers,L,106,124
+2019-10-25,WSH,Vancouver Canucks,W,6,5,WAS,Oklahoma City Thunder,W,97,85
+2019-11-13,WSH,Philadelphia Flyers,W,2,1,WAS,Boston Celtics,L,133,140
+2019-11-15,WSH,Montreal Canadiens,L,2,5,WAS,Minnesota Timberwolves,W,137,116
+2019-11-20,WSH,New York Rangers,L,1,4,WAS,San Antonio Spurs,W,138,132
+2019-11-27,WSH,Florida Panthers,W,4,3,WAS,Phoenix Suns,W,140,132
+2019-11-29,WSH,Tampa Bay Lightning,W,4,3,WAS,Los Angeles Lakers,L,103,125
+2019-12-03,WSH,San Jose Sharks,W,5,2,WAS,Orlando Magic,L,120,127
+2019-12-06,WSH,Anaheim Ducks,W,3,2,WAS,Miami Heat,L,103,112
+2019-12-14,WSH,Tampa Bay Lightning,W,5,2,WAS,Memphis Grizzlies,L,111,128
+2019-12-16,WSH,Columbus Blue Jackets,L,0,3,WAS,Detroit Pistons,W,133,119
+2019-12-20,WSH,New Jersey Devils,W,6,3,WAS,Toronto Raptors,L,118,122
+2019-12-21,WSH,Tampa Bay Lightning,W,3,1,WAS,Philadelphia 76ers,L,108,125
+2019-12-23,WSH,Boston Bruins,L,3,7,WAS,New York Knicks,W,121,115
+2019-12-28,WSH,Carolina Hurricanes,L,4,6,WAS,New York Knicks,L,100,107
+2020-01-03,WSH,Carolina Hurricanes,W,4,3,WAS,Portland Trail Blazers,L,103,122
+2020-01-08,WSH,Philadelphia Flyers,L,2,3,WAS,Orlando Magic,L,89,123
+2020-02-23,WSH,Pittsburgh Penguins,W,5,3,WAS,Chicago Bulls,L,117,126
+2020-03-01,WSH,Minnesota Wild,W,4,3,WAS,Golden State Warriors,W,124,110
+2020-03-04,WSH,Philadelphia Flyers,L,2,5,WAS,Portland Trail Blazers,L,104,125
+2021-01-24,WSH,Buffalo Sabres,L,3,4,WAS,San Antonio Spurs,L,101,121
+2021-01-26,WSH,New York Islanders,W,3,2,WAS,Houston Rockets,L,88,107
+2021-02-07,WSH,Philadelphia Flyers,L,4,7,WAS,Charlotte Hornets,L,97,119
+2021-02-14,WSH,Pittsburgh Penguins,L,3,6,WAS,Boston Celtics,W,104,91
+2021-02-20,WSH,New York Rangers,L,1,4,WAS,Portland Trail Blazers,W,118,111
+2021-02-23,WSH,Pittsburgh Penguins,L,2,3,WAS,Los Angeles Clippers,L,116,135
+2021-02-25,WSH,Pittsburgh Penguins,W,5,2,WAS,Denver Nuggets,W,112,110
+2021-02-27,WSH,New Jersey Devils,W,5,2,WAS,Minnesota Timberwolves,W,128,112
+2021-02-28,WSH,New Jersey Devils,W,3,2,WAS,Boston Celtics,L,110,111
+2021-03-13,WSH,Philadelphia Flyers,W,5,4,WAS,Milwaukee Bucks,L,119,125
+2021-03-15,WSH,Buffalo Sabres,W,6,0,WAS,Milwaukee Bucks,L,122,133
+2021-03-25,WSH,New Jersey Devils,W,4,3,WAS,New York Knicks,L,102,106
+2021-03-30,WSH,New York Rangers,L,2,5,WAS,Charlotte Hornets,L,104,114
+2021-04-01,WSH,New York Islanders,L,4,8,WAS,Detroit Pistons,L,91,120
+2021-04-09,WSH,Buffalo Sabres,W,4,3,WAS,Golden State Warriors,W,110,107
+2021-04-17,WSH,Philadelphia Flyers,W,6,3,WAS,Detroit Pistons,W,121,100
+2021-05-01,WSH,Pittsburgh Penguins,L,0,3,WAS,Dallas Mavericks,L,124,125
+2021-05-03,WSH,New York Rangers,W,6,3,WAS,Indiana Pacers,W,154,141
+2021-05-05,WSH,New York Rangers,W,4,2,WAS,Milwaukee Bucks,L,134,135
+2021-05-08,WSH,Philadelphia Flyers,W,2,1,WAS,Indiana Pacers,W,133,132
+2021-10-25,WSH,Ottawa Senators,W,7,5,WAS,Brooklyn Nets,L,90,104
+2021-10-27,WSH,Detroit Red Wings,L,2,3,WAS,Boston Celtics,W,116,107
+2021-11-01,WSH,Tampa Bay Lightning,L,2,3,WAS,Atlanta Hawks,L,111,118
+2021-11-17,WSH,Los Angeles Kings,W,2,0,WAS,Charlotte Hornets,L,87,97
+2021-11-20,WSH,San Jose Sharks,W,4,0,WAS,Miami Heat,W,103,100
+2021-11-24,WSH,Montreal Canadiens,W,6,3,WAS,New Orleans Pelicans,L,102,127
+2021-11-26,WSH,Florida Panthers,W,4,3,WAS,Oklahoma City Thunder,W,101,99
+2021-12-06,WSH,Anaheim Ducks,W,4,3,WAS,Indiana Pacers,L,110,116
+2021-12-11,WSH,Buffalo Sabres,W,3,2,WAS,Utah Jazz,L,98,123
+2021-12-15,WSH,Chicago Blackhawks,L,4,5,WAS,Sacramento Kings,L,105,119
+2022-01-07,WSH,St. Louis Blues,L,1,5,WAS,Chicago Bulls,L,122,130
+2022-01-15,WSH,New York Islanders,W,2,0,WAS,Portland Trail Blazers,L,110,115
+2022-02-01,WSH,Pittsburgh Penguins,W,4,3,WAS,Milwaukee Bucks,L,98,112
+2022-02-02,WSH,Edmonton Oilers,L,3,5,WAS,Philadelphia 76ers,W,106,103
+2022-02-10,WSH,Montreal Canadiens,W,5,2,WAS,Brooklyn Nets,W,113,112
+2022-02-17,WSH,Philadelphia Flyers,W,5,3,WAS,Brooklyn Nets,W,117,103
+2022-02-26,WSH,Philadelphia Flyers,L,1,2,WAS,Cleveland Cavaliers,L,86,92
+2022-03-09,WSH,Edmonton Oilers,L,3,4,WAS,Los Angeles Clippers,L,109,115
+2022-03-11,WSH,Vancouver Canucks,W,4,3,WAS,Los Angeles Lakers,L,109,122
+2022-03-18,WSH,Carolina Hurricanes,W,4,3,WAS,New York Knicks,L,97,100
+2022-03-25,WSH,Buffalo Sabres,W,4,3,WAS,Detroit Pistons,W,100,97
+2022-04-03,WSH,Minnesota Wild,L,1,5,WAS,Boston Celtics,L,102,144
+2022-04-06,WSH,Tampa Bay Lightning,W,4,3,WAS,Atlanta Hawks,L,103,118
+2022-04-10,WSH,Boston Bruins,W,4,2,WAS,Charlotte Hornets,L,108,124
+2022-10-31,WSH,Carolina Hurricanes,L,2,3,WAS,Philadelphia 76ers,L,111,118
+2022-11-07,WSH,Edmonton Oilers,W,5,4,WAS,Charlotte Hornets,W,108,100
+2022-11-13,WSH,Tampa Bay Lightning,L,3,6,WAS,Memphis Grizzlies,W,102,92
+2022-11-23,WSH,Philadelphia Flyers,W,3,2,WAS,Miami Heat,L,105,113
+2022-11-25,WSH,Calgary Flames,W,3,0,WAS,Miami Heat,L,107,110
+2022-12-07,WSH,Philadelphia Flyers,W,4,1,WAS,Chicago Bulls,L,111,115
+2022-12-09,WSH,Seattle Kraken,W,4,1,WAS,Indiana Pacers,L,111,121
+2022-12-17,WSH,Toronto Maple Leafs,W,5,2,WAS,Los Angeles Clippers,L,93,102
+2022-12-22,WSH,Ottawa Senators,W,3,2,WAS,Utah Jazz,L,112,120
+2022-12-23,WSH,Winnipeg Jets,W,4,1,WAS,Sacramento Kings,W,125,111
+2022-12-27,WSH,New York Rangers,W,4,0,WAS,Philadelphia 76ers,W,116,111
+2023-01-03,WSH,Buffalo Sabres,L,4,5,WAS,Milwaukee Bucks,L,113,123
+2023-01-06,WSH,Nashville Predators,L,2,3,WAS,Oklahoma City Thunder,L,110,127
+2023-01-11,WSH,Philadelphia Flyers,L,3,5,WAS,Chicago Bulls,W,100,97
+2023-01-16,WSH,New York Islanders,W,4,3,WAS,Golden State Warriors,L,118,127
+2023-01-21,WSH,Vegas Golden Knights,L,2,6,WAS,Orlando Magic,W,138,118
+2023-01-24,WSH,Colorado Avalanche,L,2,3,WAS,Dallas Mavericks,W,127,126
+2023-02-11,WSH,Boston Bruins,W,2,1,WAS,Indiana Pacers,W,127,113
+2023-02-14,WSH,Carolina Hurricanes,L,2,3,WAS,Portland Trail Blazers,W,126,101
+2023-02-16,WSH,Florida Panthers,L,3,6,WAS,Minnesota Timberwolves,W,114,106
+2023-02-26,WSH,Buffalo Sabres,,,,WAS,Chicago Bulls,,,
+2023-03-04,WSH,San Jose Sharks,,,,WAS,Toronto Raptors,,,
+2023-03-14,WSH,New York Rangers,,,,WAS,Detroit Pistons,,,
+2023-03-17,WSH,St. Louis Blues,,,,WAS,Cleveland Cavaliers,,,
+2023-03-21,WSH,Columbus Blue Jackets,,,,WAS,Orlando Magic,,,
+2023-04-02,WSH,New York Rangers,,,,WAS,New York Knicks,,,

@@ -1,0 +1,912 @@
+NHL Team,Date,Opponent,Result,Team Score,Opponent Score
+DAL,2011-10-07,Chicago Blackhawks,W,2,1
+DAL,2011-10-08,Chicago Blackhawks,L,2,5
+DAL,2011-10-10,Phoenix Coyotes,W,2,1
+DAL,2011-10-13,St. Louis Blues,W,3,2
+DAL,2011-10-15,Columbus Blue Jackets,W,4,2
+DAL,2011-10-18,Columbus Blue Jackets,W,3,2
+DAL,2011-10-21,Anaheim Ducks,W,3,1
+DAL,2011-10-22,Los Angeles Kings,L,0,1
+DAL,2011-10-25,Phoenix Coyotes,W,3,2
+DAL,2011-10-27,Los Angeles Kings,L,3,5
+DAL,2011-10-29,New Jersey Devils,W,3,1
+DAL,2011-11-04,Colorado Avalanche,W,7,6
+DAL,2011-11-06,Carolina Hurricanes,W,5,2
+DAL,2011-11-08,Washington Capitals,W,5,2
+DAL,2011-11-11,Pittsburgh Penguins,L,1,3
+DAL,2011-11-12,Detroit Red Wings,L,2,5
+DAL,2011-11-15,Florida Panthers,L,0,6
+DAL,2011-11-18,Colorado Avalanche,L,0,3
+DAL,2011-11-19,San Jose Sharks,L,1,4
+DAL,2011-11-21,Edmonton Oilers,W,4,1
+DAL,2011-11-23,Los Angeles Kings,W,3,2
+DAL,2011-11-25,Toronto Maple Leafs,L,3,4
+DAL,2011-11-26,Phoenix Coyotes,L,0,3
+DAL,2011-11-28,Colorado Avalanche,W,3,1
+DAL,2011-12-01,Ottawa Senators,W,3,2
+DAL,2011-12-03,New York Islanders,L,4,5
+DAL,2011-12-08,San Jose Sharks,L,2,5
+DAL,2011-12-10,Los Angeles Kings,W,2,1
+DAL,2011-12-13,New York Rangers,W,1,0
+DAL,2011-12-15,New York Islanders,W,3,2
+DAL,2011-12-16,New Jersey Devils,L,3,6
+DAL,2011-12-19,Anaheim Ducks,W,5,3
+DAL,2011-12-21,Philadelphia Flyers,L,1,4
+DAL,2011-12-23,Nashville Predators,W,6,3
+DAL,2011-12-26,St. Louis Blues,L,3,5
+DAL,2011-12-29,Columbus Blue Jackets,L,1,4
+DAL,2011-12-31,Boston Bruins,W,4,2
+DAL,2012-01-03,Detroit Red Wings,L,4,5
+DAL,2012-01-05,Nashville Predators,W,4,1
+DAL,2012-01-07,Edmonton Oilers,W,4,1
+DAL,2012-01-10,Anaheim Ducks,L,2,5
+DAL,2012-01-12,Los Angeles Kings,W,5,4
+DAL,2012-01-14,Colorado Avalanche,L,1,2
+DAL,2012-01-16,St. Louis Blues,L,0,1
+DAL,2012-01-17,Detroit Red Wings,L,2,3
+DAL,2012-01-20,Tampa Bay Lightning,L,1,2
+DAL,2012-01-21,Minnesota Wild,L,2,5
+DAL,2012-01-24,Anaheim Ducks,W,1,0
+DAL,2012-02-01,Anaheim Ducks,W,6,2
+DAL,2012-02-02,San Jose Sharks,L,2,5
+DAL,2012-02-04,Minnesota Wild,W,2,1
+DAL,2012-02-07,Phoenix Coyotes,L,1,4
+DAL,2012-02-09,Columbus Blue Jackets,W,4,2
+DAL,2012-02-10,Buffalo Sabres,L,2,3
+DAL,2012-02-12,Los Angeles Kings,L,2,4
+DAL,2012-02-14,Detroit Red Wings,L,1,3
+DAL,2012-02-16,Calgary Flames,W,3,2
+DAL,2012-02-18,Phoenix Coyotes,L,1,2
+DAL,2012-02-19,Nashville Predators,L,2,3
+DAL,2012-02-21,Montreal Canadiens,W,3,0
+DAL,2012-02-23,Chicago Blackhawks,W,3,1
+DAL,2012-02-24,Minnesota Wild,W,4,1
+DAL,2012-02-26,Vancouver Canucks,W,3,2
+DAL,2012-02-29,Pittsburgh Penguins,L,3,4
+DAL,2012-03-02,Edmonton Oilers,W,3,1
+DAL,2012-03-04,Calgary Flames,W,3,2
+DAL,2012-03-06,Vancouver Canucks,W,5,2
+DAL,2012-03-08,San Jose Sharks,W,4,3
+DAL,2012-03-10,Anaheim Ducks,W,2,0
+DAL,2012-03-13,Minnesota Wild,W,1,0
+DAL,2012-03-14,Winnipeg Jets,L,2,5
+DAL,2012-03-16,Chicago Blackhawks,L,1,4
+DAL,2012-03-20,Phoenix Coyotes,W,4,3
+DAL,2012-03-22,Vancouver Canucks,L,1,2
+DAL,2012-03-24,Calgary Flames,W,4,1
+DAL,2012-03-26,Calgary Flames,L,4,5
+DAL,2012-03-28,Edmonton Oilers,W,3,1
+DAL,2012-03-30,Vancouver Canucks,L,2,5
+DAL,2012-03-31,San Jose Sharks,L,0,3
+DAL,2012-04-03,San Jose Sharks,L,2,5
+DAL,2012-04-05,Nashville Predators,L,0,2
+DAL,2012-04-07,St. Louis Blues,L,2,3
+DAL,2013-01-19,Phoenix Coyotes,W,4,3
+DAL,2013-01-20,Minnesota Wild,L,0,1
+DAL,2013-01-22,Detroit Red Wings,W,2,1
+DAL,2013-01-24,Chicago Blackhawks,L,2,3
+DAL,2013-01-26,St. Louis Blues,L,3,4
+DAL,2013-01-28,Columbus Blue Jackets,L,1,2
+DAL,2013-01-29,Detroit Red Wings,L,1,4
+DAL,2013-02-01,Phoenix Coyotes,W,4,3
+DAL,2013-02-02,Phoenix Coyotes,L,0,2
+DAL,2013-02-04,Colorado Avalanche,W,3,2
+DAL,2013-02-06,Edmonton Oilers,W,3,2
+DAL,2013-02-08,Anaheim Ducks,W,3,1
+DAL,2013-02-12,Edmonton Oilers,W,4,1
+DAL,2013-02-13,Calgary Flames,L,4,7
+DAL,2013-02-15,Vancouver Canucks,W,4,3
+DAL,2013-02-17,Calgary Flames,L,3,4
+DAL,2013-02-21,Vancouver Canucks,L,3,4
+DAL,2013-02-23,San Jose Sharks,W,3,1
+DAL,2013-02-25,Nashville Predators,L,4,5
+DAL,2013-02-26,Columbus Blue Jackets,W,5,4
+DAL,2013-02-28,Edmonton Oilers,L,1,5
+DAL,2013-03-03,St. Louis Blues,W,4,1
+DAL,2013-03-07,Los Angeles Kings,W,5,2
+DAL,2013-03-09,Phoenix Coyotes,L,1,2
+DAL,2013-03-12,Nashville Predators,L,0,4
+DAL,2013-03-14,Anaheim Ducks,L,1,2
+DAL,2013-03-16,Chicago Blackhawks,L,1,8
+DAL,2013-03-18,Calgary Flames,W,4,3
+DAL,2013-03-20,Colorado Avalanche,L,3,4
+DAL,2013-03-21,Los Angeles Kings,W,2,0
+DAL,2013-03-23,Colorado Avalanche,W,5,2
+DAL,2013-03-25,Minnesota Wild,L,4,7
+DAL,2013-03-29,Minnesota Wild,W,5,3
+DAL,2013-03-31,Los Angeles Kings,L,2,3
+DAL,2013-04-01,Anaheim Ducks,L,0,4
+DAL,2013-04-03,Anaheim Ducks,L,2,5
+DAL,2013-04-05,Anaheim Ducks,W,3,1
+DAL,2013-04-07,San Jose Sharks,W,5,4
+DAL,2013-04-09,Los Angeles Kings,W,5,1
+DAL,2013-04-12,Nashville Predators,W,5,2
+DAL,2013-04-13,San Jose Sharks,W,2,1
+DAL,2013-04-15,Chicago Blackhawks,L,2,5
+DAL,2013-04-18,Vancouver Canucks,W,5,1
+DAL,2013-04-19,St. Louis Blues,L,1,2
+DAL,2013-04-21,Los Angeles Kings,L,3,4
+DAL,2013-04-23,San Jose Sharks,L,2,3
+DAL,2013-04-25,Columbus Blue Jackets,L,1,3
+DAL,2013-04-27,Detroit Red Wings,L,0,3
+DAL,2013-10-03,Florida Panthers,L,2,4
+DAL,2013-10-05,Washington Capitals,W,2,1
+DAL,2013-10-11,Winnipeg Jets,W,4,1
+DAL,2013-10-12,Minnesota Wild,L,1,5
+DAL,2013-10-15,Colorado Avalanche,L,2,3
+DAL,2013-10-17,San Jose Sharks,W,4,3
+DAL,2013-10-19,Los Angeles Kings,L,2,5
+DAL,2013-10-20,Anaheim Ducks,L,3,6
+DAL,2013-10-24,Calgary Flames,W,5,1
+DAL,2013-10-26,Winnipeg Jets,L,1,2
+DAL,2013-10-28,Buffalo Sabres,W,4,3
+DAL,2013-10-29,Montreal Canadiens,L,1,2
+DAL,2013-11-01,Colorado Avalanche,L,2,3
+DAL,2013-11-03,Ottawa Senators,W,4,3
+DAL,2013-11-05,Boston Bruins,W,3,2
+DAL,2013-11-07,Detroit Red Wings,W,4,3
+DAL,2013-11-09,Chicago Blackhawks,L,2,5
+DAL,2013-11-13,Edmonton Oilers,W,3,0
+DAL,2013-11-14,Calgary Flames,W,7,3
+DAL,2013-11-17,Vancouver Canucks,W,2,1
+DAL,2013-11-21,New York Rangers,L,2,3
+DAL,2013-11-23,St. Louis Blues,L,1,6
+DAL,2013-11-26,Anaheim Ducks,W,6,3
+DAL,2013-11-29,Chicago Blackhawks,L,1,2
+DAL,2013-12-01,Edmonton Oilers,L,2,3
+DAL,2013-12-03,Chicago Blackhawks,W,4,3
+DAL,2013-12-05,Toronto Maple Leafs,L,2,3
+DAL,2013-12-07,Philadelphia Flyers,W,5,1
+DAL,2013-12-10,Chicago Blackhawks,L,2,6
+DAL,2013-12-12,Nashville Predators,L,1,3
+DAL,2013-12-14,Winnipeg Jets,W,6,4
+DAL,2013-12-16,Colorado Avalanche,L,2,6
+DAL,2013-12-17,Colorado Avalanche,W,3,2
+DAL,2013-12-19,Vancouver Canucks,W,4,1
+DAL,2013-12-21,San Jose Sharks,L,2,3
+DAL,2013-12-23,Los Angeles Kings,W,5,2
+DAL,2013-12-27,Nashville Predators,W,4,1
+DAL,2013-12-29,St. Louis Blues,L,2,3
+DAL,2013-12-31,Los Angeles Kings,W,3,2
+DAL,2014-01-02,Montreal Canadiens,L,4,6
+DAL,2014-01-04,Detroit Red Wings,L,1,5
+DAL,2014-01-06,New York Islanders,L,3,7
+DAL,2014-01-09,New Jersey Devils,L,0,1
+DAL,2014-01-10,New York Rangers,L,2,3
+DAL,2014-01-12,New York Islanders,L,2,4
+DAL,2014-01-14,Edmonton Oilers,W,5,2
+DAL,2014-01-16,Boston Bruins,L,2,4
+DAL,2014-01-18,Minnesota Wild,L,2,3
+DAL,2014-01-20,Nashville Predators,L,1,4
+DAL,2014-01-21,Minnesota Wild,W,4,0
+DAL,2014-01-23,Toronto Maple Leafs,W,7,1
+DAL,2014-01-25,Pittsburgh Penguins,W,3,0
+DAL,2014-01-27,Colorado Avalanche,L,3,4
+DAL,2014-01-30,New Jersey Devils,L,2,3
+DAL,2014-02-01,Anaheim Ducks,W,2,0
+DAL,2014-02-04,Phoenix Coyotes,W,3,1
+DAL,2014-02-05,San Jose Sharks,L,1,2
+DAL,2014-02-08,Phoenix Coyotes,W,2,1
+DAL,2014-02-27,Carolina Hurricanes,W,4,1
+DAL,2014-03-01,Tampa Bay Lightning,L,2,4
+DAL,2014-03-03,Buffalo Sabres,W,3,2
+DAL,2014-03-04,Columbus Blue Jackets,L,2,4
+DAL,2014-03-06,Vancouver Canucks,W,6,1
+DAL,2014-03-08,Minnesota Wild,W,4,3
+DAL,2014-03-11,St. Louis Blues,W,3,2
+DAL,2014-03-14,Calgary Flames,L,3,4
+DAL,2014-03-16,Winnipeg Jets,L,2,7
+DAL,2014-03-18,Pittsburgh Penguins,L,1,5
+DAL,2014-03-20,Philadelphia Flyers,L,2,4
+DAL,2014-03-22,Ottawa Senators,W,3,1
+DAL,2014-03-24,Winnipeg Jets,W,2,1
+DAL,2014-03-25,Chicago Blackhawks,L,2,4
+DAL,2014-03-28,Nashville Predators,W,7,3
+DAL,2014-03-29,St. Louis Blues,W,4,2
+DAL,2014-04-01,Washington Capitals,W,5,0
+DAL,2014-04-03,Carolina Hurricanes,L,1,4
+DAL,2014-04-05,Tampa Bay Lightning,W,5,2
+DAL,2014-04-06,Florida Panthers,L,2,3
+DAL,2014-04-08,Nashville Predators,W,3,2
+DAL,2014-04-09,Columbus Blue Jackets,L,1,3
+DAL,2014-04-11,St. Louis Blues,W,3,0
+DAL,2014-04-13,Phoenix Coyotes,L,1,2
+DAL,2014-10-09,Chicago Blackhawks,L,2,3
+DAL,2014-10-11,Nashville Predators,L,1,4
+DAL,2014-10-14,Columbus Blue Jackets,W,4,2
+DAL,2014-10-16,Pittsburgh Penguins,W,3,2
+DAL,2014-10-18,Philadelphia Flyers,L,5,6
+DAL,2014-10-21,Vancouver Canucks,W,6,3
+DAL,2014-10-24,New Jersey Devils,W,3,2
+DAL,2014-10-25,New York Islanders,L,5,7
+DAL,2014-10-28,St. Louis Blues,L,3,4
+DAL,2014-10-31,Anaheim Ducks,L,1,2
+DAL,2014-11-01,Minnesota Wild,L,1,4
+DAL,2014-11-04,Los Angeles Kings,L,1,3
+DAL,2014-11-06,Nashville Predators,L,2,3
+DAL,2014-11-08,San Jose Sharks,L,3,5
+DAL,2014-11-11,Arizona Coyotes,W,4,3
+DAL,2014-11-13,Los Angeles Kings,W,2,0
+DAL,2014-11-15,Minnesota Wild,L,1,2
+DAL,2014-11-16,Chicago Blackhawks,L,2,6
+DAL,2014-11-18,Carolina Hurricanes,L,4,6
+DAL,2014-11-20,Arizona Coyotes,W,3,1
+DAL,2014-11-22,Los Angeles Kings,W,5,4
+DAL,2014-11-25,Edmonton Oilers,W,3,2
+DAL,2014-11-28,Minnesota Wild,L,4,5
+DAL,2014-11-29,Colorado Avalanche,L,2,5
+DAL,2014-12-02,Toronto Maple Leafs,L,3,5
+DAL,2014-12-04,Detroit Red Wings,L,2,5
+DAL,2014-12-06,Montreal Canadiens,W,4,1
+DAL,2014-12-09,Winnipeg Jets,L,2,5
+DAL,2014-12-13,New Jersey Devils,W,4,3
+DAL,2014-12-17,Vancouver Canucks,W,2,0
+DAL,2014-12-19,Calgary Flames,W,2,1
+DAL,2014-12-21,Edmonton Oilers,W,6,5
+DAL,2014-12-23,Toronto Maple Leafs,L,0,4
+DAL,2014-12-27,St. Louis Blues,W,4,3
+DAL,2014-12-29,New York Rangers,W,3,2
+DAL,2014-12-31,Arizona Coyotes,W,6,0
+DAL,2015-01-03,Minnesota Wild,W,7,1
+DAL,2015-01-04,Chicago Blackhawks,L,4,5
+DAL,2015-01-06,Columbus Blue Jackets,L,2,4
+DAL,2015-01-08,Nashville Predators,L,2,3
+DAL,2015-01-10,Colorado Avalanche,L,3,4
+DAL,2015-01-13,Ottawa Senators,W,5,4
+DAL,2015-01-15,Winnipeg Jets,L,1,2
+DAL,2015-01-17,Washington Capitals,W,5,4
+DAL,2015-01-18,Chicago Blackhawks,W,6,3
+DAL,2015-01-20,Boston Bruins,L,1,3
+DAL,2015-01-27,Montreal Canadiens,L,2,3
+DAL,2015-01-29,Ottawa Senators,W,6,3
+DAL,2015-01-31,Winnipeg Jets,W,5,2
+DAL,2015-02-03,Colorado Avalanche,L,2,3
+DAL,2015-02-05,Tampa Bay Lightning,L,3,5
+DAL,2015-02-07,Buffalo Sabres,L,2,3
+DAL,2015-02-08,New York Rangers,W,3,2
+DAL,2015-02-10,Boston Bruins,W,5,3
+DAL,2015-02-13,Florida Panthers,W,2,0
+DAL,2015-02-14,Colorado Avalanche,L,1,4
+DAL,2015-02-17,St. Louis Blues,W,4,1
+DAL,2015-02-19,San Jose Sharks,L,2,5
+DAL,2015-02-21,Detroit Red Wings,L,6,7
+DAL,2015-02-22,Minnesota Wild,L,2,6
+DAL,2015-02-24,Winnipeg Jets,L,2,4
+DAL,2015-02-27,Colorado Avalanche,L,4,5
+DAL,2015-03-01,Anaheim Ducks,L,1,3
+DAL,2015-03-03,New York Islanders,W,3,2
+DAL,2015-03-05,Florida Panthers,W,4,3
+DAL,2015-03-07,Tampa Bay Lightning,L,4,5
+DAL,2015-03-10,Philadelphia Flyers,W,2,1
+DAL,2015-03-12,Carolina Hurricanes,W,5,3
+DAL,2015-03-13,Washington Capitals,W,4,2
+DAL,2015-03-15,St. Louis Blues,L,0,3
+DAL,2015-03-19,Pittsburgh Penguins,W,2,1
+DAL,2015-03-21,Chicago Blackhawks,W,4,0
+DAL,2015-03-23,Buffalo Sabres,W,4,3
+DAL,2015-03-25,Calgary Flames,W,4,3
+DAL,2015-03-27,Edmonton Oilers,L,0,4
+DAL,2015-03-28,Vancouver Canucks,W,4,3
+DAL,2015-03-30,Calgary Flames,L,3,5
+DAL,2015-04-03,St. Louis Blues,L,5,7
+DAL,2015-04-04,Nashville Predators,W,4,3
+DAL,2015-04-06,San Jose Sharks,W,5,1
+DAL,2015-04-08,Anaheim Ducks,W,4,0
+DAL,2015-04-11,Nashville Predators,W,4,1
+DAL,2015-10-08,Pittsburgh Penguins,W,3,0
+DAL,2015-10-10,Colorado Avalanche,L,3,6
+DAL,2015-10-13,Edmonton Oilers,W,4,2
+DAL,2015-10-15,Tampa Bay Lightning,W,5,3
+DAL,2015-10-17,Florida Panthers,W,4,2
+DAL,2015-10-20,Philadelphia Flyers,W,2,1
+DAL,2015-10-22,Pittsburgh Penguins,W,4,1
+DAL,2015-10-24,Florida Panthers,L,2,6
+DAL,2015-10-27,Anaheim Ducks,W,4,3
+DAL,2015-10-29,Vancouver Canucks,W,4,3
+DAL,2015-10-31,San Jose Sharks,W,5,3
+DAL,2015-11-02,Toronto Maple Leafs,L,1,4
+DAL,2015-11-03,Boston Bruins,W,5,3
+DAL,2015-11-06,Carolina Hurricanes,W,4,1
+DAL,2015-11-08,Detroit Red Wings,W,4,1
+DAL,2015-11-10,Toronto Maple Leafs,L,2,3
+DAL,2015-11-12,Winnipeg Jets,W,6,3
+DAL,2015-11-14,Minnesota Wild,W,3,2
+DAL,2015-11-17,Buffalo Sabres,W,3,1
+DAL,2015-11-19,Washington Capitals,W,3,2
+DAL,2015-11-21,Buffalo Sabres,W,3,0
+DAL,2015-11-24,Ottawa Senators,L,4,7
+DAL,2015-11-27,Vancouver Canucks,W,3,2
+DAL,2015-11-28,Minnesota Wild,W,4,3
+DAL,2015-12-01,Calgary Flames,L,3,4
+DAL,2015-12-03,Vancouver Canucks,W,4,2
+DAL,2015-12-04,Edmonton Oilers,L,1,2
+DAL,2015-12-08,Carolina Hurricanes,W,6,5
+DAL,2015-12-11,Philadelphia Flyers,W,3,1
+DAL,2015-12-12,St. Louis Blues,L,0,3
+DAL,2015-12-15,Columbus Blue Jackets,W,5,1
+DAL,2015-12-17,Calgary Flames,L,1,3
+DAL,2015-12-19,Montreal Canadiens,W,6,2
+DAL,2015-12-21,Minnesota Wild,W,6,3
+DAL,2015-12-22,Chicago Blackhawks,W,4,0
+DAL,2015-12-26,St. Louis Blues,L,2,3
+DAL,2015-12-27,St. Louis Blues,W,3,0
+DAL,2015-12-29,Columbus Blue Jackets,L,3,6
+DAL,2015-12-31,Nashville Predators,W,5,1
+DAL,2016-01-02,New Jersey Devils,L,2,3
+DAL,2016-01-03,New York Islanders,L,5,6
+DAL,2016-01-05,New York Rangers,L,2,6
+DAL,2016-01-07,Winnipeg Jets,W,2,1
+DAL,2016-01-09,Minnesota Wild,L,1,2
+DAL,2016-01-15,Anaheim Ducks,L,2,4
+DAL,2016-01-16,San Jose Sharks,L,3,4
+DAL,2016-01-19,Los Angeles Kings,L,2,3
+DAL,2016-01-21,Edmonton Oilers,W,3,2
+DAL,2016-01-23,Colorado Avalanche,L,1,3
+DAL,2016-01-25,Calgary Flames,W,2,1
+DAL,2016-02-02,Winnipeg Jets,W,5,3
+DAL,2016-02-04,Colorado Avalanche,W,4,3
+DAL,2016-02-06,Chicago Blackhawks,L,1,5
+DAL,2016-02-09,Minnesota Wild,W,4,3
+DAL,2016-02-11,Chicago Blackhawks,W,4,2
+DAL,2016-02-13,Washington Capitals,W,4,3
+DAL,2016-02-15,Nashville Predators,W,3,2
+DAL,2016-02-16,St. Louis Blues,L,1,2
+DAL,2016-02-18,Arizona Coyotes,L,3,6
+DAL,2016-02-20,Boston Bruins,L,3,7
+DAL,2016-02-23,Winnipeg Jets,W,5,3
+DAL,2016-02-25,Winnipeg Jets,L,3,6
+DAL,2016-02-27,New York Rangers,L,2,3
+DAL,2016-02-29,Detroit Red Wings,L,2,3
+DAL,2016-03-01,Nashville Predators,L,3,5
+DAL,2016-03-04,New Jersey Devils,W,4,2
+DAL,2016-03-06,Ottawa Senators,W,2,1
+DAL,2016-03-08,Montreal Canadiens,L,3,4
+DAL,2016-03-11,Chicago Blackhawks,W,5,2
+DAL,2016-03-12,St. Louis Blues,L,4,5
+DAL,2016-03-15,Los Angeles Kings,L,2,5
+DAL,2016-03-17,Tampa Bay Lightning,W,4,3
+DAL,2016-03-19,New York Islanders,W,3,0
+DAL,2016-03-22,Chicago Blackhawks,W,6,2
+DAL,2016-03-24,Arizona Coyotes,L,1,3
+DAL,2016-03-26,San Jose Sharks,W,4,2
+DAL,2016-03-29,Nashville Predators,W,5,2
+DAL,2016-03-31,Arizona Coyotes,W,4,1
+DAL,2016-04-02,Los Angeles Kings,W,3,2
+DAL,2016-04-03,Anaheim Ducks,L,1,3
+DAL,2016-04-07,Colorado Avalanche,W,4,2
+DAL,2016-04-09,Nashville Predators,W,3,2
+DAL,2016-10-13,Anaheim Ducks,W,4,2
+DAL,2016-10-15,Colorado Avalanche,L,5,6
+DAL,2016-10-18,Nashville Predators,W,2,1
+DAL,2016-10-20,Los Angeles Kings,L,3,4
+DAL,2016-10-22,Columbus Blue Jackets,L,0,3
+DAL,2016-10-25,Winnipeg Jets,W,3,2
+DAL,2016-10-27,Winnipeg Jets,L,1,4
+DAL,2016-10-29,Minnesota Wild,L,0,4
+DAL,2016-11-01,Columbus Blue Jackets,L,2,3
+DAL,2016-11-03,St. Louis Blues,W,6,2
+DAL,2016-11-05,Chicago Blackhawks,L,2,3
+DAL,2016-11-06,Chicago Blackhawks,L,3,4
+DAL,2016-11-08,Winnipeg Jets,L,2,8
+DAL,2016-11-10,Calgary Flames,W,4,2
+DAL,2016-11-11,Edmonton Oilers,W,3,2
+DAL,2016-11-13,Vancouver Canucks,L,4,5
+DAL,2016-11-15,New Jersey Devils,L,1,2
+DAL,2016-11-17,Colorado Avalanche,W,3,2
+DAL,2016-11-19,Edmonton Oilers,L,2,5
+DAL,2016-11-21,Minnesota Wild,W,3,2
+DAL,2016-11-23,Nashville Predators,L,2,5
+DAL,2016-11-25,Vancouver Canucks,W,2,1
+DAL,2016-11-28,St. Louis Blues,L,3,4
+DAL,2016-11-29,Detroit Red Wings,L,1,3
+DAL,2016-12-01,Pittsburgh Penguins,L,2,6
+DAL,2016-12-03,Colorado Avalanche,W,3,0
+DAL,2016-12-06,Calgary Flames,L,1,2
+DAL,2016-12-08,Nashville Predators,W,5,2
+DAL,2016-12-10,Philadelphia Flyers,L,2,4
+DAL,2016-12-11,Chicago Blackhawks,L,1,3
+DAL,2016-12-13,Anaheim Ducks,W,6,2
+DAL,2016-12-15,New York Rangers,L,0,2
+DAL,2016-12-17,Philadelphia Flyers,W,3,1
+DAL,2016-12-20,St. Louis Blues,L,2,3
+DAL,2016-12-23,Los Angeles Kings,W,3,2
+DAL,2016-12-27,Arizona Coyotes,W,3,2
+DAL,2016-12-29,Colorado Avalanche,W,4,2
+DAL,2016-12-31,Florida Panthers,L,1,3
+DAL,2017-01-04,Montreal Canadiens,L,3,4
+DAL,2017-01-07,St. Louis Blues,L,3,4
+DAL,2017-01-09,Los Angeles Kings,W,6,4
+DAL,2017-01-10,Anaheim Ducks,L,0,2
+DAL,2017-01-12,Detroit Red Wings,W,5,2
+DAL,2017-01-14,Minnesota Wild,L,4,5
+DAL,2017-01-16,Buffalo Sabres,L,1,4
+DAL,2017-01-17,New York Rangers,W,7,6
+DAL,2017-01-19,New York Islanders,L,0,3
+DAL,2017-01-21,Washington Capitals,L,3,4
+DAL,2017-01-24,Minnesota Wild,L,2,3
+DAL,2017-01-26,Buffalo Sabres,W,4,3
+DAL,2017-01-31,Toronto Maple Leafs,W,6,3
+DAL,2017-02-02,Winnipeg Jets,L,3,4
+DAL,2017-02-04,Chicago Blackhawks,L,3,5
+DAL,2017-02-07,Toronto Maple Leafs,L,1,3
+DAL,2017-02-09,Ottawa Senators,L,2,3
+DAL,2017-02-11,Carolina Hurricanes,W,5,2
+DAL,2017-02-12,Nashville Predators,L,3,5
+DAL,2017-02-14,Winnipeg Jets,L,2,5
+DAL,2017-02-16,Minnesota Wild,L,1,3
+DAL,2017-02-18,Tampa Bay Lightning,W,4,3
+DAL,2017-02-24,Arizona Coyotes,W,5,2
+DAL,2017-02-26,Boston Bruins,L,3,6
+DAL,2017-02-28,Pittsburgh Penguins,W,3,2
+DAL,2017-03-02,New York Islanders,L,4,5
+DAL,2017-03-04,Florida Panthers,W,2,1
+DAL,2017-03-06,Washington Capitals,W,4,2
+DAL,2017-03-08,Ottawa Senators,L,2,5
+DAL,2017-03-12,San Jose Sharks,L,1,5
+DAL,2017-03-14,Edmonton Oilers,L,1,7
+DAL,2017-03-16,Vancouver Canucks,W,4,2
+DAL,2017-03-17,Calgary Flames,L,1,3
+DAL,2017-03-20,San Jose Sharks,W,1,0
+DAL,2017-03-23,Chicago Blackhawks,L,2,3
+DAL,2017-03-24,San Jose Sharks,W,6,1
+DAL,2017-03-26,New Jersey Devils,W,2,1
+DAL,2017-03-28,Montreal Canadiens,L,1,4
+DAL,2017-03-30,Boston Bruins,L,0,2
+DAL,2017-04-01,Carolina Hurricanes,W,3,0
+DAL,2017-04-02,Tampa Bay Lightning,L,3,6
+DAL,2017-04-04,Arizona Coyotes,W,3,2
+DAL,2017-04-06,Nashville Predators,L,3,7
+DAL,2017-04-08,Colorado Avalanche,W,4,3
+DAL,2017-10-06,Vegas Golden Knights,L,1,2
+DAL,2017-10-07,St. Louis Blues,L,2,4
+DAL,2017-10-10,Detroit Red Wings,W,4,2
+DAL,2017-10-12,Nashville Predators,L,1,4
+DAL,2017-10-14,Colorado Avalanche,W,3,1
+DAL,2017-10-17,Arizona Coyotes,W,3,1
+DAL,2017-10-19,Arizona Coyotes,W,5,4
+DAL,2017-10-21,Carolina Hurricanes,W,4,3
+DAL,2017-10-24,Colorado Avalanche,L,3,5
+DAL,2017-10-26,Edmonton Oilers,L,4,5
+DAL,2017-10-27,Calgary Flames,W,2,1
+DAL,2017-10-30,Vancouver Canucks,W,2,1
+DAL,2017-11-02,Winnipeg Jets,L,2,5
+DAL,2017-11-04,Buffalo Sabres,W,5,1
+DAL,2017-11-06,Winnipeg Jets,L,1,4
+DAL,2017-11-10,New York Islanders,W,5,0
+DAL,2017-11-13,Carolina Hurricanes,L,1,5
+DAL,2017-11-14,Florida Panthers,L,3,4
+DAL,2017-11-16,Tampa Bay Lightning,L,1,6
+DAL,2017-11-18,Edmonton Oilers,W,6,3
+DAL,2017-11-21,Montreal Canadiens,W,3,1
+DAL,2017-11-22,Colorado Avalanche,L,0,3
+DAL,2017-11-24,Calgary Flames,W,6,4
+DAL,2017-11-28,Vegas Golden Knights,W,3,0
+DAL,2017-11-30,Chicago Blackhawks,W,4,3
+DAL,2017-12-02,Chicago Blackhawks,W,3,2
+DAL,2017-12-03,Colorado Avalanche,W,7,2
+DAL,2017-12-05,Nashville Predators,L,2,5
+DAL,2017-12-07,St. Louis Blues,L,0,3
+DAL,2017-12-09,Vegas Golden Knights,L,3,5
+DAL,2017-12-11,New York Rangers,W,2,1
+DAL,2017-12-13,New York Islanders,W,5,2
+DAL,2017-12-15,New Jersey Devils,L,2,5
+DAL,2017-12-16,Philadelphia Flyers,L,1,2
+DAL,2017-12-19,Washington Capitals,L,3,4
+DAL,2017-12-21,Chicago Blackhawks,W,4,0
+DAL,2017-12-23,Nashville Predators,W,4,3
+DAL,2017-12-27,Minnesota Wild,L,2,4
+DAL,2017-12-29,St. Louis Blues,W,4,2
+DAL,2017-12-31,San Jose Sharks,W,6,0
+DAL,2018-01-02,Columbus Blue Jackets,L,1,2
+DAL,2018-01-04,New Jersey Devils,W,4,3
+DAL,2018-01-06,Edmonton Oilers,W,5,1
+DAL,2018-01-13,Colorado Avalanche,L,1,4
+DAL,2018-01-15,Boston Bruins,W,3,2
+DAL,2018-01-16,Detroit Red Wings,W,4,2
+DAL,2018-01-18,Columbus Blue Jackets,L,1,2
+DAL,2018-01-20,Buffalo Sabres,W,7,1
+DAL,2018-01-23,Florida Panthers,W,6,1
+DAL,2018-01-25,Toronto Maple Leafs,L,1,4
+DAL,2018-01-30,Los Angeles Kings,L,0,3
+DAL,2018-02-01,Arizona Coyotes,W,4,1
+DAL,2018-02-03,Minnesota Wild,W,6,1
+DAL,2018-02-05,New York Rangers,W,2,1
+DAL,2018-02-08,Chicago Blackhawks,W,4,2
+DAL,2018-02-09,Pittsburgh Penguins,W,4,3
+DAL,2018-02-11,Vancouver Canucks,L,0,6
+DAL,2018-02-16,St. Louis Blues,W,2,1
+DAL,2018-02-18,San Jose Sharks,L,2,5
+DAL,2018-02-21,Anaheim Ducks,L,0,2
+DAL,2018-02-22,Los Angeles Kings,W,2,0
+DAL,2018-02-24,Winnipeg Jets,L,3,5
+DAL,2018-02-27,Calgary Flames,W,2,0
+DAL,2018-03-01,Tampa Bay Lightning,L,4,5
+DAL,2018-03-03,St. Louis Blues,W,3,2
+DAL,2018-03-05,Ottawa Senators,L,2,3
+DAL,2018-03-06,Nashville Predators,L,0,2
+DAL,2018-03-09,Anaheim Ducks,W,2,1
+DAL,2018-03-11,Pittsburgh Penguins,L,1,3
+DAL,2018-03-13,Montreal Canadiens,L,2,4
+DAL,2018-03-14,Toronto Maple Leafs,L,5,6
+DAL,2018-03-16,Ottawa Senators,L,2,3
+DAL,2018-03-18,Winnipeg Jets,L,2,4
+DAL,2018-03-20,Washington Capitals,L,3,4
+DAL,2018-03-23,Boston Bruins,L,2,3
+DAL,2018-03-25,Vancouver Canucks,L,1,4
+DAL,2018-03-27,Philadelphia Flyers,W,3,2
+DAL,2018-03-29,Minnesota Wild,L,2,5
+DAL,2018-03-31,Minnesota Wild,W,4,1
+DAL,2018-04-03,San Jose Sharks,W,4,2
+DAL,2018-04-06,Anaheim Ducks,L,3,5
+DAL,2018-04-07,Los Angeles Kings,W,4,2
+DAL,2018-10-04,Arizona Coyotes,W,3,0
+DAL,2018-10-06,Winnipeg Jets,W,5,1
+DAL,2018-10-09,Toronto Maple Leafs,L,4,7
+DAL,2018-10-13,Anaheim Ducks,W,5,3
+DAL,2018-10-15,Ottawa Senators,L,1,4
+DAL,2018-10-16,New Jersey Devils,L,0,3
+DAL,2018-10-19,Minnesota Wild,L,1,3
+DAL,2018-10-23,Los Angeles Kings,W,4,2
+DAL,2018-10-25,Anaheim Ducks,W,5,2
+DAL,2018-10-28,Detroit Red Wings,L,2,4
+DAL,2018-10-30,Montreal Canadiens,W,4,1
+DAL,2018-11-01,Toronto Maple Leafs,W,2,1
+DAL,2018-11-03,Washington Capitals,W,4,3
+DAL,2018-11-05,Boston Bruins,L,1,2
+DAL,2018-11-06,Columbus Blue Jackets,L,1,4
+DAL,2018-11-08,San Jose Sharks,W,4,3
+DAL,2018-11-10,Nashville Predators,L,4,5
+DAL,2018-11-12,Columbus Blue Jackets,L,1,2
+DAL,2018-11-16,Boston Bruins,W,1,0
+DAL,2018-11-18,New York Islanders,W,6,2
+DAL,2018-11-19,New York Rangers,L,1,2
+DAL,2018-11-21,Pittsburgh Penguins,L,1,5
+DAL,2018-11-23,Ottawa Senators,W,6,4
+DAL,2018-11-24,Colorado Avalanche,L,2,3
+DAL,2018-11-27,Edmonton Oilers,L,0,1
+DAL,2018-11-28,Calgary Flames,W,4,3
+DAL,2018-12-01,Vancouver Canucks,W,2,1
+DAL,2018-12-03,Edmonton Oilers,W,4,1
+DAL,2018-12-07,San Jose Sharks,W,3,2
+DAL,2018-12-09,Vegas Golden Knights,L,2,4
+DAL,2018-12-12,Anaheim Ducks,L,3,6
+DAL,2018-12-13,San Jose Sharks,L,2,3
+DAL,2018-12-15,Colorado Avalanche,L,4,6
+DAL,2018-12-18,Calgary Flames,W,2,0
+DAL,2018-12-20,Chicago Blackhawks,L,2,5
+DAL,2018-12-22,Minnesota Wild,W,2,1
+DAL,2018-12-23,New York Islanders,L,1,3
+DAL,2018-12-27,Nashville Predators,W,2,0
+DAL,2018-12-29,Detroit Red Wings,W,5,1
+DAL,2018-12-31,Montreal Canadiens,L,2,3
+DAL,2019-01-02,New Jersey Devils,W,5,4
+DAL,2019-01-04,Washington Capitals,W,2,1
+DAL,2019-01-06,Winnipeg Jets,L,1,5
+DAL,2019-01-08,St. Louis Blues,W,3,1
+DAL,2019-01-10,Philadelphia Flyers,L,1,2
+DAL,2019-01-12,St. Louis Blues,L,1,3
+DAL,2019-01-15,Tampa Bay Lightning,L,0,2
+DAL,2019-01-17,Los Angeles Kings,L,1,2
+DAL,2019-01-19,Winnipeg Jets,W,4,2
+DAL,2019-01-30,Buffalo Sabres,W,1,0
+DAL,2019-02-01,Minnesota Wild,W,3,1
+DAL,2019-02-02,Nashville Predators,W,3,1
+DAL,2019-02-04,Arizona Coyotes,W,5,4
+DAL,2019-02-07,Nashville Predators,L,2,3
+DAL,2019-02-09,Arizona Coyotes,L,2,3
+DAL,2019-02-12,Florida Panthers,W,3,0
+DAL,2019-02-14,Tampa Bay Lightning,L,0,6
+DAL,2019-02-16,Carolina Hurricanes,L,0,3
+DAL,2019-02-19,Nashville Predators,L,3,5
+DAL,2019-02-21,St. Louis Blues,W,5,2
+DAL,2019-02-23,Carolina Hurricanes,L,0,3
+DAL,2019-02-24,Chicago Blackhawks,W,4,3
+DAL,2019-02-26,Vegas Golden Knights,L,1,4
+DAL,2019-02-28,Los Angeles Kings,W,4,3
+DAL,2019-03-02,St. Louis Blues,W,4,1
+DAL,2019-03-05,New York Rangers,W,1,0
+DAL,2019-03-07,Colorado Avalanche,W,4,0
+DAL,2019-03-09,Chicago Blackhawks,L,1,2
+DAL,2019-03-12,Buffalo Sabres,W,2,0
+DAL,2019-03-14,Minnesota Wild,W,4,1
+DAL,2019-03-15,Vegas Golden Knights,L,1,2
+DAL,2019-03-17,Vancouver Canucks,L,2,3
+DAL,2019-03-19,Florida Panthers,W,4,2
+DAL,2019-03-21,Colorado Avalanche,L,1,3
+DAL,2019-03-23,Pittsburgh Penguins,L,2,3
+DAL,2019-03-25,Winnipeg Jets,W,5,2
+DAL,2019-03-27,Calgary Flames,W,2,1
+DAL,2019-03-28,Edmonton Oilers,W,3,2
+DAL,2019-03-30,Vancouver Canucks,L,2,3
+DAL,2019-04-02,Philadelphia Flyers,W,6,2
+DAL,2019-04-05,Chicago Blackhawks,L,1,6
+DAL,2019-04-06,Minnesota Wild,W,3,0
+DAL,2019-10-03,Boston Bruins,L,1,2
+DAL,2019-10-05,St. Louis Blues,L,2,3
+DAL,2019-10-06,Detroit Red Wings,L,3,4
+DAL,2019-10-08,Washington Capitals,W,4,3
+DAL,2019-10-10,Calgary Flames,L,2,3
+DAL,2019-10-12,Washington Capitals,L,1,4
+DAL,2019-10-14,Buffalo Sabres,L,0,4
+DAL,2019-10-16,Columbus Blue Jackets,L,2,3
+DAL,2019-10-18,Pittsburgh Penguins,L,2,4
+DAL,2019-10-19,Philadelphia Flyers,W,4,1
+DAL,2019-10-21,Ottawa Senators,W,2,1
+DAL,2019-10-24,Anaheim Ducks,W,2,1
+DAL,2019-10-26,Pittsburgh Penguins,L,0,3
+DAL,2019-10-29,Minnesota Wild,W,6,3
+DAL,2019-11-01,Colorado Avalanche,W,2,1
+DAL,2019-11-02,Montreal Canadiens,W,4,1
+DAL,2019-11-05,Colorado Avalanche,W,4,1
+DAL,2019-11-10,Winnipeg Jets,L,2,3
+DAL,2019-11-13,Calgary Flames,W,3,1
+DAL,2019-11-14,Vancouver Canucks,W,4,2
+DAL,2019-11-16,Edmonton Oilers,W,5,4
+DAL,2019-11-19,Vancouver Canucks,W,6,1
+DAL,2019-11-21,Winnipeg Jets,W,5,3
+DAL,2019-11-23,Chicago Blackhawks,W,2,1
+DAL,2019-11-25,Vegas Golden Knights,W,4,2
+DAL,2019-11-26,Chicago Blackhawks,L,0,3
+DAL,2019-11-29,St. Louis Blues,L,1,3
+DAL,2019-12-01,Minnesota Wild,L,2,3
+DAL,2019-12-03,Winnipeg Jets,L,1,5
+DAL,2019-12-05,Winnipeg Jets,W,3,2
+DAL,2019-12-07,New York Islanders,W,3,1
+DAL,2019-12-10,New Jersey Devils,W,2,0
+DAL,2019-12-13,Vegas Golden Knights,L,2,3
+DAL,2019-12-14,Nashville Predators,W,4,1
+DAL,2019-12-16,Edmonton Oilers,L,1,2
+DAL,2019-12-19,Tampa Bay Lightning,W,4,3
+DAL,2019-12-20,Florida Panthers,L,4,7
+DAL,2019-12-22,Calgary Flames,L,1,5
+DAL,2019-12-28,Colorado Avalanche,W,3,2
+DAL,2019-12-29,Arizona Coyotes,W,4,2
+DAL,2020-01-01,Nashville Predators,W,4,2
+DAL,2020-01-03,Detroit Red Wings,W,4,1
+DAL,2020-01-08,Los Angeles Kings,W,2,1
+DAL,2020-01-09,Anaheim Ducks,W,3,0
+DAL,2020-01-11,San Jose Sharks,L,1,2
+DAL,2020-01-14,Colorado Avalanche,W,3,2
+DAL,2020-01-16,Buffalo Sabres,L,1,4
+DAL,2020-01-18,Minnesota Wild,L,0,7
+DAL,2020-01-27,Tampa Bay Lightning,W,3,2
+DAL,2020-01-29,Toronto Maple Leafs,L,3,5
+DAL,2020-02-01,New Jersey Devils,W,3,2
+DAL,2020-02-03,New York Rangers,W,5,3
+DAL,2020-02-04,New York Islanders,L,3,4
+DAL,2020-02-07,Minnesota Wild,L,2,3
+DAL,2020-02-08,St. Louis Blues,W,3,2
+DAL,2020-02-11,Carolina Hurricanes,W,4,1
+DAL,2020-02-13,Toronto Maple Leafs,W,3,2
+DAL,2020-02-15,Montreal Canadiens,W,4,3
+DAL,2020-02-16,Ottawa Senators,L,3,4
+DAL,2020-02-19,Arizona Coyotes,W,3,2
+DAL,2020-02-21,St. Louis Blues,L,1,5
+DAL,2020-02-23,Chicago Blackhawks,W,2,1
+DAL,2020-02-25,Carolina Hurricanes,W,4,1
+DAL,2020-02-27,Boston Bruins,L,3,4
+DAL,2020-02-29,St. Louis Blues,L,3,4
+DAL,2020-03-03,Edmonton Oilers,L,1,2
+DAL,2020-03-05,Nashville Predators,L,0,2
+DAL,2020-03-07,Nashville Predators,L,0,1
+DAL,2020-03-10,New York Rangers,L,2,4
+DAL,2021-01-22,Nashville Predators,W,7,0
+DAL,2021-01-24,Nashville Predators,W,3,2
+DAL,2021-01-26,Detroit Red Wings,W,2,1
+DAL,2021-01-28,Detroit Red Wings,W,7,3
+DAL,2021-01-30,Carolina Hurricanes,L,1,4
+DAL,2021-01-31,Carolina Hurricanes,L,3,4
+DAL,2021-02-02,Columbus Blue Jackets,W,6,3
+DAL,2021-02-04,Columbus Blue Jackets,L,3,4
+DAL,2021-02-07,Chicago Blackhawks,L,1,2
+DAL,2021-02-09,Chicago Blackhawks,L,1,2
+DAL,2021-02-11,Carolina Hurricanes,L,3,5
+DAL,2021-02-13,Carolina Hurricanes,L,3,4
+DAL,2021-02-22,Florida Panthers,L,1,3
+DAL,2021-02-24,Florida Panthers,W,3,0
+DAL,2021-02-25,Florida Panthers,L,2,3
+DAL,2021-02-27,Tampa Bay Lightning,L,0,5
+DAL,2021-03-02,Tampa Bay Lightning,L,0,2
+DAL,2021-03-04,Columbus Blue Jackets,L,2,3
+DAL,2021-03-06,Columbus Blue Jackets,W,5,0
+DAL,2021-03-07,Nashville Predators,L,3,4
+DAL,2021-03-09,Chicago Blackhawks,W,6,1
+DAL,2021-03-11,Chicago Blackhawks,L,2,4
+DAL,2021-03-13,Columbus Blue Jackets,L,3,4
+DAL,2021-03-14,Columbus Blue Jackets,W,2,1
+DAL,2021-03-16,Tampa Bay Lightning,L,3,4
+DAL,2021-03-18,Detroit Red Wings,L,2,3
+DAL,2021-03-20,Detroit Red Wings,W,3,0
+DAL,2021-03-21,Nashville Predators,L,3,4
+DAL,2021-03-23,Tampa Bay Lightning,L,1,2
+DAL,2021-03-25,Tampa Bay Lightning,W,4,3
+DAL,2021-03-27,Florida Panthers,L,3,4
+DAL,2021-03-28,Florida Panthers,L,1,4
+DAL,2021-03-30,Nashville Predators,L,2,3
+DAL,2021-04-01,Nashville Predators,W,4,1
+DAL,2021-04-03,Carolina Hurricanes,W,3,2
+DAL,2021-04-04,Carolina Hurricanes,L,0,1
+DAL,2021-04-06,Chicago Blackhawks,L,2,4
+DAL,2021-04-08,Chicago Blackhawks,W,5,1
+DAL,2021-04-10,Florida Panthers,W,4,1
+DAL,2021-04-11,Nashville Predators,L,2,3
+DAL,2021-04-13,Florida Panthers,L,2,3
+DAL,2021-04-15,Columbus Blue Jackets,W,4,1
+DAL,2021-04-17,Columbus Blue Jackets,W,5,1
+DAL,2021-04-19,Detroit Red Wings,W,3,2
+DAL,2021-04-20,Detroit Red Wings,W,5,2
+DAL,2021-04-22,Detroit Red Wings,L,3,7
+DAL,2021-04-24,Detroit Red Wings,W,2,1
+DAL,2021-04-26,Carolina Hurricanes,W,4,3
+DAL,2021-04-27,Carolina Hurricanes,L,1,5
+DAL,2021-04-29,Tampa Bay Lightning,L,0,3
+DAL,2021-05-01,Nashville Predators,L,0,1
+DAL,2021-05-03,Florida Panthers,L,4,5
+DAL,2021-05-05,Tampa Bay Lightning,L,2,6
+DAL,2021-05-07,Tampa Bay Lightning,W,5,2
+DAL,2021-05-09,Chicago Blackhawks,L,2,4
+DAL,2021-05-10,Chicago Blackhawks,W,5,4
+DAL,2021-10-14,New York Rangers,W,3,2
+DAL,2021-10-16,Boston Bruins,L,1,3
+DAL,2021-10-17,Ottawa Senators,L,2,3
+DAL,2021-10-19,Pittsburgh Penguins,W,2,1
+DAL,2021-10-22,Los Angeles Kings,W,3,2
+DAL,2021-10-25,Columbus Blue Jackets,L,1,4
+DAL,2021-10-27,Vegas Golden Knights,L,2,3
+DAL,2021-10-29,Ottawa Senators,L,1,4
+DAL,2021-11-02,Winnipeg Jets,L,3,4
+DAL,2021-11-04,Calgary Flames,W,4,3
+DAL,2021-11-07,Vancouver Canucks,L,3,6
+DAL,2021-11-10,Nashville Predators,L,2,4
+DAL,2021-11-13,Philadelphia Flyers,W,5,2
+DAL,2021-11-16,Detroit Red Wings,W,5,2
+DAL,2021-11-18,Minnesota Wild,L,2,7
+DAL,2021-11-20,St. Louis Blues,W,4,1
+DAL,2021-11-23,Edmonton Oilers,W,4,1
+DAL,2021-11-26,Colorado Avalanche,W,3,1
+DAL,2021-11-27,Arizona Coyotes,W,3,2
+DAL,2021-11-30,Carolina Hurricanes,W,4,1
+DAL,2021-12-02,Columbus Blue Jackets,W,3,2
+DAL,2021-12-06,Arizona Coyotes,W,4,1
+DAL,2021-12-08,Vegas Golden Knights,L,4,5
+DAL,2021-12-09,Los Angeles Kings,L,0,4
+DAL,2021-12-11,San Jose Sharks,L,1,2
+DAL,2021-12-14,St. Louis Blues,L,1,4
+DAL,2021-12-17,St. Louis Blues,L,1,4
+DAL,2021-12-18,Chicago Blackhawks,W,4,3
+DAL,2021-12-20,Minnesota Wild,W,7,4
+DAL,2022-01-06,Florida Panthers,W,6,5
+DAL,2022-01-08,Pittsburgh Penguins,W,3,2
+DAL,2022-01-09,St. Louis Blues,L,1,2
+DAL,2022-01-12,Seattle Kraken,W,5,2
+DAL,2022-01-14,Florida Panthers,L,1,7
+DAL,2022-01-15,Tampa Bay Lightning,L,1,3
+DAL,2022-01-18,Montreal Canadiens,L,3,5
+DAL,2022-01-20,Buffalo Sabres,W,5,4
+DAL,2022-01-21,Detroit Red Wings,W,5,4
+DAL,2022-01-24,Philadelphia Flyers,W,3,1
+DAL,2022-01-25,New Jersey Devils,W,5,1
+DAL,2022-01-28,Washington Capitals,L,0,5
+DAL,2022-01-30,Boston Bruins,W,6,1
+DAL,2022-02-01,Calgary Flames,L,3,4
+DAL,2022-02-09,Nashville Predators,W,4,3
+DAL,2022-02-11,Winnipeg Jets,W,4,3
+DAL,2022-02-13,Colorado Avalanche,L,0,4
+DAL,2022-02-15,Colorado Avalanche,W,4,1
+DAL,2022-02-18,Chicago Blackhawks,W,1,0
+DAL,2022-02-20,Arizona Coyotes,L,1,3
+DAL,2022-02-23,Winnipeg Jets,W,3,2
+DAL,2022-02-24,Nashville Predators,L,1,2
+DAL,2022-02-27,Buffalo Sabres,W,4,2
+DAL,2022-03-02,Los Angeles Kings,W,4,3
+DAL,2022-03-04,Winnipeg Jets,W,4,3
+DAL,2022-03-06,Minnesota Wild,W,6,3
+DAL,2022-03-08,Nashville Predators,L,1,2
+DAL,2022-03-12,New York Rangers,L,4,7
+DAL,2022-03-15,Toronto Maple Leafs,L,0,4
+DAL,2022-03-17,Montreal Canadiens,W,4,3
+DAL,2022-03-19,New York Islanders,L,2,4
+DAL,2022-03-20,Washington Capitals,W,3,2
+DAL,2022-03-22,Edmonton Oilers,W,5,3
+DAL,2022-03-24,Carolina Hurricanes,W,4,3
+DAL,2022-03-26,Vancouver Canucks,L,1,4
+DAL,2022-03-29,Anaheim Ducks,W,3,2
+DAL,2022-03-31,Anaheim Ducks,W,3,2
+DAL,2022-04-02,San Jose Sharks,W,5,4
+DAL,2022-04-03,Seattle Kraken,L,1,4
+DAL,2022-04-05,New York Islanders,W,3,2
+DAL,2022-04-07,Toronto Maple Leafs,L,3,4
+DAL,2022-04-09,New Jersey Devils,L,1,3
+DAL,2022-04-10,Chicago Blackhawks,W,6,4
+DAL,2022-04-12,Tampa Bay Lightning,W,1,0
+DAL,2022-04-14,Minnesota Wild,L,2,3
+DAL,2022-04-16,San Jose Sharks,W,2,1
+DAL,2022-04-18,Vancouver Canucks,L,2,6
+DAL,2022-04-20,Edmonton Oilers,L,2,5
+DAL,2022-04-21,Calgary Flames,L,2,4
+DAL,2022-04-23,Seattle Kraken,W,3,2
+DAL,2022-04-26,Vegas Golden Knights,W,3,2
+DAL,2022-04-27,Arizona Coyotes,L,3,4
+DAL,2022-04-29,Anaheim Ducks,W,4,2
+DAL,2022-10-13,Nashville Predators,W,4,1
+DAL,2022-10-15,Nashville Predators,W,5,1
+DAL,2022-10-17,Winnipeg Jets,W,4,1
+DAL,2022-10-20,Toronto Maple Leafs,L,2,3
+DAL,2022-10-22,Montreal Canadiens,W,5,2
+DAL,2022-10-24,Ottawa Senators,L,2,4
+DAL,2022-10-25,Boston Bruins,L,1,3
+DAL,2022-10-27,Washington Capitals,W,2,0
+DAL,2022-10-29,New York Rangers,L,3,6
+DAL,2022-11-01,Los Angeles Kings,W,5,2
+DAL,2022-11-03,Arizona Coyotes,W,7,2
+DAL,2022-11-05,Edmonton Oilers,W,6,2
+DAL,2022-11-08,Winnipeg Jets,L,1,5
+DAL,2022-11-11,San Jose Sharks,L,4,5
+DAL,2022-11-13,Philadelphia Flyers,W,5,1
+DAL,2022-11-15,Tampa Bay Lightning,L,4,5
+DAL,2022-11-17,Florida Panthers,W,6,4
+DAL,2022-11-19,New York Islanders,W,5,2
+DAL,2022-11-21,Colorado Avalanche,L,2,3
+DAL,2022-11-23,Chicago Blackhawks,W,6,4
+DAL,2022-11-25,Winnipeg Jets,L,4,5
+DAL,2022-11-26,Colorado Avalanche,L,1,4
+DAL,2022-11-28,St. Louis Blues,W,4,1
+DAL,2022-12-01,Anaheim Ducks,W,5,0
+DAL,2022-12-04,Minnesota Wild,L,5,6
+DAL,2022-12-06,Toronto Maple Leafs,L,0,4
+DAL,2022-12-08,Ottawa Senators,W,4,3
+DAL,2022-12-10,Detroit Red Wings,W,3,2
+DAL,2022-12-12,Pittsburgh Penguins,L,1,2
+DAL,2022-12-13,New Jersey Devils,W,4,1
+DAL,2022-12-15,Washington Capitals,W,2,1
+DAL,2022-12-17,Carolina Hurricanes,L,4,5
+DAL,2022-12-19,Columbus Blue Jackets,W,2,1
+DAL,2022-12-21,Edmonton Oilers,L,3,6
+DAL,2022-12-23,Montreal Canadiens,W,4,2
+DAL,2022-12-27,Nashville Predators,W,3,2
+DAL,2022-12-29,Minnesota Wild,W,4,1
+DAL,2022-12-31,San Jose Sharks,W,5,2
+DAL,2023-01-03,Los Angeles Kings,L,2,3
+DAL,2023-01-04,Anaheim Ducks,L,0,2
+DAL,2023-01-08,Florida Panthers,W,5,1
+DAL,2023-01-10,New York Islanders,W,2,1
+DAL,2023-01-12,New York Rangers,L,1,2
+DAL,2023-01-14,Calgary Flames,L,5,6
+DAL,2023-01-16,Vegas Golden Knights,W,4,0
+DAL,2023-01-18,San Jose Sharks,L,3,5
+DAL,2023-01-19,Los Angeles Kings,W,4,0
+DAL,2023-01-21,Arizona Coyotes,W,4,0
+DAL,2023-01-23,Buffalo Sabres,L,2,3
+DAL,2023-01-25,Carolina Hurricanes,L,2,3
+DAL,2023-01-27,New Jersey Devils,L,2,3
+DAL,2023-02-06,Anaheim Ducks,W,3,2
+DAL,2023-02-08,Minnesota Wild,W,4,1
+DAL,2023-02-11,Tampa Bay Lightning,L,1,3
+DAL,2023-02-14,Boston Bruins,L,2,3
+DAL,2023-02-17,Minnesota Wild,L,1,2
+DAL,2023-02-18,Columbus Blue Jackets,L,1,4
+DAL,2023-02-22,Chicago Blackhawks,,,
+DAL,2023-02-25,Vegas Golden Knights,,,
+DAL,2023-02-27,Vancouver Canucks,,,
+DAL,2023-03-01,Arizona Coyotes,,,
+DAL,2023-03-02,Chicago Blackhawks,,,
+DAL,2023-03-04,Colorado Avalanche,,,
+DAL,2023-03-06,Calgary Flames,,,
+DAL,2023-03-09,Buffalo Sabres,,,
+DAL,2023-03-11,Seattle Kraken,,,
+DAL,2023-03-13,Seattle Kraken,,,
+DAL,2023-03-14,Vancouver Canucks,,,
+DAL,2023-03-16,Edmonton Oilers,,,
+DAL,2023-03-18,Calgary Flames,,,
+DAL,2023-03-21,Seattle Kraken,,,
+DAL,2023-03-23,Pittsburgh Penguins,,,
+DAL,2023-03-25,Vancouver Canucks,,,
+DAL,2023-03-28,Chicago Blackhawks,,,
+DAL,2023-03-31,Arizona Coyotes,,,
+DAL,2023-04-01,Colorado Avalanche,,,
+DAL,2023-04-03,Nashville Predators,,,
+DAL,2023-04-06,Philadelphia Flyers,,,
+DAL,2023-04-08,Vegas Golden Knights,,,
+DAL,2023-04-10,Detroit Red Wings,,,
+DAL,2023-04-12,St. Louis Blues,,,
+DAL,2023-04-13,St. Louis Blues,,,

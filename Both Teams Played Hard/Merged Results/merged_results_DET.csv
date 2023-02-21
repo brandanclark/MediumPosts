@@ -1,0 +1,351 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-26,DET,Nashville Predators,W,4,1,DET,Indiana Pacers,L,79,91
+2011-12-30,DET,Chicago Blackhawks,L,2,3,DET,Boston Celtics,L,85,96
+2011-12-31,DET,St. Louis Blues,W,3,0,DET,Indiana Pacers,W,96,88
+2012-01-07,DET,Toronto Maple Leafs,L,3,4,DET,New York Knicks,L,80,103
+2012-01-10,DET,New York Islanders,L,1,5,DET,Dallas Mavericks,L,86,100
+2012-01-12,DET,Phoenix Coyotes,W,3,2,DET,Milwaukee Bucks,L,93,102
+2012-01-17,DET,Dallas Stars,W,3,2,DET,Houston Rockets,L,80,97
+2012-01-21,DET,Columbus Blue Jackets,W,3,2,DET,Portland Trail Blazers,W,94,91
+2012-01-23,DET,St. Louis Blues,W,3,1,DET,Oklahoma City Thunder,L,79,99
+2012-01-25,DET,Montreal Canadiens,L,2,7,DET,Miami Heat,L,98,101
+2012-01-31,DET,Calgary Flames,W,3,1,DET,New York Knicks,L,86,113
+2012-02-04,DET,Edmonton Oilers,L,4,5,DET,New Orleans Hornets,W,89,87
+2012-02-08,DET,Edmonton Oilers,W,4,2,DET,New Jersey Nets,W,99,92
+2012-02-10,DET,Anaheim Ducks,W,2,1,DET,New Jersey Nets,W,109,92
+2012-02-12,DET,Philadelphia Flyers,W,4,3,DET,Washington Wizards,L,77,98
+2012-02-14,DET,Dallas Stars,W,3,1,DET,San Antonio Spurs,L,95,99
+2012-02-17,DET,Nashville Predators,W,2,1,DET,Sacramento Kings,W,114,108
+2012-02-19,DET,San Jose Sharks,W,3,2,DET,Boston Celtics,W,96,81
+2012-02-21,DET,Chicago Blackhawks,L,1,2,DET,Cleveland Cavaliers,L,100,101
+2012-02-28,DET,Columbus Blue Jackets,W,5,2,DET,Philadelphia 76ers,L,68,97
+2012-03-06,DET,Philadelphia Flyers,L,2,3,DET,Los Angeles Lakers,W,88,85
+2012-03-09,DET,Los Angeles Kings,W,4,3,DET,Atlanta Hawks,W,86,85
+2012-03-10,DET,Nashville Predators,L,2,3,DET,Toronto Raptors,W,105,86
+2012-03-14,DET,Anaheim Ducks,L,0,4,DET,Sacramento Kings,W,124,112
+2012-03-21,DET,New York Rangers,L,1,2,DET,Denver Nuggets,L,115,116
+2012-03-24,DET,Carolina Hurricanes,W,5,4,DET,New York Knicks,L,79,101
+2012-03-26,DET,Columbus Blue Jackets,W,7,2,DET,Washington Wizards,W,79,77
+2012-03-28,DET,Columbus Blue Jackets,L,2,4,DET,Cleveland Cavaliers,W,87,75
+2012-03-30,DET,Nashville Predators,L,1,4,DET,Chicago Bulls,L,71,83
+2012-04-05,DET,New Jersey Devils,L,1,2,DET,Washington Wizards,W,99,94
+2013-01-22,DET,Dallas Stars,L,1,2,DET,Orlando Magic,W,105,90
+2013-01-25,DET,Minnesota Wild,W,5,3,DET,Miami Heat,L,88,110
+2013-01-27,DET,Chicago Blackhawks,L,1,2,DET,Orlando Magic,W,104,102
+2013-01-29,DET,Dallas Stars,W,4,1,DET,Milwaukee Bucks,L,90,117
+2013-02-01,DET,St. Louis Blues,W,5,3,DET,Cleveland Cavaliers,W,117,99
+2013-02-09,DET,Edmonton Oilers,W,2,1,DET,Milwaukee Bucks,W,105,100
+2013-02-13,DET,St. Louis Blues,L,3,4,DET,Washington Wizards,W,96,85
+2013-02-19,DET,Nashville Predators,L,3,4,DET,Memphis Grizzlies,L,91,105
+2013-02-23,DET,Nashville Predators,W,4,0,DET,Indiana Pacers,L,72,90
+2013-02-27,DET,Los Angeles Kings,L,1,2,DET,Washington Wizards,W,96,95
+2013-03-03,DET,Chicago Blackhawks,L,1,2,DET,San Antonio Spurs,L,75,114
+2013-03-10,DET,Columbus Blue Jackets,L,2,3,DET,Los Angeles Clippers,L,97,129
+2013-03-13,DET,Calgary Flames,L,2,5,DET,Golden State Warriors,L,97,105
+2013-03-16,DET,Vancouver Canucks,W,5,2,DET,Portland Trail Blazers,L,101,112
+2013-03-22,DET,Anaheim Ducks,W,5,1,DET,Miami Heat,L,89,103
+2013-03-31,DET,Chicago Blackhawks,L,1,7,DET,Chicago Bulls,L,94,95
+2013-04-01,DET,Colorado Avalanche,W,3,2,DET,Toronto Raptors,W,108,98
+2013-04-07,DET,St. Louis Blues,L,0,1,DET,Chicago Bulls,W,99,85
+2013-04-12,DET,Chicago Blackhawks,L,2,3,DET,Charlotte Bobcats,W,113,93
+2013-04-17,DET,Calgary Flames,L,2,3,DET,Brooklyn Nets,L,99,103
+2013-10-30,DET,Vancouver Canucks,W,2,1,DET,Washington Wizards,W,113,102
+2013-11-01,DET,Calgary Flames,W,4,3,DET,Memphis Grizzlies,L,108,111
+2013-11-12,DET,Winnipeg Jets,L,2,3,DET,Golden State Warriors,L,95,113
+2013-11-15,DET,Washington Capitals,L,3,4,DET,Sacramento Kings,W,97,90
+2013-11-19,DET,Nashville Predators,L,0,2,DET,New York Knicks,W,92,86
+2013-11-24,DET,Buffalo Sabres,W,3,1,DET,Brooklyn Nets,W,109,97
+2013-11-27,DET,Boston Bruins,W,6,1,DET,Chicago Bulls,L,79,99
+2013-11-29,DET,New York Islanders,W,5,0,DET,Los Angeles Lakers,L,102,106
+2013-12-01,DET,Ottawa Senators,W,4,2,DET,Philadelphia 76ers,W,115,100
+2013-12-04,DET,Philadelphia Flyers,L,3,6,DET,Milwaukee Bucks,W,105,98
+2013-12-07,DET,Florida Panthers,L,1,2,DET,Chicago Bulls,W,92,75
+2013-12-10,DET,Florida Panthers,L,2,3,DET,Minnesota Timberwolves,L,94,121
+2013-12-15,DET,Tampa Bay Lightning,L,0,3,DET,Portland Trail Blazers,L,109,111
+2013-12-21,DET,Toronto Maple Leafs,W,5,4,DET,Houston Rockets,L,97,114
+2013-12-23,DET,New York Islanders,L,0,3,DET,Cleveland Cavaliers,W,115,92
+2013-12-28,DET,Florida Panthers,W,4,3,DET,Washington Wizards,L,82,106
+2013-12-30,DET,Nashville Predators,L,4,6,DET,Washington Wizards,L,99,106
+2014-01-11,DET,Los Angeles Kings,W,3,1,DET,Phoenix Suns,W,110,108
+2014-01-18,DET,Los Angeles Kings,W,3,2,DET,Washington Wizards,W,104,98
+2014-01-20,DET,St. Louis Blues,L,1,4,DET,Los Angeles Clippers,L,103,112
+2014-01-22,DET,Chicago Blackhawks,W,5,4,DET,Milwaukee Bucks,L,101,104
+2014-01-24,DET,Montreal Canadiens,W,4,1,DET,New Orleans Pelicans,L,101,103
+2014-01-26,DET,Florida Panthers,L,4,5,DET,Dallas Mavericks,L,106,116
+2014-01-28,DET,Philadelphia Flyers,L,0,5,DET,Orlando Magic,W,103,87
+2014-02-03,DET,Vancouver Canucks,W,2,0,DET,Miami Heat,L,96,102
+2014-02-08,DET,Tampa Bay Lightning,L,2,4,DET,Denver Nuggets,W,126,109
+2014-02-26,DET,Montreal Canadiens,W,2,1,DET,San Antonio Spurs,L,110,120
+2014-03-07,DET,New Jersey Devils,W,7,4,DET,Minnesota Timberwolves,L,101,114
+2014-03-09,DET,New York Rangers,L,0,3,DET,Boston Celtics,L,111,118
+2014-03-11,DET,Columbus Blue Jackets,L,1,4,DET,Sacramento Kings,W,99,89
+2014-03-22,DET,Minnesota Wild,W,3,2,DET,Los Angeles Clippers,L,103,112
+2014-03-29,DET,Toronto Maple Leafs,W,4,2,DET,Philadelphia 76ers,L,98,123
+2014-04-02,DET,Boston Bruins,W,3,2,DET,Indiana Pacers,L,94,101
+2014-04-04,DET,Buffalo Sabres,W,3,2,DET,Brooklyn Nets,L,104,116
+2014-04-05,DET,Montreal Canadiens,L,3,5,DET,Boston Celtics,W,115,111
+2014-04-08,DET,Buffalo Sabres,W,4,2,DET,Atlanta Hawks,W,102,95
+2014-04-09,DET,Pittsburgh Penguins,L,3,4,DET,Cleveland Cavaliers,L,100,122
+2014-04-11,DET,Carolina Hurricanes,L,1,2,DET,Chicago Bulls,L,98,106
+2014-04-13,DET,St. Louis Blues,W,3,0,DET,Toronto Raptors,L,107,116
+2014-10-29,DET,Washington Capitals,W,4,2,DET,Denver Nuggets,L,79,89
+2014-11-05,DET,New York Rangers,L,3,4,DET,New York Knicks,W,98,95
+2014-11-07,DET,New Jersey Devils,W,4,2,DET,Milwaukee Bucks,W,98,95
+2014-11-09,DET,Tampa Bay Lightning,L,3,4,DET,Utah Jazz,L,96,97
+2014-11-14,DET,Chicago Blackhawks,W,4,1,DET,Oklahoma City Thunder,W,96,89
+2014-11-26,DET,Philadelphia Flyers,W,5,2,DET,Los Angeles Clippers,L,98,104
+2014-11-28,DET,New Jersey Devils,W,5,4,DET,Milwaukee Bucks,L,88,104
+2014-11-30,DET,Vancouver Canucks,W,5,3,DET,Golden State Warriors,L,93,104
+2014-12-02,DET,Florida Panthers,L,3,4,DET,Los Angeles Lakers,L,96,106
+2014-12-06,DET,New York Rangers,W,3,2,DET,Philadelphia 76ers,L,101,108
+2014-12-07,DET,Carolina Hurricanes,W,3,1,DET,Oklahoma City Thunder,L,94,96
+2014-12-12,DET,Florida Panthers,L,2,3,DET,Phoenix Suns,W,105,103
+2014-12-13,DET,Toronto Maple Leafs,L,1,4,DET,Sacramento Kings,W,95,90
+2014-12-19,DET,New York Islanders,L,1,2,DET,Toronto Raptors,L,100,110
+2014-12-21,DET,Colorado Avalanche,L,1,2,DET,Brooklyn Nets,L,105,110
+2015-01-06,DET,Edmonton Oilers,W,4,2,DET,San Antonio Spurs,W,105,104
+2015-01-07,DET,Calgary Flames,W,3,2,DET,Dallas Mavericks,W,108,95
+2015-01-10,DET,Washington Capitals,L,1,3,DET,Brooklyn Nets,W,98,93
+2015-01-17,DET,Nashville Predators,W,5,2,DET,Philadelphia 76ers,W,107,89
+2015-01-27,DET,Florida Panthers,W,5,4,DET,Cleveland Cavaliers,L,95,103
+2015-01-31,DET,New York Islanders,W,4,1,DET,Houston Rockets,W,114,101
+2015-02-11,DET,Pittsburgh Penguins,L,1,4,DET,San Antonio Spurs,L,87,104
+2015-02-24,DET,Los Angeles Kings,L,0,1,DET,Cleveland Cavaliers,L,93,102
+2015-02-28,DET,Nashville Predators,W,4,3,DET,Washington Wizards,L,95,99
+2015-03-04,DET,New York Rangers,W,2,1,DET,New Orleans Pelicans,L,85,88
+2015-03-06,DET,Calgary Flames,L,2,5,DET,Houston Rockets,L,93,103
+2015-03-08,DET,Boston Bruins,L,3,5,DET,Charlotte Hornets,L,101,108
+2015-03-14,DET,Philadelphia Flyers,L,2,7,DET,Utah Jazz,L,85,88
+2015-03-22,DET,St. Louis Blues,W,2,1,DET,Boston Celtics,W,105,97
+2015-03-24,DET,Arizona Coyotes,L,4,5,DET,Toronto Raptors,W,108,104
+2015-03-29,DET,New York Islanders,L,4,5,DET,Miami Heat,L,102,109
+2015-03-31,DET,Ottawa Senators,L,1,2,DET,Atlanta Hawks,W,105,95
+2015-04-04,DET,Minnesota Wild,W,3,2,DET,Miami Heat,W,99,98
+2015-10-27,DET,Carolina Hurricanes,L,1,3,DET,Atlanta Hawks,W,106,94
+2015-10-30,DET,Ottawa Senators,L,1,3,DET,Chicago Bulls,W,98,94
+2015-11-03,DET,Tampa Bay Lightning,W,2,1,DET,Indiana Pacers,L,82,94
+2015-11-06,DET,Toronto Maple Leafs,W,2,1,DET,Phoenix Suns,W,100,92
+2015-11-08,DET,Dallas Stars,L,1,4,DET,Portland Trail Blazers,W,120,103
+2015-11-14,DET,Boston Bruins,L,1,3,DET,Los Angeles Clippers,L,96,101
+2015-11-20,DET,Los Angeles Kings,W,3,2,DET,Minnesota Timberwolves,W,96,86
+2015-11-21,DET,St. Louis Blues,W,4,3,DET,Washington Wizards,L,95,97
+2015-11-25,DET,Boston Bruins,L,2,3,DET,Miami Heat,W,104,81
+2015-11-27,DET,Edmonton Oilers,W,4,3,DET,Oklahoma City Thunder,L,87,103
+2015-11-29,DET,Florida Panthers,L,1,2,DET,Brooklyn Nets,L,83,87
+2015-12-11,DET,New Jersey Devils,L,2,3,DET,Philadelphia 76ers,W,107,95
+2015-12-14,DET,Buffalo Sabres,L,1,2,DET,Los Angeles Clippers,L,103,105
+2015-12-18,DET,Vancouver Canucks,L,3,4,DET,Chicago Bulls,W,147,144
+2015-12-22,DET,New Jersey Devils,L,3,4,DET,Miami Heat,W,93,92
+2015-12-26,DET,Nashville Predators,W,3,2,DET,Boston Celtics,L,93,99
+2015-12-29,DET,Winnipeg Jets,L,1,4,DET,New York Knicks,L,96,108
+2015-12-31,DET,Pittsburgh Penguins,L,2,5,DET,Minnesota Timberwolves,W,115,90
+2016-01-02,DET,Buffalo Sabres,W,4,3,DET,Indiana Pacers,L,82,94
+2016-01-04,DET,New Jersey Devils,W,1,0,DET,Orlando Magic,W,115,89
+2016-01-14,DET,Arizona Coyotes,W,3,2,DET,Memphis Grizzlies,L,101,103
+2016-01-20,DET,St. Louis Blues,L,1,2,DET,Houston Rockets,W,123,114
+2016-01-23,DET,Anaheim Ducks,L,3,4,DET,Denver Nuggets,L,101,104
+2016-01-25,DET,New York Islanders,W,4,2,DET,Utah Jazz,W,95,92
+2016-02-03,DET,Tampa Bay Lightning,L,1,3,DET,Boston Celtics,L,95,102
+2016-02-04,DET,Florida Panthers,L,3,6,DET,New York Knicks,W,111,105
+2016-02-06,DET,New York Islanders,W,5,1,DET,Indiana Pacers,L,104,112
+2016-02-08,DET,Florida Panthers,W,3,0,DET,Toronto Raptors,L,89,103
+2016-02-10,DET,Ottawa Senators,W,3,1,DET,Denver Nuggets,L,92,103
+2016-02-21,DET,New York Rangers,L,0,1,DET,New Orleans Pelicans,L,106,111
+2016-02-27,DET,Colorado Avalanche,W,5,3,DET,Milwaukee Bucks,W,102,91
+2016-03-02,DET,Chicago Blackhawks,L,2,5,DET,San Antonio Spurs,L,81,97
+2016-03-06,DET,Chicago Blackhawks,L,1,4,DET,Portland Trail Blazers,W,123,103
+2016-03-12,DET,New York Rangers,W,3,2,DET,Philadelphia 76ers,W,125,111
+2016-03-19,DET,Florida Panthers,W,5,3,DET,Brooklyn Nets,W,115,103
+2016-03-26,DET,Pittsburgh Penguins,L,2,7,DET,Atlanta Hawks,L,95,112
+2016-03-29,DET,Montreal Canadiens,L,3,4,DET,Oklahoma City Thunder,W,88,82
+2016-04-01,DET,Minnesota Wild,W,3,2,DET,Dallas Mavericks,L,89,98
+2016-04-02,DET,Toronto Maple Leafs,W,3,2,DET,Chicago Bulls,W,94,90
+2016-04-06,DET,Philadelphia Flyers,W,3,0,DET,Orlando Magic,W,108,104
+2016-10-30,DET,Florida Panthers,L,2,5,DET,Milwaukee Bucks,W,98,83
+2016-11-02,DET,Philadelphia Flyers,L,3,4,DET,Brooklyn Nets,L,101,109
+2016-11-12,DET,Montreal Canadiens,L,0,5,DET,Denver Nuggets,W,106,95
+2016-11-18,DET,Washington Capitals,L,0,1,DET,Cleveland Cavaliers,L,81,104
+2016-11-23,DET,Buffalo Sabres,W,2,1,DET,Miami Heat,W,107,84
+2016-11-25,DET,New Jersey Devils,W,5,4,DET,Los Angeles Clippers,W,108,97
+2016-11-26,DET,Montreal Canadiens,L,1,2,DET,Oklahoma City Thunder,L,88,106
+2016-11-29,DET,Dallas Stars,W,3,1,DET,Charlotte Hornets,W,112,89
+2016-12-04,DET,New York Islanders,W,4,3,DET,Orlando Magic,L,92,98
+2016-12-06,DET,Winnipeg Jets,W,4,3,DET,Chicago Bulls,W,102,91
+2016-12-09,DET,Columbus Blue Jackets,L,1,4,DET,Minnesota Timberwolves,W,117,90
+2016-12-11,DET,Philadelphia Flyers,L,0,1,DET,Philadelphia 76ers,L,79,97
+2016-12-17,DET,Anaheim Ducks,W,6,4,DET,Indiana Pacers,L,90,105
+2016-12-23,DET,Florida Panthers,W,4,3,DET,Golden State Warriors,L,113,119
+2017-01-01,DET,Toronto Maple Leafs,L,4,5,DET,Miami Heat,W,107,98
+2017-01-05,DET,Los Angeles Kings,W,4,0,DET,Charlotte Hornets,W,115,114
+2017-01-10,DET,Chicago Blackhawks,L,3,4,DET,Sacramento Kings,L,94,100
+2017-01-12,DET,Dallas Stars,L,2,5,DET,Golden State Warriors,L,107,127
+2017-01-18,DET,Boston Bruins,W,6,5,DET,Atlanta Hawks,W,118,95
+2017-02-03,DET,New York Islanders,W,5,4,DET,Minnesota Timberwolves,W,116,108
+2017-02-04,DET,Nashville Predators,W,1,0,DET,Indiana Pacers,L,84,105
+2017-02-12,DET,Minnesota Wild,L,3,6,DET,Toronto Raptors,W,102,101
+2017-02-15,DET,St. Louis Blues,L,0,2,DET,Dallas Mavericks,W,98,91
+2017-02-28,DET,Vancouver Canucks,W,3,2,DET,Portland Trail Blazers,W,120,113
+2017-03-04,DET,Edmonton Oilers,L,3,4,DET,Philadelphia 76ers,W,136,106
+2017-03-08,DET,Boston Bruins,L,1,6,DET,Indiana Pacers,L,98,115
+2017-03-15,DET,Colorado Avalanche,L,1,3,DET,Utah Jazz,L,83,97
+2017-03-21,DET,Montreal Canadiens,W,2,1,DET,Brooklyn Nets,L,96,98
+2017-03-24,DET,Tampa Bay Lightning,L,1,2,DET,Orlando Magic,L,87,115
+2017-03-27,DET,Carolina Hurricanes,W,4,3,DET,New York Knicks,L,95,109
+2017-03-28,DET,Carolina Hurricanes,L,1,4,DET,Miami Heat,L,96,97
+2017-03-30,DET,Tampa Bay Lightning,L,3,5,DET,Brooklyn Nets,W,90,89
+2017-04-09,DET,New Jersey Devils,W,4,1,DET,Memphis Grizzlies,W,103,90
+2017-10-18,DET,Toronto Maple Leafs,L,3,6,DET,Charlotte Hornets,W,102,90
+2017-10-20,DET,Washington Capitals,L,3,4,DET,Washington Wizards,L,111,115
+2017-10-28,DET,Florida Panthers,W,3,2,DET,Los Angeles Clippers,W,95,87
+2017-10-31,DET,Arizona Coyotes,W,5,3,DET,Los Angeles Lakers,L,93,113
+2017-11-15,DET,Calgary Flames,W,8,2,DET,Milwaukee Bucks,L,95,99
+2017-11-17,DET,Buffalo Sabres,W,3,1,DET,Indiana Pacers,L,100,107
+2017-11-19,DET,Colorado Avalanche,L,3,4,DET,Minnesota Timberwolves,W,100,97
+2017-11-24,DET,New York Rangers,L,1,2,DET,Oklahoma City Thunder,W,99,98
+2017-12-02,DET,Montreal Canadiens,L,1,10,DET,Philadelphia 76ers,L,103,108
+2017-12-15,DET,Toronto Maple Leafs,W,3,1,DET,Indiana Pacers,W,104,98
+2017-12-20,DET,Philadelphia Flyers,L,3,4,DET,Dallas Mavericks,L,93,110
+2018-01-03,DET,Ottawa Senators,W,2,1,DET,Miami Heat,L,104,111
+2018-01-05,DET,Florida Panthers,W,4,2,DET,Philadelphia 76ers,L,78,114
+2018-01-13,DET,Pittsburgh Penguins,L,1,4,DET,Chicago Bulls,L,105,107
+2018-02-03,DET,Florida Panthers,L,2,3,DET,Miami Heat,W,111,107
+2018-02-09,DET,New York Islanders,L,6,7,DET,Los Angeles Clippers,L,95,108
+2018-02-11,DET,Washington Capitals,W,5,4,DET,Atlanta Hawks,L,115,118
+2018-02-25,DET,New York Rangers,W,3,2,DET,Charlotte Hornets,L,98,114
+2018-02-28,DET,St. Louis Blues,L,1,2,DET,Milwaukee Bucks,W,110,87
+2018-03-02,DET,Winnipeg Jets,L,3,4,DET,Orlando Magic,L,106,115
+2018-03-09,DET,Columbus Blue Jackets,L,2,3,DET,Chicago Bulls,W,99,83
+2018-03-15,DET,Los Angeles Kings,L,1,4,DET,Denver Nuggets,L,113,120
+2018-03-20,DET,Philadelphia Flyers,W,5,4,DET,Phoenix Suns,W,115,88
+2018-03-22,DET,Washington Capitals,L,0,1,DET,Houston Rockets,L,96,100
+2018-03-24,DET,Toronto Maple Leafs,L,3,4,DET,Chicago Bulls,W,117,95
+2018-03-26,DET,Montreal Canadiens,L,2,4,DET,Los Angeles Lakers,W,112,106
+2018-03-29,DET,Buffalo Sabres,W,6,3,DET,Washington Wizards,W,103,92
+2018-03-31,DET,Ottawa Senators,W,2,0,DET,New York Knicks,W,115,109
+2018-10-20,DET,Florida Panthers,W,4,3,DET,Chicago Bulls,W,118,116
+2018-10-30,DET,Columbus Blue Jackets,W,5,3,DET,Boston Celtics,L,105,108
+2018-11-03,DET,Edmonton Oilers,L,3,4,DET,Philadelphia 76ers,L,99,109
+2018-11-09,DET,New York Rangers,W,3,2,DET,Atlanta Hawks,W,124,109
+2018-11-21,DET,Boston Bruins,W,3,2,DET,Houston Rockets,L,124,126
+2018-11-23,DET,Washington Capitals,L,1,3,DET,Houston Rockets,W,116,111
+2018-12-01,DET,Boston Bruins,W,4,2,DET,Golden State Warriors,W,111,102
+2018-12-10,DET,Los Angeles Kings,W,3,1,DET,Philadelphia 76ers,L,102,116
+2018-12-15,DET,New York Islanders,L,3,4,DET,Boston Celtics,W,113,104
+2018-12-23,DET,Toronto Maple Leafs,L,4,5,DET,Atlanta Hawks,L,95,98
+2019-01-02,DET,Calgary Flames,L,3,5,DET,Memphis Grizzlies,W,101,94
+2019-01-12,DET,Minnesota Wild,W,5,2,DET,Los Angeles Clippers,W,109,104
+2019-01-18,DET,Calgary Flames,L,4,6,DET,Miami Heat,W,98,93
+2019-02-02,DET,Ottawa Senators,W,2,0,DET,Los Angeles Clippers,L,101,111
+2019-02-22,DET,Minnesota Wild,L,2,3,DET,Atlanta Hawks,W,125,122
+2019-03-02,DET,Arizona Coyotes,L,1,3,DET,Cleveland Cavaliers,W,129,93
+2019-03-10,DET,Florida Panthers,L,1,6,DET,Chicago Bulls,W,131,108
+2019-03-21,DET,St. Louis Blues,L,2,5,DET,Phoenix Suns,W,118,98
+2019-03-23,DET,Vegas Golden Knights,W,3,2,DET,Portland Trail Blazers,L,112,117
+2019-03-28,DET,Buffalo Sabres,W,5,4,DET,Orlando Magic,W,115,98
+2019-10-23,DET,Ottawa Senators,L,2,5,DET,Indiana Pacers,W,119,110
+2019-11-01,DET,Carolina Hurricanes,L,3,7,DET,Chicago Bulls,L,106,112
+2019-11-02,DET,Florida Panthers,L,0,4,DET,Brooklyn Nets,W,113,109
+2019-11-04,DET,Nashville Predators,L,1,6,DET,Washington Wizards,L,99,115
+2019-11-06,DET,New York Rangers,L,1,5,DET,New York Knicks,W,122,102
+2019-11-08,DET,Boston Bruins,W,4,2,DET,Indiana Pacers,L,106,112
+2019-11-12,DET,Anaheim Ducks,W,4,3,DET,Miami Heat,L,108,117
+2019-11-23,DET,New Jersey Devils,L,1,5,DET,Milwaukee Bucks,L,90,104
+2019-11-27,DET,Toronto Maple Leafs,L,0,6,DET,Charlotte Hornets,L,101,102
+2019-11-29,DET,Philadelphia Flyers,L,1,6,DET,Charlotte Hornets,L,107,110
+2019-12-12,DET,Winnipeg Jets,W,5,2,DET,Dallas Mavericks,L,111,122
+2019-12-14,DET,Montreal Canadiens,W,2,1,DET,Houston Rockets,W,115,107
+2019-12-21,DET,Toronto Maple Leafs,L,1,4,DET,Chicago Bulls,L,107,119
+2019-12-28,DET,Florida Panthers,L,4,5,DET,San Antonio Spurs,L,109,136
+2020-01-05,DET,Chicago Blackhawks,L,2,4,DET,Los Angeles Lakers,L,99,106
+2020-01-07,DET,Montreal Canadiens,W,4,3,DET,Cleveland Cavaliers,W,115,113
+2020-01-18,DET,Florida Panthers,L,1,4,DET,Atlanta Hawks,W,136,103
+2020-01-20,DET,Colorado Avalanche,L,3,6,DET,Washington Wizards,L,100,106
+2020-01-22,DET,Minnesota Wild,L,2,4,DET,Sacramento Kings,W,127,106
+2020-01-31,DET,New York Rangers,L,2,4,DET,Toronto Raptors,L,92,105
+2020-02-03,DET,Philadelphia Flyers,L,0,3,DET,Memphis Grizzlies,L,82,96
+2020-02-07,DET,Columbus Blue Jackets,L,0,2,DET,Oklahoma City Thunder,L,101,108
+2020-02-23,DET,Calgary Flames,L,2,4,DET,Portland Trail Blazers,L,104,107
+2020-02-25,DET,New Jersey Devils,L,1,4,DET,Denver Nuggets,L,98,115
+2020-03-08,DET,Tampa Bay Lightning,W,5,4,DET,New York Knicks,L,84,96
+2021-01-16,DET,Carolina Hurricanes,W,4,2,DET,Miami Heat,W,120,100
+2021-01-18,DET,Columbus Blue Jackets,L,2,3,DET,Miami Heat,L,107,113
+2021-01-22,DET,Chicago Blackhawks,L,1,4,DET,Houston Rockets,L,102,103
+2021-01-28,DET,Dallas Stars,L,3,7,DET,Los Angeles Lakers,W,107,92
+2021-01-30,DET,Florida Panthers,L,2,3,DET,Golden State Warriors,L,91,118
+2021-02-05,DET,Tampa Bay Lightning,L,1,3,DET,Phoenix Suns,L,92,109
+2021-02-09,DET,Florida Panthers,L,1,2,DET,Brooklyn Nets,W,122,111
+2021-02-11,DET,Nashville Predators,L,2,3,DET,Indiana Pacers,L,95,111
+2021-02-17,DET,Chicago Blackhawks,L,0,2,DET,Chicago Bulls,L,102,105
+2021-02-19,DET,Florida Panthers,L,2,7,DET,Memphis Grizzlies,L,95,109
+2021-02-23,DET,Nashville Predators,L,0,2,DET,Orlando Magic,W,105,93
+2021-02-28,DET,Chicago Blackhawks,L,2,7,DET,New York Knicks,L,90,109
+2021-03-04,DET,Carolina Hurricanes,L,2,5,DET,New York Knicks,L,104,114
+2021-03-11,DET,Tampa Bay Lightning,W,6,4,DET,Charlotte Hornets,L,102,105
+2021-03-27,DET,Columbus Blue Jackets,W,3,1,DET,Washington Wizards,L,92,106
+2021-04-01,DET,Florida Panthers,L,2,3,DET,Washington Wizards,W,120,91
+2021-04-03,DET,Tampa Bay Lightning,L,1,2,DET,New York Knicks,L,81,125
+2021-04-06,DET,Nashville Predators,L,2,3,DET,Denver Nuggets,L,119,134
+2021-04-08,DET,Nashville Predators,L,1,7,DET,Sacramento Kings,W,113,101
+2021-04-10,DET,Carolina Hurricanes,W,5,4,DET,Portland Trail Blazers,L,103,118
+2021-04-17,DET,Chicago Blackhawks,L,0,4,DET,Washington Wizards,L,100,121
+2021-04-19,DET,Dallas Stars,L,2,3,DET,Cleveland Cavaliers,W,109,105
+2021-04-22,DET,Dallas Stars,W,7,3,DET,San Antonio Spurs,L,91,106
+2021-04-24,DET,Dallas Stars,L,1,2,DET,Indiana Pacers,L,109,115
+2021-04-29,DET,Carolina Hurricanes,L,1,3,DET,Dallas Mavericks,L,105,115
+2021-05-01,DET,Tampa Bay Lightning,W,1,0,DET,Charlotte Hornets,L,94,107
+2021-05-08,DET,Columbus Blue Jackets,L,4,5,DET,Philadelphia 76ers,L,104,118
+2021-10-23,DET,Montreal Canadiens,L,1,6,DET,Chicago Bulls,L,82,97
+2021-10-30,DET,Toronto Maple Leafs,L,4,5,DET,Orlando Magic,W,110,103
+2021-11-02,DET,Montreal Canadiens,L,0,3,DET,Milwaukee Bucks,L,89,117
+2021-11-04,DET,Boston Bruins,L,1,5,DET,Philadelphia 76ers,L,98,109
+2021-11-13,DET,Montreal Canadiens,W,3,2,DET,Toronto Raptors,W,127,121
+2021-11-15,DET,Columbus Blue Jackets,L,3,5,DET,Sacramento Kings,L,107,129
+2021-11-24,DET,St. Louis Blues,W,4,2,DET,Milwaukee Bucks,L,93,114
+2021-11-30,DET,Boston Bruins,W,2,1,DET,Portland Trail Blazers,L,92,110
+2021-12-10,DET,Colorado Avalanche,L,3,7,DET,New Orleans Pelicans,L,93,109
+2021-12-16,DET,Carolina Hurricanes,L,3,5,DET,Indiana Pacers,L,113,122
+2021-12-18,DET,New Jersey Devils,W,5,2,DET,Houston Rockets,L,107,116
+2022-01-08,DET,Los Angeles Kings,L,0,4,DET,Orlando Magic,W,97,92
+2022-01-11,DET,San Jose Sharks,L,2,3,DET,Chicago Bulls,L,87,133
+2022-01-21,DET,Dallas Stars,L,4,5,DET,Utah Jazz,L,101,111
+2022-01-28,DET,Pittsburgh Penguins,W,3,2,DET,Orlando Magic,L,103,119
+2022-02-14,DET,Minnesota Wild,L,4,7,DET,Washington Wizards,L,94,103
+2022-02-26,DET,Toronto Maple Leafs,L,7,10,DET,Boston Celtics,L,104,113
+2022-03-01,DET,Carolina Hurricanes,W,4,3,DET,Washington Wizards,L,113,116
+2022-03-04,DET,Tampa Bay Lightning,L,1,3,DET,Indiana Pacers,W,111,106
+2022-03-15,DET,Edmonton Oilers,L,5,7,DET,Miami Heat,L,98,105
+2022-03-17,DET,Vancouver Canucks,W,1,0,DET,Orlando Magic,W,134,120
+2022-03-19,DET,Seattle Kraken,L,2,4,DET,Cleveland Cavaliers,L,109,113
+2022-03-27,DET,Pittsburgh Penguins,L,2,11,DET,New York Knicks,L,102,104
+2022-04-01,DET,Ottawa Senators,L,2,5,DET,Oklahoma City Thunder,W,110,101
+2022-04-03,DET,Ottawa Senators,L,2,5,DET,Indiana Pacers,W,121,117
+2022-04-06,DET,Winnipeg Jets,W,3,1,DET,Dallas Mavericks,L,113,131
+2022-10-21,DET,Chicago Blackhawks,L,3,4,DET,New York Knicks,L,106,130
+2022-10-25,DET,New Jersey Devils,L,2,6,DET,Washington Wizards,L,99,120
+2022-10-31,DET,Buffalo Sabres,L,3,8,DET,Milwaukee Bucks,L,108,110
+2022-11-12,DET,Los Angeles Kings,L,3,4,DET,Boston Celtics,L,108,117
+2022-11-17,DET,San Jose Sharks,W,7,4,DET,Los Angeles Clippers,L,91,96
+2022-11-23,DET,Nashville Predators,W,3,0,DET,Utah Jazz,W,125,116
+2022-11-25,DET,Arizona Coyotes,W,4,3,DET,Phoenix Suns,L,102,108
+2022-12-04,DET,Columbus Blue Jackets,W,4,2,DET,Memphis Grizzlies,L,112,122
+2022-12-06,DET,Tampa Bay Lightning,W,4,2,DET,Miami Heat,W,116,96
+2022-12-14,DET,Minnesota Wild,L,1,4,DET,Charlotte Hornets,W,141,134
+2022-12-21,DET,Tampa Bay Lightning,W,7,4,DET,Philadelphia 76ers,L,93,113
+2022-12-28,DET,Pittsburgh Penguins,W,5,4,DET,Orlando Magic,W,121,101
+2022-12-31,DET,Ottawa Senators,W,4,2,DET,Minnesota Timberwolves,W,116,104
+2023-01-04,DET,New Jersey Devils,L,1,5,DET,Golden State Warriors,W,122,119
+2023-01-06,DET,Florida Panthers,L,2,3,DET,San Antonio Spurs,L,109,121
+2023-01-10,DET,Winnipeg Jets,W,7,5,DET,Philadelphia 76ers,L,116,147
+2023-01-19,DET,Vegas Golden Knights,W,3,2,DET,Chicago Bulls,L,108,126
+2023-01-26,DET,Montreal Canadiens,W,4,3,DET,Brooklyn Nets,W,130,122
+2023-02-15,DET,Edmonton Oilers,W,5,4,DET,Boston Celtics,L,109,127
+2023-02-23,DET,New York Rangers,,,,DET,Orlando Magic,,,
+2023-02-25,DET,Tampa Bay Lightning,,,,DET,Toronto Raptors,,,
+2023-02-27,DET,Ottawa Senators,,,,DET,Charlotte Hornets,,,
+2023-03-04,DET,New York Islanders,,,,DET,Cleveland Cavaliers,,,
+2023-03-11,DET,Boston Bruins,,,,DET,Indiana Pacers,,,
+2023-03-14,DET,Nashville Predators,,,,DET,Washington Wizards,,,
+2023-03-21,DET,St. Louis Blues,,,,DET,Atlanta Hawks,,,
+2023-03-31,DET,Winnipeg Jets,,,,DET,Houston Rockets,,,
+2023-04-02,DET,Toronto Maple Leafs,,,,DET,Orlando Magic,,,
+2023-04-04,DET,Montreal Canadiens,,,,DET,Miami Heat,,,

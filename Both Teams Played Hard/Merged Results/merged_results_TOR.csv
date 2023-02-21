@@ -1,0 +1,301 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2012-01-07,TOR,Detroit Red Wings,W,4,3,TOR,Philadelphia 76ers,L,62,97
+2012-01-10,TOR,Buffalo Sabres,W,2,0,TOR,Washington Wizards,L,78,93
+2012-01-13,TOR,Buffalo Sabres,L,2,3,TOR,Indiana Pacers,L,90,95
+2012-01-14,TOR,New York Rangers,L,0,3,TOR,Chicago Bulls,L,64,77
+2012-01-24,TOR,New York Islanders,W,4,3,TOR,Phoenix Suns,W,99,96
+2012-01-31,TOR,Pittsburgh Penguins,L,4,5,TOR,Atlanta Hawks,L,77,100
+2012-02-01,TOR,Pittsburgh Penguins,W,1,0,TOR,Boston Celtics,L,64,100
+2012-02-06,TOR,Edmonton Oilers,W,6,3,TOR,Washington Wizards,L,108,111
+2012-02-14,TOR,Calgary Flames,L,1,5,TOR,New York Knicks,L,87,90
+2012-02-15,TOR,Edmonton Oilers,W,4,3,TOR,San Antonio Spurs,L,106,113
+2012-02-28,TOR,Florida Panthers,L,3,5,TOR,Houston Rockets,L,85,88
+2012-02-29,TOR,Chicago Blackhawks,L,4,5,TOR,New Orleans Hornets,W,95,84
+2012-03-07,TOR,Pittsburgh Penguins,L,2,3,TOR,Houston Rockets,W,116,98
+2012-03-10,TOR,Philadelphia Flyers,L,0,1,TOR,Detroit Pistons,L,86,105
+2012-03-11,TOR,Washington Capitals,L,0,2,TOR,Milwaukee Bucks,L,99,105
+2012-03-13,TOR,Florida Panthers,L,2,5,TOR,Cleveland Cavaliers,W,96,88
+2012-03-17,TOR,Ottawa Senators,W,3,1,TOR,Charlotte Bobcats,L,103,107
+2012-03-20,TOR,New York Islanders,L,2,5,TOR,New York Knicks,L,87,106
+2012-03-23,TOR,New Jersey Devils,W,4,3,TOR,New York Knicks,W,96,79
+2012-03-24,TOR,New York Rangers,L,3,4,TOR,Chicago Bulls,L,101,102
+2012-04-03,TOR,Buffalo Sabres,L,5,6,TOR,Charlotte Bobcats,W,92,87
+2013-01-23,TOR,Pittsburgh Penguins,W,5,2,TOR,Miami Heat,L,116,123
+2013-01-24,TOR,New York Islanders,L,4,7,TOR,Orlando Magic,W,97,95
+2013-01-26,TOR,New York Rangers,L,2,5,TOR,Cleveland Cavaliers,L,98,99
+2013-02-19,TOR,Tampa Bay Lightning,L,2,4,TOR,Washington Wizards,W,96,88
+2013-02-25,TOR,Philadelphia Flyers,W,4,2,TOR,Washington Wizards,L,84,90
+2013-02-27,TOR,Montreal Canadiens,L,2,5,TOR,Cleveland Cavaliers,L,92,103
+2013-03-04,TOR,New Jersey Devils,W,4,2,TOR,Golden State Warriors,L,118,125
+2013-03-06,TOR,Ottawa Senators,W,5,4,TOR,Phoenix Suns,W,98,71
+2013-03-20,TOR,Tampa Bay Lightning,W,4,2,TOR,Charlotte Bobcats,L,101,107
+2013-03-23,TOR,Boston Bruins,W,3,2,TOR,New York Knicks,L,84,110
+2013-04-06,TOR,New Jersey Devils,W,2,1,TOR,Milwaukee Bucks,L,83,100
+2013-04-16,TOR,Washington Capitals,L,1,5,TOR,Atlanta Hawks,W,113,96
+2013-10-30,TOR,Calgary Flames,W,4,2,TOR,Boston Celtics,W,93,87
+2013-11-02,TOR,Vancouver Canucks,L,0,4,TOR,Milwaukee Bucks,W,97,90
+2013-11-08,TOR,New Jersey Devils,W,2,1,TOR,Indiana Pacers,L,84,91
+2013-11-09,TOR,Boston Bruins,L,1,3,TOR,Utah Jazz,W,115,91
+2013-11-13,TOR,Minnesota Wild,L,1,2,TOR,Memphis Grizzlies,W,103,87
+2013-11-15,TOR,Buffalo Sabres,L,1,3,TOR,Chicago Bulls,L,80,96
+2013-11-29,TOR,Buffalo Sabres,L,2,3,TOR,Miami Heat,L,83,90
+2013-12-03,TOR,San Jose Sharks,L,2,4,TOR,Golden State Warriors,L,103,112
+2013-12-08,TOR,Boston Bruins,L,2,5,TOR,Los Angeles Lakers,W,106,94
+2013-12-14,TOR,Chicago Blackhawks,W,7,3,TOR,Chicago Bulls,W,99,77
+2013-12-23,TOR,New York Rangers,L,1,2,TOR,San Antonio Spurs,L,99,112
+2013-12-27,TOR,Buffalo Sabres,W,4,3,TOR,New York Knicks,W,95,83
+2014-01-01,TOR,Detroit Red Wings,W,3,2,TOR,Indiana Pacers,W,95,82
+2014-01-07,TOR,New York Islanders,L,3,5,TOR,Indiana Pacers,L,79,86
+2014-01-15,TOR,Buffalo Sabres,W,4,3,TOR,Boston Celtics,L,83,88
+2014-01-20,TOR,Phoenix Coyotes,W,4,2,TOR,Charlotte Bobcats,L,95,100
+2014-01-25,TOR,Winnipeg Jets,L,4,5,TOR,Los Angeles Clippers,L,118,126
+2014-02-01,TOR,Ottawa Senators,W,6,3,TOR,Portland Trail Blazers,L,103,106
+2014-02-27,TOR,New York Islanders,L,4,5,TOR,Washington Wizards,L,129,134
+2014-03-10,TOR,Anaheim Ducks,W,3,1,TOR,Brooklyn Nets,L,97,101
+2014-03-16,TOR,Washington Capitals,L,2,4,TOR,Phoenix Suns,L,113,121
+2014-03-18,TOR,Detroit Red Wings,L,2,3,TOR,Atlanta Hawks,L,113,118
+2014-03-19,TOR,Tampa Bay Lightning,L,3,5,TOR,New Orleans Pelicans,W,107,100
+2014-03-23,TOR,New Jersey Devils,L,2,3,TOR,Atlanta Hawks,W,96,86
+2014-03-25,TOR,St. Louis Blues,L,3,5,TOR,Cleveland Cavaliers,L,100,102
+2014-03-28,TOR,Philadelphia Flyers,L,2,4,TOR,Boston Celtics,W,105,103
+2014-04-05,TOR,Winnipeg Jets,L,2,4,TOR,Milwaukee Bucks,W,102,98
+2014-11-01,TOR,Chicago Blackhawks,W,3,2,TOR,Orlando Magic,W,108,95
+2014-11-04,TOR,Arizona Coyotes,L,2,3,TOR,Oklahoma City Thunder,W,100,88
+2014-11-09,TOR,Ottawa Senators,W,5,3,TOR,Philadelphia 76ers,W,120,88
+2014-11-15,TOR,Buffalo Sabres,L,2,6,TOR,Utah Jazz,W,111,93
+2014-11-22,TOR,Detroit Red Wings,W,4,1,TOR,Cleveland Cavaliers,W,110,93
+2014-11-26,TOR,Pittsburgh Penguins,L,3,4,TOR,Atlanta Hawks,W,126,115
+2014-12-02,TOR,Dallas Stars,W,5,3,TOR,Sacramento Kings,W,117,109
+2014-12-09,TOR,Calgary Flames,W,4,1,TOR,Cleveland Cavaliers,L,101,105
+2014-12-14,TOR,Los Angeles Kings,W,4,3,TOR,New York Knicks,W,95,90
+2014-12-21,TOR,Chicago Blackhawks,L,0,4,TOR,New York Knicks,W,118,108
+2014-12-28,TOR,Florida Panthers,L,4,6,TOR,Denver Nuggets,W,116,102
+2015-01-02,TOR,Minnesota Wild,L,1,3,TOR,Golden State Warriors,L,105,126
+2015-01-12,TOR,Los Angeles Kings,L,0,2,TOR,Detroit Pistons,L,111,114
+2015-01-14,TOR,Anaheim Ducks,L,0,4,TOR,Philadelphia 76ers,W,100,84
+2015-01-19,TOR,Carolina Hurricanes,L,1,4,TOR,Milwaukee Bucks,W,92,89
+2015-01-21,TOR,Ottawa Senators,L,3,4,TOR,Memphis Grizzlies,L,86,92
+2015-01-28,TOR,New Jersey Devils,L,1,2,TOR,Sacramento Kings,W,119,102
+2015-01-31,TOR,Philadelphia Flyers,L,0,1,TOR,Washington Wizards,W,120,116
+2015-02-06,TOR,New Jersey Devils,L,1,4,TOR,Los Angeles Clippers,W,123,107
+2015-02-20,TOR,Carolina Hurricanes,L,1,2,TOR,Atlanta Hawks,W,105,80
+2015-02-21,TOR,Winnipeg Jets,W,4,3,TOR,Houston Rockets,L,76,98
+2015-02-28,TOR,Montreal Canadiens,L,0,4,TOR,New York Knicks,L,98,103
+2015-03-13,TOR,Calgary Flames,L,3,6,TOR,Miami Heat,W,102,92
+2015-03-16,TOR,Edmonton Oilers,L,1,4,TOR,Indiana Pacers,W,117,98
+2015-04-01,TOR,Buffalo Sabres,L,3,4,TOR,Minnesota Timberwolves,W,113,99
+2015-04-04,TOR,Boston Bruins,L,1,2,TOR,Boston Celtics,L,116,117
+2015-04-08,TOR,Columbus Blue Jackets,L,0,5,TOR,Charlotte Hornets,W,92,74
+2015-04-11,TOR,Montreal Canadiens,L,3,4,TOR,Miami Heat,W,107,104
+2015-10-30,TOR,New York Rangers,L,1,3,TOR,Boston Celtics,W,113,103
+2015-11-04,TOR,Winnipeg Jets,L,2,4,TOR,Oklahoma City Thunder,W,103,98
+2015-11-06,TOR,Detroit Red Wings,L,1,2,TOR,Orlando Magic,L,87,92
+2015-11-10,TOR,Dallas Stars,W,3,2,TOR,New York Knicks,L,109,111
+2015-11-15,TOR,New York Rangers,L,3,4,TOR,Sacramento Kings,L,101,107
+2015-11-17,TOR,Colorado Avalanche,W,5,1,TOR,Golden State Warriors,L,110,115
+2015-11-20,TOR,Carolina Hurricanes,W,2,1,TOR,Los Angeles Lakers,W,102,91
+2015-11-28,TOR,Washington Capitals,L,2,4,TOR,Washington Wizards,W,84,82
+2015-12-02,TOR,Winnipeg Jets,L,1,6,TOR,Atlanta Hawks,W,96,86
+2015-12-03,TOR,Minnesota Wild,L,0,1,TOR,Denver Nuggets,L,105,106
+2015-12-05,TOR,St. Louis Blues,W,4,1,TOR,Golden State Warriors,L,109,112
+2015-12-17,TOR,San Jose Sharks,L,4,5,TOR,Charlotte Hornets,L,99,109
+2015-12-22,TOR,Arizona Coyotes,L,2,3,TOR,Dallas Mavericks,W,103,99
+2015-12-30,TOR,Pittsburgh Penguins,W,3,2,TOR,Washington Wizards,W,94,91
+2016-01-06,TOR,Anaheim Ducks,W,4,0,TOR,Brooklyn Nets,W,91,74
+2016-01-09,TOR,San Jose Sharks,L,0,7,TOR,Philadelphia 76ers,W,108,95
+2016-01-26,TOR,Florida Panthers,L,1,5,TOR,Washington Wizards,W,106,89
+2016-02-02,TOR,Boston Bruins,W,4,3,TOR,Phoenix Suns,W,104,97
+2016-02-04,TOR,New Jersey Devils,W,3,2,TOR,Portland Trail Blazers,W,110,103
+2016-03-02,TOR,Washington Capitals,L,2,3,TOR,Utah Jazz,W,104,94
+2016-03-12,TOR,Ottawa Senators,L,0,4,TOR,Miami Heat,W,112,104
+2016-03-15,TOR,Tampa Bay Lightning,W,4,1,TOR,Milwaukee Bucks,W,107,89
+2016-03-17,TOR,Florida Panthers,L,1,4,TOR,Indiana Pacers,W,101,94
+2016-03-26,TOR,Boston Bruins,L,1,3,TOR,New Orleans Pelicans,W,115,91
+2016-03-28,TOR,Tampa Bay Lightning,L,0,3,TOR,Oklahoma City Thunder,L,100,119
+2016-04-02,TOR,Detroit Red Wings,L,2,3,TOR,San Antonio Spurs,L,95,102
+2016-04-07,TOR,Philadelphia Flyers,W,4,3,TOR,Atlanta Hawks,L,87,95
+2016-11-11,TOR,Philadelphia Flyers,W,6,3,TOR,Charlotte Hornets,W,113,111
+2016-11-12,TOR,Pittsburgh Penguins,L,1,4,TOR,New York Knicks,W,118,107
+2016-11-15,TOR,Nashville Predators,W,6,2,TOR,Cleveland Cavaliers,L,117,121
+2016-11-23,TOR,New Jersey Devils,L,4,5,TOR,Houston Rockets,W,115,102
+2016-11-30,TOR,Calgary Flames,L,0,3,TOR,Memphis Grizzlies,W,120,105
+2016-12-03,TOR,Vancouver Canucks,L,2,3,TOR,Atlanta Hawks,W,128,84
+2016-12-23,TOR,Arizona Coyotes,W,4,1,TOR,Utah Jazz,W,104,98
+2016-12-28,TOR,Florida Panthers,W,3,2,TOR,Golden State Warriors,L,111,121
+2016-12-29,TOR,Tampa Bay Lightning,W,3,2,TOR,Phoenix Suns,L,91,99
+2017-01-01,TOR,Detroit Red Wings,W,5,4,TOR,Los Angeles Lakers,W,123,114
+2017-01-03,TOR,Washington Capitals,L,5,6,TOR,San Antonio Spurs,L,82,110
+2017-01-07,TOR,Montreal Canadiens,L,3,5,TOR,Chicago Bulls,L,118,123
+2017-01-13,TOR,New York Rangers,W,4,2,TOR,Brooklyn Nets,W,132,113
+2017-01-17,TOR,Buffalo Sabres,W,4,3,TOR,Brooklyn Nets,W,119,109
+2017-01-25,TOR,Detroit Red Wings,W,4,0,TOR,Memphis Grizzlies,L,99,101
+2017-01-31,TOR,Dallas Stars,L,3,6,TOR,New Orleans Pelicans,W,108,106
+2017-02-06,TOR,New York Islanders,L,5,6,TOR,Los Angeles Clippers,W,118,109
+2017-02-14,TOR,New York Islanders,W,7,1,TOR,Chicago Bulls,L,94,105
+2017-02-15,TOR,Columbus Blue Jackets,L,2,5,TOR,Charlotte Hornets,W,90,85
+2017-03-03,TOR,Anaheim Ducks,L,2,5,TOR,Washington Wizards,W,114,106
+2017-03-11,TOR,Carolina Hurricanes,W,3,2,TOR,Miami Heat,L,89,104
+2017-03-16,TOR,Tampa Bay Lightning,W,5,0,TOR,Oklahoma City Thunder,L,102,123
+2017-03-23,TOR,New Jersey Devils,W,4,2,TOR,Miami Heat,W,101,84
+2017-03-25,TOR,Buffalo Sabres,L,2,5,TOR,Dallas Mavericks,W,94,86
+2017-04-04,TOR,Washington Capitals,L,1,4,TOR,Indiana Pacers,L,90,108
+2017-04-09,TOR,Columbus Blue Jackets,L,2,3,TOR,New York Knicks,W,110,97
+2017-10-21,TOR,Ottawa Senators,L,3,6,TOR,Philadelphia 76ers,W,128,94
+2017-10-23,TOR,Los Angeles Kings,W,3,2,TOR,San Antonio Spurs,L,97,101
+2017-10-30,TOR,San Jose Sharks,L,2,3,TOR,Portland Trail Blazers,W,99,85
+2017-11-01,TOR,Anaheim Ducks,W,3,1,TOR,Denver Nuggets,L,111,129
+2017-11-22,TOR,Florida Panthers,L,1,2,TOR,New York Knicks,L,100,108
+2017-11-24,TOR,Carolina Hurricanes,W,5,4,TOR,Indiana Pacers,L,104,107
+2017-11-25,TOR,Washington Capitals,L,2,4,TOR,Atlanta Hawks,W,112,78
+2017-12-10,TOR,Edmonton Oilers,W,1,0,TOR,Sacramento Kings,W,102,87
+2017-12-15,TOR,Detroit Red Wings,L,1,3,TOR,Brooklyn Nets,W,120,87
+2017-12-20,TOR,Columbus Blue Jackets,L,2,4,TOR,Charlotte Hornets,W,129,111
+2017-12-23,TOR,New York Rangers,W,3,2,TOR,Philadelphia 76ers,W,102,86
+2017-12-29,TOR,Colorado Avalanche,L,3,4,TOR,Atlanta Hawks,W,111,98
+2018-01-08,TOR,Columbus Blue Jackets,L,2,3,TOR,Brooklyn Nets,W,114,113
+2018-01-20,TOR,Ottawa Senators,W,4,3,TOR,Minnesota Timberwolves,L,109,115
+2018-01-24,TOR,Chicago Blackhawks,W,3,2,TOR,Atlanta Hawks,W,108,93
+2018-02-01,TOR,New York Rangers,W,4,0,TOR,Washington Wizards,L,119,122
+2018-02-14,TOR,Columbus Blue Jackets,W,6,3,TOR,Chicago Bulls,W,122,98
+2018-02-26,TOR,Tampa Bay Lightning,L,3,4,TOR,Detroit Pistons,W,123,94
+2018-03-15,TOR,Buffalo Sabres,W,5,2,TOR,Indiana Pacers,W,106,99
+2018-03-20,TOR,Tampa Bay Lightning,L,3,4,TOR,Orlando Magic,W,93,86
+2018-03-31,TOR,Winnipeg Jets,L,1,3,TOR,Boston Celtics,L,99,110
+2018-10-20,TOR,St. Louis Blues,L,1,4,TOR,Washington Wizards,W,117,113
+2018-10-24,TOR,Winnipeg Jets,W,4,2,TOR,Minnesota Timberwolves,W,112,105
+2018-10-29,TOR,Calgary Flames,L,1,3,TOR,Milwaukee Bucks,L,109,124
+2018-11-10,TOR,Boston Bruins,L,1,5,TOR,New York Knicks,W,128,112
+2018-11-16,TOR,Anaheim Ducks,W,2,1,TOR,Boston Celtics,L,116,123
+2018-11-21,TOR,Carolina Hurricanes,L,2,5,TOR,Atlanta Hawks,W,124,108
+2018-11-23,TOR,Columbus Blue Jackets,L,2,4,TOR,Washington Wizards,W,125,107
+2018-12-01,TOR,Minnesota Wild,W,5,3,TOR,Cleveland Cavaliers,W,106,95
+2018-12-11,TOR,Carolina Hurricanes,W,4,1,TOR,Los Angeles Clippers,W,123,99
+2018-12-22,TOR,New York Rangers,W,5,3,TOR,Philadelphia 76ers,L,101,126
+2018-12-28,TOR,Columbus Blue Jackets,W,4,2,TOR,Orlando Magic,L,87,116
+2019-01-03,TOR,Minnesota Wild,L,3,4,TOR,San Antonio Spurs,L,107,125
+2019-01-05,TOR,Vancouver Canucks,W,5,0,TOR,Milwaukee Bucks,W,123,116
+2019-01-17,TOR,Tampa Bay Lightning,W,4,2,TOR,Phoenix Suns,W,111,109
+2019-01-23,TOR,Washington Capitals,W,6,3,TOR,Indiana Pacers,L,106,110
+2019-02-09,TOR,Montreal Canadiens,W,4,3,TOR,New York Knicks,W,104,99
+2019-03-11,TOR,Tampa Bay Lightning,L,2,6,TOR,Cleveland Cavaliers,L,101,126
+2019-03-20,TOR,Buffalo Sabres,W,4,2,TOR,Oklahoma City Thunder,W,123,114
+2019-03-30,TOR,Ottawa Senators,L,2,4,TOR,Chicago Bulls,W,124,101
+2019-04-01,TOR,New York Islanders,W,2,1,TOR,Orlando Magic,W,121,109
+2019-10-22,TOR,Boston Bruins,L,2,4,TOR,New Orleans Pelicans,W,130,122
+2019-10-25,TOR,San Jose Sharks,W,4,1,TOR,Boston Celtics,L,106,112
+2019-10-26,TOR,Montreal Canadiens,L,2,5,TOR,Chicago Bulls,W,108,84
+2019-11-02,TOR,Philadelphia Flyers,W,4,3,TOR,Milwaukee Bucks,L,105,115
+2019-11-10,TOR,Chicago Blackhawks,L,4,5,TOR,Los Angeles Lakers,W,113,104
+2019-11-13,TOR,New York Islanders,L,4,5,TOR,Portland Trail Blazers,W,114,106
+2019-11-16,TOR,Pittsburgh Penguins,L,1,6,TOR,Dallas Mavericks,L,102,110
+2019-11-23,TOR,Colorado Avalanche,W,5,3,TOR,Atlanta Hawks,W,119,116
+2019-11-27,TOR,Detroit Red Wings,W,6,0,TOR,New York Knicks,W,126,98
+2019-11-29,TOR,Buffalo Sabres,L,4,6,TOR,Orlando Magic,W,90,83
+2019-12-03,TOR,Philadelphia Flyers,L,1,6,TOR,Miami Heat,L,110,121
+2019-12-14,TOR,Edmonton Oilers,W,4,1,TOR,Brooklyn Nets,W,110,102
+2019-12-20,TOR,New York Rangers,W,6,3,TOR,Washington Wizards,W,122,118
+2019-12-23,TOR,Carolina Hurricanes,W,8,6,TOR,Indiana Pacers,L,115,120
+2019-12-28,TOR,New York Rangers,L,4,5,TOR,Boston Celtics,W,113,97
+2019-12-31,TOR,Minnesota Wild,W,4,1,TOR,Cleveland Cavaliers,W,117,97
+2020-01-02,TOR,Winnipeg Jets,W,6,3,TOR,Miami Heat,L,76,84
+2020-01-04,TOR,New York Islanders,W,3,0,TOR,Brooklyn Nets,W,121,102
+2020-01-08,TOR,Winnipeg Jets,L,3,4,TOR,Charlotte Hornets,W,112,110
+2020-01-12,TOR,Florida Panthers,L,4,8,TOR,San Antonio Spurs,L,104,105
+2020-01-18,TOR,Chicago Blackhawks,L,2,6,TOR,Minnesota Timberwolves,W,122,112
+2020-02-05,TOR,New York Rangers,L,3,5,TOR,Indiana Pacers,W,119,118
+2020-02-07,TOR,Anaheim Ducks,W,5,4,TOR,Indiana Pacers,W,115,106
+2020-02-08,TOR,Montreal Canadiens,L,1,2,TOR,Brooklyn Nets,W,119,118
+2020-02-25,TOR,Tampa Bay Lightning,W,4,3,TOR,Milwaukee Bucks,L,97,108
+2020-03-03,TOR,San Jose Sharks,L,2,5,TOR,Phoenix Suns,W,123,114
+2020-03-05,TOR,Los Angeles Kings,L,0,1,TOR,Golden State Warriors,W,121,113
+2021-01-16,TOR,Ottawa Senators,W,3,2,TOR,Charlotte Hornets,W,116,113
+2021-01-18,TOR,Winnipeg Jets,W,3,1,TOR,Dallas Mavericks,W,116,93
+2021-01-20,TOR,Edmonton Oilers,L,1,3,TOR,Miami Heat,L,102,111
+2021-01-22,TOR,Edmonton Oilers,W,4,2,TOR,Miami Heat,W,101,81
+2021-01-24,TOR,Calgary Flames,W,3,2,TOR,Indiana Pacers,W,107,102
+2021-02-06,TOR,Vancouver Canucks,W,5,1,TOR,Atlanta Hawks,L,121,132
+2021-02-08,TOR,Vancouver Canucks,W,3,1,TOR,Memphis Grizzlies,W,128,113
+2021-02-10,TOR,Montreal Canadiens,W,4,2,TOR,Washington Wizards,W,137,115
+2021-02-18,TOR,Ottawa Senators,W,7,3,TOR,Milwaukee Bucks,W,110,96
+2021-02-24,TOR,Calgary Flames,W,2,1,TOR,Miami Heat,L,108,116
+2021-03-03,TOR,Edmonton Oilers,W,6,1,TOR,Detroit Pistons,L,105,129
+2021-03-04,TOR,Vancouver Canucks,L,1,3,TOR,Boston Celtics,L,125,132
+2021-03-11,TOR,Winnipeg Jets,W,4,3,TOR,Atlanta Hawks,L,120,121
+2021-03-13,TOR,Winnipeg Jets,L,2,5,TOR,Charlotte Hornets,L,104,114
+2021-03-14,TOR,Ottawa Senators,L,3,4,TOR,Chicago Bulls,L,95,118
+2021-03-19,TOR,Calgary Flames,L,3,4,TOR,Utah Jazz,L,112,115
+2021-03-29,TOR,Edmonton Oilers,L,2,3,TOR,Detroit Pistons,L,104,118
+2021-03-31,TOR,Winnipeg Jets,W,3,1,TOR,Oklahoma City Thunder,L,103,113
+2021-04-02,TOR,Winnipeg Jets,W,2,1,TOR,Golden State Warriors,W,130,77
+2021-04-05,TOR,Calgary Flames,W,5,3,TOR,Washington Wizards,W,103,101
+2021-04-10,TOR,Ottawa Senators,W,6,5,TOR,Cleveland Cavaliers,W,135,115
+2021-04-13,TOR,Calgary Flames,L,2,3,TOR,Atlanta Hawks,L,103,108
+2021-04-18,TOR,Vancouver Canucks,L,2,3,TOR,Oklahoma City Thunder,W,112,106
+2021-04-24,TOR,Winnipeg Jets,W,4,1,TOR,New York Knicks,L,103,120
+2021-04-29,TOR,Vancouver Canucks,W,4,1,TOR,Denver Nuggets,L,111,121
+2021-05-01,TOR,Vancouver Canucks,W,5,1,TOR,Utah Jazz,L,102,106
+2021-05-06,TOR,Montreal Canadiens,W,5,2,TOR,Washington Wizards,L,129,131
+2021-05-08,TOR,Montreal Canadiens,W,3,2,TOR,Memphis Grizzlies,L,99,109
+2021-05-14,TOR,Winnipeg Jets,L,2,4,TOR,Dallas Mavericks,L,110,114
+2021-10-22,TOR,San Jose Sharks,L,3,5,TOR,Boston Celtics,W,115,83
+2021-10-23,TOR,Pittsburgh Penguins,L,1,7,TOR,Dallas Mavericks,L,95,103
+2021-10-25,TOR,Carolina Hurricanes,L,1,4,TOR,Chicago Bulls,L,108,111
+2021-10-27,TOR,Chicago Blackhawks,W,3,2,TOR,Indiana Pacers,W,118,100
+2021-10-30,TOR,Detroit Red Wings,W,5,4,TOR,Indiana Pacers,W,97,94
+2021-11-10,TOR,Philadelphia Flyers,W,3,0,TOR,Boston Celtics,L,88,104
+2021-11-13,TOR,Buffalo Sabres,W,5,4,TOR,Detroit Pistons,L,121,127
+2021-11-18,TOR,New York Rangers,W,2,1,TOR,Utah Jazz,L,103,119
+2021-11-21,TOR,New York Islanders,W,3,0,TOR,Golden State Warriors,L,104,119
+2021-11-24,TOR,Los Angeles Kings,W,6,2,TOR,Memphis Grizzlies,W,126,113
+2021-11-26,TOR,San Jose Sharks,W,4,1,TOR,Indiana Pacers,L,97,114
+2021-11-28,TOR,Anaheim Ducks,W,5,1,TOR,Boston Celtics,L,97,109
+2021-12-05,TOR,Winnipeg Jets,L,3,6,TOR,Washington Wizards,W,102,90
+2021-12-14,TOR,Edmonton Oilers,W,5,1,TOR,Brooklyn Nets,L,129,131
+2022-01-05,TOR,Edmonton Oilers,W,4,2,TOR,Milwaukee Bucks,W,117,111
+2022-01-11,TOR,Vegas Golden Knights,W,4,3,TOR,Phoenix Suns,L,95,99
+2022-01-15,TOR,St. Louis Blues,W,6,5,TOR,Milwaukee Bucks,W,103,96
+2022-01-19,TOR,New York Rangers,L,3,6,TOR,Dallas Mavericks,L,98,102
+2022-01-26,TOR,Anaheim Ducks,W,4,3,TOR,Chicago Bulls,L,105,111
+2022-01-29,TOR,Detroit Red Wings,W,7,4,TOR,Miami Heat,W,124,120
+2022-01-31,TOR,New Jersey Devils,W,6,4,TOR,Atlanta Hawks,W,106,100
+2022-02-01,TOR,New Jersey Devils,W,7,1,TOR,Miami Heat,W,110,106
+2022-02-07,TOR,Carolina Hurricanes,W,4,3,TOR,Charlotte Hornets,W,116,101
+2022-02-10,TOR,Calgary Flames,L,2,5,TOR,Houston Rockets,W,139,120
+2022-02-12,TOR,Vancouver Canucks,L,2,3,TOR,Denver Nuggets,L,109,110
+2022-02-14,TOR,Seattle Kraken,W,6,2,TOR,New Orleans Pelicans,L,90,120
+2022-02-26,TOR,Detroit Red Wings,W,10,7,TOR,Atlanta Hawks,L,100,127
+2022-02-28,TOR,Washington Capitals,W,5,3,TOR,Brooklyn Nets,W,133,97
+2022-03-26,TOR,Montreal Canadiens,L,2,4,TOR,Indiana Pacers,W,131,91
+2022-04-05,TOR,Florida Panthers,L,6,7,TOR,Atlanta Hawks,W,118,108
+2022-04-07,TOR,Dallas Stars,W,4,3,TOR,Philadelphia 76ers,W,119,114
+2022-10-22,TOR,Winnipeg Jets,W,4,1,TOR,Miami Heat,L,109,112
+2022-10-24,TOR,Vegas Golden Knights,L,1,3,TOR,Miami Heat,W,98,90
+2022-11-02,TOR,Philadelphia Flyers,W,5,2,TOR,San Antonio Spurs,W,143,100
+2022-11-06,TOR,Carolina Hurricanes,W,3,1,TOR,Chicago Bulls,W,113,104
+2022-11-11,TOR,Pittsburgh Penguins,L,2,4,TOR,Oklahoma City Thunder,L,113,132
+2022-11-12,TOR,Vancouver Canucks,W,3,2,TOR,Indiana Pacers,L,104,118
+2022-11-19,TOR,Buffalo Sabres,W,5,2,TOR,Atlanta Hawks,L,122,124
+2022-11-23,TOR,New Jersey Devils,W,2,1,TOR,Brooklyn Nets,L,98,112
+2022-11-26,TOR,Pittsburgh Penguins,W,4,1,TOR,Dallas Mavericks,W,105,100
+2022-11-28,TOR,Detroit Red Wings,W,4,2,TOR,Cleveland Cavaliers,W,100,88
+2022-11-30,TOR,San Jose Sharks,W,3,1,TOR,New Orleans Pelicans,L,108,126
+2022-12-03,TOR,Tampa Bay Lightning,L,3,4,TOR,Orlando Magic,W,121,108
+2022-12-27,TOR,St. Louis Blues,W,5,4,TOR,Los Angeles Clippers,L,113,124
+2022-12-29,TOR,Arizona Coyotes,L,3,6,TOR,Memphis Grizzlies,L,106,119
+2023-01-08,TOR,Philadelphia Flyers,W,6,2,TOR,Portland Trail Blazers,W,117,105
+2023-01-12,TOR,Detroit Red Wings,L,1,4,TOR,Charlotte Hornets,W,124,114
+2023-01-14,TOR,Boston Bruins,L,3,4,TOR,Atlanta Hawks,L,103,114
+2023-01-17,TOR,Florida Panthers,W,5,4,TOR,Milwaukee Bucks,L,122,130
+2023-01-19,TOR,Winnipeg Jets,W,4,1,TOR,Minnesota Timberwolves,L,126,128
+2023-01-21,TOR,Montreal Canadiens,L,2,3,TOR,Boston Celtics,L,104,106
+2023-01-25,TOR,New York Rangers,W,3,2,TOR,Sacramento Kings,W,113,95
+2023-01-27,TOR,Ottawa Senators,L,2,6,TOR,Golden State Warriors,L,117,129
+2023-02-01,TOR,Boston Bruins,L,2,5,TOR,Utah Jazz,L,128,131
+2023-02-10,TOR,Columbus Blue Jackets,W,3,0,TOR,Utah Jazz,L,116,122
+2023-02-26,TOR,Seattle Kraken,,,,TOR,Cleveland Cavaliers,,,
+2023-03-02,TOR,Calgary Flames,,,,TOR,Washington Wizards,,,
+2023-03-04,TOR,Vancouver Canucks,,,,TOR,Washington Wizards,,,
+2023-03-18,TOR,Ottawa Senators,,,,TOR,Minnesota Timberwolves,,,
+2023-03-26,TOR,Nashville Predators,,,,TOR,Washington Wizards,,,
+2023-04-02,TOR,Detroit Red Wings,,,,TOR,Charlotte Hornets,,,
+2023-04-04,TOR,Columbus Blue Jackets,,,,TOR,Charlotte Hornets,,,

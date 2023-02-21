@@ -1,0 +1,394 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2012-01-04,ANA,San Jose Sharks,L,1,3,LAC,Houston Rockets,W,117,89
+2012-01-10,ANA,Dallas Stars,W,5,2,LAC,Portland Trail Blazers,L,97,105
+2012-01-18,ANA,Phoenix Coyotes,W,6,2,LAC,Dallas Mavericks,W,91,89
+2012-01-22,ANA,Colorado Avalanche,W,3,2,LAC,Toronto Raptors,W,103,91
+2012-02-01,ANA,Dallas Stars,L,2,6,LAC,Utah Jazz,W,107,105
+2012-02-06,ANA,Calgary Flames,W,3,2,LAC,Orlando Magic,W,107,102
+2012-02-08,ANA,Carolina Hurricanes,W,3,2,LAC,Cleveland Cavaliers,L,92,99
+2012-02-10,ANA,Detroit Red Wings,L,1,2,LAC,Philadelphia 76ers,W,78,77
+2012-02-15,ANA,Pittsburgh Penguins,W,2,1,LAC,Washington Wizards,W,102,84
+2012-03-02,ANA,Calgary Flames,W,3,2,LAC,Phoenix Suns,L,78,81
+2012-03-05,ANA,Edmonton Oilers,W,4,2,LAC,Minnesota Timberwolves,L,94,95
+2012-03-12,ANA,Colorado Avalanche,L,2,3,LAC,Boston Celtics,L,85,94
+2012-03-14,ANA,Detroit Red Wings,W,4,0,LAC,Atlanta Hawks,W,96,82
+2012-03-18,ANA,Nashville Predators,L,1,3,LAC,Detroit Pistons,W,87,83
+2012-03-21,ANA,St. Louis Blues,W,4,3,LAC,Oklahoma City Thunder,L,91,114
+2012-03-28,ANA,San Jose Sharks,W,3,1,LAC,Phoenix Suns,W,103,86
+2012-03-31,ANA,Phoenix Coyotes,L,0,4,LAC,Utah Jazz,W,105,96
+2012-04-05,ANA,Edmonton Oilers,W,3,2,LAC,Sacramento Kings,W,93,85
+2012-04-07,ANA,Calgary Flames,L,2,5,LAC,Sacramento Kings,W,109,94
+2013-01-19,ANA,Vancouver Canucks,W,7,3,LAC,Washington Wizards,W,94,87
+2013-01-21,ANA,Calgary Flames,W,5,4,LAC,Golden State Warriors,L,99,106
+2013-01-26,ANA,Nashville Predators,W,3,2,LAC,Portland Trail Blazers,L,100,101
+2013-02-01,ANA,Minnesota Wild,W,3,1,LAC,Toronto Raptors,L,73,98
+2013-02-04,ANA,San Jose Sharks,W,2,1,LAC,Washington Wizards,L,90,98
+2013-02-06,ANA,Colorado Avalanche,W,3,0,LAC,Orlando Magic,W,86,76
+2013-02-08,ANA,Dallas Stars,L,1,3,LAC,Miami Heat,L,89,111
+2013-03-01,ANA,Minnesota Wild,W,3,2,LAC,Cleveland Cavaliers,W,105,89
+2013-03-06,ANA,Phoenix Coyotes,W,2,0,LAC,Milwaukee Bucks,W,117,101
+2013-03-10,ANA,St. Louis Blues,W,4,2,LAC,Detroit Pistons,W,129,97
+2013-03-20,ANA,Chicago Blackhawks,W,4,2,LAC,Philadelphia 76ers,W,101,72
+2013-03-27,ANA,San Jose Sharks,L,0,4,LAC,New Orleans Hornets,W,105,91
+2013-03-29,ANA,Chicago Blackhawks,W,2,1,LAC,San Antonio Spurs,L,102,104
+2013-04-01,ANA,Dallas Stars,W,4,0,LAC,Indiana Pacers,L,106,109
+2013-04-03,ANA,Dallas Stars,W,5,2,LAC,Phoenix Suns,W,126,101
+2013-04-07,ANA,Los Angeles Kings,W,4,3,LAC,Los Angeles Lakers,W,109,95
+2013-04-10,ANA,Colorado Avalanche,L,1,4,LAC,Minnesota Timberwolves,W,111,95
+2013-04-13,ANA,Los Angeles Kings,L,1,2,LAC,Memphis Grizzlies,W,91,87
+2013-04-17,ANA,Columbus Blue Jackets,L,2,3,LAC,Sacramento Kings,W,112,108
+2013-10-29,ANA,Philadelphia Flyers,W,3,2,LAC,Los Angeles Lakers,L,103,116
+2013-10-31,ANA,Boston Bruins,L,2,3,LAC,Golden State Warriors,W,126,115
+2013-11-04,ANA,New York Rangers,W,2,1,LAC,Houston Rockets,W,137,118
+2013-11-06,ANA,Phoenix Coyotes,W,5,2,LAC,Orlando Magic,L,90,98
+2013-11-18,ANA,Pittsburgh Penguins,L,1,3,LAC,Memphis Grizzlies,L,102,106
+2013-11-20,ANA,New Jersey Devils,L,3,4,LAC,Minnesota Timberwolves,W,102,98
+2013-11-23,ANA,Phoenix Coyotes,W,4,2,LAC,Sacramento Kings,W,103,102
+2013-11-29,ANA,Calgary Flames,W,5,2,LAC,Sacramento Kings,W,104,98
+2013-12-07,ANA,St. Louis Blues,W,5,2,LAC,Cleveland Cavaliers,L,82,88
+2013-12-09,ANA,New York Islanders,W,5,2,LAC,Philadelphia 76ers,W,94,83
+2013-12-11,ANA,Minnesota Wild,W,2,1,LAC,Boston Celtics,W,96,88
+2013-12-21,ANA,New York Islanders,W,5,3,LAC,Denver Nuggets,W,112,91
+2013-12-28,ANA,Phoenix Coyotes,W,3,2,LAC,Utah Jazz,W,98,90
+2014-01-03,ANA,Edmonton Oilers,W,5,2,LAC,Dallas Mavericks,W,119,112
+2014-01-15,ANA,Vancouver Canucks,W,9,1,LAC,Dallas Mavericks,W,129,127
+2014-01-17,ANA,Chicago Blackhawks,L,2,4,LAC,New York Knicks,W,109,95
+2014-01-18,ANA,St. Louis Blues,W,3,2,LAC,Indiana Pacers,L,92,106
+2014-01-25,ANA,Los Angeles Kings,W,3,0,LAC,Toronto Raptors,W,126,118
+2014-01-30,ANA,Philadelphia Flyers,W,5,3,LAC,Golden State Warriors,L,92,111
+2014-02-01,ANA,Dallas Stars,L,0,2,LAC,Utah Jazz,W,102,87
+2014-02-03,ANA,Columbus Blue Jackets,L,2,4,LAC,Denver Nuggets,L,115,116
+2014-02-05,ANA,Chicago Blackhawks,L,0,2,LAC,Miami Heat,L,112,116
+2014-03-10,ANA,Toronto Maple Leafs,L,1,3,LAC,Phoenix Suns,W,112,105
+2014-03-12,ANA,Calgary Flames,L,2,7,LAC,Golden State Warriors,W,111,98
+2014-03-14,ANA,Colorado Avalanche,W,6,4,LAC,Utah Jazz,W,96,87
+2014-03-26,ANA,Calgary Flames,W,3,2,LAC,New Orleans Pelicans,L,96,98
+2014-03-29,ANA,Vancouver Canucks,W,5,1,LAC,Houston Rockets,W,118,107
+2014-03-31,ANA,Winnipeg Jets,W,5,4,LAC,Minnesota Timberwolves,W,114,104
+2014-04-02,ANA,Edmonton Oilers,W,3,2,LAC,Phoenix Suns,W,112,108
+2014-04-06,ANA,Edmonton Oilers,L,2,4,LAC,Los Angeles Lakers,W,120,97
+2014-04-09,ANA,San Jose Sharks,W,5,2,LAC,Oklahoma City Thunder,L,101,107
+2014-04-12,ANA,Los Angeles Kings,W,4,3,LAC,Sacramento Kings,W,117,101
+2014-10-30,ANA,St. Louis Blues,L,0,2,LAC,Oklahoma City Thunder,W,93,90
+2014-10-31,ANA,Dallas Stars,W,2,1,LAC,Los Angeles Lakers,W,118,111
+2014-11-02,ANA,Colorado Avalanche,W,3,2,LAC,Sacramento Kings,L,92,98
+2014-11-05,ANA,New York Islanders,L,2,3,LAC,Golden State Warriors,L,104,121
+2014-11-15,ANA,Los Angeles Kings,L,2,3,LAC,Phoenix Suns,W,120,107
+2014-11-20,ANA,Vancouver Canucks,W,4,3,LAC,Miami Heat,W,110,93
+2014-11-23,ANA,Arizona Coyotes,W,2,1,LAC,Memphis Grizzlies,L,91,107
+2014-11-28,ANA,Chicago Blackhawks,L,1,4,LAC,Houston Rockets,W,102,85
+2014-11-29,ANA,San Jose Sharks,L,4,6,LAC,Utah Jazz,W,112,96
+2014-12-01,ANA,Boston Bruins,W,3,2,LAC,Minnesota Timberwolves,W,127,101
+2014-12-03,ANA,Philadelphia Flyers,W,5,4,LAC,Orlando Magic,W,114,86
+2014-12-10,ANA,Edmonton Oilers,W,2,1,LAC,Indiana Pacers,W,103,96
+2014-12-12,ANA,Edmonton Oilers,W,4,2,LAC,Washington Wizards,L,96,104
+2014-12-13,ANA,Winnipeg Jets,W,4,1,LAC,Milwaukee Bucks,L,106,111
+2014-12-19,ANA,Ottawa Senators,L,2,6,LAC,Denver Nuggets,L,106,109
+2014-12-22,ANA,San Jose Sharks,W,3,2,LAC,San Antonio Spurs,L,118,125
+2014-12-27,ANA,Arizona Coyotes,L,1,2,LAC,Toronto Raptors,L,98,110
+2014-12-31,ANA,San Jose Sharks,L,0,3,LAC,New York Knicks,W,99,78
+2015-01-07,ANA,New York Rangers,L,1,4,LAC,Los Angeles Lakers,W,114,89
+2015-01-11,ANA,Winnipeg Jets,W,5,4,LAC,Miami Heat,L,90,104
+2015-01-14,ANA,Toronto Maple Leafs,W,4,0,LAC,Portland Trail Blazers,W,100,94
+2015-01-16,ANA,New Jersey Devils,W,5,1,LAC,Cleveland Cavaliers,L,121,126
+2015-01-17,ANA,Los Angeles Kings,W,3,2,LAC,Sacramento Kings,W,117,108
+2015-01-30,ANA,Chicago Blackhawks,L,1,4,LAC,New Orleans Pelicans,L,103,108
+2015-02-05,ANA,Nashville Predators,W,5,2,LAC,Cleveland Cavaliers,L,94,105
+2015-02-06,ANA,Washington Capitals,L,2,3,LAC,Toronto Raptors,L,107,123
+2015-02-08,ANA,Tampa Bay Lightning,L,3,5,LAC,Oklahoma City Thunder,L,108,131
+2015-02-21,ANA,Edmonton Oilers,W,2,1,LAC,Sacramento Kings,W,126,99
+2015-02-23,ANA,Detroit Red Wings,W,4,3,LAC,Memphis Grizzlies,L,87,90
+2015-02-25,ANA,Ottawa Senators,L,0,3,LAC,Houston Rockets,L,105,110
+2015-02-27,ANA,Los Angeles Kings,W,4,2,LAC,Memphis Grizzlies,W,97,79
+2015-03-01,ANA,Dallas Stars,W,3,1,LAC,Chicago Bulls,W,96,86
+2015-03-04,ANA,Montreal Canadiens,W,3,1,LAC,Portland Trail Blazers,L,93,98
+2015-03-09,ANA,Vancouver Canucks,L,1,2,LAC,Minnesota Timberwolves,W,89,76
+2015-03-11,ANA,Calgary Flames,L,3,6,LAC,Oklahoma City Thunder,W,120,108
+2015-03-13,ANA,Minnesota Wild,W,2,1,LAC,Dallas Mavericks,L,99,129
+2015-03-15,ANA,Nashville Predators,W,4,2,LAC,Houston Rockets,L,98,100
+2015-03-18,ANA,Los Angeles Kings,W,3,2,LAC,Sacramento Kings,W,116,105
+2015-03-20,ANA,Colorado Avalanche,W,3,2,LAC,Washington Wizards,W,113,99
+2015-03-22,ANA,New York Rangers,L,2,7,LAC,New Orleans Pelicans,W,107,100
+2015-03-29,ANA,New Jersey Devils,W,2,1,LAC,Boston Celtics,W,119,106
+2015-04-01,ANA,Edmonton Oilers,W,5,1,LAC,Portland Trail Blazers,W,126,122
+2015-04-11,ANA,Arizona Coyotes,W,2,1,LAC,Memphis Grizzlies,W,94,86
+2015-10-29,ANA,St. Louis Blues,L,1,2,LAC,Dallas Mavericks,W,104,88
+2015-11-04,ANA,Florida Panthers,W,3,2,LAC,Golden State Warriors,L,108,112
+2015-11-07,ANA,San Jose Sharks,W,1,0,LAC,Houston Rockets,L,105,109
+2015-11-09,ANA,Arizona Coyotes,L,3,4,LAC,Memphis Grizzlies,W,94,92
+2015-11-11,ANA,Edmonton Oilers,L,3,4,LAC,Dallas Mavericks,L,108,118
+2015-11-19,ANA,Florida Panthers,W,3,1,LAC,Golden State Warriors,L,117,124
+2015-11-24,ANA,Calgary Flames,W,5,3,LAC,Denver Nuggets,W,111,94
+2015-11-25,ANA,Arizona Coyotes,L,2,4,LAC,Utah Jazz,L,91,102
+2015-11-27,ANA,Chicago Blackhawks,L,2,3,LAC,New Orleans Pelicans,W,111,90
+2015-11-30,ANA,Vancouver Canucks,W,4,0,LAC,Portland Trail Blazers,W,102,87
+2015-12-02,ANA,Tampa Bay Lightning,L,1,2,LAC,Indiana Pacers,L,91,103
+2015-12-19,ANA,New Jersey Devils,W,2,1,LAC,Houston Rockets,L,97,107
+2015-12-21,ANA,New York Islanders,L,2,5,LAC,Oklahoma City Thunder,L,99,100
+2015-12-31,ANA,Edmonton Oilers,W,1,0,LAC,New Orleans Pelicans,W,95,89
+2016-01-06,ANA,Toronto Maple Leafs,L,0,4,LAC,Portland Trail Blazers,W,109,98
+2016-01-10,ANA,Detroit Red Wings,L,1,2,LAC,New Orleans Pelicans,W,114,111
+2016-01-13,ANA,Ottawa Senators,W,4,1,LAC,Miami Heat,W,104,90
+2016-01-26,ANA,Boston Bruins,W,6,2,LAC,Indiana Pacers,W,91,89
+2016-02-05,ANA,Arizona Coyotes,W,5,2,LAC,Orlando Magic,W,107,93
+2016-02-08,ANA,Pittsburgh Penguins,L,2,6,LAC,Philadelphia 76ers,W,98,92
+2016-02-18,ANA,Vancouver Canucks,W,5,2,LAC,San Antonio Spurs,W,105,86
+2016-02-24,ANA,Buffalo Sabres,W,1,0,LAC,Denver Nuggets,L,81,87
+2016-02-26,ANA,Edmonton Oilers,W,2,1,LAC,Sacramento Kings,W,117,107
+2016-03-02,ANA,Montreal Canadiens,W,3,2,LAC,Oklahoma City Thunder,W,103,98
+2016-03-05,ANA,Los Angeles Kings,W,3,2,LAC,Atlanta Hawks,L,97,107
+2016-03-07,ANA,Washington Capitals,L,1,2,LAC,Dallas Mavericks,W,109,90
+2016-03-09,ANA,Colorado Avalanche,L,0,3,LAC,Oklahoma City Thunder,L,108,120
+2016-03-11,ANA,St. Louis Blues,L,2,5,LAC,New York Knicks,W,101,94
+2016-03-16,ANA,New York Rangers,L,1,2,LAC,Houston Rockets,W,122,106
+2016-03-20,ANA,Winnipeg Jets,W,3,2,LAC,New Orleans Pelicans,L,105,109
+2016-03-24,ANA,Toronto Maple Leafs,L,5,6,LAC,Portland Trail Blazers,W,96,94
+2016-03-28,ANA,Edmonton Oilers,W,2,1,LAC,Boston Celtics,W,114,90
+2016-03-30,ANA,Calgary Flames,W,8,3,LAC,Minnesota Timberwolves,W,99,79
+2016-04-03,ANA,Dallas Stars,W,3,1,LAC,Washington Wizards,W,114,109
+2016-04-05,ANA,Winnipeg Jets,L,1,2,LAC,Los Angeles Lakers,W,103,81
+2016-04-10,ANA,Washington Capitals,W,2,0,LAC,Dallas Mavericks,W,98,91
+2016-11-02,ANA,Pittsburgh Penguins,L,1,5,LAC,Oklahoma City Thunder,L,83,85
+2016-11-04,ANA,Arizona Coyotes,W,5,1,LAC,Memphis Grizzlies,W,99,88
+2016-11-09,ANA,Columbus Blue Jackets,L,2,3,LAC,Portland Trail Blazers,W,111,80
+2016-11-12,ANA,Nashville Predators,L,0,5,LAC,Minnesota Timberwolves,W,119,105
+2016-11-25,ANA,Chicago Blackhawks,L,2,3,LAC,Detroit Pistons,L,97,108
+2016-11-29,ANA,Montreal Canadiens,W,2,1,LAC,Brooklyn Nets,L,122,127
+2016-12-01,ANA,Vancouver Canucks,W,3,1,LAC,Cleveland Cavaliers,W,113,94
+2016-12-04,ANA,Calgary Flames,L,3,8,LAC,Indiana Pacers,L,102,111
+2016-12-07,ANA,Carolina Hurricanes,W,6,5,LAC,Golden State Warriors,L,98,115
+2016-12-20,ANA,Montreal Canadiens,L,1,5,LAC,Denver Nuggets,W,119,102
+2016-12-22,ANA,Ottawa Senators,L,1,2,LAC,San Antonio Spurs,W,106,101
+2016-12-30,ANA,Vancouver Canucks,L,2,3,LAC,Houston Rockets,L,116,140
+2017-01-04,ANA,Detroit Red Wings,W,2,0,LAC,Memphis Grizzlies,W,115,106
+2017-01-06,ANA,Arizona Coyotes,W,3,2,LAC,Sacramento Kings,W,106,98
+2017-01-08,ANA,Minnesota Wild,L,1,2,LAC,Miami Heat,W,98,86
+2017-01-14,ANA,Arizona Coyotes,W,3,0,LAC,Los Angeles Lakers,W,113,97
+2017-01-19,ANA,Colorado Avalanche,W,2,1,LAC,Minnesota Timberwolves,L,101,104
+2017-01-21,ANA,Minnesota Wild,L,3,5,LAC,Denver Nuggets,L,98,123
+2017-01-23,ANA,Winnipeg Jets,W,3,2,LAC,Atlanta Hawks,W,115,105
+2017-02-11,ANA,Washington Capitals,L,4,6,LAC,Charlotte Hornets,W,107,102
+2017-03-03,ANA,Toronto Maple Leafs,W,5,2,LAC,Milwaukee Bucks,L,101,112
+2017-03-09,ANA,Chicago Blackhawks,W,1,0,LAC,Memphis Grizzlies,W,114,98
+2017-03-15,ANA,St. Louis Blues,W,2,1,LAC,Milwaukee Bucks,L,96,97
+2017-03-18,ANA,San Jose Sharks,W,2,1,LAC,Cleveland Cavaliers,W,108,78
+2017-03-26,ANA,New York Rangers,W,6,3,LAC,Sacramento Kings,L,97,98
+2017-03-30,ANA,Winnipeg Jets,L,3,4,LAC,Phoenix Suns,W,124,118
+2017-04-01,ANA,Edmonton Oilers,L,2,3,LAC,Los Angeles Lakers,W,115,104
+2017-10-24,ANA,Philadelphia Flyers,W,6,2,LAC,Utah Jazz,W,102,84
+2017-10-26,ANA,Florida Panthers,L,3,8,LAC,Portland Trail Blazers,W,104,103
+2017-10-28,ANA,Tampa Bay Lightning,W,4,1,LAC,Detroit Pistons,L,87,95
+2017-11-01,ANA,Toronto Maple Leafs,L,1,3,LAC,Dallas Mavericks,W,119,98
+2017-11-04,ANA,San Jose Sharks,L,1,2,LAC,Memphis Grizzlies,L,104,113
+2017-11-07,ANA,Los Angeles Kings,L,3,4,LAC,San Antonio Spurs,L,107,120
+2017-11-20,ANA,San Jose Sharks,W,3,2,LAC,New York Knicks,L,85,107
+2017-11-22,ANA,Vegas Golden Knights,L,2,4,LAC,Atlanta Hawks,W,116,103
+2017-11-25,ANA,Los Angeles Kings,L,1,2,LAC,Sacramento Kings,W,97,95
+2017-11-27,ANA,Chicago Blackhawks,L,3,7,LAC,Los Angeles Lakers,W,120,115
+2017-12-02,ANA,Nashville Predators,L,2,3,LAC,Dallas Mavericks,L,82,108
+2017-12-06,ANA,Ottawa Senators,W,3,0,LAC,Minnesota Timberwolves,L,107,113
+2017-12-11,ANA,Carolina Hurricanes,W,3,2,LAC,Toronto Raptors,W,96,91
+2017-12-16,ANA,Washington Capitals,L,2,3,LAC,Miami Heat,L,85,90
+2017-12-18,ANA,New Jersey Devils,L,3,5,LAC,San Antonio Spurs,L,91,109
+2017-12-23,ANA,Pittsburgh Penguins,W,4,0,LAC,Memphis Grizzlies,L,112,115
+2017-12-29,ANA,Calgary Flames,W,2,1,LAC,Los Angeles Lakers,W,121,106
+2017-12-31,ANA,Arizona Coyotes,W,5,2,LAC,Charlotte Hornets,W,106,98
+2018-01-02,ANA,Vancouver Canucks,W,5,0,LAC,Memphis Grizzlies,W,113,105
+2018-01-04,ANA,Edmonton Oilers,L,1,2,LAC,Oklahoma City Thunder,L,117,127
+2018-01-06,ANA,Calgary Flames,L,2,3,LAC,Golden State Warriors,L,105,121
+2018-01-13,ANA,Los Angeles Kings,W,4,2,LAC,Sacramento Kings,W,126,105
+2018-01-15,ANA,Colorado Avalanche,L,1,3,LAC,Houston Rockets,W,113,102
+2018-01-17,ANA,Pittsburgh Penguins,W,5,3,LAC,Denver Nuggets,W,109,104
+2018-01-30,ANA,Boston Bruins,W,3,1,LAC,Portland Trail Blazers,L,96,104
+2018-02-03,ANA,Montreal Canadiens,L,2,5,LAC,Chicago Bulls,W,113,103
+2018-02-05,ANA,Toronto Maple Leafs,L,4,7,LAC,Dallas Mavericks,W,104,101
+2018-02-09,ANA,Edmonton Oilers,W,3,2,LAC,Detroit Pistons,W,108,95
+2018-03-02,ANA,Columbus Blue Jackets,W,4,2,LAC,New York Knicks,W,128,105
+2018-03-04,ANA,Chicago Blackhawks,W,6,3,LAC,Brooklyn Nets,W,123,120
+2018-03-06,ANA,Washington Capitals,W,4,0,LAC,New Orleans Pelicans,L,116,121
+2018-03-09,ANA,Dallas Stars,L,1,2,LAC,Cleveland Cavaliers,W,116,102
+2018-03-16,ANA,Detroit Red Wings,W,4,2,LAC,Oklahoma City Thunder,L,113,121
+2018-03-18,ANA,New Jersey Devils,W,4,2,LAC,Portland Trail Blazers,L,109,122
+2018-03-21,ANA,Calgary Flames,W,4,0,LAC,Milwaukee Bucks,W,127,120
+2018-03-23,ANA,Winnipeg Jets,L,2,3,LAC,Indiana Pacers,L,104,109
+2018-03-25,ANA,Edmonton Oilers,W,5,4,LAC,Toronto Raptors,W,117,106
+2018-03-27,ANA,Vancouver Canucks,L,1,4,LAC,Milwaukee Bucks,W,105,98
+2018-03-30,ANA,Los Angeles Kings,W,2,1,LAC,Portland Trail Blazers,L,96,105
+2018-04-01,ANA,Colorado Avalanche,W,4,3,LAC,Indiana Pacers,L,104,111
+2018-04-07,ANA,Arizona Coyotes,W,3,0,LAC,Denver Nuggets,L,115,134
+2018-10-17,ANA,New York Islanders,W,4,1,LAC,Denver Nuggets,L,98,107
+2018-10-21,ANA,Buffalo Sabres,L,2,4,LAC,Houston Rockets,W,115,112
+2018-10-23,ANA,Chicago Blackhawks,L,1,3,LAC,New Orleans Pelicans,L,109,116
+2018-10-28,ANA,San Jose Sharks,L,3,4,LAC,Washington Wizards,W,136,104
+2018-10-30,ANA,Philadelphia Flyers,L,2,3,LAC,Oklahoma City Thunder,L,110,128
+2018-11-01,ANA,New York Rangers,L,2,3,LAC,Philadelphia 76ers,L,113,122
+2018-11-12,ANA,Nashville Predators,W,2,1,LAC,Golden State Warriors,W,121,116
+2018-11-23,ANA,Edmonton Oilers,W,2,1,LAC,Memphis Grizzlies,W,112,107
+2018-11-25,ANA,Nashville Predators,L,2,5,LAC,Portland Trail Blazers,W,104,100
+2018-11-28,ANA,Florida Panthers,W,3,2,LAC,Phoenix Suns,W,115,99
+2018-12-02,ANA,Washington Capitals,W,6,5,LAC,Dallas Mavericks,L,110,114
+2018-12-05,ANA,Chicago Blackhawks,W,4,2,LAC,Memphis Grizzlies,L,86,96
+2018-12-15,ANA,Columbus Blue Jackets,W,2,1,LAC,Oklahoma City Thunder,L,104,110
+2018-12-17,ANA,Pittsburgh Penguins,W,4,2,LAC,Portland Trail Blazers,L,127,131
+2018-12-20,ANA,Boston Bruins,L,1,3,LAC,Dallas Mavericks,W,125,121
+2018-12-22,ANA,Buffalo Sabres,L,0,3,LAC,Denver Nuggets,W,132,111
+2018-12-29,ANA,Arizona Coyotes,L,4,5,LAC,San Antonio Spurs,L,111,122
+2019-01-04,ANA,Vegas Golden Knights,L,2,3,LAC,Phoenix Suns,W,121,111
+2019-01-06,ANA,Edmonton Oilers,L,0,4,LAC,Orlando Magic,W,106,96
+2019-01-20,ANA,New York Islanders,L,0,3,LAC,San Antonio Spurs,W,103,95
+2019-01-23,ANA,St. Louis Blues,L,1,5,LAC,Miami Heat,W,111,99
+2019-02-02,ANA,Winnipeg Jets,L,3,9,LAC,Detroit Pistons,W,111,101
+2019-02-05,ANA,Montreal Canadiens,L,1,4,LAC,Charlotte Hornets,W,117,115
+2019-02-07,ANA,Ottawa Senators,L,0,4,LAC,Indiana Pacers,L,92,116
+2019-02-09,ANA,Philadelphia Flyers,L,2,6,LAC,Boston Celtics,W,123,112
+2019-02-13,ANA,Vancouver Canucks,W,1,0,LAC,Phoenix Suns,W,134,107
+2019-02-22,ANA,Calgary Flames,L,1,2,LAC,Memphis Grizzlies,W,112,106
+2019-02-25,ANA,Vancouver Canucks,L,0,4,LAC,Dallas Mavericks,W,121,112
+2019-02-27,ANA,Chicago Blackhawks,L,3,4,LAC,Utah Jazz,L,105,111
+2019-03-01,ANA,Vegas Golden Knights,L,0,3,LAC,Sacramento Kings,W,116,109
+2019-03-03,ANA,Colorado Avalanche,W,2,1,LAC,New York Knicks,W,128,107
+2019-03-08,ANA,Montreal Canadiens,W,8,2,LAC,Oklahoma City Thunder,W,118,110
+2019-03-12,ANA,Nashville Predators,W,3,2,LAC,Portland Trail Blazers,L,104,125
+2019-03-15,ANA,Colorado Avalanche,W,5,3,LAC,Chicago Bulls,W,128,121
+2019-03-17,ANA,Florida Panthers,W,3,2,LAC,Brooklyn Nets,W,119,116
+2019-03-22,ANA,San Jose Sharks,W,4,3,LAC,Cleveland Cavaliers,W,110,108
+2019-03-26,ANA,Vancouver Canucks,W,5,4,LAC,Minnesota Timberwolves,W,122,111
+2019-03-30,ANA,Edmonton Oilers,W,5,1,LAC,Cleveland Cavaliers,W,132,108
+2019-04-03,ANA,Calgary Flames,W,3,1,LAC,Houston Rockets,L,103,135
+2019-04-05,ANA,Los Angeles Kings,W,5,2,LAC,Los Angeles Lakers,L,117,122
+2019-10-22,ANA,Nashville Predators,L,1,6,LAC,Los Angeles Lakers,W,112,102
+2019-10-24,ANA,Dallas Stars,L,1,2,LAC,Golden State Warriors,W,141,122
+2019-10-26,ANA,Colorado Avalanche,W,5,2,LAC,Phoenix Suns,L,122,130
+2019-11-03,ANA,Chicago Blackhawks,L,2,3,LAC,Utah Jazz,W,105,94
+2019-11-14,ANA,San Jose Sharks,L,3,5,LAC,New Orleans Pelicans,L,127,132
+2019-11-16,ANA,St. Louis Blues,W,4,1,LAC,Atlanta Hawks,W,150,101
+2019-11-18,ANA,Washington Capitals,L,2,5,LAC,Oklahoma City Thunder,W,90,88
+2019-11-27,ANA,Arizona Coyotes,L,3,4,LAC,Memphis Grizzlies,W,121,119
+2019-11-29,ANA,Winnipeg Jets,L,0,3,LAC,San Antonio Spurs,L,97,107
+2019-12-06,ANA,Washington Capitals,L,2,3,LAC,Milwaukee Bucks,L,91,119
+2019-12-08,ANA,Winnipeg Jets,L,2,3,LAC,Washington Wizards,W,135,119
+2019-12-14,ANA,New York Rangers,W,4,3,LAC,Chicago Bulls,L,106,109
+2019-12-17,ANA,Philadelphia Flyers,L,1,4,LAC,Phoenix Suns,W,120,99
+2019-12-21,ANA,New York Islanders,W,6,5,LAC,San Antonio Spurs,W,134,109
+2019-12-22,ANA,New York Rangers,L,1,5,LAC,Oklahoma City Thunder,L,112,118
+2019-12-31,ANA,Vegas Golden Knights,L,2,5,LAC,Sacramento Kings,W,105,87
+2020-01-02,ANA,Arizona Coyotes,L,2,4,LAC,Detroit Pistons,W,126,112
+2020-01-05,ANA,Nashville Predators,W,5,4,LAC,New York Knicks,W,135,132
+2020-01-16,ANA,Nashville Predators,W,4,2,LAC,Orlando Magic,W,122,95
+2020-02-01,ANA,Los Angeles Kings,W,3,1,LAC,Minnesota Timberwolves,W,118,106
+2020-02-09,ANA,Buffalo Sabres,W,3,2,LAC,Cleveland Cavaliers,W,133,92
+2020-02-13,ANA,Calgary Flames,L,0,6,LAC,Boston Celtics,L,133,141
+2020-02-28,ANA,Pittsburgh Penguins,W,3,2,LAC,Denver Nuggets,W,132,103
+2020-03-01,ANA,New Jersey Devils,L,0,3,LAC,Philadelphia 76ers,W,136,130
+2020-03-03,ANA,Chicago Blackhawks,L,2,6,LAC,Oklahoma City Thunder,W,109,94
+2020-03-08,ANA,Minnesota Wild,L,4,5,LAC,Los Angeles Lakers,L,103,112
+2020-03-10,ANA,Ottawa Senators,W,5,2,LAC,Golden State Warriors,W,131,107
+2021-01-20,ANA,Minnesota Wild,L,2,3,LAC,Sacramento Kings,W,115,96
+2021-01-22,ANA,Colorado Avalanche,L,2,3,LAC,Oklahoma City Thunder,W,120,106
+2021-01-24,ANA,Colorado Avalanche,W,3,1,LAC,Oklahoma City Thunder,W,108,100
+2021-01-26,ANA,Arizona Coyotes,W,1,0,LAC,Atlanta Hawks,L,99,108
+2021-01-28,ANA,Arizona Coyotes,L,2,3,LAC,Miami Heat,W,109,105
+2021-01-31,ANA,St. Louis Blues,L,1,4,LAC,New York Knicks,W,129,115
+2021-02-02,ANA,Los Angeles Kings,W,3,1,LAC,Brooklyn Nets,L,120,124
+2021-02-05,ANA,San Jose Sharks,L,4,5,LAC,Boston Celtics,L,115,119
+2021-02-15,ANA,San Jose Sharks,L,2,3,LAC,Miami Heat,W,125,118
+2021-03-20,ANA,Arizona Coyotes,L,1,5,LAC,Charlotte Hornets,W,125,98
+2021-03-22,ANA,Minnesota Wild,L,1,2,LAC,Atlanta Hawks,W,119,110
+2021-03-24,ANA,Minnesota Wild,L,2,3,LAC,San Antonio Spurs,W,134,101
+2021-03-29,ANA,Colorado Avalanche,L,2,5,LAC,Milwaukee Bucks,W,129,105
+2021-04-04,ANA,Arizona Coyotes,L,2,3,LAC,Los Angeles Lakers,W,104,86
+2021-04-06,ANA,San Jose Sharks,W,5,1,LAC,Portland Trail Blazers,W,133,116
+2021-04-09,ANA,Colorado Avalanche,L,0,2,LAC,Houston Rockets,W,126,109
+2021-04-11,ANA,Colorado Avalanche,L,1,4,LAC,Detroit Pistons,W,131,124
+2021-04-14,ANA,San Jose Sharks,W,4,1,LAC,Detroit Pistons,W,100,98
+2021-04-16,ANA,Vegas Golden Knights,L,0,4,LAC,Philadelphia 76ers,L,103,106
+2021-04-18,ANA,Vegas Golden Knights,L,2,5,LAC,Minnesota Timberwolves,W,124,105
+2021-04-20,ANA,Los Angeles Kings,L,1,4,LAC,Portland Trail Blazers,W,113,112
+2021-04-26,ANA,Los Angeles Kings,L,1,4,LAC,New Orleans Pelicans,L,103,120
+2021-04-28,ANA,Los Angeles Kings,W,3,2,LAC,Phoenix Suns,L,101,109
+2021-05-01,ANA,Los Angeles Kings,W,6,2,LAC,Denver Nuggets,L,104,110
+2021-10-21,ANA,Winnipeg Jets,L,1,5,LAC,Golden State Warriors,L,113,115
+2021-10-23,ANA,Minnesota Wild,L,3,4,LAC,Memphis Grizzlies,L,114,120
+2021-10-29,ANA,Vegas Golden Knights,L,4,5,LAC,Portland Trail Blazers,L,92,111
+2021-11-05,ANA,Arizona Coyotes,W,3,1,LAC,Minnesota Timberwolves,W,104,84
+2021-11-07,ANA,St. Louis Blues,W,4,1,LAC,Charlotte Hornets,W,120,106
+2021-11-09,ANA,Vancouver Canucks,W,3,2,LAC,Portland Trail Blazers,W,117,109
+2021-11-11,ANA,Seattle Kraken,W,7,4,LAC,Miami Heat,W,112,109
+2021-11-14,ANA,Vancouver Canucks,W,5,1,LAC,Chicago Bulls,L,90,100
+2021-11-16,ANA,Washington Capitals,W,3,2,LAC,San Antonio Spurs,W,106,92
+2021-11-18,ANA,Carolina Hurricanes,L,1,2,LAC,Memphis Grizzlies,L,108,120
+2021-11-26,ANA,Ottawa Senators,W,4,0,LAC,Detroit Pistons,W,107,96
+2021-11-28,ANA,Toronto Maple Leafs,L,1,5,LAC,Golden State Warriors,L,90,105
+2021-12-01,ANA,Vegas Golden Knights,W,6,5,LAC,Sacramento Kings,L,115,124
+2021-12-03,ANA,Calgary Flames,L,3,4,LAC,Los Angeles Lakers,W,119,115
+2021-12-06,ANA,Washington Capitals,L,3,4,LAC,Portland Trail Blazers,W,102,90
+2021-12-11,ANA,Pittsburgh Penguins,L,0,1,LAC,Orlando Magic,W,106,104
+2021-12-15,ANA,Seattle Kraken,W,4,1,LAC,Utah Jazz,L,103,124
+2021-12-29,ANA,Vancouver Canucks,L,1,2,LAC,Boston Celtics,W,91,82
+2021-12-31,ANA,Vegas Golden Knights,L,1,3,LAC,Toronto Raptors,L,108,116
+2022-01-08,ANA,New York Rangers,L,1,4,LAC,Memphis Grizzlies,L,108,123
+2022-01-09,ANA,Detroit Red Wings,W,4,3,LAC,Atlanta Hawks,W,106,93
+2022-01-11,ANA,Pittsburgh Penguins,L,1,4,LAC,Denver Nuggets,W,87,85
+2022-01-15,ANA,Chicago Blackhawks,L,0,3,LAC,San Antonio Spurs,L,94,101
+2022-01-19,ANA,Colorado Avalanche,L,0,2,LAC,Denver Nuggets,L,128,130
+2022-01-21,ANA,Tampa Bay Lightning,W,5,1,LAC,Philadelphia 76ers,W,102,101
+2022-01-26,ANA,Toronto Maple Leafs,L,3,4,LAC,Orlando Magic,W,111,102
+2022-01-31,ANA,Detroit Red Wings,L,1,2,LAC,Indiana Pacers,L,116,122
+2022-02-17,ANA,Edmonton Oilers,L,3,7,LAC,Houston Rockets,W,142,111
+2022-02-25,ANA,Los Angeles Kings,L,1,4,LAC,Los Angeles Lakers,W,105,102
+2022-02-27,ANA,New York Islanders,L,0,4,LAC,Houston Rockets,W,99,98
+2022-03-01,ANA,Boston Bruins,W,4,3,LAC,Houston Rockets,W,113,100
+2022-03-06,ANA,San Jose Sharks,W,3,2,LAC,New York Knicks,L,93,116
+2022-03-08,ANA,Chicago Blackhawks,L,3,8,LAC,Golden State Warriors,L,97,112
+2022-03-13,ANA,New York Islanders,L,3,4,LAC,Detroit Pistons,W,106,102
+2022-03-18,ANA,Florida Panthers,L,0,3,LAC,Utah Jazz,L,92,121
+2022-03-29,ANA,Dallas Stars,L,2,3,LAC,Utah Jazz,W,121,115
+2022-03-31,ANA,Dallas Stars,L,2,3,LAC,Chicago Bulls,L,130,135
+2022-04-01,ANA,Arizona Coyotes,W,5,0,LAC,Milwaukee Bucks,W,153,119
+2022-04-03,ANA,Edmonton Oilers,L,1,6,LAC,New Orleans Pelicans,W,119,100
+2022-04-06,ANA,Calgary Flames,L,2,4,LAC,Phoenix Suns,W,113,109
+2022-04-09,ANA,Philadelphia Flyers,W,5,3,LAC,Sacramento Kings,W,117,98
+2022-04-10,ANA,Carolina Hurricanes,L,2,5,LAC,Oklahoma City Thunder,W,138,88
+2022-04-12,ANA,Florida Panthers,L,2,3,LAC,Minnesota Timberwolves,L,104,109
+2022-10-20,ANA,Boston Bruins,L,1,2,LAC,Los Angeles Lakers,W,103,97
+2022-10-23,ANA,Detroit Red Wings,L,1,5,LAC,Phoenix Suns,L,95,112
+2022-10-30,ANA,Toronto Maple Leafs,W,4,3,LAC,New Orleans Pelicans,L,91,112
+2022-11-06,ANA,Florida Panthers,L,3,5,LAC,Utah Jazz,L,102,110
+2022-11-09,ANA,Minnesota Wild,L,1,4,LAC,Los Angeles Lakers,W,114,101
+2022-11-12,ANA,Chicago Blackhawks,L,2,3,LAC,Brooklyn Nets,L,95,110
+2022-11-15,ANA,Detroit Red Wings,W,3,2,LAC,Dallas Mavericks,L,101,103
+2022-11-17,ANA,Winnipeg Jets,L,2,3,LAC,Detroit Pistons,W,96,91
+2022-11-19,ANA,St. Louis Blues,L,2,6,LAC,San Antonio Spurs,W,119,97
+2022-11-21,ANA,St. Louis Blues,L,1,3,LAC,Utah Jazz,W,121,114
+2022-11-23,ANA,New York Rangers,W,3,2,LAC,Golden State Warriors,L,107,124
+2022-11-25,ANA,Ottawa Senators,L,1,5,LAC,Denver Nuggets,L,104,114
+2022-11-27,ANA,Seattle Kraken,L,4,5,LAC,Indiana Pacers,W,114,100
+2022-11-29,ANA,Nashville Predators,L,1,2,LAC,Portland Trail Blazers,W,118,112
+2022-12-03,ANA,Minnesota Wild,L,4,5,LAC,Sacramento Kings,L,96,123
+2022-12-12,ANA,Ottawa Senators,L,0,3,LAC,Boston Celtics,W,113,93
+2022-12-15,ANA,Montreal Canadiens,W,5,2,LAC,Phoenix Suns,L,95,111
+2022-12-17,ANA,Edmonton Oilers,W,4,3,LAC,Washington Wizards,W,102,93
+2022-12-21,ANA,Minnesota Wild,L,1,4,LAC,Charlotte Hornets,W,126,105
+2022-12-23,ANA,Calgary Flames,L,2,3,LAC,Philadelphia 76ers,L,114,119
+2023-01-02,ANA,Philadelphia Flyers,L,1,4,LAC,Miami Heat,L,100,110
+2023-01-06,ANA,San Jose Sharks,W,5,4,LAC,Minnesota Timberwolves,L,115,128
+2023-01-08,ANA,Boston Bruins,L,1,7,LAC,Atlanta Hawks,L,108,112
+2023-01-13,ANA,New Jersey Devils,L,2,6,LAC,Denver Nuggets,L,103,115
+2023-01-17,ANA,Philadelphia Flyers,L,2,5,LAC,Philadelphia 76ers,L,110,120
+2023-01-24,ANA,Arizona Coyotes,W,5,2,LAC,Los Angeles Lakers,W,133,115
+2023-01-26,ANA,Colorado Avalanche,W,5,3,LAC,San Antonio Spurs,W,138,100
+2023-01-28,ANA,Arizona Coyotes,W,2,1,LAC,Atlanta Hawks,W,120,113
+2023-02-06,ANA,Dallas Stars,L,2,3,LAC,Brooklyn Nets,W,124,116
+2023-02-10,ANA,Pittsburgh Penguins,L,3,6,LAC,Milwaukee Bucks,L,106,119
+2023-03-03,ANA,Montreal Canadiens,,,,LAC,Sacramento Kings,,,
+2023-03-08,ANA,Vancouver Canucks,,,,LAC,Toronto Raptors,,,
+2023-03-15,ANA,New York Islanders,,,,LAC,Golden State Warriors,,,
+2023-03-19,ANA,Vancouver Canucks,,,,LAC,Portland Trail Blazers,,,
+2023-03-21,ANA,Calgary Flames,,,,LAC,Oklahoma City Thunder,,,
+2023-03-23,ANA,Winnipeg Jets,,,,LAC,Oklahoma City Thunder,,,
+2023-03-25,ANA,St. Louis Blues,,,,LAC,New Orleans Pelicans,,,
+2023-03-27,ANA,Colorado Avalanche,,,,LAC,Chicago Bulls,,,
+2023-04-01,ANA,Edmonton Oilers,,,,LAC,New Orleans Pelicans,,,
+2023-04-05,ANA,Edmonton Oilers,,,,LAC,Los Angeles Lakers,,,
+2023-04-08,ANA,Arizona Coyotes,,,,LAC,Portland Trail Blazers,,,
+2023-04-09,ANA,Colorado Avalanche,,,,LAC,Phoenix Suns,,,

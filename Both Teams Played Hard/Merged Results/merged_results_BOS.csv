@@ -1,0 +1,329 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-28,BOS,Phoenix Coyotes,W,2,1,BOS,New Orleans Hornets,L,78,97
+2012-01-04,BOS,New Jersey Devils,W,6,1,BOS,New Jersey Nets,W,89,70
+2012-01-14,BOS,Carolina Hurricanes,L,2,4,BOS,Indiana Pacers,L,83,97
+2012-01-16,BOS,Florida Panthers,W,3,2,BOS,Oklahoma City Thunder,L,88,97
+2012-01-22,BOS,Philadelphia Flyers,W,6,5,BOS,Washington Wizards,W,100,94
+2012-01-31,BOS,Ottawa Senators,W,4,3,BOS,Cleveland Cavaliers,W,93,90
+2012-02-05,BOS,Washington Capitals,W,4,1,BOS,Memphis Grizzlies,W,98,80
+2012-02-15,BOS,Montreal Canadiens,W,4,3,BOS,Detroit Pistons,L,88,98
+2012-02-19,BOS,Minnesota Wild,L,0,2,BOS,Detroit Pistons,L,81,96
+2012-02-22,BOS,St. Louis Blues,W,4,2,BOS,Oklahoma City Thunder,L,104,119
+2012-02-28,BOS,Ottawa Senators,L,0,1,BOS,Cleveland Cavaliers,W,86,83
+2012-03-04,BOS,New York Rangers,L,3,4,BOS,New York Knicks,W,115,111
+2012-03-06,BOS,Toronto Maple Leafs,W,5,4,BOS,Houston Rockets,W,97,92
+2012-03-11,BOS,Pittsburgh Penguins,L,2,5,BOS,Los Angeles Lakers,L,94,97
+2012-03-17,BOS,Philadelphia Flyers,W,3,2,BOS,Denver Nuggets,L,91,98
+2012-03-19,BOS,Toronto Maple Leafs,W,8,0,BOS,Atlanta Hawks,W,79,76
+2012-03-22,BOS,San Jose Sharks,L,1,2,BOS,Milwaukee Bucks,W,100,91
+2012-03-25,BOS,Anaheim Ducks,W,3,2,BOS,Washington Wizards,W,88,76
+2012-04-01,BOS,New York Rangers,W,2,1,BOS,Miami Heat,W,91,72
+2012-04-05,BOS,Ottawa Senators,W,3,1,BOS,Chicago Bulls,L,86,93
+2012-04-07,BOS,Buffalo Sabres,W,4,3,BOS,Indiana Pacers,W,86,72
+2013-01-25,BOS,New York Islanders,W,4,2,BOS,Atlanta Hawks,L,111,123
+2013-02-06,BOS,Montreal Canadiens,W,2,1,BOS,Toronto Raptors,W,99,95
+2013-02-10,BOS,Buffalo Sabres,W,3,1,BOS,Denver Nuggets,W,118,114
+2013-02-24,BOS,Florida Panthers,W,4,1,BOS,Portland Trail Blazers,L,86,92
+2013-03-05,BOS,Washington Capitals,L,3,4,BOS,Philadelphia 76ers,W,109,101
+2013-03-12,BOS,Pittsburgh Penguins,L,2,3,BOS,Charlotte Bobcats,L,74,100
+2013-03-16,BOS,Washington Capitals,W,4,1,BOS,Charlotte Bobcats,W,105,88
+2013-03-23,BOS,Toronto Maple Leafs,L,2,3,BOS,Memphis Grizzlies,L,106,110
+2013-03-27,BOS,Montreal Canadiens,L,5,6,BOS,Cleveland Cavaliers,W,93,92
+2013-03-31,BOS,Buffalo Sabres,W,2,0,BOS,New York Knicks,L,89,108
+2013-04-10,BOS,New Jersey Devils,W,5,4,BOS,Brooklyn Nets,L,93,101
+2013-04-13,BOS,Carolina Hurricanes,L,2,4,BOS,Orlando Magic,W,120,88
+2013-04-17,BOS,Buffalo Sabres,L,2,3,BOS,Toronto Raptors,L,90,114
+2013-10-30,BOS,Pittsburgh Penguins,L,2,3,BOS,Toronto Raptors,L,87,93
+2013-11-09,BOS,Toronto Maple Leafs,W,3,1,BOS,Miami Heat,W,111,110
+2013-11-11,BOS,Tampa Bay Lightning,W,3,0,BOS,Orlando Magic,W,120,105
+2013-11-15,BOS,Ottawa Senators,L,2,4,BOS,Portland Trail Blazers,L,96,109
+2013-11-19,BOS,New York Rangers,W,2,1,BOS,Houston Rockets,L,85,109
+2013-11-23,BOS,Carolina Hurricanes,W,3,2,BOS,Atlanta Hawks,W,94,87
+2013-11-25,BOS,Pittsburgh Penguins,W,4,3,BOS,Charlotte Bobcats,W,96,86
+2013-11-27,BOS,Detroit Red Wings,L,1,6,BOS,Memphis Grizzlies,L,93,100
+2013-11-29,BOS,New York Rangers,W,3,2,BOS,Cleveland Cavaliers,W,103,86
+2013-11-30,BOS,Columbus Blue Jackets,W,3,1,BOS,Milwaukee Bucks,L,85,92
+2013-12-08,BOS,Toronto Maple Leafs,W,5,2,BOS,New York Knicks,W,114,73
+2013-12-10,BOS,Calgary Flames,W,2,1,BOS,Brooklyn Nets,L,96,104
+2013-12-21,BOS,Buffalo Sabres,W,4,1,BOS,Washington Wizards,L,99,106
+2013-12-28,BOS,Ottawa Senators,L,3,4,BOS,Cleveland Cavaliers,W,103,100
+2013-12-31,BOS,New York Islanders,L,3,5,BOS,Atlanta Hawks,L,91,92
+2014-01-02,BOS,Nashville Predators,W,3,2,BOS,Chicago Bulls,L,82,94
+2014-01-07,BOS,Anaheim Ducks,L,2,5,BOS,Denver Nuggets,L,98,129
+2014-01-11,BOS,San Jose Sharks,W,1,0,BOS,Portland Trail Blazers,L,104,112
+2014-01-19,BOS,Chicago Blackhawks,L,2,3,BOS,Orlando Magic,L,91,93
+2014-01-28,BOS,Florida Panthers,W,6,2,BOS,New York Knicks,L,88,114
+2014-02-26,BOS,Buffalo Sabres,L,4,5,BOS,Atlanta Hawks,W,115,104
+2014-03-01,BOS,Washington Capitals,L,2,4,BOS,Indiana Pacers,L,97,102
+2014-03-09,BOS,Florida Panthers,W,5,2,BOS,Detroit Pistons,W,118,111
+2014-03-12,BOS,Montreal Canadiens,W,4,1,BOS,New York Knicks,L,92,116
+2014-03-17,BOS,Minnesota Wild,W,4,1,BOS,Dallas Mavericks,L,89,94
+2014-03-21,BOS,Colorado Avalanche,W,2,0,BOS,Brooklyn Nets,L,98,114
+2014-03-30,BOS,Philadelphia Flyers,W,4,3,BOS,Chicago Bulls,L,102,107
+2014-04-02,BOS,Detroit Red Wings,L,2,3,BOS,Washington Wizards,L,92,118
+2014-04-05,BOS,Philadelphia Flyers,W,5,2,BOS,Detroit Pistons,L,111,115
+2014-04-12,BOS,Buffalo Sabres,W,4,1,BOS,Cleveland Cavaliers,W,111,99
+2014-11-01,BOS,Ottawa Senators,W,4,2,BOS,Houston Rockets,L,90,104
+2014-11-12,BOS,Toronto Maple Leafs,L,1,6,BOS,Oklahoma City Thunder,L,94,109
+2014-11-21,BOS,Columbus Blue Jackets,W,4,3,BOS,Memphis Grizzlies,L,100,117
+2014-11-28,BOS,Winnipeg Jets,W,2,1,BOS,Chicago Bulls,L,102,109
+2014-12-02,BOS,Los Angeles Kings,L,0,2,BOS,Atlanta Hawks,L,105,109
+2014-12-17,BOS,Minnesota Wild,W,3,2,BOS,Orlando Magic,W,109,92
+2014-12-19,BOS,Winnipeg Jets,L,1,2,BOS,Minnesota Timberwolves,W,114,98
+2014-12-21,BOS,Buffalo Sabres,W,4,3,BOS,Miami Heat,L,84,100
+2014-12-23,BOS,Nashville Predators,W,5,3,BOS,Orlando Magic,L,95,100
+2014-12-27,BOS,Columbus Blue Jackets,L,2,6,BOS,Washington Wizards,L,88,101
+2014-12-31,BOS,Toronto Maple Leafs,L,3,4,BOS,Sacramento Kings,W,106,84
+2015-01-03,BOS,Ottawa Senators,L,2,3,BOS,Chicago Bulls,L,104,109
+2015-01-07,BOS,Pittsburgh Penguins,W,3,2,BOS,Brooklyn Nets,W,89,81
+2015-01-10,BOS,Philadelphia Flyers,W,3,1,BOS,Toronto Raptors,L,96,109
+2015-02-04,BOS,New York Rangers,L,2,3,BOS,Denver Nuggets,W,104,100
+2015-02-07,BOS,New York Islanders,W,2,1,BOS,Milwaukee Bucks,L,93,96
+2015-02-20,BOS,St. Louis Blues,L,1,5,BOS,Sacramento Kings,L,101,109
+2015-02-22,BOS,Chicago Blackhawks,W,6,2,BOS,Los Angeles Lakers,L,111,118
+2015-02-27,BOS,New Jersey Devils,W,3,2,BOS,Charlotte Hornets,W,106,98
+2015-03-08,BOS,Detroit Red Wings,W,5,3,BOS,Orlando Magic,L,98,103
+2015-03-14,BOS,Pittsburgh Penguins,W,2,0,BOS,Indiana Pacers,W,93,89
+2015-03-22,BOS,Tampa Bay Lightning,L,3,5,BOS,Detroit Pistons,L,97,105
+2015-03-29,BOS,Carolina Hurricanes,W,2,1,BOS,Los Angeles Clippers,L,106,119
+2015-04-04,BOS,Toronto Maple Leafs,W,2,1,BOS,Toronto Raptors,W,117,116
+2015-04-08,BOS,Washington Capitals,L,0,3,BOS,Detroit Pistons,W,113,103
+2015-10-30,BOS,Florida Panthers,W,3,1,BOS,Toronto Raptors,L,103,113
+2015-11-25,BOS,Detroit Red Wings,W,3,2,BOS,Philadelphia 76ers,W,84,80
+2015-11-27,BOS,New York Rangers,W,4,3,BOS,Washington Wizards,W,111,78
+2015-12-05,BOS,Vancouver Canucks,W,4,0,BOS,San Antonio Spurs,L,105,108
+2015-12-07,BOS,Nashville Predators,L,2,3,BOS,New Orleans Pelicans,W,111,93
+2015-12-09,BOS,Montreal Canadiens,W,3,1,BOS,Chicago Bulls,W,105,100
+2015-12-12,BOS,Florida Panthers,W,3,1,BOS,Charlotte Hornets,W,98,93
+2015-12-16,BOS,Pittsburgh Penguins,W,3,0,BOS,Detroit Pistons,L,116,119
+2015-12-18,BOS,Pittsburgh Penguins,W,6,2,BOS,Atlanta Hawks,L,101,109
+2015-12-26,BOS,Buffalo Sabres,L,3,6,BOS,Detroit Pistons,W,99,93
+2015-12-27,BOS,Ottawa Senators,L,1,3,BOS,New York Knicks,W,100,91
+2016-01-13,BOS,Philadelphia Flyers,L,2,3,BOS,Indiana Pacers,W,103,94
+2016-01-15,BOS,Buffalo Sabres,W,4,1,BOS,Phoenix Suns,W,117,103
+2016-01-16,BOS,Toronto Maple Leafs,W,3,2,BOS,Washington Wizards,W,119,117
+2016-01-25,BOS,Philadelphia Flyers,W,3,2,BOS,Washington Wizards,W,116,91
+2016-02-02,BOS,Toronto Maple Leafs,L,3,4,BOS,New York Knicks,W,97,89
+2016-02-09,BOS,Los Angeles Kings,L,2,9,BOS,Milwaukee Bucks,L,111,112
+2016-02-22,BOS,Columbus Blue Jackets,L,4,6,BOS,Minnesota Timberwolves,L,122,124
+2016-03-05,BOS,Washington Capitals,L,1,2,BOS,Cleveland Cavaliers,L,103,120
+2016-03-15,BOS,San Jose Sharks,L,2,3,BOS,Indiana Pacers,L,98,103
+2016-03-18,BOS,Anaheim Ducks,L,0,4,BOS,Toronto Raptors,L,91,105
+2016-03-23,BOS,New York Rangers,L,2,5,BOS,Toronto Raptors,W,91,79
+2016-03-26,BOS,Toronto Maple Leafs,W,3,1,BOS,Phoenix Suns,W,102,99
+2016-04-01,BOS,St. Louis Blues,W,6,5,BOS,Golden State Warriors,W,109,106
+2016-04-03,BOS,Chicago Blackhawks,L,4,6,BOS,Los Angeles Lakers,W,107,100
+2016-04-09,BOS,Ottawa Senators,L,1,6,BOS,Atlanta Hawks,L,107,118
+2016-10-26,BOS,New York Rangers,L,2,5,BOS,Brooklyn Nets,W,122,117
+2016-10-29,BOS,Detroit Red Wings,W,1,0,BOS,Charlotte Hornets,W,104,98
+2016-11-03,BOS,Tampa Bay Lightning,W,4,3,BOS,Cleveland Cavaliers,L,122,128
+2016-11-12,BOS,Arizona Coyotes,W,2,1,BOS,Indiana Pacers,W,105,99
+2016-11-19,BOS,Winnipeg Jets,W,4,1,BOS,Detroit Pistons,W,94,92
+2016-11-25,BOS,Calgary Flames,L,1,2,BOS,San Antonio Spurs,L,103,109
+2016-12-03,BOS,Buffalo Sabres,W,2,1,BOS,Philadelphia 76ers,W,107,106
+2016-12-05,BOS,Florida Panthers,W,4,3,BOS,Houston Rockets,L,106,107
+2016-12-07,BOS,Washington Capitals,L,3,4,BOS,Orlando Magic,W,117,87
+2016-12-14,BOS,Pittsburgh Penguins,L,3,4,BOS,San Antonio Spurs,L,101,108
+2016-12-18,BOS,Los Angeles Kings,W,1,0,BOS,Miami Heat,W,105,95
+2016-12-20,BOS,New York Islanders,L,2,4,BOS,Memphis Grizzlies,W,112,109
+2016-12-22,BOS,Florida Panthers,W,3,1,BOS,Indiana Pacers,W,109,102
+2016-12-23,BOS,Carolina Hurricanes,L,2,3,BOS,Oklahoma City Thunder,L,112,117
+2016-12-27,BOS,Columbus Blue Jackets,L,3,4,BOS,Memphis Grizzlies,W,113,103
+2016-12-29,BOS,Buffalo Sabres,W,4,2,BOS,Cleveland Cavaliers,L,118,124
+2017-01-07,BOS,Florida Panthers,W,4,0,BOS,New Orleans Pelicans,W,117,108
+2017-01-10,BOS,St. Louis Blues,W,5,3,BOS,Toronto Raptors,L,106,114
+2017-01-16,BOS,New York Islanders,L,0,4,BOS,Charlotte Hornets,W,108,98
+2017-01-18,BOS,Detroit Red Wings,L,5,6,BOS,New York Knicks,L,106,117
+2017-01-24,BOS,Detroit Red Wings,W,4,3,BOS,Washington Wizards,L,108,123
+2017-02-01,BOS,Washington Capitals,L,3,5,BOS,Toronto Raptors,W,109,104
+2017-02-09,BOS,San Jose Sharks,W,6,3,BOS,Portland Trail Blazers,W,120,111
+2017-02-11,BOS,Vancouver Canucks,W,4,3,BOS,Utah Jazz,W,112,104
+2017-02-26,BOS,Dallas Stars,W,6,3,BOS,Detroit Pistons,W,104,98
+2017-03-06,BOS,Ottawa Senators,L,2,4,BOS,Los Angeles Clippers,L,102,116
+2017-03-08,BOS,Detroit Red Wings,W,6,1,BOS,Golden State Warriors,W,99,86
+2017-03-15,BOS,Calgary Flames,W,5,2,BOS,Minnesota Timberwolves,W,117,104
+2017-03-20,BOS,Toronto Maple Leafs,L,2,4,BOS,Washington Wizards,W,110,102
+2017-04-02,BOS,Chicago Blackhawks,W,3,2,BOS,New York Knicks,W,110,94
+2017-04-06,BOS,Ottawa Senators,L,1,2,BOS,Atlanta Hawks,L,116,123
+2017-04-08,BOS,Washington Capitals,L,1,3,BOS,Charlotte Hornets,W,121,114
+2017-10-26,BOS,San Jose Sharks,W,2,1,BOS,Milwaukee Bucks,W,96,89
+2017-10-28,BOS,Los Angeles Kings,L,1,2,BOS,Miami Heat,W,96,90
+2017-10-30,BOS,Columbus Blue Jackets,L,3,4,BOS,San Antonio Spurs,W,108,94
+2017-11-06,BOS,Minnesota Wild,W,5,3,BOS,Atlanta Hawks,W,110,107
+2017-11-08,BOS,New York Rangers,L,2,4,BOS,Los Angeles Lakers,W,107,96
+2017-11-10,BOS,Toronto Maple Leafs,L,2,3,BOS,Charlotte Hornets,W,90,87
+2017-11-16,BOS,Los Angeles Kings,W,2,1,BOS,Golden State Warriors,W,92,88
+2017-11-18,BOS,San Jose Sharks,W,3,1,BOS,Atlanta Hawks,W,110,99
+2017-11-22,BOS,New Jersey Devils,W,3,2,BOS,Miami Heat,L,98,104
+2017-11-24,BOS,Pittsburgh Penguins,W,4,3,BOS,Orlando Magic,W,118,103
+2017-12-02,BOS,Philadelphia Flyers,W,3,0,BOS,Phoenix Suns,W,116,111
+2017-12-04,BOS,Nashville Predators,L,3,5,BOS,Milwaukee Bucks,W,111,100
+2017-12-13,BOS,Detroit Red Wings,W,3,2,BOS,Denver Nuggets,W,124,118
+2017-12-16,BOS,New York Rangers,L,2,3,BOS,Memphis Grizzlies,W,102,93
+2017-12-18,BOS,Columbus Blue Jackets,W,7,2,BOS,Indiana Pacers,W,112,111
+2017-12-21,BOS,Winnipeg Jets,W,2,1,BOS,New York Knicks,L,93,102
+2017-12-23,BOS,Detroit Red Wings,W,3,1,BOS,Chicago Bulls,W,117,92
+2017-12-27,BOS,Ottawa Senators,W,5,1,BOS,Charlotte Hornets,W,102,91
+2017-12-28,BOS,Washington Capitals,L,3,4,BOS,Houston Rockets,W,99,98
+2018-01-06,BOS,Carolina Hurricanes,W,7,1,BOS,Brooklyn Nets,W,87,85
+2018-01-18,BOS,New York Islanders,W,5,2,BOS,Philadelphia 76ers,L,80,89
+2018-01-23,BOS,New Jersey Devils,W,3,2,BOS,Los Angeles Lakers,L,107,108
+2018-02-06,BOS,Detroit Red Wings,W,3,2,BOS,Toronto Raptors,L,91,111
+2018-02-11,BOS,New Jersey Devils,W,5,3,BOS,Cleveland Cavaliers,L,99,121
+2018-02-24,BOS,Toronto Maple Leafs,L,3,4,BOS,New York Knicks,W,121,112
+2018-03-03,BOS,Montreal Canadiens,W,2,1,BOS,Houston Rockets,L,120,123
+2018-03-08,BOS,Philadelphia Flyers,W,3,2,BOS,Minnesota Timberwolves,W,117,109
+2018-03-11,BOS,Chicago Blackhawks,L,1,3,BOS,Indiana Pacers,L,97,99
+2018-03-23,BOS,Dallas Stars,W,3,2,BOS,Portland Trail Blazers,W,105,100
+2018-03-25,BOS,Minnesota Wild,W,2,1,BOS,Sacramento Kings,W,104,93
+2018-03-31,BOS,Florida Panthers,W,5,1,BOS,Toronto Raptors,W,110,99
+2018-04-03,BOS,Tampa Bay Lightning,L,0,4,BOS,Milwaukee Bucks,L,102,106
+2018-04-08,BOS,Florida Panthers,L,2,4,BOS,Atlanta Hawks,L,106,112
+2018-10-20,BOS,Vancouver Canucks,L,1,2,BOS,New York Knicks,W,103,101
+2018-10-25,BOS,Philadelphia Flyers,W,3,0,BOS,Oklahoma City Thunder,W,101,95
+2018-10-27,BOS,Montreal Canadiens,L,0,3,BOS,Detroit Pistons,W,109,89
+2018-10-30,BOS,Carolina Hurricanes,W,3,2,BOS,Detroit Pistons,W,108,105
+2018-11-03,BOS,Nashville Predators,L,0,1,BOS,Indiana Pacers,L,101,102
+2018-11-05,BOS,Dallas Stars,W,2,1,BOS,Denver Nuggets,L,107,115
+2018-11-08,BOS,Vancouver Canucks,L,5,8,BOS,Phoenix Suns,W,116,109
+2018-11-11,BOS,Vegas Golden Knights,W,4,1,BOS,Portland Trail Blazers,L,94,100
+2018-11-14,BOS,Colorado Avalanche,L,3,6,BOS,Chicago Bulls,W,111,82
+2018-11-16,BOS,Dallas Stars,L,0,1,BOS,Toronto Raptors,W,123,116
+2018-11-17,BOS,Arizona Coyotes,W,2,1,BOS,Utah Jazz,L,86,98
+2018-11-21,BOS,Detroit Red Wings,L,2,3,BOS,New York Knicks,L,109,117
+2018-11-23,BOS,Pittsburgh Penguins,W,2,1,BOS,Atlanta Hawks,W,114,96
+2018-11-24,BOS,Montreal Canadiens,W,3,2,BOS,Dallas Mavericks,L,104,113
+2018-11-26,BOS,Toronto Maple Leafs,L,2,4,BOS,New Orleans Pelicans,W,124,107
+2018-12-01,BOS,Detroit Red Wings,L,2,4,BOS,Minnesota Timberwolves,W,118,109
+2018-12-06,BOS,Tampa Bay Lightning,L,2,3,BOS,New York Knicks,W,128,100
+2018-12-08,BOS,Toronto Maple Leafs,W,6,3,BOS,Chicago Bulls,W,133,77
+2018-12-14,BOS,Pittsburgh Penguins,L,3,5,BOS,Atlanta Hawks,W,129,108
+2018-12-23,BOS,Carolina Hurricanes,L,3,5,BOS,Charlotte Hornets,W,119,103
+2018-12-27,BOS,New Jersey Devils,L,2,5,BOS,Houston Rockets,L,113,127
+2018-12-29,BOS,Buffalo Sabres,W,3,2,BOS,Memphis Grizzlies,W,112,103
+2019-01-10,BOS,Washington Capitals,L,2,4,BOS,Miami Heat,L,99,115
+2019-01-12,BOS,Toronto Maple Leafs,W,3,2,BOS,Orlando Magic,L,103,105
+2019-01-14,BOS,Montreal Canadiens,L,2,3,BOS,Brooklyn Nets,L,102,109
+2019-01-16,BOS,Philadelphia Flyers,L,3,4,BOS,Toronto Raptors,W,117,108
+2019-01-19,BOS,New York Rangers,L,2,3,BOS,Atlanta Hawks,W,113,105
+2019-02-03,BOS,Washington Capitals,W,1,0,BOS,Oklahoma City Thunder,W,134,129
+2019-02-05,BOS,New York Islanders,W,3,1,BOS,Cleveland Cavaliers,W,103,96
+2019-02-09,BOS,Los Angeles Kings,W,5,4,BOS,Los Angeles Clippers,L,112,123
+2019-02-12,BOS,Chicago Blackhawks,W,6,3,BOS,Philadelphia 76ers,W,112,109
+2019-02-23,BOS,St. Louis Blues,L,1,2,BOS,Chicago Bulls,L,116,126
+2019-02-26,BOS,San Jose Sharks,W,4,1,BOS,Toronto Raptors,L,95,118
+2019-03-05,BOS,Carolina Hurricanes,W,4,3,BOS,Golden State Warriors,W,128,95
+2019-03-09,BOS,Ottawa Senators,W,3,2,BOS,Los Angeles Lakers,W,120,107
+2019-03-14,BOS,Winnipeg Jets,L,3,4,BOS,Sacramento Kings,W,126,120
+2019-03-16,BOS,Columbus Blue Jackets,W,2,1,BOS,Atlanta Hawks,W,129,120
+2019-03-23,BOS,Florida Panthers,W,7,3,BOS,Charlotte Hornets,L,117,124
+2019-03-30,BOS,Florida Panthers,L,1,4,BOS,Brooklyn Nets,L,96,110
+2019-10-26,BOS,St. Louis Blues,W,3,0,BOS,New York Knicks,W,118,95
+2019-11-05,BOS,Montreal Canadiens,L,4,5,BOS,Cleveland Cavaliers,W,119,113
+2019-11-15,BOS,Toronto Maple Leafs,W,4,2,BOS,Golden State Warriors,W,105,100
+2019-11-27,BOS,Ottawa Senators,W,2,1,BOS,Brooklyn Nets,W,121,110
+2019-11-29,BOS,New York Rangers,W,3,2,BOS,Brooklyn Nets,L,107,112
+2019-12-01,BOS,Montreal Canadiens,W,3,1,BOS,New York Knicks,W,113,104
+2019-12-09,BOS,Ottawa Senators,L,2,5,BOS,Cleveland Cavaliers,W,110,88
+2019-12-11,BOS,Washington Capitals,L,2,3,BOS,Indiana Pacers,L,117,122
+2019-12-12,BOS,Tampa Bay Lightning,L,2,3,BOS,Philadelphia 76ers,L,109,115
+2019-12-27,BOS,Buffalo Sabres,W,3,0,BOS,Cleveland Cavaliers,W,129,117
+2019-12-31,BOS,New Jersey Devils,L,2,3,BOS,Charlotte Hornets,W,109,92
+2020-01-04,BOS,Edmonton Oilers,L,1,4,BOS,Chicago Bulls,W,111,104
+2020-01-09,BOS,Winnipeg Jets,W,5,4,BOS,Philadelphia 76ers,L,98,109
+2020-01-11,BOS,New York Islanders,W,3,2,BOS,New Orleans Pelicans,W,140,105
+2020-01-13,BOS,Philadelphia Flyers,L,5,6,BOS,Chicago Bulls,W,113,101
+2020-01-16,BOS,Pittsburgh Penguins,W,4,1,BOS,Milwaukee Bucks,L,123,128
+2020-02-01,BOS,Minnesota Wild,W,6,1,BOS,Philadelphia 76ers,W,116,95
+2020-02-05,BOS,Chicago Blackhawks,W,2,1,BOS,Orlando Magic,W,116,100
+2020-02-09,BOS,Detroit Red Wings,L,1,3,BOS,Oklahoma City Thunder,W,112,111
+2020-02-21,BOS,Calgary Flames,W,4,3,BOS,Minnesota Timberwolves,W,127,117
+2020-02-25,BOS,Calgary Flames,L,2,5,BOS,Portland Trail Blazers,W,118,106
+2020-02-29,BOS,New York Islanders,W,4,0,BOS,Houston Rockets,L,110,111
+2020-03-03,BOS,Tampa Bay Lightning,W,2,1,BOS,Brooklyn Nets,L,120,129
+2020-03-10,BOS,Philadelphia Flyers,W,2,0,BOS,Indiana Pacers,W,114,111
+2021-01-30,BOS,Washington Capitals,L,3,4,BOS,Los Angeles Lakers,L,95,96
+2021-02-03,BOS,Philadelphia Flyers,W,4,3,BOS,Sacramento Kings,L,111,116
+2021-02-05,BOS,Philadelphia Flyers,W,2,1,BOS,Los Angeles Clippers,W,119,115
+2021-02-12,BOS,New York Rangers,W,1,0,BOS,Detroit Pistons,L,102,108
+2021-02-21,BOS,Philadelphia Flyers,W,7,3,BOS,New Orleans Pelicans,L,115,120
+2021-02-26,BOS,New York Rangers,L,2,6,BOS,Indiana Pacers,W,118,112
+2021-02-28,BOS,New York Rangers,W,4,1,BOS,Washington Wizards,W,111,110
+2021-03-11,BOS,New York Rangers,W,4,0,BOS,Brooklyn Nets,L,109,121
+2021-03-16,BOS,Pittsburgh Penguins,W,2,1,BOS,Utah Jazz,L,109,117
+2021-03-27,BOS,Buffalo Sabres,W,3,2,BOS,Oklahoma City Thunder,W,111,94
+2021-04-06,BOS,Philadelphia Flyers,W,4,2,BOS,Philadelphia 76ers,L,96,106
+2021-04-11,BOS,Washington Capitals,L,1,8,BOS,Denver Nuggets,W,105,87
+2021-04-13,BOS,Buffalo Sabres,W,3,2,BOS,Portland Trail Blazers,W,116,115
+2021-04-15,BOS,New York Islanders,W,4,1,BOS,Los Angeles Lakers,W,121,113
+2021-04-22,BOS,Buffalo Sabres,W,5,1,BOS,Phoenix Suns,W,99,86
+2021-04-23,BOS,Buffalo Sabres,L,4,6,BOS,Brooklyn Nets,L,104,109
+2021-04-25,BOS,Pittsburgh Penguins,L,0,1,BOS,Charlotte Hornets,L,104,125
+2021-04-27,BOS,Pittsburgh Penguins,W,3,1,BOS,Oklahoma City Thunder,L,115,119
+2021-05-11,BOS,Washington Capitals,L,1,2,BOS,Miami Heat,L,121,129
+2021-10-20,BOS,Philadelphia Flyers,L,3,6,BOS,New York Knicks,L,134,138
+2021-10-22,BOS,Buffalo Sabres,W,4,1,BOS,Toronto Raptors,L,83,115
+2021-10-24,BOS,San Jose Sharks,W,4,3,BOS,Houston Rockets,W,107,97
+2021-10-27,BOS,Florida Panthers,L,1,4,BOS,Washington Wizards,L,107,116
+2021-10-30,BOS,Florida Panthers,W,3,2,BOS,Washington Wizards,L,112,115
+2021-11-04,BOS,Detroit Red Wings,W,5,1,BOS,Miami Heat,W,95,78
+2021-11-06,BOS,Toronto Maple Leafs,L,2,5,BOS,Dallas Mavericks,L,104,107
+2021-11-13,BOS,New Jersey Devils,W,5,2,BOS,Cleveland Cavaliers,L,89,91
+2021-11-20,BOS,Philadelphia Flyers,W,5,2,BOS,Oklahoma City Thunder,W,111,105
+2021-11-24,BOS,Buffalo Sabres,W,5,1,BOS,Brooklyn Nets,L,104,123
+2021-11-26,BOS,New York Rangers,L,2,5,BOS,San Antonio Spurs,L,88,96
+2021-11-28,BOS,Vancouver Canucks,W,3,2,BOS,Toronto Raptors,W,109,97
+2021-12-04,BOS,Tampa Bay Lightning,L,2,3,BOS,Portland Trail Blazers,W,145,117
+2021-12-08,BOS,Vancouver Canucks,L,1,2,BOS,Los Angeles Clippers,L,111,114
+2022-01-02,BOS,Detroit Red Wings,W,5,1,BOS,Orlando Magic,W,116,111
+2022-01-06,BOS,Minnesota Wild,L,2,3,BOS,New York Knicks,L,105,108
+2022-01-08,BOS,Tampa Bay Lightning,W,5,2,BOS,New York Knicks,W,99,75
+2022-01-10,BOS,Washington Capitals,W,7,3,BOS,Indiana Pacers,W,101,98
+2022-01-12,BOS,Montreal Canadiens,W,5,1,BOS,Indiana Pacers,W,119,100
+2022-01-15,BOS,Nashville Predators,W,4,3,BOS,Chicago Bulls,W,114,112
+2022-01-28,BOS,Arizona Coyotes,W,2,1,BOS,Atlanta Hawks,L,92,108
+2022-02-08,BOS,Pittsburgh Penguins,L,2,4,BOS,Brooklyn Nets,W,126,91
+2022-02-15,BOS,New York Rangers,L,1,2,BOS,Philadelphia 76ers,W,135,87
+2022-02-24,BOS,Seattle Kraken,W,3,2,BOS,Brooklyn Nets,W,129,106
+2022-02-26,BOS,San Jose Sharks,W,3,1,BOS,Detroit Pistons,W,113,104
+2022-03-01,BOS,Anaheim Ducks,L,3,4,BOS,Atlanta Hawks,W,107,98
+2022-03-03,BOS,Vegas Golden Knights,W,5,2,BOS,Memphis Grizzlies,W,120,107
+2022-03-16,BOS,Minnesota Wild,L,2,4,BOS,Golden State Warriors,W,110,88
+2022-03-18,BOS,Winnipeg Jets,W,4,2,BOS,Sacramento Kings,W,126,97
+2022-03-21,BOS,Montreal Canadiens,W,3,2,BOS,Oklahoma City Thunder,W,132,123
+2022-04-10,BOS,Washington Capitals,L,2,4,BOS,Memphis Grizzlies,W,139,110
+2022-10-18,BOS,Ottawa Senators,L,5,7,BOS,Philadelphia 76ers,W,126,117
+2022-10-22,BOS,Minnesota Wild,W,4,3,BOS,Orlando Magic,W,126,120
+2022-10-28,BOS,Columbus Blue Jackets,W,4,0,BOS,Cleveland Cavaliers,L,123,132
+2022-11-05,BOS,Toronto Maple Leafs,L,1,2,BOS,New York Knicks,W,133,118
+2022-11-07,BOS,St. Louis Blues,W,3,1,BOS,Memphis Grizzlies,W,109,106
+2022-11-12,BOS,Buffalo Sabres,W,3,1,BOS,Detroit Pistons,W,117,108
+2022-11-21,BOS,Tampa Bay Lightning,W,5,3,BOS,Chicago Bulls,L,107,121
+2022-11-23,BOS,Florida Panthers,L,2,5,BOS,Dallas Mavericks,W,125,112
+2022-11-25,BOS,Carolina Hurricanes,W,3,2,BOS,Sacramento Kings,W,122,104
+2022-12-05,BOS,Vegas Golden Knights,L,3,4,BOS,Toronto Raptors,W,116,110
+2022-12-07,BOS,Colorado Avalanche,W,4,0,BOS,Phoenix Suns,W,125,98
+2022-12-13,BOS,New York Islanders,W,4,3,BOS,Los Angeles Lakers,W,122,118
+2022-12-23,BOS,New Jersey Devils,W,4,3,BOS,Minnesota Timberwolves,W,121,109
+2022-12-27,BOS,Ottawa Senators,L,2,3,BOS,Houston Rockets,W,126,102
+2023-01-05,BOS,Los Angeles Kings,W,5,2,BOS,Dallas Mavericks,W,124,95
+2023-01-07,BOS,San Jose Sharks,W,4,2,BOS,San Antonio Spurs,W,121,116
+2023-01-12,BOS,Seattle Kraken,L,0,3,BOS,Brooklyn Nets,W,109,98
+2023-01-14,BOS,Toronto Maple Leafs,W,4,3,BOS,Charlotte Hornets,W,122,106
+2023-01-16,BOS,Philadelphia Flyers,W,6,0,BOS,Charlotte Hornets,W,130,118
+2023-01-19,BOS,New York Rangers,W,3,1,BOS,Golden State Warriors,W,121,118
+2023-01-24,BOS,Montreal Canadiens,W,4,2,BOS,Miami Heat,L,95,98
+2023-01-26,BOS,Tampa Bay Lightning,L,2,3,BOS,New York Knicks,L,117,120
+2023-01-28,BOS,Florida Panthers,L,3,4,BOS,Los Angeles Lakers,W,125,121
+2023-02-01,BOS,Toronto Maple Leafs,W,5,2,BOS,Brooklyn Nets,W,139,96
+2023-02-14,BOS,Dallas Stars,W,3,2,BOS,Milwaukee Bucks,L,125,131
+2023-02-23,BOS,Seattle Kraken,,,,BOS,Indiana Pacers,,,
+2023-02-25,BOS,Vancouver Canucks,,,,BOS,Philadelphia 76ers,,,
+2023-02-27,BOS,Edmonton Oilers,,,,BOS,New York Knicks,,,
+2023-03-11,BOS,Detroit Red Wings,,,,BOS,Atlanta Hawks,,,
+2023-03-18,BOS,Minnesota Wild,,,,BOS,Utah Jazz,,,
+2023-03-21,BOS,Ottawa Senators,,,,BOS,Sacramento Kings,,,
+2023-03-26,BOS,Carolina Hurricanes,,,,BOS,San Antonio Spurs,,,
+2023-03-28,BOS,Nashville Predators,,,,BOS,Washington Wizards,,,
+2023-03-30,BOS,Columbus Blue Jackets,,,,BOS,Milwaukee Bucks,,,
+2023-04-09,BOS,Philadelphia Flyers,,,,BOS,Atlanta Hawks,,,

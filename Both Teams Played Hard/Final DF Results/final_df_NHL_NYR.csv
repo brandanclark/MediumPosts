@@ -1,0 +1,913 @@
+NHL Team,Date,Opponent,Result,Team Score,Opponent Score
+NYR,2011-10-07,Los Angeles Kings,L,2,3
+NYR,2011-10-08,Anaheim Ducks,L,1,2
+NYR,2011-10-15,New York Islanders,L,2,4
+NYR,2011-10-18,Vancouver Canucks,W,4,0
+NYR,2011-10-20,Calgary Flames,W,3,2
+NYR,2011-10-22,Edmonton Oilers,L,0,2
+NYR,2011-10-24,Winnipeg Jets,W,2,1
+NYR,2011-10-27,Toronto Maple Leafs,L,2,4
+NYR,2011-10-29,Ottawa Senators,L,4,5
+NYR,2011-10-31,San Jose Sharks,W,5,2
+NYR,2011-11-03,Anaheim Ducks,W,2,1
+NYR,2011-11-05,Montreal Canadiens,W,5,3
+NYR,2011-11-06,Winnipeg Jets,W,3,0
+NYR,2011-11-09,Ottawa Senators,W,3,2
+NYR,2011-11-11,Carolina Hurricanes,W,5,1
+NYR,2011-11-15,New York Islanders,W,4,2
+NYR,2011-11-19,Montreal Canadiens,L,0,4
+NYR,2011-11-23,Florida Panthers,L,1,2
+NYR,2011-11-25,Washington Capitals,W,6,3
+NYR,2011-11-26,Philadelphia Flyers,W,2,0
+NYR,2011-11-29,Pittsburgh Penguins,W,4,3
+NYR,2011-12-01,Carolina Hurricanes,W,5,3
+NYR,2011-12-03,Tampa Bay Lightning,W,4,2
+NYR,2011-12-05,Toronto Maple Leafs,L,2,4
+NYR,2011-12-08,Tampa Bay Lightning,L,2,3
+NYR,2011-12-10,Buffalo Sabres,W,4,1
+NYR,2011-12-11,Florida Panthers,W,6,1
+NYR,2011-12-13,Dallas Stars,L,0,1
+NYR,2011-12-15,St. Louis Blues,L,1,4
+NYR,2011-12-17,Phoenix Coyotes,W,3,2
+NYR,2011-12-20,New Jersey Devils,W,4,1
+NYR,2011-12-22,New York Islanders,W,4,2
+NYR,2011-12-23,Philadelphia Flyers,W,4,2
+NYR,2011-12-26,New York Islanders,W,3,0
+NYR,2011-12-28,Washington Capitals,L,1,4
+NYR,2011-12-30,Florida Panthers,W,4,1
+NYR,2012-01-02,Philadelphia Flyers,W,3,2
+NYR,2012-01-05,Florida Panthers,W,3,2
+NYR,2012-01-06,Pittsburgh Penguins,W,3,1
+NYR,2012-01-10,Phoenix Coyotes,W,2,1
+NYR,2012-01-12,Ottawa Senators,L,0,3
+NYR,2012-01-14,Toronto Maple Leafs,W,3,0
+NYR,2012-01-15,Montreal Canadiens,L,1,4
+NYR,2012-01-17,Nashville Predators,W,3,0
+NYR,2012-01-19,Pittsburgh Penguins,L,1,4
+NYR,2012-01-21,Boston Bruins,W,3,2
+NYR,2012-01-24,Winnipeg Jets,W,3,0
+NYR,2012-01-31,New Jersey Devils,L,3,4
+NYR,2012-02-01,Buffalo Sabres,W,1,0
+NYR,2012-02-05,Philadelphia Flyers,W,5,2
+NYR,2012-02-07,New Jersey Devils,L,0,1
+NYR,2012-02-09,Tampa Bay Lightning,W,4,3
+NYR,2012-02-11,Philadelphia Flyers,W,5,2
+NYR,2012-02-12,Washington Capitals,W,3,2
+NYR,2012-02-14,Boston Bruins,W,3,0
+NYR,2012-02-16,Chicago Blackhawks,L,2,4
+NYR,2012-02-19,Columbus Blue Jackets,W,3,2
+NYR,2012-02-21,Pittsburgh Penguins,L,0,2
+NYR,2012-02-24,New York Islanders,L,3,4
+NYR,2012-02-25,Buffalo Sabres,W,3,2
+NYR,2012-02-27,New Jersey Devils,W,2,0
+NYR,2012-03-01,Carolina Hurricanes,W,3,2
+NYR,2012-03-02,Tampa Bay Lightning,L,3,4
+NYR,2012-03-04,Boston Bruins,W,4,3
+NYR,2012-03-06,New Jersey Devils,L,1,4
+NYR,2012-03-08,Ottawa Senators,L,1,4
+NYR,2012-03-09,Chicago Blackhawks,L,3,4
+NYR,2012-03-11,New York Islanders,W,4,3
+NYR,2012-03-13,Carolina Hurricanes,W,4,2
+NYR,2012-03-15,Pittsburgh Penguins,L,2,5
+NYR,2012-03-17,Colorado Avalanche,L,1,3
+NYR,2012-03-19,New Jersey Devils,W,4,2
+NYR,2012-03-21,Detroit Red Wings,W,2,1
+NYR,2012-03-23,Buffalo Sabres,L,1,4
+NYR,2012-03-24,Toronto Maple Leafs,W,4,3
+NYR,2012-03-27,Minnesota Wild,W,3,2
+NYR,2012-03-28,Winnipeg Jets,W,4,2
+NYR,2012-03-30,Montreal Canadiens,W,4,1
+NYR,2012-04-01,Boston Bruins,L,1,2
+NYR,2012-04-03,Philadelphia Flyers,W,5,3
+NYR,2012-04-05,Pittsburgh Penguins,L,2,5
+NYR,2012-04-07,Washington Capitals,L,1,4
+NYR,2013-01-19,Boston Bruins,L,1,3
+NYR,2013-01-20,Pittsburgh Penguins,L,3,6
+NYR,2013-01-23,Boston Bruins,W,4,3
+NYR,2013-01-24,Philadelphia Flyers,L,1,2
+NYR,2013-01-26,Toronto Maple Leafs,W,5,2
+NYR,2013-01-29,Philadelphia Flyers,W,2,1
+NYR,2013-01-31,Pittsburgh Penguins,L,0,3
+NYR,2013-02-02,Tampa Bay Lightning,W,3,2
+NYR,2013-02-05,New Jersey Devils,L,1,3
+NYR,2013-02-07,New York Islanders,W,4,1
+NYR,2013-02-10,Tampa Bay Lightning,W,5,1
+NYR,2013-02-12,Boston Bruins,W,4,3
+NYR,2013-02-14,New York Islanders,L,3,4
+NYR,2013-02-17,Washington Capitals,W,2,1
+NYR,2013-02-19,Montreal Canadiens,L,1,3
+NYR,2013-02-21,Ottawa Senators,L,2,3
+NYR,2013-02-23,Montreal Canadiens,L,0,3
+NYR,2013-02-26,Winnipeg Jets,L,3,4
+NYR,2013-02-28,Tampa Bay Lightning,W,4,1
+NYR,2013-03-03,Buffalo Sabres,W,3,2
+NYR,2013-03-05,Philadelphia Flyers,W,4,2
+NYR,2013-03-07,New York Islanders,W,2,1
+NYR,2013-03-08,Ottawa Senators,L,2,3
+NYR,2013-03-10,Washington Capitals,W,4,1
+NYR,2013-03-12,Buffalo Sabres,L,1,3
+NYR,2013-03-14,Winnipeg Jets,L,1,3
+NYR,2013-03-16,Pittsburgh Penguins,L,0,3
+NYR,2013-03-18,Carolina Hurricanes,W,2,1
+NYR,2013-03-19,New Jersey Devils,W,3,2
+NYR,2013-03-21,Florida Panthers,L,1,3
+NYR,2013-03-24,Washington Capitals,L,2,3
+NYR,2013-03-26,Philadelphia Flyers,W,5,2
+NYR,2013-03-28,Ottawa Senators,L,0,3
+NYR,2013-03-30,Montreal Canadiens,L,0,3
+NYR,2013-04-01,Winnipeg Jets,W,4,2
+NYR,2013-04-03,Pittsburgh Penguins,W,6,1
+NYR,2013-04-05,Pittsburgh Penguins,L,1,2
+NYR,2013-04-06,Carolina Hurricanes,W,4,1
+NYR,2013-04-08,Toronto Maple Leafs,L,3,4
+NYR,2013-04-10,Toronto Maple Leafs,W,3,2
+NYR,2013-04-13,New York Islanders,W,1,0
+NYR,2013-04-16,Philadelphia Flyers,L,2,4
+NYR,2013-04-18,Florida Panthers,W,6,1
+NYR,2013-04-19,Buffalo Sabres,W,8,4
+NYR,2013-04-21,New Jersey Devils,W,4,1
+NYR,2013-04-23,Florida Panthers,L,2,3
+NYR,2013-04-25,Carolina Hurricanes,W,4,3
+NYR,2013-04-27,New Jersey Devils,W,4,0
+NYR,2013-10-03,Phoenix Coyotes,L,1,4
+NYR,2013-10-07,Los Angeles Kings,W,3,1
+NYR,2013-10-08,San Jose Sharks,L,2,9
+NYR,2013-10-10,Anaheim Ducks,L,0,6
+NYR,2013-10-12,St. Louis Blues,L,3,5
+NYR,2013-10-16,Washington Capitals,W,2,0
+NYR,2013-10-19,New Jersey Devils,L,0,4
+NYR,2013-10-24,Philadelphia Flyers,L,1,2
+NYR,2013-10-26,Detroit Red Wings,W,3,2
+NYR,2013-10-28,Montreal Canadiens,L,0,2
+NYR,2013-10-29,New York Islanders,W,3,2
+NYR,2013-10-31,Buffalo Sabres,W,2,0
+NYR,2013-11-02,Carolina Hurricanes,W,5,1
+NYR,2013-11-04,Anaheim Ducks,L,1,2
+NYR,2013-11-06,Pittsburgh Penguins,W,5,1
+NYR,2013-11-07,Columbus Blue Jackets,W,4,2
+NYR,2013-11-10,Florida Panthers,W,4,3
+NYR,2013-11-12,New Jersey Devils,L,2,3
+NYR,2013-11-16,Montreal Canadiens,W,1,0
+NYR,2013-11-17,Los Angeles Kings,L,0,1
+NYR,2013-11-19,Boston Bruins,L,1,2
+NYR,2013-11-21,Dallas Stars,W,3,2
+NYR,2013-11-23,Nashville Predators,W,2,0
+NYR,2013-11-25,Tampa Bay Lightning,L,0,5
+NYR,2013-11-27,Florida Panthers,W,5,2
+NYR,2013-11-29,Boston Bruins,L,2,3
+NYR,2013-11-30,Vancouver Canucks,W,5,2
+NYR,2013-12-02,Winnipeg Jets,L,2,5
+NYR,2013-12-05,Buffalo Sabres,W,3,1
+NYR,2013-12-07,New Jersey Devils,L,3,4
+NYR,2013-12-08,Washington Capitals,L,1,4
+NYR,2013-12-10,Nashville Predators,L,1,4
+NYR,2013-12-12,Columbus Blue Jackets,L,2,4
+NYR,2013-12-15,Calgary Flames,W,4,3
+NYR,2013-12-18,Pittsburgh Penguins,L,3,4
+NYR,2013-12-20,New York Islanders,L,3,5
+NYR,2013-12-22,Minnesota Wild,W,4,1
+NYR,2013-12-23,Toronto Maple Leafs,W,2,1
+NYR,2013-12-27,Washington Capitals,L,2,3
+NYR,2013-12-29,Tampa Bay Lightning,W,4,3
+NYR,2013-12-31,Florida Panthers,W,2,1
+NYR,2014-01-03,Pittsburgh Penguins,L,2,5
+NYR,2014-01-04,Toronto Maple Leafs,W,7,1
+NYR,2014-01-06,Columbus Blue Jackets,L,3,4
+NYR,2014-01-08,Chicago Blackhawks,W,3,2
+NYR,2014-01-10,Dallas Stars,W,3,2
+NYR,2014-01-12,Philadelphia Flyers,W,4,1
+NYR,2014-01-14,Tampa Bay Lightning,L,1,2
+NYR,2014-01-16,Detroit Red Wings,W,1,0
+NYR,2014-01-18,Ottawa Senators,W,4,1
+NYR,2014-01-19,Washington Capitals,W,4,1
+NYR,2014-01-21,New York Islanders,L,3,5
+NYR,2014-01-23,St. Louis Blues,L,1,2
+NYR,2014-01-26,New Jersey Devils,W,7,3
+NYR,2014-01-29,New York Islanders,W,2,1
+NYR,2014-01-31,New York Islanders,W,4,1
+NYR,2014-02-04,Colorado Avalanche,W,5,1
+NYR,2014-02-06,Edmonton Oilers,L,1,2
+NYR,2014-02-07,Pittsburgh Penguins,W,4,3
+NYR,2014-02-27,Chicago Blackhawks,W,2,1
+NYR,2014-03-01,Philadelphia Flyers,L,2,4
+NYR,2014-03-02,Boston Bruins,L,3,6
+NYR,2014-03-05,Toronto Maple Leafs,L,2,3
+NYR,2014-03-07,Carolina Hurricanes,W,4,2
+NYR,2014-03-09,Detroit Red Wings,W,3,0
+NYR,2014-03-11,Carolina Hurricanes,L,1,3
+NYR,2014-03-13,Minnesota Wild,L,1,2
+NYR,2014-03-14,Winnipeg Jets,W,4,2
+NYR,2014-03-16,San Jose Sharks,L,0,1
+NYR,2014-03-18,Ottawa Senators,W,8,4
+NYR,2014-03-21,Columbus Blue Jackets,W,3,1
+NYR,2014-03-22,New Jersey Devils,W,2,0
+NYR,2014-03-24,Phoenix Coyotes,W,4,3
+NYR,2014-03-26,Philadelphia Flyers,W,3,1
+NYR,2014-03-28,Calgary Flames,L,3,4
+NYR,2014-03-30,Edmonton Oilers,W,5,0
+NYR,2014-04-01,Vancouver Canucks,W,3,1
+NYR,2014-04-03,Colorado Avalanche,L,2,3
+NYR,2014-04-05,Ottawa Senators,L,2,3
+NYR,2014-04-08,Carolina Hurricanes,W,4,1
+NYR,2014-04-10,Buffalo Sabres,W,2,1
+NYR,2014-04-12,Montreal Canadiens,L,0,1
+NYR,2014-10-09,St. Louis Blues,W,3,2
+NYR,2014-10-11,Columbus Blue Jackets,L,2,5
+NYR,2014-10-12,Toronto Maple Leafs,L,3,6
+NYR,2014-10-14,New York Islanders,L,3,6
+NYR,2014-10-16,Carolina Hurricanes,W,2,1
+NYR,2014-10-19,San Jose Sharks,W,4,0
+NYR,2014-10-21,New Jersey Devils,W,4,3
+NYR,2014-10-25,Montreal Canadiens,L,1,3
+NYR,2014-10-27,Minnesota Wild,W,5,4
+NYR,2014-11-01,Winnipeg Jets,L,0,1
+NYR,2014-11-03,St. Louis Blues,L,3,4
+NYR,2014-11-05,Detroit Red Wings,W,4,3
+NYR,2014-11-08,Toronto Maple Leafs,L,4,5
+NYR,2014-11-09,Edmonton Oilers,L,1,3
+NYR,2014-11-11,Pittsburgh Penguins,W,5,0
+NYR,2014-11-13,Colorado Avalanche,L,3,4
+NYR,2014-11-15,Pittsburgh Penguins,L,2,3
+NYR,2014-11-17,Tampa Bay Lightning,L,1,5
+NYR,2014-11-19,Philadelphia Flyers,W,2,0
+NYR,2014-11-23,Montreal Canadiens,W,5,0
+NYR,2014-11-26,Tampa Bay Lightning,L,3,4
+NYR,2014-11-28,Philadelphia Flyers,W,3,0
+NYR,2014-11-29,Philadelphia Flyers,W,5,2
+NYR,2014-12-01,Tampa Bay Lightning,L,3,6
+NYR,2014-12-06,Detroit Red Wings,L,2,3
+NYR,2014-12-08,Pittsburgh Penguins,W,4,3
+NYR,2014-12-13,Vancouver Canucks,W,5,1
+NYR,2014-12-14,Edmonton Oilers,W,2,0
+NYR,2014-12-16,Calgary Flames,W,5,2
+NYR,2014-12-20,Carolina Hurricanes,W,3,2
+NYR,2014-12-21,Carolina Hurricanes,W,1,0
+NYR,2014-12-23,Washington Capitals,W,4,2
+NYR,2014-12-27,New Jersey Devils,W,3,1
+NYR,2014-12-29,Dallas Stars,L,2,3
+NYR,2014-12-31,Florida Panthers,W,5,2
+NYR,2015-01-03,Buffalo Sabres,W,6,1
+NYR,2015-01-07,Anaheim Ducks,W,4,1
+NYR,2015-01-08,Los Angeles Kings,W,4,3
+NYR,2015-01-10,San Jose Sharks,W,3,1
+NYR,2015-01-13,New York Islanders,L,0,3
+NYR,2015-01-15,Boston Bruins,L,0,3
+NYR,2015-01-16,Columbus Blue Jackets,W,2,1
+NYR,2015-01-18,Pittsburgh Penguins,W,5,2
+NYR,2015-01-20,Ottawa Senators,W,3,2
+NYR,2015-01-27,New York Islanders,L,1,4
+NYR,2015-01-29,Montreal Canadiens,L,0,1
+NYR,2015-01-31,Carolina Hurricanes,W,4,1
+NYR,2015-02-02,Florida Panthers,W,6,3
+NYR,2015-02-04,Boston Bruins,W,3,2
+NYR,2015-02-07,Nashville Predators,L,2,3
+NYR,2015-02-08,Dallas Stars,L,2,3
+NYR,2015-02-10,Toronto Maple Leafs,W,5,4
+NYR,2015-02-12,Colorado Avalanche,W,6,3
+NYR,2015-02-14,Arizona Coyotes,W,5,1
+NYR,2015-02-16,New York Islanders,W,6,5
+NYR,2015-02-19,Vancouver Canucks,L,4,5
+NYR,2015-02-20,Buffalo Sabres,W,3,1
+NYR,2015-02-22,Columbus Blue Jackets,W,4,3
+NYR,2015-02-24,Calgary Flames,W,1,0
+NYR,2015-02-26,Arizona Coyotes,W,4,3
+NYR,2015-02-28,Philadelphia Flyers,L,2,4
+NYR,2015-03-02,Nashville Predators,W,4,1
+NYR,2015-03-04,Detroit Red Wings,L,1,2
+NYR,2015-03-08,Chicago Blackhawks,W,1,0
+NYR,2015-03-10,New York Islanders,W,2,1
+NYR,2015-03-11,Washington Capitals,W,3,1
+NYR,2015-03-14,Buffalo Sabres,W,2,0
+NYR,2015-03-15,Florida Panthers,W,2,1
+NYR,2015-03-18,Chicago Blackhawks,L,0,1
+NYR,2015-03-21,Carolina Hurricanes,W,3,2
+NYR,2015-03-22,Anaheim Ducks,W,7,2
+NYR,2015-03-24,Los Angeles Kings,L,2,4
+NYR,2015-03-26,Ottawa Senators,W,5,1
+NYR,2015-03-28,Boston Bruins,L,2,4
+NYR,2015-03-29,Washington Capitals,L,2,5
+NYR,2015-03-31,Winnipeg Jets,W,3,2
+NYR,2015-04-02,Minnesota Wild,W,3,2
+NYR,2015-04-04,New Jersey Devils,W,6,1
+NYR,2015-04-06,Columbus Blue Jackets,W,4,3
+NYR,2015-04-07,New Jersey Devils,W,4,2
+NYR,2015-04-09,Ottawa Senators,L,0,3
+NYR,2015-04-11,Washington Capitals,W,4,2
+NYR,2015-10-07,Chicago Blackhawks,W,3,2
+NYR,2015-10-09,Columbus Blue Jackets,W,4,2
+NYR,2015-10-10,Columbus Blue Jackets,W,5,2
+NYR,2015-10-13,Winnipeg Jets,L,1,4
+NYR,2015-10-15,Montreal Canadiens,L,0,3
+NYR,2015-10-18,New Jersey Devils,L,1,2
+NYR,2015-10-19,San Jose Sharks,W,4,0
+NYR,2015-10-22,Arizona Coyotes,W,4,1
+NYR,2015-10-24,Philadelphia Flyers,L,2,3
+NYR,2015-10-25,Calgary Flames,W,4,1
+NYR,2015-10-30,Toronto Maple Leafs,W,3,1
+NYR,2015-11-03,Washington Capitals,W,5,2
+NYR,2015-11-06,Colorado Avalanche,W,2,1
+NYR,2015-11-07,Arizona Coyotes,W,4,1
+NYR,2015-11-10,Carolina Hurricanes,W,3,0
+NYR,2015-11-12,St. Louis Blues,W,6,3
+NYR,2015-11-14,Ottawa Senators,W,2,1
+NYR,2015-11-15,Toronto Maple Leafs,W,4,3
+NYR,2015-11-19,Tampa Bay Lightning,L,1,2
+NYR,2015-11-21,Florida Panthers,W,5,4
+NYR,2015-11-23,Nashville Predators,W,3,0
+NYR,2015-11-25,Montreal Canadiens,L,1,5
+NYR,2015-11-27,Boston Bruins,L,3,4
+NYR,2015-11-28,Philadelphia Flyers,L,0,3
+NYR,2015-11-30,Carolina Hurricanes,W,4,3
+NYR,2015-12-02,New York Islanders,L,1,2
+NYR,2015-12-03,Colorado Avalanche,L,1,2
+NYR,2015-12-06,Ottawa Senators,W,4,1
+NYR,2015-12-09,Vancouver Canucks,L,1,2
+NYR,2015-12-11,Edmonton Oilers,L,5,7
+NYR,2015-12-12,Calgary Flames,L,4,5
+NYR,2015-12-15,Edmonton Oilers,W,4,2
+NYR,2015-12-17,Minnesota Wild,L,2,5
+NYR,2015-12-18,Winnipeg Jets,L,2,5
+NYR,2015-12-20,Washington Capitals,L,3,7
+NYR,2015-12-22,Anaheim Ducks,W,3,2
+NYR,2015-12-28,Nashville Predators,L,3,5
+NYR,2015-12-30,Tampa Bay Lightning,W,5,2
+NYR,2016-01-02,Florida Panthers,L,0,3
+NYR,2016-01-05,Dallas Stars,W,6,2
+NYR,2016-01-09,Washington Capitals,L,3,4
+NYR,2016-01-11,Boston Bruins,W,2,1
+NYR,2016-01-14,New York Islanders,L,1,3
+NYR,2016-01-16,Philadelphia Flyers,W,3,2
+NYR,2016-01-17,Washington Capitals,L,2,5
+NYR,2016-01-19,Vancouver Canucks,W,3,2
+NYR,2016-01-22,Carolina Hurricanes,W,4,1
+NYR,2016-01-24,Ottawa Senators,L,0,3
+NYR,2016-01-25,Buffalo Sabres,W,6,3
+NYR,2016-02-02,New Jersey Devils,L,2,3
+NYR,2016-02-04,Minnesota Wild,W,4,2
+NYR,2016-02-06,Philadelphia Flyers,W,3,2
+NYR,2016-02-08,New Jersey Devils,W,2,1
+NYR,2016-02-10,Pittsburgh Penguins,W,3,0
+NYR,2016-02-12,Los Angeles Kings,L,4,5
+NYR,2016-02-14,Philadelphia Flyers,W,3,1
+NYR,2016-02-17,Chicago Blackhawks,L,3,5
+NYR,2016-02-18,Toronto Maple Leafs,W,4,2
+NYR,2016-02-21,Detroit Red Wings,W,1,0
+NYR,2016-02-23,New Jersey Devils,L,2,5
+NYR,2016-02-25,St. Louis Blues,W,2,1
+NYR,2016-02-27,Dallas Stars,W,3,2
+NYR,2016-02-29,Columbus Blue Jackets,W,2,1
+NYR,2016-03-03,Pittsburgh Penguins,L,1,4
+NYR,2016-03-04,Washington Capitals,W,3,2
+NYR,2016-03-06,New York Islanders,L,4,6
+NYR,2016-03-08,Buffalo Sabres,W,4,2
+NYR,2016-03-12,Detroit Red Wings,L,2,3
+NYR,2016-03-13,Pittsburgh Penguins,L,3,5
+NYR,2016-03-16,Anaheim Ducks,W,2,1
+NYR,2016-03-17,Los Angeles Kings,L,3,4
+NYR,2016-03-19,San Jose Sharks,L,1,4
+NYR,2016-03-21,Florida Panthers,W,4,2
+NYR,2016-03-23,Boston Bruins,W,5,2
+NYR,2016-03-26,Montreal Canadiens,W,5,2
+NYR,2016-03-27,Pittsburgh Penguins,L,2,3
+NYR,2016-03-31,Carolina Hurricanes,L,3,4
+NYR,2016-04-02,Buffalo Sabres,L,3,4
+NYR,2016-04-04,Columbus Blue Jackets,W,4,2
+NYR,2016-04-05,Tampa Bay Lightning,W,3,2
+NYR,2016-04-07,New York Islanders,L,1,4
+NYR,2016-04-09,Detroit Red Wings,W,3,2
+NYR,2016-10-13,New York Islanders,W,5,3
+NYR,2016-10-15,St. Louis Blues,L,2,3
+NYR,2016-10-17,San Jose Sharks,W,7,4
+NYR,2016-10-19,Detroit Red Wings,L,1,2
+NYR,2016-10-22,Washington Capitals,W,4,2
+NYR,2016-10-23,Arizona Coyotes,W,3,2
+NYR,2016-10-26,Boston Bruins,W,5,2
+NYR,2016-10-28,Carolina Hurricanes,L,2,3
+NYR,2016-10-30,Tampa Bay Lightning,W,6,1
+NYR,2016-11-01,St. Louis Blues,W,5,0
+NYR,2016-11-03,Edmonton Oilers,W,5,3
+NYR,2016-11-05,Boston Bruins,W,5,2
+NYR,2016-11-06,Winnipeg Jets,W,5,2
+NYR,2016-11-08,Vancouver Canucks,L,3,5
+NYR,2016-11-12,Calgary Flames,W,4,1
+NYR,2016-11-13,Edmonton Oilers,W,3,1
+NYR,2016-11-15,Vancouver Canucks,W,7,2
+NYR,2016-11-18,Columbus Blue Jackets,L,2,4
+NYR,2016-11-20,Florida Panthers,L,2,3
+NYR,2016-11-21,Pittsburgh Penguins,W,5,2
+NYR,2016-11-23,Pittsburgh Penguins,L,1,6
+NYR,2016-11-25,Philadelphia Flyers,W,3,2
+NYR,2016-11-27,Ottawa Senators,L,0,2
+NYR,2016-11-29,Carolina Hurricanes,W,3,2
+NYR,2016-12-01,Buffalo Sabres,L,3,4
+NYR,2016-12-03,Carolina Hurricanes,W,4,2
+NYR,2016-12-06,New York Islanders,L,2,4
+NYR,2016-12-08,Winnipeg Jets,W,2,1
+NYR,2016-12-09,Chicago Blackhawks,W,1,0
+NYR,2016-12-11,New Jersey Devils,W,5,0
+NYR,2016-12-13,Chicago Blackhawks,L,1,2
+NYR,2016-12-15,Dallas Stars,W,2,0
+NYR,2016-12-17,Nashville Predators,W,2,1
+NYR,2016-12-18,New Jersey Devils,W,3,2
+NYR,2016-12-20,Pittsburgh Penguins,L,2,7
+NYR,2016-12-23,Minnesota Wild,L,4,7
+NYR,2016-12-27,Ottawa Senators,W,4,3
+NYR,2016-12-29,Arizona Coyotes,W,6,3
+NYR,2016-12-31,Colorado Avalanche,W,6,2
+NYR,2017-01-03,Buffalo Sabres,L,1,4
+NYR,2017-01-04,Philadelphia Flyers,W,5,2
+NYR,2017-01-07,Columbus Blue Jackets,W,5,4
+NYR,2017-01-13,Toronto Maple Leafs,L,2,4
+NYR,2017-01-14,Montreal Canadiens,L,4,5
+NYR,2017-01-17,Dallas Stars,L,6,7
+NYR,2017-01-19,Toronto Maple Leafs,W,5,2
+NYR,2017-01-22,Detroit Red Wings,W,1,0
+NYR,2017-01-23,Los Angeles Kings,W,3,2
+NYR,2017-01-25,Philadelphia Flyers,L,0,2
+NYR,2017-01-31,Columbus Blue Jackets,L,4,6
+NYR,2017-02-02,Buffalo Sabres,W,2,1
+NYR,2017-02-05,Calgary Flames,W,4,3
+NYR,2017-02-07,Anaheim Ducks,W,4,1
+NYR,2017-02-09,Nashville Predators,W,4,3
+NYR,2017-02-11,Colorado Avalanche,W,4,2
+NYR,2017-02-13,Columbus Blue Jackets,W,3,2
+NYR,2017-02-16,New York Islanders,L,2,4
+NYR,2017-02-19,Washington Capitals,W,2,1
+NYR,2017-02-21,Montreal Canadiens,L,2,3
+NYR,2017-02-23,Toronto Maple Leafs,W,2,1
+NYR,2017-02-25,New Jersey Devils,W,4,3
+NYR,2017-02-26,Columbus Blue Jackets,L,2,5
+NYR,2017-02-28,Washington Capitals,L,1,4
+NYR,2017-03-02,Boston Bruins,W,2,1
+NYR,2017-03-04,Montreal Canadiens,L,1,4
+NYR,2017-03-06,Tampa Bay Lightning,W,1,0
+NYR,2017-03-07,Florida Panthers,W,5,2
+NYR,2017-03-09,Carolina Hurricanes,L,3,4
+NYR,2017-03-12,Detroit Red Wings,W,4,1
+NYR,2017-03-13,Tampa Bay Lightning,L,2,3
+NYR,2017-03-17,Florida Panthers,L,3,4
+NYR,2017-03-18,Minnesota Wild,W,3,2
+NYR,2017-03-21,New Jersey Devils,L,2,3
+NYR,2017-03-22,New York Islanders,L,2,3
+NYR,2017-03-25,Los Angeles Kings,W,3,0
+NYR,2017-03-26,Anaheim Ducks,L,3,6
+NYR,2017-03-28,San Jose Sharks,L,4,5
+NYR,2017-03-31,Pittsburgh Penguins,L,3,4
+NYR,2017-04-02,Philadelphia Flyers,W,4,3
+NYR,2017-04-05,Washington Capitals,L,0,2
+NYR,2017-04-08,Ottawa Senators,L,1,3
+NYR,2017-04-09,Pittsburgh Penguins,W,3,2
+NYR,2017-10-05,Colorado Avalanche,L,2,4
+NYR,2017-10-07,Toronto Maple Leafs,L,5,8
+NYR,2017-10-08,Montreal Canadiens,W,2,0
+NYR,2017-10-10,St. Louis Blues,L,1,3
+NYR,2017-10-13,Columbus Blue Jackets,L,1,3
+NYR,2017-10-14,New Jersey Devils,L,2,3
+NYR,2017-10-17,Pittsburgh Penguins,L,4,5
+NYR,2017-10-19,New York Islanders,L,3,4
+NYR,2017-10-21,Nashville Predators,W,4,2
+NYR,2017-10-23,San Jose Sharks,L,1,4
+NYR,2017-10-26,Arizona Coyotes,W,5,2
+NYR,2017-10-28,Montreal Canadiens,L,4,5
+NYR,2017-10-31,Vegas Golden Knights,W,6,4
+NYR,2017-11-02,Tampa Bay Lightning,W,2,1
+NYR,2017-11-04,Florida Panthers,W,5,4
+NYR,2017-11-06,Columbus Blue Jackets,W,5,3
+NYR,2017-11-08,Boston Bruins,W,4,2
+NYR,2017-11-11,Edmonton Oilers,W,4,2
+NYR,2017-11-15,Chicago Blackhawks,L,3,6
+NYR,2017-11-17,Columbus Blue Jackets,L,0,2
+NYR,2017-11-19,Ottawa Senators,W,3,0
+NYR,2017-11-22,Carolina Hurricanes,W,6,1
+NYR,2017-11-24,Detroit Red Wings,W,2,1
+NYR,2017-11-26,Vancouver Canucks,W,4,3
+NYR,2017-11-28,Florida Panthers,L,4,5
+NYR,2017-12-01,Carolina Hurricanes,W,5,1
+NYR,2017-12-05,Pittsburgh Penguins,W,4,3
+NYR,2017-12-08,Washington Capitals,L,2,4
+NYR,2017-12-09,New Jersey Devils,W,5,2
+NYR,2017-12-11,Dallas Stars,L,1,2
+NYR,2017-12-13,Ottawa Senators,L,2,3
+NYR,2017-12-15,Los Angeles Kings,W,4,2
+NYR,2017-12-16,Boston Bruins,W,3,2
+NYR,2017-12-19,Anaheim Ducks,W,4,1
+NYR,2017-12-21,New Jersey Devils,L,3,4
+NYR,2017-12-23,Toronto Maple Leafs,L,2,3
+NYR,2017-12-27,Washington Capitals,W,1,0
+NYR,2017-12-29,Detroit Red Wings,L,2,3
+NYR,2018-01-01,Buffalo Sabres,W,3,2
+NYR,2018-01-03,Chicago Blackhawks,L,2,5
+NYR,2018-01-06,Arizona Coyotes,W,2,1
+NYR,2018-01-07,Vegas Golden Knights,L,1,2
+NYR,2018-01-13,New York Islanders,L,2,7
+NYR,2018-01-14,Pittsburgh Penguins,L,2,5
+NYR,2018-01-16,Philadelphia Flyers,W,5,1
+NYR,2018-01-18,Buffalo Sabres,W,4,3
+NYR,2018-01-20,Colorado Avalanche,L,1,3
+NYR,2018-01-21,Los Angeles Kings,L,2,4
+NYR,2018-01-23,Anaheim Ducks,L,3,6
+NYR,2018-01-25,San Jose Sharks,W,6,5
+NYR,2018-02-01,Toronto Maple Leafs,L,0,4
+NYR,2018-02-03,Nashville Predators,L,2,5
+NYR,2018-02-05,Dallas Stars,L,1,2
+NYR,2018-02-07,Boston Bruins,L,1,6
+NYR,2018-02-09,Calgary Flames,W,4,3
+NYR,2018-02-11,Winnipeg Jets,W,3,1
+NYR,2018-02-13,Minnesota Wild,L,2,3
+NYR,2018-02-15,New York Islanders,L,0,3
+NYR,2018-02-17,Ottawa Senators,L,3,6
+NYR,2018-02-18,Philadelphia Flyers,L,4,7
+NYR,2018-02-22,Montreal Canadiens,L,1,3
+NYR,2018-02-23,Minnesota Wild,L,1,4
+NYR,2018-02-25,Detroit Red Wings,L,2,3
+NYR,2018-02-28,Vancouver Canucks,W,6,5
+NYR,2018-03-02,Calgary Flames,W,3,1
+NYR,2018-03-03,Edmonton Oilers,W,3,2
+NYR,2018-03-06,Winnipeg Jets,L,0,3
+NYR,2018-03-08,Tampa Bay Lightning,L,3,5
+NYR,2018-03-10,Florida Panthers,L,3,4
+NYR,2018-03-12,Carolina Hurricanes,W,6,3
+NYR,2018-03-14,Pittsburgh Penguins,W,4,3
+NYR,2018-03-17,St. Louis Blues,L,3,4
+NYR,2018-03-20,Columbus Blue Jackets,L,3,5
+NYR,2018-03-22,Philadelphia Flyers,L,3,4
+NYR,2018-03-24,Buffalo Sabres,W,5,1
+NYR,2018-03-26,Washington Capitals,L,2,4
+NYR,2018-03-28,Washington Capitals,L,2,3
+NYR,2018-03-30,Tampa Bay Lightning,L,3,7
+NYR,2018-03-31,Carolina Hurricanes,W,2,1
+NYR,2018-04-03,New Jersey Devils,L,2,5
+NYR,2018-04-05,New York Islanders,L,1,2
+NYR,2018-04-07,Philadelphia Flyers,L,0,5
+NYR,2018-10-04,Nashville Predators,L,2,3
+NYR,2018-10-06,Buffalo Sabres,L,1,3
+NYR,2018-10-07,Carolina Hurricanes,L,5,8
+NYR,2018-10-11,San Jose Sharks,W,3,2
+NYR,2018-10-13,Edmonton Oilers,L,1,2
+NYR,2018-10-16,Colorado Avalanche,W,3,2
+NYR,2018-10-17,Washington Capitals,L,3,4
+NYR,2018-10-21,Calgary Flames,L,1,4
+NYR,2018-10-23,Florida Panthers,W,5,2
+NYR,2018-10-25,Chicago Blackhawks,L,1,4
+NYR,2018-10-28,Los Angeles Kings,L,3,4
+NYR,2018-10-30,San Jose Sharks,W,4,3
+NYR,2018-11-01,Anaheim Ducks,W,3,2
+NYR,2018-11-04,Buffalo Sabres,W,3,1
+NYR,2018-11-06,Montreal Canadiens,W,5,3
+NYR,2018-11-09,Detroit Red Wings,L,2,3
+NYR,2018-11-10,Columbus Blue Jackets,W,5,4
+NYR,2018-11-12,Vancouver Canucks,W,2,1
+NYR,2018-11-15,New York Islanders,L,5,7
+NYR,2018-11-17,Florida Panthers,W,4,2
+NYR,2018-11-19,Dallas Stars,W,2,1
+NYR,2018-11-21,New York Islanders,W,5,0
+NYR,2018-11-23,Philadelphia Flyers,L,0,4
+NYR,2018-11-24,Washington Capitals,L,3,5
+NYR,2018-11-26,Ottawa Senators,W,4,2
+NYR,2018-11-29,Ottawa Senators,L,0,3
+NYR,2018-12-01,Montreal Canadiens,L,2,5
+NYR,2018-12-02,Winnipeg Jets,L,3,4
+NYR,2018-12-08,Florida Panthers,W,5,4
+NYR,2018-12-10,Tampa Bay Lightning,L,3,6
+NYR,2018-12-14,Arizona Coyotes,L,3,4
+NYR,2018-12-16,Vegas Golden Knights,L,3,4
+NYR,2018-12-18,Anaheim Ducks,W,3,1
+NYR,2018-12-22,Toronto Maple Leafs,L,3,5
+NYR,2018-12-23,Philadelphia Flyers,L,2,3
+NYR,2018-12-27,Columbus Blue Jackets,L,3,4
+NYR,2018-12-29,Nashville Predators,W,4,3
+NYR,2018-12-31,St. Louis Blues,W,2,1
+NYR,2019-01-02,Pittsburgh Penguins,L,2,7
+NYR,2019-01-04,Colorado Avalanche,L,1,6
+NYR,2019-01-06,Arizona Coyotes,L,0,5
+NYR,2019-01-08,Vegas Golden Knights,L,2,4
+NYR,2019-01-10,New York Islanders,L,3,4
+NYR,2019-01-12,New York Islanders,W,2,1
+NYR,2019-01-13,Columbus Blue Jackets,L,5,7
+NYR,2019-01-15,Carolina Hurricanes,W,6,2
+NYR,2019-01-17,Chicago Blackhawks,W,4,3
+NYR,2019-01-19,Boston Bruins,W,3,2
+NYR,2019-01-29,Philadelphia Flyers,L,0,1
+NYR,2019-01-31,New Jersey Devils,W,4,3
+NYR,2019-02-02,Tampa Bay Lightning,L,2,3
+NYR,2019-02-04,Los Angeles Kings,L,3,4
+NYR,2019-02-06,Boston Bruins,W,4,3
+NYR,2019-02-08,Carolina Hurricanes,L,0,3
+NYR,2019-02-10,Toronto Maple Leafs,W,4,1
+NYR,2019-02-12,Winnipeg Jets,L,3,4
+NYR,2019-02-15,Buffalo Sabres,W,6,2
+NYR,2019-02-17,Pittsburgh Penguins,L,5,6
+NYR,2019-02-19,Carolina Hurricanes,W,2,1
+NYR,2019-02-21,Minnesota Wild,L,1,4
+NYR,2019-02-23,New Jersey Devils,W,5,2
+NYR,2019-02-24,Washington Capitals,L,5,6
+NYR,2019-02-27,Tampa Bay Lightning,L,3,4
+NYR,2019-03-01,Montreal Canadiens,L,2,4
+NYR,2019-03-03,Washington Capitals,L,2,3
+NYR,2019-03-05,Dallas Stars,L,0,1
+NYR,2019-03-07,Detroit Red Wings,L,2,3
+NYR,2019-03-09,New Jersey Devils,W,4,2
+NYR,2019-03-11,Edmonton Oilers,L,2,3
+NYR,2019-03-13,Vancouver Canucks,L,1,4
+NYR,2019-03-15,Calgary Flames,L,1,5
+NYR,2019-03-16,Minnesota Wild,L,2,5
+NYR,2019-03-19,Detroit Red Wings,L,2,3
+NYR,2019-03-23,Toronto Maple Leafs,W,2,1
+NYR,2019-03-25,Pittsburgh Penguins,L,2,5
+NYR,2019-03-27,Boston Bruins,L,3,6
+NYR,2019-03-29,St. Louis Blues,W,4,2
+NYR,2019-03-31,Philadelphia Flyers,W,3,0
+NYR,2019-04-01,New Jersey Devils,L,2,4
+NYR,2019-04-03,Ottawa Senators,L,1,4
+NYR,2019-04-05,Columbus Blue Jackets,L,2,3
+NYR,2019-04-06,Pittsburgh Penguins,W,4,3
+NYR,2019-10-03,Winnipeg Jets,W,6,4
+NYR,2019-10-05,Ottawa Senators,W,4,1
+NYR,2019-10-12,Edmonton Oilers,L,1,4
+NYR,2019-10-17,New Jersey Devils,L,2,5
+NYR,2019-10-18,Washington Capitals,L,2,5
+NYR,2019-10-20,Vancouver Canucks,L,2,3
+NYR,2019-10-22,Arizona Coyotes,L,2,3
+NYR,2019-10-24,Buffalo Sabres,W,6,2
+NYR,2019-10-27,Boston Bruins,L,4,7
+NYR,2019-10-29,Tampa Bay Lightning,W,4,1
+NYR,2019-11-02,Nashville Predators,W,2,1
+NYR,2019-11-04,Ottawa Senators,L,2,6
+NYR,2019-11-06,Detroit Red Wings,W,5,1
+NYR,2019-11-07,Carolina Hurricanes,W,4,2
+NYR,2019-11-10,Florida Panthers,L,5,6
+NYR,2019-11-12,Pittsburgh Penguins,W,3,2
+NYR,2019-11-14,Tampa Bay Lightning,L,3,9
+NYR,2019-11-16,Florida Panthers,L,3,4
+NYR,2019-11-20,Washington Capitals,W,4,1
+NYR,2019-11-22,Ottawa Senators,L,1,4
+NYR,2019-11-23,Montreal Canadiens,W,6,5
+NYR,2019-11-25,Minnesota Wild,W,3,2
+NYR,2019-11-27,Carolina Hurricanes,W,3,2
+NYR,2019-11-29,Boston Bruins,L,2,3
+NYR,2019-11-30,New Jersey Devils,W,4,0
+NYR,2019-12-02,Vegas Golden Knights,L,1,4
+NYR,2019-12-05,Columbus Blue Jackets,W,3,2
+NYR,2019-12-06,Montreal Canadiens,L,1,2
+NYR,2019-12-08,Vegas Golden Knights,W,5,0
+NYR,2019-12-10,Los Angeles Kings,L,1,3
+NYR,2019-12-12,San Jose Sharks,W,6,3
+NYR,2019-12-14,Anaheim Ducks,L,3,4
+NYR,2019-12-16,Nashville Predators,L,2,5
+NYR,2019-12-20,Toronto Maple Leafs,L,3,6
+NYR,2019-12-22,Anaheim Ducks,W,5,1
+NYR,2019-12-23,Philadelphia Flyers,L,1,5
+NYR,2019-12-27,Carolina Hurricanes,W,5,3
+NYR,2019-12-28,Toronto Maple Leafs,W,5,4
+NYR,2019-12-31,Edmonton Oilers,L,5,7
+NYR,2020-01-02,Calgary Flames,L,3,4
+NYR,2020-01-04,Vancouver Canucks,L,1,2
+NYR,2020-01-07,Colorado Avalanche,W,5,3
+NYR,2020-01-09,New Jersey Devils,W,6,3
+NYR,2020-01-11,St. Louis Blues,L,2,5
+NYR,2020-01-13,New York Islanders,W,6,2
+NYR,2020-01-16,New York Islanders,W,3,2
+NYR,2020-01-19,Columbus Blue Jackets,L,1,2
+NYR,2020-01-21,New York Islanders,L,2,4
+NYR,2020-01-31,Detroit Red Wings,W,4,2
+NYR,2020-02-01,Detroit Red Wings,W,1,0
+NYR,2020-02-03,Dallas Stars,L,3,5
+NYR,2020-02-05,Toronto Maple Leafs,W,5,3
+NYR,2020-02-07,Buffalo Sabres,L,2,3
+NYR,2020-02-09,Los Angeles Kings,W,4,1
+NYR,2020-02-11,Winnipeg Jets,W,4,1
+NYR,2020-02-13,Minnesota Wild,W,4,3
+NYR,2020-02-14,Columbus Blue Jackets,W,3,1
+NYR,2020-02-16,Boston Bruins,L,1,3
+NYR,2020-02-19,Chicago Blackhawks,W,6,3
+NYR,2020-02-21,Carolina Hurricanes,W,5,2
+NYR,2020-02-22,San Jose Sharks,W,3,2
+NYR,2020-02-25,New York Islanders,W,4,3
+NYR,2020-02-27,Montreal Canadiens,W,5,2
+NYR,2020-02-28,Philadelphia Flyers,L,2,5
+NYR,2020-03-01,Philadelphia Flyers,L,3,5
+NYR,2020-03-03,St. Louis Blues,L,1,3
+NYR,2020-03-05,Washington Capitals,W,6,5
+NYR,2020-03-07,New Jersey Devils,L,4,6
+NYR,2020-03-10,Dallas Stars,W,4,2
+NYR,2020-03-11,Colorado Avalanche,L,2,3
+NYR,2021-01-14,New York Islanders,L,0,4
+NYR,2021-01-16,New York Islanders,W,5,0
+NYR,2021-01-19,New Jersey Devils,L,3,4
+NYR,2021-01-22,Pittsburgh Penguins,L,3,4
+NYR,2021-01-24,Pittsburgh Penguins,L,2,3
+NYR,2021-01-26,Buffalo Sabres,L,2,3
+NYR,2021-01-28,Buffalo Sabres,W,3,2
+NYR,2021-01-30,Pittsburgh Penguins,L,4,5
+NYR,2021-02-01,Pittsburgh Penguins,W,3,1
+NYR,2021-02-04,Washington Capitals,W,4,2
+NYR,2021-02-08,New York Islanders,L,0,2
+NYR,2021-02-10,Boston Bruins,L,2,3
+NYR,2021-02-12,Boston Bruins,L,0,1
+NYR,2021-02-16,New Jersey Devils,L,2,5
+NYR,2021-02-18,Philadelphia Flyers,W,3,2
+NYR,2021-02-20,Washington Capitals,W,4,1
+NYR,2021-02-24,Philadelphia Flyers,L,3,4
+NYR,2021-02-26,Boston Bruins,W,6,2
+NYR,2021-02-28,Boston Bruins,L,1,4
+NYR,2021-03-02,Buffalo Sabres,W,3,2
+NYR,2021-03-04,New Jersey Devils,W,6,1
+NYR,2021-03-06,New Jersey Devils,W,6,3
+NYR,2021-03-07,Pittsburgh Penguins,L,1,5
+NYR,2021-03-09,Pittsburgh Penguins,L,2,4
+NYR,2021-03-11,Boston Bruins,L,0,4
+NYR,2021-03-13,Boston Bruins,W,4,0
+NYR,2021-03-15,Philadelphia Flyers,L,4,5
+NYR,2021-03-17,Philadelphia Flyers,W,9,0
+NYR,2021-03-19,Washington Capitals,L,1,2
+NYR,2021-03-20,Washington Capitals,W,3,1
+NYR,2021-03-22,Buffalo Sabres,W,5,3
+NYR,2021-03-25,Philadelphia Flyers,W,8,3
+NYR,2021-03-27,Philadelphia Flyers,L,1,2
+NYR,2021-03-28,Washington Capitals,L,4,5
+NYR,2021-03-30,Washington Capitals,W,5,2
+NYR,2021-04-01,Buffalo Sabres,W,3,2
+NYR,2021-04-03,Buffalo Sabres,L,2,3
+NYR,2021-04-06,Pittsburgh Penguins,W,8,4
+NYR,2021-04-08,Pittsburgh Penguins,L,2,5
+NYR,2021-04-09,New York Islanders,W,4,1
+NYR,2021-04-11,New York Islanders,L,2,3
+NYR,2021-04-13,New Jersey Devils,W,3,0
+NYR,2021-04-15,New Jersey Devils,W,4,0
+NYR,2021-04-17,New Jersey Devils,W,6,3
+NYR,2021-04-18,New Jersey Devils,W,5,3
+NYR,2021-04-20,New York Islanders,L,1,6
+NYR,2021-04-22,Philadelphia Flyers,L,2,3
+NYR,2021-04-23,Philadelphia Flyers,W,4,1
+NYR,2021-04-25,Buffalo Sabres,W,6,3
+NYR,2021-04-27,Buffalo Sabres,W,3,1
+NYR,2021-04-29,New York Islanders,L,0,4
+NYR,2021-05-01,New York Islanders,L,0,3
+NYR,2021-05-03,Washington Capitals,L,3,6
+NYR,2021-05-05,Washington Capitals,L,2,4
+NYR,2021-05-06,Boston Bruins,L,0,4
+NYR,2021-05-08,Boston Bruins,W,5,4
+NYR,2021-10-13,Washington Capitals,L,1,5
+NYR,2021-10-14,Dallas Stars,L,2,3
+NYR,2021-10-16,Montreal Canadiens,W,3,1
+NYR,2021-10-18,Toronto Maple Leafs,W,2,1
+NYR,2021-10-21,Nashville Predators,W,3,1
+NYR,2021-10-23,Ottawa Senators,W,3,2
+NYR,2021-10-25,Calgary Flames,L,1,5
+NYR,2021-10-29,Columbus Blue Jackets,W,4,0
+NYR,2021-10-31,Seattle Kraken,W,3,1
+NYR,2021-11-02,Vancouver Canucks,L,2,3
+NYR,2021-11-05,Edmonton Oilers,L,5,6
+NYR,2021-11-06,Calgary Flames,L,0,6
+NYR,2021-11-08,Florida Panthers,W,4,3
+NYR,2021-11-13,Columbus Blue Jackets,W,5,3
+NYR,2021-11-14,New Jersey Devils,W,4,3
+NYR,2021-11-16,Montreal Canadiens,W,3,2
+NYR,2021-11-18,Toronto Maple Leafs,L,1,2
+NYR,2021-11-21,Buffalo Sabres,W,5,4
+NYR,2021-11-24,New York Islanders,W,4,1
+NYR,2021-11-26,Boston Bruins,W,5,2
+NYR,2021-12-01,Philadelphia Flyers,W,4,1
+NYR,2021-12-03,San Jose Sharks,W,1,0
+NYR,2021-12-04,Chicago Blackhawks,W,3,2
+NYR,2021-12-07,Chicago Blackhawks,W,6,2
+NYR,2021-12-08,Colorado Avalanche,L,3,7
+NYR,2021-12-10,Buffalo Sabres,W,2,1
+NYR,2021-12-12,Nashville Predators,L,0,1
+NYR,2021-12-14,Colorado Avalanche,L,2,4
+NYR,2021-12-15,Arizona Coyotes,W,3,2
+NYR,2021-12-17,Vegas Golden Knights,L,2,3
+NYR,2021-12-29,Florida Panthers,L,3,4
+NYR,2021-12-31,Tampa Bay Lightning,W,4,3
+NYR,2022-01-02,Tampa Bay Lightning,W,4,0
+NYR,2022-01-03,Edmonton Oilers,W,4,1
+NYR,2022-01-06,Vegas Golden Knights,L,1,5
+NYR,2022-01-08,Anaheim Ducks,W,4,1
+NYR,2022-01-10,Los Angeles Kings,L,1,3
+NYR,2022-01-13,San Jose Sharks,W,3,0
+NYR,2022-01-15,Philadelphia Flyers,W,3,2
+NYR,2022-01-19,Toronto Maple Leafs,W,6,3
+NYR,2022-01-21,Carolina Hurricanes,L,3,6
+NYR,2022-01-22,Arizona Coyotes,W,7,3
+NYR,2022-01-24,Los Angeles Kings,W,3,2
+NYR,2022-01-27,Columbus Blue Jackets,L,3,5
+NYR,2022-01-28,Minnesota Wild,L,2,3
+NYR,2022-01-30,Seattle Kraken,W,3,2
+NYR,2022-02-01,Florida Panthers,W,5,2
+NYR,2022-02-15,Boston Bruins,W,2,1
+NYR,2022-02-17,Detroit Red Wings,L,2,3
+NYR,2022-02-20,Ottawa Senators,W,2,1
+NYR,2022-02-24,Washington Capitals,W,4,1
+NYR,2022-02-26,Pittsburgh Penguins,L,0,1
+NYR,2022-02-27,Vancouver Canucks,L,2,5
+NYR,2022-03-02,St. Louis Blues,W,5,3
+NYR,2022-03-04,New Jersey Devils,W,3,1
+NYR,2022-03-06,Winnipeg Jets,W,4,1
+NYR,2022-03-08,Minnesota Wild,L,2,5
+NYR,2022-03-10,St. Louis Blues,L,2,6
+NYR,2022-03-12,Dallas Stars,W,7,4
+NYR,2022-03-15,Anaheim Ducks,W,4,3
+NYR,2022-03-17,New York Islanders,L,1,2
+NYR,2022-03-19,Tampa Bay Lightning,W,2,1
+NYR,2022-03-20,Carolina Hurricanes,W,2,0
+NYR,2022-03-22,New Jersey Devils,L,4,7
+NYR,2022-03-25,Pittsburgh Penguins,W,5,1
+NYR,2022-03-27,Buffalo Sabres,W,5,4
+NYR,2022-03-29,Pittsburgh Penguins,W,3,2
+NYR,2022-03-30,Detroit Red Wings,W,5,4
+NYR,2022-04-01,New York Islanders,L,0,3
+NYR,2022-04-03,Philadelphia Flyers,L,3,4
+NYR,2022-04-05,New Jersey Devils,W,3,1
+NYR,2022-04-07,Pittsburgh Penguins,W,3,0
+NYR,2022-04-09,Ottawa Senators,W,5,1
+NYR,2022-04-12,Carolina Hurricanes,L,2,4
+NYR,2022-04-13,Philadelphia Flyers,W,4,0
+NYR,2022-04-16,Detroit Red Wings,W,4,0
+NYR,2022-04-19,Winnipeg Jets,W,3,0
+NYR,2022-04-21,New York Islanders,W,6,3
+NYR,2022-04-23,Boston Bruins,L,1,3
+NYR,2022-04-26,Carolina Hurricanes,L,3,4
+NYR,2022-04-27,Montreal Canadiens,L,3,4
+NYR,2022-04-29,Washington Capitals,W,3,2
+NYR,2022-10-11,Tampa Bay Lightning,W,3,1
+NYR,2022-10-13,Minnesota Wild,W,7,3
+NYR,2022-10-14,Winnipeg Jets,L,1,4
+NYR,2022-10-17,Anaheim Ducks,W,6,4
+NYR,2022-10-20,San Jose Sharks,L,2,3
+NYR,2022-10-23,Columbus Blue Jackets,L,1,5
+NYR,2022-10-25,Colorado Avalanche,L,2,3
+NYR,2022-10-26,New York Islanders,L,0,3
+NYR,2022-10-29,Dallas Stars,W,6,3
+NYR,2022-10-30,Arizona Coyotes,W,3,2
+NYR,2022-11-01,Philadelphia Flyers,W,1,0
+NYR,2022-11-03,Boston Bruins,L,2,5
+NYR,2022-11-06,Detroit Red Wings,L,2,3
+NYR,2022-11-08,New York Islanders,L,3,4
+NYR,2022-11-10,Detroit Red Wings,W,8,2
+NYR,2022-11-12,Nashville Predators,L,1,2
+NYR,2022-11-13,Arizona Coyotes,W,4,1
+NYR,2022-11-17,Seattle Kraken,L,2,3
+NYR,2022-11-19,San Jose Sharks,W,2,1
+NYR,2022-11-22,Los Angeles Kings,W,5,3
+NYR,2022-11-23,Anaheim Ducks,L,2,3
+NYR,2022-11-26,Edmonton Oilers,L,3,4
+NYR,2022-11-28,New Jersey Devils,L,3,5
+NYR,2022-11-30,Ottawa Senators,W,3,1
+NYR,2022-12-02,Ottawa Senators,L,2,3
+NYR,2022-12-03,Chicago Blackhawks,L,2,5
+NYR,2022-12-05,St. Louis Blues,W,6,4
+NYR,2022-12-07,Vegas Golden Knights,W,5,1
+NYR,2022-12-09,Colorado Avalanche,W,2,1
+NYR,2022-12-12,New Jersey Devils,W,4,3
+NYR,2022-12-15,Toronto Maple Leafs,W,3,1
+NYR,2022-12-17,Philadelphia Flyers,W,6,3
+NYR,2022-12-18,Chicago Blackhawks,W,7,1
+NYR,2022-12-20,Pittsburgh Penguins,L,2,3
+NYR,2022-12-22,New York Islanders,W,5,3
+NYR,2022-12-27,Washington Capitals,L,0,4
+NYR,2022-12-29,Tampa Bay Lightning,L,1,2
+NYR,2023-01-01,Florida Panthers,W,5,3
+NYR,2023-01-03,Carolina Hurricanes,W,5,3
+NYR,2023-01-05,Montreal Canadiens,W,4,1
+NYR,2023-01-07,New Jersey Devils,L,3,4
+NYR,2023-01-10,Minnesota Wild,W,4,3
+NYR,2023-01-12,Dallas Stars,W,2,1
+NYR,2023-01-15,Montreal Canadiens,L,1,2
+NYR,2023-01-16,Columbus Blue Jackets,W,3,1
+NYR,2023-01-19,Boston Bruins,L,1,3
+NYR,2023-01-23,Florida Panthers,W,6,2
+NYR,2023-01-25,Toronto Maple Leafs,L,2,3
+NYR,2023-01-27,Vegas Golden Knights,W,4,1
+NYR,2023-02-06,Calgary Flames,W,5,4
+NYR,2023-02-08,Vancouver Canucks,W,4,3
+NYR,2023-02-10,Seattle Kraken,W,6,3
+NYR,2023-02-11,Carolina Hurricanes,W,6,2
+NYR,2023-02-15,Vancouver Canucks,W,6,4
+NYR,2023-02-17,Edmonton Oilers,W,5,4
+NYR,2023-02-18,Calgary Flames,L,2,3
+NYR,2023-02-20,Winnipeg Jets,,,
+NYR,2023-02-23,Detroit Red Wings,,,
+NYR,2023-02-25,Washington Capitals,,,
+NYR,2023-02-26,Los Angeles Kings,,,
+NYR,2023-03-01,Philadelphia Flyers,,,
+NYR,2023-03-02,Ottawa Senators,,,
+NYR,2023-03-04,Boston Bruins,,,
+NYR,2023-03-09,Montreal Canadiens,,,
+NYR,2023-03-11,Buffalo Sabres,,,
+NYR,2023-03-12,Pittsburgh Penguins,,,
+NYR,2023-03-14,Washington Capitals,,,
+NYR,2023-03-16,Pittsburgh Penguins,,,
+NYR,2023-03-18,Pittsburgh Penguins,,,
+NYR,2023-03-19,Nashville Predators,,,
+NYR,2023-03-21,Carolina Hurricanes,,,
+NYR,2023-03-23,Carolina Hurricanes,,,
+NYR,2023-03-25,Florida Panthers,,,
+NYR,2023-03-28,Columbus Blue Jackets,,,
+NYR,2023-03-30,New Jersey Devils,,,
+NYR,2023-03-31,Buffalo Sabres,,,
+NYR,2023-04-02,Washington Capitals,,,
+NYR,2023-04-05,Tampa Bay Lightning,,,
+NYR,2023-04-06,St. Louis Blues,,,
+NYR,2023-04-08,Columbus Blue Jackets,,,
+NYR,2023-04-10,Buffalo Sabres,,,
+NYR,2023-04-13,Toronto Maple Leafs,,,

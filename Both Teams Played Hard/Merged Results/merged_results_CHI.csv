@@ -1,0 +1,315 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-26,CHI,Columbus Blue Jackets,W,4,1,CHI,Golden State Warriors,L,91,99
+2011-12-30,CHI,Detroit Red Wings,W,3,2,CHI,Los Angeles Clippers,W,114,101
+2012-01-06,CHI,Colorado Avalanche,L,0,4,CHI,Orlando Magic,W,97,83
+2012-01-10,CHI,Columbus Blue Jackets,W,5,2,CHI,Minnesota Timberwolves,W,111,100
+2012-01-14,CHI,Detroit Red Wings,L,2,3,CHI,Toronto Raptors,W,77,64
+2012-01-20,CHI,Florida Panthers,W,3,1,CHI,Cleveland Cavaliers,W,114,75
+2012-01-21,CHI,Nashville Predators,L,2,5,CHI,Charlotte Bobcats,W,95,89
+2012-02-02,CHI,Edmonton Oilers,L,4,8,CHI,New York Knicks,W,105,102
+2012-02-10,CHI,San Jose Sharks,L,3,5,CHI,Charlotte Bobcats,W,95,64
+2012-02-14,CHI,Nashville Predators,L,2,3,CHI,Sacramento Kings,W,121,115
+2012-02-16,CHI,New York Rangers,W,4,2,CHI,Boston Celtics,W,89,80
+2012-02-18,CHI,Columbus Blue Jackets,W,6,1,CHI,New Jersey Nets,L,85,97
+2012-02-29,CHI,Toronto Maple Leafs,W,5,4,CHI,San Antonio Spurs,W,96,89
+2012-03-02,CHI,Ottawa Senators,W,2,1,CHI,Cleveland Cavaliers,W,112,91
+2012-03-04,CHI,Detroit Red Wings,W,2,1,CHI,Philadelphia 76ers,W,96,91
+2012-03-16,CHI,Dallas Stars,W,4,1,CHI,Portland Trail Blazers,L,89,100
+2012-03-21,CHI,Vancouver Canucks,W,2,1,CHI,Toronto Raptors,W,94,82
+2012-04-01,CHI,Minnesota Wild,L,4,5,CHI,Oklahoma City Thunder,L,78,92
+2012-04-05,CHI,Minnesota Wild,L,1,2,CHI,Boston Celtics,W,93,86
+2013-01-19,CHI,Los Angeles Kings,W,5,2,CHI,Memphis Grizzlies,L,82,85
+2013-01-26,CHI,Columbus Blue Jackets,W,3,2,CHI,Washington Wizards,L,73,86
+2013-01-30,CHI,Minnesota Wild,L,2,3,CHI,Milwaukee Bucks,W,104,88
+2013-02-01,CHI,Vancouver Canucks,L,1,2,CHI,Brooklyn Nets,L,89,93
+2013-02-02,CHI,Calgary Flames,W,3,2,CHI,Atlanta Hawks,W,93,76
+2013-02-07,CHI,Phoenix Coyotes,W,6,2,CHI,Denver Nuggets,L,96,128
+2013-02-19,CHI,Vancouver Canucks,W,4,3,CHI,New Orleans Hornets,W,96,87
+2013-02-22,CHI,San Jose Sharks,W,2,1,CHI,Charlotte Bobcats,W,105,75
+2013-02-24,CHI,Columbus Blue Jackets,W,1,0,CHI,Oklahoma City Thunder,L,72,102
+2013-02-28,CHI,St. Louis Blues,W,3,0,CHI,Philadelphia 76ers,W,93,82
+2013-03-03,CHI,Detroit Red Wings,W,2,1,CHI,Indiana Pacers,L,92,97
+2013-03-06,CHI,Colorado Avalanche,W,3,2,CHI,San Antonio Spurs,L,83,101
+2013-03-08,CHI,Colorado Avalanche,L,2,6,CHI,Utah Jazz,W,89,88
+2013-03-10,CHI,Edmonton Oilers,L,5,6,CHI,Los Angeles Lakers,L,81,90
+2013-03-18,CHI,Colorado Avalanche,W,5,2,CHI,Denver Nuggets,L,118,119
+2013-03-31,CHI,Detroit Red Wings,W,7,1,CHI,Detroit Pistons,W,95,94
+2013-04-04,CHI,St. Louis Blues,L,3,4,CHI,Brooklyn Nets,W,92,90
+2013-04-07,CHI,Nashville Predators,W,5,3,CHI,Detroit Pistons,L,85,99
+2013-04-09,CHI,Minnesota Wild,W,1,0,CHI,Toronto Raptors,L,98,101
+2013-04-12,CHI,Detroit Red Wings,W,3,2,CHI,Toronto Raptors,L,88,97
+2013-04-14,CHI,St. Louis Blues,W,2,0,CHI,Miami Heat,L,93,105
+2013-04-15,CHI,Dallas Stars,W,5,2,CHI,Orlando Magic,W,102,84
+2013-10-29,CHI,Ottawa Senators,W,6,5,CHI,Miami Heat,L,95,107
+2013-11-02,CHI,Winnipeg Jets,W,5,1,CHI,Philadelphia 76ers,L,104,107
+2013-11-06,CHI,Winnipeg Jets,W,4,1,CHI,Indiana Pacers,L,80,97
+2013-11-16,CHI,Nashville Predators,L,2,7,CHI,Indiana Pacers,W,110,94
+2013-11-21,CHI,Winnipeg Jets,W,6,3,CHI,Denver Nuggets,L,87,97
+2013-11-25,CHI,Edmonton Oilers,W,5,1,CHI,Utah Jazz,L,83,89
+2013-11-27,CHI,Calgary Flames,W,3,2,CHI,Detroit Pistons,W,99,79
+2013-11-30,CHI,Phoenix Coyotes,W,5,2,CHI,Cleveland Cavaliers,L,93,97
+2013-12-05,CHI,Minnesota Wild,L,3,4,CHI,Miami Heat,W,107,87
+2013-12-10,CHI,Dallas Stars,W,6,2,CHI,Milwaukee Bucks,L,74,78
+2013-12-11,CHI,Philadelphia Flyers,W,7,2,CHI,New York Knicks,L,78,83
+2013-12-14,CHI,Toronto Maple Leafs,L,3,7,CHI,Toronto Raptors,L,77,99
+2013-12-28,CHI,St. Louis Blues,L,5,6,CHI,Dallas Mavericks,L,83,105
+2013-12-30,CHI,Los Angeles Kings,W,1,0,CHI,Memphis Grizzlies,W,95,91
+2014-01-02,CHI,New York Islanders,L,2,3,CHI,Boston Celtics,W,94,82
+2014-01-11,CHI,Montreal Canadiens,L,1,2,CHI,Charlotte Bobcats,W,103,97
+2014-01-17,CHI,Anaheim Ducks,W,4,2,CHI,Washington Wizards,L,93,96
+2014-01-22,CHI,Detroit Red Wings,L,4,5,CHI,Cleveland Cavaliers,W,98,87
+2014-01-29,CHI,Vancouver Canucks,W,5,2,CHI,San Antonio Spurs,W,96,86
+2014-02-01,CHI,San Jose Sharks,L,1,2,CHI,New Orleans Pelicans,L,79,88
+2014-02-03,CHI,Los Angeles Kings,W,5,3,CHI,Sacramento Kings,L,70,99
+2014-03-09,CHI,Buffalo Sabres,W,2,1,CHI,Miami Heat,W,95,88
+2014-03-19,CHI,St. Louis Blues,W,4,0,CHI,Philadelphia 76ers,W,102,94
+2014-03-21,CHI,Carolina Hurricanes,W,3,2,CHI,Indiana Pacers,L,79,91
+2014-03-28,CHI,Ottawa Senators,L,3,5,CHI,Portland Trail Blazers,L,74,91
+2014-03-30,CHI,Pittsburgh Penguins,L,1,4,CHI,Boston Celtics,W,107,102
+2014-04-04,CHI,Columbus Blue Jackets,W,4,3,CHI,Milwaukee Bucks,W,102,90
+2014-04-09,CHI,Montreal Canadiens,W,3,2,CHI,Minnesota Timberwolves,W,102,87
+2014-04-11,CHI,Washington Capitals,L,0,4,CHI,Detroit Pistons,W,106,98
+2014-11-01,CHI,Toronto Maple Leafs,L,2,3,CHI,Minnesota Timberwolves,W,106,105
+2014-11-04,CHI,Montreal Canadiens,W,5,0,CHI,Orlando Magic,W,98,90
+2014-11-07,CHI,Washington Capitals,L,2,3,CHI,Philadelphia 76ers,W,118,115
+2014-11-20,CHI,Calgary Flames,W,4,3,CHI,Sacramento Kings,L,88,103
+2014-11-28,CHI,Anaheim Ducks,W,4,1,CHI,Boston Celtics,W,109,102
+2014-12-03,CHI,St. Louis Blues,W,4,1,CHI,Charlotte Hornets,W,102,95
+2014-12-06,CHI,Nashville Predators,W,3,1,CHI,Golden State Warriors,L,102,112
+2014-12-14,CHI,Calgary Flames,W,2,1,CHI,Miami Heat,W,93,75
+2014-12-23,CHI,Winnipeg Jets,L,1,5,CHI,Washington Wizards,W,99,91
+2014-12-27,CHI,Colorado Avalanche,W,5,2,CHI,New Orleans Pelicans,W,107,100
+2014-12-29,CHI,Nashville Predators,W,5,4,CHI,Indiana Pacers,W,92,90
+2015-01-01,CHI,Washington Capitals,L,2,3,CHI,Denver Nuggets,W,106,101
+2015-01-09,CHI,Edmonton Oilers,L,2,5,CHI,Washington Wizards,L,86,102
+2015-01-16,CHI,Winnipeg Jets,L,2,4,CHI,Boston Celtics,W,119,103
+2015-01-30,CHI,Anaheim Ducks,W,4,1,CHI,Phoenix Suns,L,93,99
+2015-02-08,CHI,St. Louis Blues,W,4,2,CHI,Orlando Magic,W,98,97
+2015-02-20,CHI,Colorado Avalanche,L,1,4,CHI,Detroit Pistons,L,91,100
+2015-02-27,CHI,Tampa Bay Lightning,L,0,4,CHI,Minnesota Timberwolves,W,96,89
+2015-03-06,CHI,Edmonton Oilers,W,2,1,CHI,Indiana Pacers,L,84,98
+2015-03-08,CHI,New York Rangers,L,0,1,CHI,San Antonio Spurs,L,105,116
+2015-03-18,CHI,New York Rangers,W,1,0,CHI,Indiana Pacers,W,103,86
+2015-03-21,CHI,Dallas Stars,L,0,4,CHI,Detroit Pistons,L,91,107
+2015-03-23,CHI,Carolina Hurricanes,W,3,1,CHI,Charlotte Hornets,W,98,86
+2015-03-25,CHI,Philadelphia Flyers,L,1,4,CHI,Toronto Raptors,W,116,103
+2015-04-03,CHI,Buffalo Sabres,W,4,3,CHI,Detroit Pistons,W,88,82
+2015-04-05,CHI,St. Louis Blues,L,1,2,CHI,Cleveland Cavaliers,L,94,99
+2015-04-09,CHI,St. Louis Blues,L,1,2,CHI,Miami Heat,W,89,78
+2015-04-11,CHI,Colorado Avalanche,L,2,3,CHI,Philadelphia 76ers,W,114,107
+2015-10-30,CHI,Minnesota Wild,L,4,5,CHI,Detroit Pistons,L,94,98
+2015-11-18,CHI,Edmonton Oilers,W,4,3,CHI,Phoenix Suns,W,103,97
+2015-11-20,CHI,Calgary Flames,L,1,2,CHI,Golden State Warriors,L,94,106
+2015-11-27,CHI,Anaheim Ducks,W,3,2,CHI,Indiana Pacers,L,92,104
+2015-12-10,CHI,Nashville Predators,L,1,5,CHI,Los Angeles Clippers,W,83,80
+2015-12-19,CHI,Buffalo Sabres,W,3,2,CHI,New York Knicks,L,91,107
+2016-01-03,CHI,Ottawa Senators,W,3,0,CHI,Toronto Raptors,W,115,113
+2016-01-05,CHI,Pittsburgh Penguins,W,3,2,CHI,Milwaukee Bucks,W,117,106
+2016-01-12,CHI,Nashville Predators,W,3,2,CHI,Milwaukee Bucks,L,101,106
+2016-01-14,CHI,Montreal Canadiens,W,2,1,CHI,Philadelphia 76ers,W,115,111
+2016-01-15,CHI,Toronto Maple Leafs,W,4,1,CHI,Dallas Mavericks,L,77,83
+2016-01-22,CHI,Florida Panthers,L,0,4,CHI,Boston Celtics,L,101,110
+2016-02-06,CHI,Dallas Stars,W,5,1,CHI,Minnesota Timberwolves,L,105,112
+2016-02-21,CHI,Minnesota Wild,L,1,6,CHI,Los Angeles Lakers,W,126,115
+2016-03-02,CHI,Detroit Red Wings,W,5,2,CHI,Orlando Magic,L,89,102
+2016-03-11,CHI,Dallas Stars,L,2,5,CHI,Miami Heat,L,96,118
+2016-03-14,CHI,Los Angeles Kings,L,0,5,CHI,Toronto Raptors,W,109,107
+2016-03-16,CHI,Philadelphia Flyers,L,2,3,CHI,Washington Wizards,L,96,117
+2016-03-26,CHI,Calgary Flames,W,4,1,CHI,Orlando Magic,L,89,111
+2016-03-29,CHI,Minnesota Wild,L,1,4,CHI,Indiana Pacers,W,98,96
+2016-04-03,CHI,Boston Bruins,W,6,4,CHI,Milwaukee Bucks,W,102,98
+2016-04-05,CHI,Arizona Coyotes,W,6,2,CHI,Memphis Grizzlies,L,92,108
+2016-04-07,CHI,St. Louis Blues,L,1,2,CHI,Miami Heat,L,98,106
+2016-04-09,CHI,Columbus Blue Jackets,L,4,5,CHI,Cleveland Cavaliers,W,105,102
+2016-11-05,CHI,Dallas Stars,W,3,2,CHI,Indiana Pacers,L,94,111
+2016-11-09,CHI,St. Louis Blues,W,2,1,CHI,Atlanta Hawks,L,107,115
+2016-11-15,CHI,Winnipeg Jets,L,0,4,CHI,Portland Trail Blazers,W,113,88
+2016-11-19,CHI,Vancouver Canucks,W,4,3,CHI,Los Angeles Clippers,L,95,102
+2016-11-25,CHI,Anaheim Ducks,W,3,2,CHI,Philadelphia 76ers,W,105,89
+2016-12-03,CHI,Philadelphia Flyers,L,1,3,CHI,Dallas Mavericks,L,82,107
+2016-12-06,CHI,Arizona Coyotes,W,4,0,CHI,Detroit Pistons,L,91,102
+2016-12-13,CHI,New York Rangers,W,2,1,CHI,Minnesota Timberwolves,L,94,99
+2016-12-15,CHI,New York Islanders,W,5,4,CHI,Milwaukee Bucks,L,97,108
+2016-12-23,CHI,Colorado Avalanche,L,1,2,CHI,Charlotte Hornets,L,91,103
+2016-12-30,CHI,Carolina Hurricanes,L,2,3,CHI,Indiana Pacers,L,101,111
+2017-01-02,CHI,St. Louis Blues,L,1,4,CHI,Charlotte Hornets,W,118,111
+2017-01-10,CHI,Detroit Red Wings,W,4,3,CHI,Washington Wizards,L,99,101
+2017-01-15,CHI,Minnesota Wild,L,2,3,CHI,Memphis Grizzlies,W,108,104
+2017-01-17,CHI,Colorado Avalanche,W,6,4,CHI,Dallas Mavericks,L,98,99
+2017-01-20,CHI,Boston Bruins,W,1,0,CHI,Atlanta Hawks,L,93,102
+2017-01-24,CHI,Tampa Bay Lightning,L,2,5,CHI,Orlando Magic,W,100,92
+2017-02-08,CHI,Minnesota Wild,W,4,3,CHI,Golden State Warriors,L,92,123
+2017-02-10,CHI,Winnipeg Jets,W,5,2,CHI,Phoenix Suns,L,97,115
+2017-03-04,CHI,Nashville Predators,W,5,3,CHI,Los Angeles Clippers,L,91,101
+2017-03-10,CHI,Detroit Red Wings,L,2,4,CHI,Houston Rockets,L,94,115
+2017-03-12,CHI,Minnesota Wild,W,4,2,CHI,Boston Celtics,L,80,100
+2017-03-18,CHI,Toronto Maple Leafs,W,2,1,CHI,Utah Jazz,W,95,86
+2017-03-21,CHI,Vancouver Canucks,L,4,5,CHI,Toronto Raptors,L,120,122
+2017-04-02,CHI,Boston Bruins,L,2,3,CHI,New Orleans Pelicans,W,117,110
+2017-04-04,CHI,Colorado Avalanche,L,3,4,CHI,New York Knicks,L,91,100
+2017-04-06,CHI,Anaheim Ducks,L,0,4,CHI,Philadelphia 76ers,W,102,90
+2017-04-08,CHI,Los Angeles Kings,L,2,3,CHI,Brooklyn Nets,L,106,107
+2017-10-19,CHI,Edmonton Oilers,L,1,2,CHI,Toronto Raptors,L,100,117
+2017-10-21,CHI,Arizona Coyotes,W,4,2,CHI,San Antonio Spurs,L,77,87
+2017-10-24,CHI,Vegas Golden Knights,L,2,4,CHI,Cleveland Cavaliers,L,112,119
+2017-10-28,CHI,Colorado Avalanche,L,3,6,CHI,Oklahoma City Thunder,L,69,101
+2017-11-01,CHI,Philadelphia Flyers,W,3,0,CHI,Miami Heat,L,91,97
+2017-11-04,CHI,Minnesota Wild,W,2,0,CHI,New Orleans Pelicans,L,90,96
+2017-11-11,CHI,Carolina Hurricanes,W,4,3,CHI,San Antonio Spurs,L,94,133
+2017-11-15,CHI,New York Rangers,W,6,3,CHI,Oklahoma City Thunder,L,79,92
+2017-11-22,CHI,Tampa Bay Lightning,L,2,3,CHI,Utah Jazz,L,80,110
+2017-11-28,CHI,Nashville Predators,L,2,3,CHI,Phoenix Suns,L,99,104
+2017-11-30,CHI,Dallas Stars,L,3,4,CHI,Denver Nuggets,L,110,111
+2017-12-06,CHI,Washington Capitals,L,2,6,CHI,Indiana Pacers,L,96,98
+2017-12-08,CHI,Buffalo Sabres,W,3,2,CHI,Charlotte Hornets,W,119,111
+2017-12-21,CHI,Dallas Stars,L,0,4,CHI,Cleveland Cavaliers,L,112,115
+2017-12-23,CHI,New Jersey Devils,L,1,4,CHI,Boston Celtics,L,92,117
+2017-12-29,CHI,Edmonton Oilers,W,4,3,CHI,Indiana Pacers,W,119,107
+2017-12-31,CHI,Calgary Flames,L,3,4,CHI,Washington Wizards,L,110,114
+2018-01-03,CHI,New York Rangers,W,5,2,CHI,Toronto Raptors,L,115,124
+2018-01-05,CHI,Vegas Golden Knights,L,4,5,CHI,Dallas Mavericks,W,127,124
+2018-01-10,CHI,Minnesota Wild,L,1,2,CHI,New York Knicks,W,122,119
+2018-01-20,CHI,New York Islanders,L,3,7,CHI,Atlanta Hawks,W,113,97
+2018-01-22,CHI,Tampa Bay Lightning,L,0,2,CHI,New Orleans Pelicans,L,128,132
+2018-01-24,CHI,Toronto Maple Leafs,L,2,3,CHI,Philadelphia 76ers,L,101,115
+2018-02-03,CHI,Calgary Flames,L,3,4,CHI,Los Angeles Clippers,L,103,113
+2018-02-10,CHI,Minnesota Wild,L,0,3,CHI,Washington Wizards,L,90,101
+2018-02-12,CHI,Arizona Coyotes,L,1,6,CHI,Orlando Magic,W,105,101
+2018-02-24,CHI,Columbus Blue Jackets,L,2,3,CHI,Minnesota Timberwolves,L,104,122
+2018-03-11,CHI,Boston Bruins,W,3,1,CHI,Atlanta Hawks,W,129,122
+2018-03-15,CHI,Winnipeg Jets,L,2,6,CHI,Memphis Grizzlies,W,111,110
+2018-03-17,CHI,Buffalo Sabres,L,3,5,CHI,Cleveland Cavaliers,L,109,114
+2018-03-24,CHI,New York Islanders,W,3,1,CHI,Detroit Pistons,L,95,117
+2018-03-29,CHI,Winnipeg Jets,W,6,2,CHI,Miami Heat,L,92,103
+2018-03-30,CHI,Colorado Avalanche,L,0,5,CHI,Orlando Magic,W,90,82
+2018-04-06,CHI,St. Louis Blues,L,1,4,CHI,Boston Celtics,L,104,111
+2018-04-07,CHI,Winnipeg Jets,L,1,4,CHI,Brooklyn Nets,L,96,124
+2018-10-18,CHI,Arizona Coyotes,L,1,4,CHI,Philadelphia 76ers,L,108,127
+2018-10-20,CHI,Columbus Blue Jackets,W,4,1,CHI,Detroit Pistons,L,116,118
+2018-10-27,CHI,St. Louis Blues,L,3,7,CHI,Atlanta Hawks,W,97,85
+2018-10-31,CHI,Vancouver Canucks,L,2,4,CHI,Denver Nuggets,L,107,108
+2018-11-03,CHI,Calgary Flames,L,3,5,CHI,Houston Rockets,L,88,96
+2018-11-10,CHI,Philadelphia Flyers,L,0,4,CHI,Cleveland Cavaliers,W,99,98
+2018-11-12,CHI,Carolina Hurricanes,L,2,3,CHI,Dallas Mavericks,L,98,103
+2018-11-14,CHI,St. Louis Blues,W,1,0,CHI,Boston Celtics,L,82,111
+2018-11-16,CHI,Los Angeles Kings,L,1,2,CHI,Milwaukee Bucks,L,104,123
+2018-11-21,CHI,Washington Capitals,L,2,4,CHI,Phoenix Suns,W,124,116
+2018-11-23,CHI,Tampa Bay Lightning,L,2,4,CHI,Miami Heat,L,96,103
+2018-11-24,CHI,Florida Panthers,W,5,4,CHI,Minnesota Timberwolves,L,96,111
+2018-12-01,CHI,Nashville Predators,L,2,5,CHI,Houston Rockets,L,105,121
+2018-12-21,CHI,Colorado Avalanche,W,2,1,CHI,Orlando Magic,W,90,80
+2018-12-23,CHI,Florida Panthers,L,3,6,CHI,Cleveland Cavaliers,W,112,92
+2019-01-06,CHI,Pittsburgh Penguins,W,5,3,CHI,Brooklyn Nets,L,100,117
+2019-01-09,CHI,Nashville Predators,L,3,4,CHI,Portland Trail Blazers,L,112,124
+2019-01-12,CHI,Vegas Golden Knights,L,3,4,CHI,Utah Jazz,L,102,110
+2019-01-17,CHI,New York Rangers,L,3,4,CHI,Denver Nuggets,L,105,135
+2019-02-02,CHI,Minnesota Wild,W,4,3,CHI,Charlotte Hornets,L,118,125
+2019-02-22,CHI,Colorado Avalanche,L,3,5,CHI,Orlando Magic,W,110,109
+2019-02-27,CHI,Anaheim Ducks,W,4,3,CHI,Memphis Grizzlies,W,109,107
+2019-03-03,CHI,San Jose Sharks,L,2,5,CHI,Atlanta Hawks,L,118,123
+2019-03-18,CHI,Vancouver Canucks,L,2,3,CHI,Phoenix Suns,W,116,101
+2019-03-23,CHI,Colorado Avalanche,L,2,4,CHI,Utah Jazz,L,83,114
+2019-03-26,CHI,Arizona Coyotes,L,0,1,CHI,Toronto Raptors,L,103,112
+2019-03-30,CHI,Los Angeles Kings,L,2,3,CHI,Toronto Raptors,L,101,124
+2019-04-01,CHI,Winnipeg Jets,L,3,4,CHI,New York Knicks,L,105,113
+2019-04-03,CHI,St. Louis Blues,W,4,3,CHI,Washington Wizards,W,115,114
+2019-04-06,CHI,Nashville Predators,L,2,5,CHI,Philadelphia 76ers,L,96,116
+2019-10-26,CHI,Carolina Hurricanes,L,0,4,CHI,Toronto Raptors,L,84,108
+2019-11-03,CHI,Anaheim Ducks,W,3,2,CHI,Indiana Pacers,L,95,108
+2019-11-05,CHI,San Jose Sharks,L,2,4,CHI,Los Angeles Lakers,L,112,118
+2019-11-09,CHI,Pittsburgh Penguins,L,2,3,CHI,Houston Rockets,L,94,117
+2019-11-16,CHI,Nashville Predators,W,7,2,CHI,Brooklyn Nets,L,111,117
+2019-11-23,CHI,Dallas Stars,L,1,2,CHI,Charlotte Hornets,W,116,115
+2019-11-29,CHI,Colorado Avalanche,L,2,5,CHI,Portland Trail Blazers,L,103,107
+2019-12-02,CHI,St. Louis Blues,L,0,4,CHI,Sacramento Kings,W,113,106
+2019-12-06,CHI,New Jersey Devils,W,2,1,CHI,Golden State Warriors,L,98,100
+2019-12-08,CHI,Arizona Coyotes,L,3,4,CHI,Miami Heat,L,105,110
+2019-12-14,CHI,St. Louis Blues,L,3,4,CHI,Los Angeles Clippers,W,109,106
+2019-12-18,CHI,Colorado Avalanche,L,1,4,CHI,Washington Wizards,W,110,109
+2019-12-21,CHI,Colorado Avalanche,W,5,3,CHI,Detroit Pistons,W,119,107
+2019-12-23,CHI,New Jersey Devils,L,1,7,CHI,Orlando Magic,L,95,103
+2020-01-02,CHI,Vancouver Canucks,L,5,7,CHI,Utah Jazz,L,98,102
+2020-01-11,CHI,Anaheim Ducks,W,4,2,CHI,Detroit Pistons,W,108,99
+2020-01-15,CHI,Montreal Canadiens,W,4,1,CHI,Washington Wizards,W,115,106
+2020-01-18,CHI,Toronto Maple Leafs,W,6,2,CHI,Cleveland Cavaliers,W,118,116
+2020-02-09,CHI,Winnipeg Jets,L,2,5,CHI,Philadelphia 76ers,L,111,118
+2020-02-11,CHI,Edmonton Oilers,L,3,5,CHI,Washington Wizards,L,114,126
+2020-02-23,CHI,Dallas Stars,L,1,2,CHI,Washington Wizards,W,126,117
+2020-02-25,CHI,St. Louis Blues,L,5,6,CHI,Oklahoma City Thunder,L,122,124
+2020-02-29,CHI,Florida Panthers,W,3,2,CHI,New York Knicks,L,115,125
+2020-03-06,CHI,Detroit Red Wings,L,1,2,CHI,Indiana Pacers,L,102,108
+2020-03-08,CHI,St. Louis Blues,L,0,2,CHI,Brooklyn Nets,L,107,110
+2021-01-15,CHI,Tampa Bay Lightning,L,2,5,CHI,Oklahoma City Thunder,L,125,127
+2021-01-17,CHI,Florida Panthers,L,2,5,CHI,Dallas Mavericks,W,117,101
+2021-01-22,CHI,Detroit Red Wings,W,4,1,CHI,Charlotte Hornets,W,123,110
+2021-02-15,CHI,Detroit Red Wings,W,3,2,CHI,Indiana Pacers,W,120,112
+2021-02-17,CHI,Detroit Red Wings,W,2,0,CHI,Detroit Pistons,W,105,102
+2021-02-19,CHI,Carolina Hurricanes,L,3,5,CHI,Philadelphia 76ers,L,105,112
+2021-03-11,CHI,Dallas Stars,W,4,2,CHI,Philadelphia 76ers,L,105,127
+2021-03-27,CHI,Nashville Predators,L,1,3,CHI,San Antonio Spurs,L,104,120
+2021-04-06,CHI,Dallas Stars,W,4,2,CHI,Indiana Pacers,W,113,97
+2021-04-08,CHI,Dallas Stars,L,1,5,CHI,Toronto Raptors,W,122,113
+2021-04-12,CHI,Columbus Blue Jackets,W,4,3,CHI,Memphis Grizzlies,L,90,101
+2021-04-17,CHI,Detroit Red Wings,W,4,0,CHI,Cleveland Cavaliers,W,106,96
+2021-04-19,CHI,Nashville Predators,L,2,5,CHI,Boston Celtics,W,102,96
+2021-04-21,CHI,Nashville Predators,W,5,4,CHI,Cleveland Cavaliers,L,105,121
+2021-05-01,CHI,Florida Panthers,L,4,5,CHI,Atlanta Hawks,L,97,108
+2021-05-03,CHI,Carolina Hurricanes,L,2,5,CHI,Philadelphia 76ers,L,94,106
+2021-05-06,CHI,Carolina Hurricanes,W,2,1,CHI,Charlotte Hornets,W,120,99
+2021-05-09,CHI,Dallas Stars,W,4,2,CHI,Detroit Pistons,W,108,96
+2021-10-30,CHI,St. Louis Blues,L,0,1,CHI,Utah Jazz,W,107,99
+2021-11-01,CHI,Ottawa Senators,W,5,1,CHI,Boston Celtics,W,128,114
+2021-11-03,CHI,Carolina Hurricanes,L,3,4,CHI,Philadelphia 76ers,L,98,103
+2021-11-12,CHI,Arizona Coyotes,W,2,1,CHI,Golden State Warriors,L,93,119
+2021-11-17,CHI,Seattle Kraken,W,4,2,CHI,Portland Trail Blazers,L,107,112
+2021-11-21,CHI,Vancouver Canucks,W,1,0,CHI,New York Knicks,W,109,103
+2021-11-26,CHI,St. Louis Blues,W,3,2,CHI,Orlando Magic,W,123,88
+2021-12-02,CHI,Washington Capitals,W,4,3,CHI,New York Knicks,W,119,115
+2021-12-04,CHI,New York Rangers,L,2,3,CHI,Brooklyn Nets,W,111,107
+2021-12-11,CHI,Toronto Maple Leafs,L,4,5,CHI,Miami Heat,L,92,118
+2022-01-01,CHI,Nashville Predators,L,1,6,CHI,Washington Wizards,W,120,119
+2022-01-11,CHI,Columbus Blue Jackets,W,4,2,CHI,Detroit Pistons,W,133,87
+2022-01-15,CHI,Anaheim Ducks,W,3,0,CHI,Boston Celtics,L,112,114
+2022-01-17,CHI,Seattle Kraken,L,2,3,CHI,Memphis Grizzlies,L,106,119
+2022-01-21,CHI,Minnesota Wild,L,1,5,CHI,Milwaukee Bucks,L,90,94
+2022-01-24,CHI,Colorado Avalanche,L,0,2,CHI,Oklahoma City Thunder,W,111,110
+2022-01-26,CHI,Detroit Red Wings,W,8,5,CHI,Toronto Raptors,W,111,105
+2022-01-28,CHI,Colorado Avalanche,L,4,6,CHI,San Antonio Spurs,L,122,131
+2022-02-09,CHI,Edmonton Oilers,W,4,1,CHI,Charlotte Hornets,W,121,109
+2022-02-12,CHI,St. Louis Blues,L,1,5,CHI,Oklahoma City Thunder,W,106,101
+2022-02-14,CHI,Winnipeg Jets,W,3,1,CHI,San Antonio Spurs,W,120,109
+2022-03-03,CHI,Edmonton Oilers,W,4,3,CHI,Atlanta Hawks,L,124,130
+2022-03-12,CHI,Ottawa Senators,W,6,3,CHI,Cleveland Cavaliers,W,101,91
+2022-03-24,CHI,Los Angeles Kings,W,4,3,CHI,New Orleans Pelicans,L,109,126
+2022-03-26,CHI,Vegas Golden Knights,L,4,5,CHI,Cleveland Cavaliers,W,98,94
+2022-03-28,CHI,Buffalo Sabres,L,5,6,CHI,New York Knicks,L,104,109
+2022-03-31,CHI,Florida Panthers,L,0,4,CHI,Los Angeles Clippers,W,135,130
+2022-04-10,CHI,Dallas Stars,L,4,6,CHI,Minnesota Timberwolves,W,124,120
+2022-10-21,CHI,Detroit Red Wings,W,4,3,CHI,Washington Wizards,L,100,102
+2022-10-29,CHI,Buffalo Sabres,L,3,4,CHI,Philadelphia 76ers,L,109,114
+2022-11-01,CHI,New York Islanders,L,1,3,CHI,Brooklyn Nets,W,108,99
+2022-11-16,CHI,St. Louis Blues,L,2,5,CHI,New Orleans Pelicans,L,110,124
+2022-11-23,CHI,Dallas Stars,L,4,6,CHI,Milwaukee Bucks,W,118,113
+2022-11-25,CHI,Montreal Canadiens,L,2,3,CHI,Oklahoma City Thunder,L,119,123
+2022-11-30,CHI,Edmonton Oilers,L,4,5,CHI,Phoenix Suns,L,113,132
+2022-12-04,CHI,New York Islanders,L,0,3,CHI,Sacramento Kings,L,101,110
+2022-12-16,CHI,Minnesota Wild,L,1,4,CHI,New York Knicks,L,91,114
+2022-12-18,CHI,New York Rangers,L,1,7,CHI,Minnesota Timberwolves,L,126,150
+2022-12-21,CHI,Nashville Predators,L,2,4,CHI,Atlanta Hawks,W,110,108
+2022-12-23,CHI,Columbus Blue Jackets,W,5,2,CHI,New York Knicks,W,118,117
+2022-12-31,CHI,Columbus Blue Jackets,L,1,4,CHI,Cleveland Cavaliers,L,102,103
+2023-01-06,CHI,Arizona Coyotes,W,2,0,CHI,Philadelphia 76ers,W,126,112
+2023-01-19,CHI,Philadelphia Flyers,W,4,1,CHI,Detroit Pistons,W,126,108
+2023-01-24,CHI,Vancouver Canucks,L,2,5,CHI,Indiana Pacers,L,110,116
+2023-01-26,CHI,Calgary Flames,W,5,1,CHI,Charlotte Hornets,L,96,111
+2023-01-28,CHI,Edmonton Oilers,L,3,7,CHI,Orlando Magic,W,128,109
+2023-02-07,CHI,Anaheim Ducks,L,2,3,CHI,Memphis Grizzlies,L,89,104
+2023-02-11,CHI,Winnipeg Jets,L,1,4,CHI,Cleveland Cavaliers,L,89,97
+2023-02-15,CHI,Toronto Maple Leafs,L,2,5,CHI,Indiana Pacers,L,113,117
+2023-02-28,CHI,Arizona Coyotes,,,,CHI,Toronto Raptors,,,
+2023-03-08,CHI,Detroit Red Wings,,,,CHI,Denver Nuggets,,,
+2023-03-11,CHI,Tampa Bay Lightning,,,,CHI,Houston Rockets,,,
+2023-03-18,CHI,Arizona Coyotes,,,,CHI,Miami Heat,,,
+2023-03-20,CHI,Colorado Avalanche,,,,CHI,Philadelphia 76ers,,,
+2023-03-26,CHI,Vancouver Canucks,,,,CHI,Los Angeles Lakers,,,
+2023-04-04,CHI,Calgary Flames,,,,CHI,Atlanta Hawks,,,

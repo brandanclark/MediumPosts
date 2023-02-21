@@ -1,0 +1,393 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-26,SJS,Anaheim Ducks,L,2,3,GSW,Chicago Bulls,W,99,91
+2011-12-28,SJS,Vancouver Canucks,L,2,3,GSW,New York Knicks,W,92,78
+2012-01-02,SJS,Vancouver Canucks,W,3,2,GSW,Phoenix Suns,L,91,102
+2012-01-04,SJS,Anaheim Ducks,W,3,1,GSW,San Antonio Spurs,L,95,101
+2012-01-07,SJS,Washington Capitals,W,5,2,GSW,Utah Jazz,L,87,88
+2012-01-10,SJS,Minnesota Wild,L,4,5,GSW,Miami Heat,W,111,106
+2012-01-12,SJS,Winnipeg Jets,W,2,0,GSW,Orlando Magic,L,109,117
+2012-01-14,SJS,Columbus Blue Jackets,W,2,1,GSW,Charlotte Bobcats,L,100,112
+2012-01-15,SJS,Chicago Blackhawks,L,3,4,GSW,Detroit Pistons,W,99,91
+2012-01-17,SJS,Calgary Flames,W,2,1,GSW,Cleveland Cavaliers,W,105,95
+2012-01-23,SJS,Edmonton Oilers,L,1,2,GSW,Memphis Grizzlies,L,90,91
+2012-01-31,SJS,Columbus Blue Jackets,W,6,0,GSW,Sacramento Kings,W,93,90
+2012-02-02,SJS,Dallas Stars,W,5,2,GSW,Utah Jazz,W,119,101
+2012-02-04,SJS,Phoenix Coyotes,L,3,5,GSW,Sacramento Kings,L,106,114
+2012-02-12,SJS,St. Louis Blues,L,0,3,GSW,Houston Rockets,W,106,97
+2012-02-13,SJS,Washington Capitals,W,5,3,GSW,Phoenix Suns,W,102,96
+2012-02-17,SJS,Carolina Hurricanes,L,2,3,GSW,Oklahoma City Thunder,L,87,110
+2012-02-28,SJS,Philadelphia Flyers,W,1,0,GSW,Indiana Pacers,L,78,102
+2012-03-10,SJS,Phoenix Coyotes,L,0,3,GSW,Dallas Mavericks,W,111,87
+2012-03-13,SJS,Calgary Flames,L,2,3,GSW,Sacramento Kings,W,115,89
+2012-03-17,SJS,Detroit Red Wings,W,3,2,GSW,Utah Jazz,L,92,99
+2012-03-19,SJS,Anaheim Ducks,L,3,5,GSW,Minnesota Timberwolves,L,93,97
+2012-03-22,SJS,Boston Bruins,W,2,1,GSW,Houston Rockets,L,83,109
+2012-03-24,SJS,Phoenix Coyotes,W,4,3,GSW,Sacramento Kings,W,111,108
+2012-03-28,SJS,Anaheim Ducks,L,1,3,GSW,New Orleans Hornets,L,87,102
+2012-04-03,SJS,Dallas Stars,W,5,2,GSW,Memphis Grizzlies,L,94,98
+2012-04-07,SJS,Los Angeles Kings,W,3,2,GSW,Denver Nuggets,W,112,97
+2013-01-26,SJS,Colorado Avalanche,W,4,0,GSW,Milwaukee Bucks,L,102,109
+2013-01-29,SJS,Anaheim Ducks,W,3,2,GSW,Cleveland Cavaliers,W,108,95
+2013-01-31,SJS,Edmonton Oilers,W,3,2,GSW,Dallas Mavericks,W,100,97
+2013-02-02,SJS,Nashville Predators,L,1,2,GSW,Phoenix Suns,W,113,93
+2013-02-05,SJS,Chicago Blackhawks,L,3,5,GSW,Houston Rockets,L,109,140
+2013-02-09,SJS,Phoenix Coyotes,L,0,1,GSW,Dallas Mavericks,L,91,116
+2013-02-12,SJS,Nashville Predators,L,0,1,GSW,Houston Rockets,L,107,116
+2013-02-19,SJS,St. Louis Blues,W,2,1,GSW,Utah Jazz,L,101,115
+2013-02-22,SJS,Chicago Blackhawks,L,1,2,GSW,San Antonio Spurs,W,107,101
+2013-02-26,SJS,Colorado Avalanche,W,3,2,GSW,Indiana Pacers,L,97,108
+2013-03-02,SJS,Nashville Predators,W,2,1,GSW,Philadelphia 76ers,L,97,104
+2013-03-06,SJS,Calgary Flames,L,1,4,GSW,Sacramento Kings,W,87,83
+2013-03-09,SJS,St. Louis Blues,L,3,4,GSW,Milwaukee Bucks,L,93,103
+2013-03-18,SJS,Anaheim Ducks,L,3,5,GSW,New Orleans Hornets,W,93,72
+2013-03-20,SJS,Edmonton Oilers,W,4,3,GSW,San Antonio Spurs,L,93,104
+2013-03-23,SJS,Minnesota Wild,L,0,2,GSW,Washington Wizards,W,101,92
+2013-03-25,SJS,Anaheim Ducks,W,5,3,GSW,Los Angeles Lakers,W,109,103
+2013-03-27,SJS,Anaheim Ducks,W,4,0,GSW,Sacramento Kings,L,98,105
+2013-03-30,SJS,Phoenix Coyotes,W,3,2,GSW,Portland Trail Blazers,W,125,98
+2013-04-03,SJS,Minnesota Wild,W,4,2,GSW,New Orleans Hornets,W,98,88
+2013-04-05,SJS,Calgary Flames,W,2,1,GSW,Phoenix Suns,W,111,107
+2013-04-07,SJS,Dallas Stars,L,4,5,GSW,Utah Jazz,L,90,97
+2013-04-09,SJS,Columbus Blue Jackets,L,0,4,GSW,Minnesota Timberwolves,W,105,89
+2013-04-11,SJS,Detroit Red Wings,W,3,2,GSW,Oklahoma City Thunder,L,97,116
+2013-04-15,SJS,Phoenix Coyotes,W,4,0,GSW,San Antonio Spurs,W,116,106
+2013-10-30,SJS,Los Angeles Kings,L,3,4,GSW,Los Angeles Lakers,W,125,94
+2013-11-02,SJS,Phoenix Coyotes,L,2,3,GSW,Sacramento Kings,W,98,87
+2013-11-12,SJS,Calgary Flames,W,3,2,GSW,Detroit Pistons,W,113,95
+2013-11-14,SJS,Vancouver Canucks,W,2,1,GSW,Oklahoma City Thunder,W,116,115
+2013-11-23,SJS,New Jersey Devils,W,2,1,GSW,Portland Trail Blazers,L,101,113
+2013-11-27,SJS,Los Angeles Kings,W,3,2,GSW,Dallas Mavericks,L,99,103
+2013-11-29,SJS,St. Louis Blues,W,6,3,GSW,Oklahoma City Thunder,L,112,113
+2013-12-03,SJS,Toronto Maple Leafs,W,4,2,GSW,Toronto Raptors,W,112,103
+2013-12-06,SJS,Carolina Hurricanes,L,3,5,GSW,Houston Rockets,L,83,105
+2013-12-17,SJS,St. Louis Blues,W,4,2,GSW,New Orleans Pelicans,W,104,93
+2013-12-19,SJS,Los Angeles Kings,L,1,4,GSW,San Antonio Spurs,L,102,104
+2013-12-21,SJS,Dallas Stars,W,3,2,GSW,Los Angeles Lakers,W,102,83
+2013-12-23,SJS,Colorado Avalanche,W,5,4,GSW,Denver Nuggets,W,89,81
+2013-12-27,SJS,Phoenix Coyotes,W,4,3,GSW,Phoenix Suns,W,115,86
+2013-12-29,SJS,Anaheim Ducks,W,3,1,GSW,Cleveland Cavaliers,W,108,104
+2013-12-31,SJS,Anaheim Ducks,L,3,6,GSW,Orlando Magic,W,94,81
+2014-01-02,SJS,Edmonton Oilers,W,5,1,GSW,Miami Heat,W,123,114
+2014-01-05,SJS,Chicago Blackhawks,W,3,2,GSW,Washington Wizards,W,112,96
+2014-01-07,SJS,Nashville Predators,L,2,3,GSW,Milwaukee Bucks,W,101,80
+2014-01-18,SJS,Tampa Bay Lightning,W,5,4,GSW,New Orleans Pelicans,W,97,87
+2014-01-20,SJS,Calgary Flames,W,3,2,GSW,Indiana Pacers,L,94,102
+2014-01-30,SJS,Calgary Flames,L,1,4,GSW,Los Angeles Clippers,W,111,92
+2014-02-28,SJS,Buffalo Sabres,L,2,4,GSW,New York Knicks,W,126,103
+2014-03-02,SJS,New Jersey Devils,W,4,2,GSW,Toronto Raptors,L,98,104
+2014-03-04,SJS,Carolina Hurricanes,L,2,3,GSW,Indiana Pacers,W,98,96
+2014-03-11,SJS,Toronto Maple Leafs,W,6,2,GSW,Dallas Mavericks,W,108,85
+2014-03-14,SJS,New York Islanders,W,4,3,GSW,Cleveland Cavaliers,L,94,103
+2014-03-16,SJS,New York Rangers,W,1,0,GSW,Portland Trail Blazers,W,113,112
+2014-03-18,SJS,Florida Panthers,L,2,3,GSW,Orlando Magic,W,103,89
+2014-03-20,SJS,Anaheim Ducks,W,3,2,GSW,Milwaukee Bucks,W,115,110
+2014-03-22,SJS,Washington Capitals,L,2,3,GSW,San Antonio Spurs,L,90,99
+2014-04-01,SJS,Edmonton Oilers,W,5,4,GSW,Dallas Mavericks,W,122,120
+2014-04-11,SJS,Colorado Avalanche,W,5,1,GSW,Los Angeles Lakers,W,112,95
+2014-11-01,SJS,New York Islanders,W,3,1,GSW,Los Angeles Lakers,W,127,104
+2014-11-08,SJS,Dallas Stars,W,5,3,GSW,Houston Rockets,W,98,87
+2014-11-09,SJS,Chicago Blackhawks,L,2,5,GSW,Phoenix Suns,L,95,107
+2014-11-11,SJS,Florida Panthers,L,1,4,GSW,San Antonio Spurs,L,100,113
+2014-11-13,SJS,Tampa Bay Lightning,W,2,1,GSW,Brooklyn Nets,W,107,99
+2014-11-15,SJS,Columbus Blue Jackets,L,1,2,GSW,Charlotte Hornets,W,112,87
+2014-11-16,SJS,Carolina Hurricanes,W,2,0,GSW,Los Angeles Lakers,W,136,115
+2014-11-26,SJS,Calgary Flames,L,0,2,GSW,Orlando Magic,W,111,96
+2014-12-02,SJS,Philadelphia Flyers,W,2,1,GSW,Orlando Magic,W,98,97
+2014-12-04,SJS,Boston Bruins,W,7,4,GSW,New Orleans Pelicans,W,112,85
+2014-12-06,SJS,Calgary Flames,W,3,2,GSW,Chicago Bulls,W,112,102
+2014-12-13,SJS,Nashville Predators,W,2,0,GSW,Dallas Mavericks,W,105,98
+2014-12-18,SJS,Edmonton Oilers,W,4,3,GSW,Oklahoma City Thunder,W,114,109
+2014-12-22,SJS,Anaheim Ducks,L,2,3,GSW,Sacramento Kings,W,128,108
+2014-12-27,SJS,Los Angeles Kings,L,1,3,GSW,Minnesota Timberwolves,W,110,97
+2014-12-30,SJS,Vancouver Canucks,L,1,3,GSW,Philadelphia 76ers,W,126,86
+2015-01-05,SJS,Winnipeg Jets,W,3,2,GSW,Oklahoma City Thunder,W,117,91
+2015-01-13,SJS,Arizona Coyotes,W,3,2,GSW,Utah Jazz,W,116,105
+2015-01-17,SJS,Calgary Flames,L,3,4,GSW,Houston Rockets,W,131,106
+2015-01-19,SJS,New Jersey Devils,L,2,5,GSW,Denver Nuggets,W,122,79
+2015-01-21,SJS,Los Angeles Kings,W,4,2,GSW,Houston Rockets,W,126,113
+2015-01-31,SJS,Chicago Blackhawks,W,2,0,GSW,Phoenix Suns,W,106,87
+2015-02-04,SJS,Calgary Flames,L,1,3,GSW,Dallas Mavericks,W,128,114
+2015-02-07,SJS,Carolina Hurricanes,L,4,5,GSW,New York Knicks,W,106,92
+2015-02-09,SJS,Calgary Flames,L,1,4,GSW,Philadelphia 76ers,W,89,84
+2015-02-11,SJS,Washington Capitals,L,4,5,GSW,Minnesota Timberwolves,W,94,91
+2015-02-26,SJS,Detroit Red Wings,L,2,3,GSW,Cleveland Cavaliers,L,99,110
+2015-03-02,SJS,Montreal Canadiens,W,4,0,GSW,Brooklyn Nets,L,108,110
+2015-03-09,SJS,Pittsburgh Penguins,W,2,1,GSW,Phoenix Suns,W,98,80
+2015-03-14,SJS,Chicago Blackhawks,L,2,6,GSW,New York Knicks,W,125,94
+2015-03-21,SJS,Montreal Canadiens,L,0,2,GSW,Utah Jazz,W,106,91
+2015-03-23,SJS,Ottawa Senators,L,2,5,GSW,Washington Wizards,W,107,76
+2015-03-28,SJS,Philadelphia Flyers,W,3,2,GSW,Milwaukee Bucks,W,108,95
+2015-04-04,SJS,Arizona Coyotes,L,3,5,GSW,Dallas Mavericks,W,123,110
+2015-04-09,SJS,Edmonton Oilers,W,3,1,GSW,Portland Trail Blazers,W,116,105
+2015-04-11,SJS,Los Angeles Kings,L,1,4,GSW,Minnesota Timberwolves,W,110,101
+2015-10-31,SJS,Dallas Stars,L,3,5,GSW,New Orleans Pelicans,W,134,120
+2015-11-07,SJS,Anaheim Ducks,L,0,1,GSW,Sacramento Kings,W,103,94
+2015-11-14,SJS,Buffalo Sabres,W,2,1,GSW,Brooklyn Nets,W,107,99
+2015-11-17,SJS,Boston Bruins,W,5,4,GSW,Toronto Raptors,W,115,110
+2015-11-19,SJS,Philadelphia Flyers,W,1,0,GSW,Los Angeles Clippers,W,124,117
+2015-11-22,SJS,Columbus Blue Jackets,W,5,3,GSW,Denver Nuggets,W,118,105
+2015-11-28,SJS,Calgary Flames,W,5,2,GSW,Sacramento Kings,W,120,101
+2015-12-05,SJS,Tampa Bay Lightning,L,3,4,GSW,Toronto Raptors,W,112,109
+2015-12-08,SJS,Calgary Flames,L,2,4,GSW,Indiana Pacers,W,131,123
+2015-12-12,SJS,Minnesota Wild,L,0,2,GSW,Milwaukee Bucks,L,95,108
+2015-12-18,SJS,Ottawa Senators,L,2,4,GSW,Milwaukee Bucks,W,121,112
+2015-12-28,SJS,Colorado Avalanche,L,3,6,GSW,Sacramento Kings,W,122,103
+2015-12-30,SJS,Philadelphia Flyers,W,4,2,GSW,Dallas Mavericks,L,91,114
+2016-01-02,SJS,Winnipeg Jets,L,1,4,GSW,Denver Nuggets,W,111,108
+2016-01-09,SJS,Toronto Maple Leafs,W,7,0,GSW,Sacramento Kings,W,128,116
+2016-01-11,SJS,Calgary Flames,W,5,4,GSW,Miami Heat,W,111,103
+2016-01-14,SJS,Edmonton Oilers,W,2,1,GSW,Los Angeles Lakers,W,116,98
+2016-01-16,SJS,Dallas Stars,W,4,3,GSW,Detroit Pistons,L,95,113
+2016-01-18,SJS,Ottawa Senators,L,3,4,GSW,Cleveland Cavaliers,W,132,98
+2016-02-06,SJS,Nashville Predators,L,2,6,GSW,Oklahoma City Thunder,W,116,108
+2016-02-09,SJS,Chicago Blackhawks,W,2,0,GSW,Houston Rockets,W,123,110
+2016-02-19,SJS,Carolina Hurricanes,L,2,5,GSW,Portland Trail Blazers,L,105,137
+2016-02-22,SJS,St. Louis Blues,W,6,3,GSW,Atlanta Hawks,W,102,92
+2016-02-24,SJS,Colorado Avalanche,L,3,4,GSW,Miami Heat,W,118,112
+2016-03-03,SJS,Vancouver Canucks,W,3,2,GSW,Oklahoma City Thunder,W,121,106
+2016-03-07,SJS,Calgary Flames,W,2,1,GSW,Orlando Magic,W,119,113
+2016-03-12,SJS,Washington Capitals,W,5,2,GSW,Phoenix Suns,W,123,116
+2016-03-19,SJS,New York Rangers,W,4,1,GSW,San Antonio Spurs,L,79,87
+2016-03-29,SJS,Vancouver Canucks,W,4,1,GSW,Washington Wizards,W,102,94
+2016-04-05,SJS,Minnesota Wild,W,3,0,GSW,Minnesota Timberwolves,L,117,124
+2016-04-07,SJS,Winnipeg Jets,L,4,5,GSW,San Antonio Spurs,W,112,101
+2016-04-09,SJS,Arizona Coyotes,W,1,0,GSW,Memphis Grizzlies,W,100,99
+2016-10-25,SJS,Anaheim Ducks,W,2,1,GSW,San Antonio Spurs,L,100,129
+2016-11-01,SJS,Arizona Coyotes,L,2,3,GSW,Portland Trail Blazers,W,127,104
+2016-11-03,SJS,Calgary Flames,L,2,3,GSW,Oklahoma City Thunder,W,122,96
+2016-11-10,SJS,Florida Panthers,W,4,2,GSW,Denver Nuggets,W,125,101
+2016-11-19,SJS,Arizona Coyotes,L,2,3,GSW,Milwaukee Bucks,W,124,121
+2016-11-21,SJS,New Jersey Devils,W,4,0,GSW,Indiana Pacers,W,120,83
+2016-11-23,SJS,Chicago Blackhawks,W,2,1,GSW,Los Angeles Lakers,W,149,106
+2016-11-25,SJS,New York Islanders,W,3,2,GSW,Los Angeles Lakers,W,109,85
+2016-11-26,SJS,Anaheim Ducks,L,2,3,GSW,Minnesota Timberwolves,W,115,102
+2016-12-07,SJS,Ottawa Senators,L,2,4,GSW,Los Angeles Clippers,W,115,98
+2016-12-10,SJS,Carolina Hurricanes,W,4,3,GSW,Memphis Grizzlies,L,89,110
+2016-12-13,SJS,Toronto Maple Leafs,W,3,2,GSW,New Orleans Pelicans,W,113,109
+2016-12-20,SJS,Calgary Flames,W,4,1,GSW,Utah Jazz,W,104,74
+2016-12-23,SJS,Edmonton Oilers,W,3,2,GSW,Detroit Pistons,W,119,113
+2016-12-30,SJS,Philadelphia Flyers,W,2,0,GSW,Dallas Mavericks,W,108,99
+2017-01-10,SJS,Edmonton Oilers,W,5,3,GSW,Miami Heat,W,107,95
+2017-01-16,SJS,Winnipeg Jets,W,5,2,GSW,Cleveland Cavaliers,W,126,91
+2017-01-18,SJS,Los Angeles Kings,W,3,2,GSW,Oklahoma City Thunder,W,121,100
+2017-01-23,SJS,Colorado Avalanche,W,5,2,GSW,Miami Heat,L,102,105
+2017-02-02,SJS,Vancouver Canucks,W,4,1,GSW,Los Angeles Clippers,W,133,120
+2017-02-04,SJS,Arizona Coyotes,L,2,3,GSW,Sacramento Kings,L,106,109
+2017-02-11,SJS,Philadelphia Flyers,L,1,2,GSW,Oklahoma City Thunder,W,130,114
+2017-02-15,SJS,Florida Panthers,L,5,6,GSW,Sacramento Kings,W,109,86
+2017-02-25,SJS,Vancouver Canucks,W,4,1,GSW,Brooklyn Nets,W,112,95
+2017-02-28,SJS,Toronto Maple Leafs,W,3,1,GSW,Washington Wizards,L,108,112
+2017-03-02,SJS,Vancouver Canucks,W,3,1,GSW,Chicago Bulls,L,87,94
+2017-03-05,SJS,Minnesota Wild,L,1,3,GSW,New York Knicks,W,112,105
+2017-03-06,SJS,Winnipeg Jets,W,3,2,GSW,Atlanta Hawks,W,119,111
+2017-03-11,SJS,Nashville Predators,L,1,3,GSW,San Antonio Spurs,L,85,107
+2017-03-14,SJS,Buffalo Sabres,W,4,1,GSW,Philadelphia 76ers,W,106,104
+2017-03-16,SJS,St. Louis Blues,L,1,4,GSW,Orlando Magic,W,122,92
+2017-03-18,SJS,Anaheim Ducks,L,1,2,GSW,Milwaukee Bucks,W,117,92
+2017-03-20,SJS,Dallas Stars,L,0,1,GSW,Oklahoma City Thunder,W,111,95
+2017-03-21,SJS,Minnesota Wild,L,2,3,GSW,Dallas Mavericks,W,112,87
+2017-03-24,SJS,Dallas Stars,L,1,6,GSW,Sacramento Kings,W,114,100
+2017-03-28,SJS,New York Rangers,W,5,4,GSW,Houston Rockets,W,113,106
+2017-03-31,SJS,Calgary Flames,L,2,5,GSW,Houston Rockets,W,107,98
+2017-04-02,SJS,Vancouver Canucks,W,3,1,GSW,Washington Wizards,W,139,115
+2017-04-04,SJS,Vancouver Canucks,W,3,1,GSW,Minnesota Timberwolves,W,121,107
+2017-04-08,SJS,Calgary Flames,W,3,1,GSW,New Orleans Pelicans,W,123,101
+2017-10-17,SJS,Montreal Canadiens,W,5,2,GSW,Houston Rockets,L,121,122
+2017-10-20,SJS,New Jersey Devils,W,3,0,GSW,New Orleans Pelicans,W,128,120
+2017-10-21,SJS,New York Islanders,L,3,5,GSW,Memphis Grizzlies,L,101,111
+2017-10-23,SJS,New York Rangers,W,4,1,GSW,Dallas Mavericks,W,133,103
+2017-10-30,SJS,Toronto Maple Leafs,W,3,2,GSW,Los Angeles Clippers,W,141,113
+2017-11-04,SJS,Anaheim Ducks,W,2,1,GSW,Denver Nuggets,W,127,108
+2017-11-08,SJS,Tampa Bay Lightning,L,1,5,GSW,Minnesota Timberwolves,W,125,101
+2017-11-11,SJS,Vancouver Canucks,W,5,0,GSW,Philadelphia 76ers,W,135,114
+2017-11-16,SJS,Florida Panthers,L,0,2,GSW,Boston Celtics,L,88,92
+2017-11-18,SJS,Boston Bruins,L,1,3,GSW,Philadelphia 76ers,W,124,116
+2017-11-22,SJS,Arizona Coyotes,W,3,1,GSW,Oklahoma City Thunder,L,91,108
+2017-11-24,SJS,Vegas Golden Knights,L,4,5,GSW,Chicago Bulls,W,143,94
+2017-11-25,SJS,Winnipeg Jets,W,4,0,GSW,New Orleans Pelicans,W,110,95
+2017-12-01,SJS,Florida Panthers,W,2,1,GSW,Orlando Magic,W,133,112
+2017-12-04,SJS,Washington Capitals,L,1,4,GSW,New Orleans Pelicans,W,125,115
+2017-12-14,SJS,Calgary Flames,W,3,2,GSW,Dallas Mavericks,W,112,97
+2017-12-18,SJS,Edmonton Oilers,L,3,5,GSW,Los Angeles Lakers,W,116,114
+2017-12-23,SJS,Los Angeles Kings,W,2,0,GSW,Denver Nuggets,L,81,96
+2018-01-04,SJS,Toronto Maple Leafs,L,2,3,GSW,Houston Rockets,W,124,114
+2018-01-13,SJS,Arizona Coyotes,W,6,5,GSW,Toronto Raptors,W,127,125
+2018-01-15,SJS,Los Angeles Kings,W,4,1,GSW,Cleveland Cavaliers,W,118,108
+2018-01-20,SJS,Pittsburgh Penguins,W,2,1,GSW,Houston Rockets,L,108,116
+2018-01-23,SJS,Winnipeg Jets,L,4,5,GSW,New York Knicks,W,123,112
+2018-01-25,SJS,New York Rangers,L,5,6,GSW,Minnesota Timberwolves,W,126,113
+2018-01-30,SJS,Pittsburgh Penguins,L,2,5,GSW,Utah Jazz,L,99,129
+2018-02-02,SJS,Columbus Blue Jackets,W,3,1,GSW,Sacramento Kings,W,119,104
+2018-02-06,SJS,Colorado Avalanche,L,1,3,GSW,Oklahoma City Thunder,L,105,125
+2018-02-08,SJS,Vegas Golden Knights,L,3,5,GSW,Dallas Mavericks,W,121,103
+2018-02-10,SJS,Edmonton Oilers,W,6,4,GSW,San Antonio Spurs,W,122,105
+2018-02-22,SJS,Nashville Predators,L,1,7,GSW,Los Angeles Clippers,W,134,127
+2018-03-08,SJS,St. Louis Blues,W,2,0,GSW,San Antonio Spurs,W,110,107
+2018-03-14,SJS,Edmonton Oilers,W,4,3,GSW,Los Angeles Lakers,W,117,106
+2018-03-16,SJS,Calgary Flames,W,7,4,GSW,Sacramento Kings,L,93,98
+2018-03-17,SJS,Vancouver Canucks,W,5,3,GSW,Phoenix Suns,W,124,109
+2018-03-27,SJS,St. Louis Blues,L,2,3,GSW,Indiana Pacers,L,81,92
+2018-03-29,SJS,Nashville Predators,L,3,5,GSW,Milwaukee Bucks,L,107,116
+2018-03-31,SJS,Vegas Golden Knights,L,2,3,GSW,Sacramento Kings,W,112,96
+2018-04-03,SJS,Dallas Stars,L,2,4,GSW,Oklahoma City Thunder,W,111,107
+2018-04-05,SJS,Colorado Avalanche,W,4,2,GSW,Indiana Pacers,L,106,126
+2018-04-07,SJS,Minnesota Wild,L,3,6,GSW,New Orleans Pelicans,L,120,126
+2018-10-26,SJS,Carolina Hurricanes,L,3,4,GSW,New York Knicks,W,128,100
+2018-10-28,SJS,Anaheim Ducks,W,4,3,GSW,Brooklyn Nets,W,120,114
+2018-11-08,SJS,Dallas Stars,L,3,4,GSW,Milwaukee Bucks,L,111,134
+2018-11-13,SJS,Nashville Predators,W,5,4,GSW,Atlanta Hawks,W,110,103
+2018-11-15,SJS,Toronto Maple Leafs,L,3,5,GSW,Houston Rockets,L,86,107
+2018-11-17,SJS,St. Louis Blues,W,4,0,GSW,Dallas Mavericks,L,109,112
+2018-11-23,SJS,Vancouver Canucks,W,4,0,GSW,Portland Trail Blazers,W,125,97
+2018-11-24,SJS,Vegas Golden Knights,L,0,6,GSW,Sacramento Kings,W,117,116
+2018-12-01,SJS,Ottawa Senators,L,2,6,GSW,Detroit Pistons,L,102,111
+2018-12-05,SJS,Carolina Hurricanes,W,5,1,GSW,Cleveland Cavaliers,W,129,105
+2018-12-07,SJS,Dallas Stars,L,2,3,GSW,Milwaukee Bucks,W,105,95
+2018-12-10,SJS,New Jersey Devils,W,5,2,GSW,Minnesota Timberwolves,W,116,108
+2018-12-22,SJS,Los Angeles Kings,L,2,3,GSW,Dallas Mavericks,W,120,116
+2018-12-23,SJS,Arizona Coyotes,L,3,4,GSW,Los Angeles Clippers,W,129,127
+2018-12-27,SJS,Anaheim Ducks,W,4,2,GSW,Portland Trail Blazers,L,109,110
+2018-12-29,SJS,Edmonton Oilers,W,7,4,GSW,Portland Trail Blazers,W,115,105
+2018-12-31,SJS,Calgary Flames,L,5,8,GSW,Phoenix Suns,W,132,109
+2019-01-05,SJS,Tampa Bay Lightning,W,5,2,GSW,Sacramento Kings,W,127,123
+2019-01-08,SJS,Edmonton Oilers,W,7,2,GSW,New York Knicks,W,122,95
+2019-01-15,SJS,Pittsburgh Penguins,W,5,2,GSW,Denver Nuggets,W,142,111
+2019-01-16,SJS,Arizona Coyotes,L,3,6,GSW,New Orleans Pelicans,W,147,140
+2019-01-21,SJS,Florida Panthers,L,2,6,GSW,Los Angeles Lakers,W,130,111
+2019-02-02,SJS,Arizona Coyotes,W,3,2,GSW,Los Angeles Lakers,W,115,101
+2019-02-21,SJS,Pittsburgh Penguins,W,4,0,GSW,Sacramento Kings,W,125,123
+2019-02-23,SJS,Columbus Blue Jackets,L,0,4,GSW,Houston Rockets,L,112,118
+2019-03-16,SJS,Nashville Predators,L,2,4,GSW,Oklahoma City Thunder,W,110,88
+2019-03-18,SJS,Vegas Golden Knights,L,3,7,GSW,San Antonio Spurs,L,105,111
+2019-03-21,SJS,Los Angeles Kings,L,2,4,GSW,Indiana Pacers,W,112,89
+2019-03-31,SJS,Calgary Flames,L,3,5,GSW,Charlotte Hornets,W,137,90
+2019-04-02,SJS,Vancouver Canucks,L,2,4,GSW,Denver Nuggets,W,116,102
+2019-04-04,SJS,Edmonton Oilers,W,3,2,GSW,Los Angeles Lakers,W,108,90
+2019-10-24,SJS,Montreal Canadiens,W,4,2,GSW,Los Angeles Clippers,L,122,141
+2019-10-27,SJS,Ottawa Senators,L,2,5,GSW,Oklahoma City Thunder,L,92,120
+2019-11-01,SJS,Winnipeg Jets,L,2,3,GSW,San Antonio Spurs,L,110,127
+2019-11-02,SJS,Vancouver Canucks,L,2,5,GSW,Charlotte Hornets,L,87,93
+2019-11-09,SJS,Nashville Predators,W,2,1,GSW,Oklahoma City Thunder,L,108,114
+2019-11-19,SJS,Edmonton Oilers,L,2,5,GSW,Memphis Grizzlies,W,114,95
+2019-11-25,SJS,Los Angeles Kings,W,4,3,GSW,Oklahoma City Thunder,L,97,100
+2019-11-27,SJS,Winnipeg Jets,L,1,5,GSW,Chicago Bulls,W,104,90
+2019-11-29,SJS,Los Angeles Kings,W,4,1,GSW,Miami Heat,L,105,122
+2019-12-27,SJS,Los Angeles Kings,L,2,3,GSW,Phoenix Suns,W,105,96
+2019-12-28,SJS,Philadelphia Flyers,W,6,1,GSW,Dallas Mavericks,L,121,141
+2019-12-31,SJS,Detroit Red Wings,L,0,2,GSW,San Antonio Spurs,L,113,117
+2020-01-02,SJS,Pittsburgh Penguins,W,3,2,GSW,Minnesota Timberwolves,L,84,99
+2020-01-04,SJS,Columbus Blue Jackets,W,3,2,GSW,Detroit Pistons,L,104,111
+2020-01-14,SJS,Arizona Coyotes,L,3,6,GSW,Dallas Mavericks,L,97,124
+2020-01-16,SJS,Colorado Avalanche,L,0,4,GSW,Denver Nuggets,L,131,134
+2020-01-18,SJS,Vancouver Canucks,L,1,4,GSW,Orlando Magic,W,109,95
+2020-02-01,SJS,Tampa Bay Lightning,L,0,3,GSW,Cleveland Cavaliers,W,131,112
+2020-02-10,SJS,Calgary Flames,L,2,6,GSW,Miami Heat,L,101,113
+2020-02-20,SJS,New Jersey Devils,L,1,2,GSW,Houston Rockets,L,105,135
+2020-02-23,SJS,New York Islanders,L,1,4,GSW,New Orleans Pelicans,L,101,115
+2020-02-25,SJS,Philadelphia Flyers,L,2,4,GSW,Sacramento Kings,L,94,112
+2020-02-27,SJS,New Jersey Devils,W,3,2,GSW,Los Angeles Lakers,L,86,116
+2020-02-29,SJS,Pittsburgh Penguins,W,5,0,GSW,Phoenix Suns,W,115,99
+2020-03-03,SJS,Toronto Maple Leafs,W,5,2,GSW,Denver Nuggets,W,116,100
+2020-03-05,SJS,Minnesota Wild,L,2,3,GSW,Toronto Raptors,L,113,121
+2020-03-07,SJS,Ottawa Senators,L,1,2,GSW,Philadelphia 76ers,W,118,114
+2021-01-14,SJS,Arizona Coyotes,W,4,3,GSW,Denver Nuggets,L,104,114
+2021-01-18,SJS,St. Louis Blues,L,4,5,GSW,Los Angeles Lakers,W,115,113
+2021-01-20,SJS,St. Louis Blues,W,2,1,GSW,San Antonio Spurs,W,121,99
+2021-01-28,SJS,Colorado Avalanche,L,0,3,GSW,Phoenix Suns,L,93,114
+2021-02-06,SJS,Anaheim Ducks,L,1,2,GSW,Dallas Mavericks,L,132,134
+2021-02-09,SJS,Los Angeles Kings,W,4,3,GSW,San Antonio Spurs,W,114,91
+2021-02-11,SJS,Los Angeles Kings,L,2,6,GSW,Orlando Magic,W,111,105
+2021-02-13,SJS,Vegas Golden Knights,L,1,3,GSW,Brooklyn Nets,L,117,134
+2021-02-15,SJS,Anaheim Ducks,W,3,2,GSW,Cleveland Cavaliers,W,129,98
+2021-02-20,SJS,St. Louis Blues,W,5,4,GSW,Charlotte Hornets,L,100,102
+2021-03-03,SJS,Colorado Avalanche,L,0,4,GSW,Portland Trail Blazers,L,106,108
+2021-03-15,SJS,Vegas Golden Knights,L,1,2,GSW,Los Angeles Lakers,L,97,128
+2021-03-17,SJS,Vegas Golden Knights,L,4,5,GSW,Houston Rockets,W,108,94
+2021-03-19,SJS,St. Louis Blues,L,1,2,GSW,Memphis Grizzlies,W,116,103
+2021-03-20,SJS,St. Louis Blues,L,2,5,GSW,Memphis Grizzlies,L,103,111
+2021-03-26,SJS,Arizona Coyotes,L,2,5,GSW,Atlanta Hawks,L,108,124
+2021-03-29,SJS,Minnesota Wild,W,4,3,GSW,Chicago Bulls,W,116,102
+2021-04-02,SJS,Los Angeles Kings,W,3,0,GSW,Toronto Raptors,L,77,130
+2021-04-06,SJS,Anaheim Ducks,L,1,5,GSW,Milwaukee Bucks,W,122,121
+2021-04-09,SJS,Los Angeles Kings,W,5,2,GSW,Washington Wizards,L,107,110
+2021-04-10,SJS,Los Angeles Kings,L,2,4,GSW,Houston Rockets,W,125,109
+2021-04-12,SJS,Anaheim Ducks,L,0,4,GSW,Denver Nuggets,W,116,107
+2021-04-14,SJS,Anaheim Ducks,L,1,4,GSW,Oklahoma City Thunder,W,147,109
+2021-04-17,SJS,Minnesota Wild,L,2,5,GSW,Boston Celtics,L,114,119
+2021-04-19,SJS,Vegas Golden Knights,L,2,3,GSW,Philadelphia 76ers,W,107,96
+2021-04-21,SJS,Vegas Golden Knights,L,2,5,GSW,Washington Wizards,L,114,118
+2021-05-01,SJS,Colorado Avalanche,L,3,4,GSW,Houston Rockets,W,113,87
+2021-05-03,SJS,Colorado Avalanche,L,4,5,GSW,New Orleans Pelicans,W,123,108
+2021-05-08,SJS,Arizona Coyotes,L,4,5,GSW,Oklahoma City Thunder,W,136,97
+2021-10-19,SJS,Montreal Canadiens,W,5,0,GSW,Los Angeles Lakers,W,121,114
+2021-10-21,SJS,Ottawa Senators,W,2,1,GSW,Los Angeles Clippers,W,115,113
+2021-10-24,SJS,Boston Bruins,L,3,4,GSW,Sacramento Kings,W,119,107
+2021-10-26,SJS,Nashville Predators,L,1,3,GSW,Oklahoma City Thunder,W,106,98
+2021-10-28,SJS,Montreal Canadiens,L,0,4,GSW,Memphis Grizzlies,L,101,104
+2021-10-30,SJS,Winnipeg Jets,W,2,1,GSW,Oklahoma City Thunder,W,103,82
+2021-11-16,SJS,Minnesota Wild,W,4,1,GSW,Brooklyn Nets,W,117,99
+2021-11-18,SJS,St. Louis Blues,L,1,4,GSW,Cleveland Cavaliers,W,104,89
+2021-11-24,SJS,Ottawa Senators,W,6,3,GSW,Philadelphia 76ers,W,116,96
+2021-11-26,SJS,Toronto Maple Leafs,L,1,4,GSW,Portland Trail Blazers,W,118,103
+2021-11-28,SJS,Chicago Blackhawks,W,2,0,GSW,Los Angeles Clippers,W,105,90
+2021-11-30,SJS,New Jersey Devils,W,5,2,GSW,Phoenix Suns,L,96,104
+2021-12-03,SJS,New York Rangers,L,0,1,GSW,Phoenix Suns,W,118,96
+2021-12-11,SJS,Dallas Stars,W,2,1,GSW,Philadelphia 76ers,L,93,102
+2021-12-14,SJS,Seattle Kraken,L,1,3,GSW,New York Knicks,W,105,96
+2021-12-28,SJS,Arizona Coyotes,W,8,7,GSW,Denver Nuggets,L,86,89
+2022-01-06,SJS,Buffalo Sabres,W,3,2,GSW,New Orleans Pelicans,L,96,101
+2022-01-11,SJS,Detroit Red Wings,W,3,2,GSW,Memphis Grizzlies,L,108,116
+2022-01-13,SJS,New York Rangers,L,0,3,GSW,Milwaukee Bucks,L,99,118
+2022-01-20,SJS,Seattle Kraken,L,2,3,GSW,Indiana Pacers,L,117,121
+2022-01-29,SJS,Florida Panthers,L,4,5,GSW,Brooklyn Nets,W,110,106
+2022-02-01,SJS,Tampa Bay Lightning,L,2,3,GSW,San Antonio Spurs,W,124,120
+2022-02-14,SJS,Edmonton Oilers,L,0,3,GSW,Los Angeles Clippers,L,104,119
+2022-02-24,SJS,New York Islanders,W,4,3,GSW,Portland Trail Blazers,W,132,95
+2022-02-27,SJS,Seattle Kraken,W,3,1,GSW,Dallas Mavericks,L,101,107
+2022-03-01,SJS,Vegas Golden Knights,L,1,3,GSW,Minnesota Timberwolves,L,114,129
+2022-03-05,SJS,Nashville Predators,L,0,8,GSW,Los Angeles Lakers,L,116,124
+2022-03-10,SJS,Los Angeles Kings,W,4,3,GSW,Denver Nuggets,W,113,102
+2022-03-12,SJS,Los Angeles Kings,W,5,0,GSW,Milwaukee Bucks,W,122,109
+2022-03-20,SJS,Arizona Coyotes,W,4,2,GSW,San Antonio Spurs,L,108,110
+2022-03-22,SJS,Calgary Flames,W,4,3,GSW,Orlando Magic,L,90,94
+2022-03-30,SJS,Arizona Coyotes,L,2,5,GSW,Phoenix Suns,L,103,107
+2022-04-02,SJS,Dallas Stars,L,4,5,GSW,Utah Jazz,W,111,107
+2022-04-07,SJS,Calgary Flames,L,2,4,GSW,Los Angeles Lakers,W,128,112
+2022-04-09,SJS,Vancouver Canucks,L,2,4,GSW,San Antonio Spurs,W,100,94
+2022-10-18,SJS,New York Islanders,L,2,5,GSW,Los Angeles Lakers,W,123,109
+2022-10-23,SJS,Philadelphia Flyers,W,3,0,GSW,Sacramento Kings,W,130,125
+2022-10-25,SJS,Vegas Golden Knights,L,2,4,GSW,Phoenix Suns,L,105,134
+2022-10-27,SJS,Toronto Maple Leafs,W,4,3,GSW,Miami Heat,W,123,110
+2022-10-29,SJS,Tampa Bay Lightning,L,3,4,GSW,Charlotte Hornets,L,113,120
+2022-11-01,SJS,Anaheim Ducks,L,5,6,GSW,Miami Heat,L,109,116
+2022-11-03,SJS,Florida Panthers,L,3,4,GSW,Orlando Magic,L,129,130
+2022-11-11,SJS,Dallas Stars,W,5,4,GSW,Cleveland Cavaliers,W,106,101
+2022-11-13,SJS,Minnesota Wild,W,3,2,GSW,Sacramento Kings,L,115,122
+2022-11-21,SJS,Ottawa Senators,W,5,1,GSW,New Orleans Pelicans,L,83,128
+2022-11-23,SJS,Seattle Kraken,L,5,8,GSW,Los Angeles Clippers,W,124,107
+2022-11-25,SJS,Los Angeles Kings,L,2,5,GSW,Utah Jazz,W,129,118
+2022-11-27,SJS,Vancouver Canucks,L,3,4,GSW,Minnesota Timberwolves,W,137,114
+2022-11-29,SJS,Montreal Canadiens,W,4,0,GSW,Dallas Mavericks,L,113,116
+2022-12-03,SJS,Ottawa Senators,L,2,5,GSW,Houston Rockets,W,120,101
+2022-12-07,SJS,Vancouver Canucks,L,5,6,GSW,Utah Jazz,L,123,124
+2022-12-13,SJS,Arizona Coyotes,W,3,2,GSW,Milwaukee Bucks,L,111,128
+2022-12-18,SJS,Calgary Flames,L,2,5,GSW,Toronto Raptors,W,126,110
+2022-12-20,SJS,Calgary Flames,L,3,7,GSW,New York Knicks,L,94,132
+2022-12-27,SJS,Vancouver Canucks,L,2,6,GSW,Charlotte Hornets,W,110,105
+2023-01-07,SJS,Boston Bruins,L,2,4,GSW,Orlando Magic,L,101,115
+2023-01-10,SJS,Arizona Coyotes,W,4,2,GSW,Phoenix Suns,L,113,125
+2023-01-13,SJS,Edmonton Oilers,L,1,7,GSW,San Antonio Spurs,W,144,113
+2023-01-16,SJS,New Jersey Devils,L,3,4,GSW,Washington Wizards,W,127,118
+2023-01-22,SJS,Boston Bruins,L,0,4,GSW,Brooklyn Nets,L,116,120
+2023-01-27,SJS,Carolina Hurricanes,L,4,5,GSW,Toronto Raptors,W,129,117
+2023-02-14,SJS,Pittsburgh Penguins,L,1,3,GSW,Los Angeles Clippers,L,124,134
+2023-02-23,SJS,Nashville Predators,,,,GSW,Los Angeles Lakers,,,
+2023-02-28,SJS,Montreal Canadiens,,,,GSW,Portland Trail Blazers,,,
+2023-03-02,SJS,St. Louis Blues,,,,GSW,Los Angeles Clippers,,,
+2023-03-07,SJS,Colorado Avalanche,,,,GSW,Oklahoma City Thunder,,,
+2023-03-09,SJS,St. Louis Blues,,,,GSW,Memphis Grizzlies,,,
+2023-03-11,SJS,Minnesota Wild,,,,GSW,Milwaukee Bucks,,,
+2023-03-18,SJS,New York Islanders,,,,GSW,Memphis Grizzlies,,,
+2023-03-20,SJS,Edmonton Oilers,,,,GSW,Houston Rockets,,,
+2023-03-28,SJS,Winnipeg Jets,,,,GSW,New Orleans Pelicans,,,
+2023-04-04,SJS,Colorado Avalanche,,,,GSW,Oklahoma City Thunder,,,

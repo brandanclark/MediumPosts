@@ -1,0 +1,283 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2014-11-01,ARI,Carolina Hurricanes,L,0,3,PHO,Utah Jazz,L,91,118
+2014-11-04,ARI,Toronto Maple Leafs,W,3,2,PHO,Los Angeles Lakers,W,112,106
+2014-11-07,ARI,Anaheim Ducks,W,3,2,PHO,Sacramento Kings,L,112,114
+2014-11-14,ARI,Vancouver Canucks,W,5,0,PHO,Charlotte Hornets,L,95,103
+2014-11-22,ARI,San Jose Sharks,W,4,3,PHO,Indiana Pacers,W,106,83
+2014-12-02,ARI,Calgary Flames,L,2,5,PHO,Indiana Pacers,W,116,99
+2014-12-06,ARI,Boston Bruins,L,2,5,PHO,Houston Rockets,L,95,100
+2014-12-20,ARI,Los Angeles Kings,L,2,4,PHO,New York Knicks,W,99,90
+2014-12-23,ARI,Edmonton Oilers,W,5,1,PHO,Dallas Mavericks,W,124,115
+2014-12-31,ARI,Dallas Stars,L,0,6,PHO,Oklahoma City Thunder,L,134,137
+2015-01-06,ARI,St. Louis Blues,L,0,6,PHO,Milwaukee Bucks,W,102,96
+2015-01-13,ARI,San Jose Sharks,L,2,3,PHO,Cleveland Cavaliers,W,107,100
+2015-01-31,ARI,Ottawa Senators,L,2,7,PHO,Golden State Warriors,L,87,106
+2015-02-05,ARI,Carolina Hurricanes,L,1,2,PHO,Portland Trail Blazers,L,87,108
+2015-02-10,ARI,St. Louis Blues,L,1,2,PHO,Houston Rockets,L,118,127
+2015-02-21,ARI,Tampa Bay Lightning,L,2,4,PHO,Chicago Bulls,L,107,112
+2015-02-23,ARI,New Jersey Devils,L,0,3,PHO,Boston Celtics,L,110,115
+2015-02-26,ARI,New York Rangers,L,3,4,PHO,Oklahoma City Thunder,W,117,113
+2015-02-28,ARI,Boston Bruins,L,1,4,PHO,San Antonio Spurs,L,74,101
+2015-03-07,ARI,Montreal Canadiens,L,0,2,PHO,Cleveland Cavaliers,L,79,89
+2015-03-09,ARI,Nashville Predators,L,1,2,PHO,Golden State Warriors,L,80,98
+2015-03-19,ARI,Colorado Avalanche,L,2,5,PHO,New Orleans Pelicans,W,74,72
+2015-03-21,ARI,Pittsburgh Penguins,L,1,3,PHO,Houston Rockets,W,117,102
+2015-03-22,ARI,Vancouver Canucks,L,1,3,PHO,Dallas Mavericks,W,98,92
+2015-03-30,ARI,Buffalo Sabres,L,1,4,PHO,Portland Trail Blazers,L,86,109
+2015-04-04,ARI,San Jose Sharks,W,5,3,PHO,Utah Jazz,W,87,85
+2015-04-07,ARI,Calgary Flames,L,2,3,PHO,Atlanta Hawks,L,69,96
+2015-10-30,ARI,Vancouver Canucks,L,3,4,PHO,Portland Trail Blazers,W,110,92
+2015-11-12,ARI,Edmonton Oilers,W,4,1,PHO,Los Angeles Clippers,W,118,104
+2015-11-14,ARI,Columbus Blue Jackets,L,2,5,PHO,Denver Nuggets,W,105,81
+2015-11-16,ARI,New York Islanders,L,2,5,PHO,Los Angeles Lakers,W,120,101
+2015-11-25,ARI,Anaheim Ducks,W,4,2,PHO,New Orleans Pelicans,L,114,120
+2015-11-27,ARI,Calgary Flames,W,2,1,PHO,Golden State Warriors,L,116,135
+2015-12-01,ARI,Nashville Predators,L,2,5,PHO,Brooklyn Nets,L,91,94
+2015-12-04,ARI,Buffalo Sabres,L,2,5,PHO,Washington Wizards,L,106,109
+2015-12-06,ARI,Carolina Hurricanes,L,4,5,PHO,Memphis Grizzlies,L,93,95
+2015-12-11,ARI,Minnesota Wild,W,2,1,PHO,Portland Trail Blazers,L,96,106
+2015-12-26,ARI,Los Angeles Kings,L,3,4,PHO,Philadelphia 76ers,L,104,111
+2015-12-31,ARI,Winnipeg Jets,W,4,2,PHO,Oklahoma City Thunder,L,106,110
+2016-01-02,ARI,Edmonton Oilers,L,3,4,PHO,Sacramento Kings,L,119,142
+2016-01-12,ARI,Edmonton Oilers,W,4,3,PHO,Indiana Pacers,L,97,116
+2016-01-21,ARI,San Jose Sharks,L,1,3,PHO,San Antonio Spurs,L,89,117
+2016-01-23,ARI,Los Angeles Kings,W,3,2,PHO,Atlanta Hawks,W,98,95
+2016-01-26,ARI,Winnipeg Jets,L,2,5,PHO,Philadelphia 76ers,L,103,113
+2016-02-02,ARI,Los Angeles Kings,L,2,6,PHO,Toronto Raptors,L,97,104
+2016-02-04,ARI,Chicago Blackhawks,L,4,5,PHO,Houston Rockets,L,105,111
+2016-02-10,ARI,Vancouver Canucks,L,1,2,PHO,Golden State Warriors,L,104,112
+2016-02-22,ARI,Washington Capitals,L,2,3,PHO,Los Angeles Clippers,L,84,124
+2016-02-25,ARI,Florida Panthers,L,2,3,PHO,Brooklyn Nets,L,106,116
+2016-02-27,ARI,Philadelphia Flyers,L,2,4,PHO,Memphis Grizzlies,W,111,106
+2016-03-03,ARI,Anaheim Ducks,L,1,5,PHO,Miami Heat,L,92,108
+2016-03-09,ARI,Vancouver Canucks,L,2,3,PHO,New York Knicks,L,97,128
+2016-03-12,ARI,Edmonton Oilers,W,4,0,PHO,Golden State Warriors,L,116,123
+2016-03-17,ARI,San Jose Sharks,W,3,1,PHO,Utah Jazz,L,69,103
+2016-03-26,ARI,Philadelphia Flyers,W,2,1,PHO,Boston Celtics,L,99,102
+2016-03-28,ARI,Calgary Flames,L,2,5,PHO,Minnesota Timberwolves,L,116,121
+2016-04-05,ARI,Chicago Blackhawks,L,2,6,PHO,Atlanta Hawks,L,90,103
+2016-04-07,ARI,Nashville Predators,L,2,3,PHO,Houston Rockets,W,124,115
+2016-04-09,ARI,San Jose Sharks,L,0,1,PHO,New Orleans Pelicans,W,121,100
+2016-11-04,ARI,Anaheim Ducks,L,1,5,PHO,New Orleans Pelicans,W,112,111
+2016-11-08,ARI,Colorado Avalanche,W,4,2,PHO,Portland Trail Blazers,L,121,124
+2016-11-12,ARI,Boston Bruins,L,1,2,PHO,Brooklyn Nets,L,104,122
+2016-11-16,ARI,Calgary Flames,L,1,2,PHO,Denver Nuggets,L,104,120
+2016-11-19,ARI,San Jose Sharks,W,3,2,PHO,Philadelphia 76ers,L,105,120
+2016-11-23,ARI,Vancouver Canucks,L,1,4,PHO,Orlando Magic,W,92,87
+2016-11-25,ARI,Edmonton Oilers,W,3,2,PHO,Minnesota Timberwolves,L,85,98
+2016-11-27,ARI,Edmonton Oilers,W,2,1,PHO,Denver Nuggets,L,114,120
+2016-12-03,ARI,Columbus Blue Jackets,L,2,3,PHO,Golden State Warriors,L,109,138
+2016-12-06,ARI,Chicago Blackhawks,L,0,4,PHO,Utah Jazz,L,105,112
+2016-12-13,ARI,Detroit Red Wings,W,4,1,PHO,New York Knicks,W,113,111
+2016-12-15,ARI,Toronto Maple Leafs,W,3,2,PHO,San Antonio Spurs,L,92,107
+2016-12-17,ARI,Minnesota Wild,L,1,4,PHO,Oklahoma City Thunder,L,101,114
+2016-12-19,ARI,Calgary Flames,L,2,4,PHO,Minnesota Timberwolves,L,108,115
+2016-12-21,ARI,Edmonton Oilers,L,2,3,PHO,Houston Rockets,L,111,125
+2016-12-23,ARI,Toronto Maple Leafs,L,1,4,PHO,Philadelphia 76ers,W,123,116
+2016-12-29,ARI,New York Rangers,L,3,6,PHO,Toronto Raptors,W,99,91
+2016-12-31,ARI,Calgary Flames,L,2,4,PHO,Utah Jazz,L,86,91
+2017-01-14,ARI,Anaheim Ducks,L,0,3,PHO,San Antonio Spurs,W,108,105
+2017-01-16,ARI,Edmonton Oilers,L,1,3,PHO,Utah Jazz,L,101,106
+2017-01-19,ARI,Minnesota Wild,L,3,4,PHO,Cleveland Cavaliers,L,103,118
+2017-01-21,ARI,Tampa Bay Lightning,W,5,3,PHO,New York Knicks,W,107,105
+2017-01-26,ARI,Vancouver Canucks,W,3,0,PHO,Denver Nuggets,L,120,127
+2017-02-04,ARI,San Jose Sharks,W,3,2,PHO,Milwaukee Bucks,L,112,137
+2017-02-11,ARI,Pittsburgh Penguins,W,4,3,PHO,Houston Rockets,L,102,133
+2017-02-13,ARI,Calgary Flames,W,5,0,PHO,New Orleans Pelicans,L,108,110
+2017-02-24,ARI,Dallas Stars,L,2,5,PHO,Chicago Bulls,L,121,128
+2017-02-26,ARI,Buffalo Sabres,W,3,2,PHO,Milwaukee Bucks,L,96,100
+2017-02-28,ARI,Boston Bruins,L,1,4,PHO,Memphis Grizzlies,L,112,130
+2017-03-02,ARI,Buffalo Sabres,L,3,6,PHO,Charlotte Hornets,W,120,103
+2017-03-03,ARI,Carolina Hurricanes,W,4,2,PHO,Oklahoma City Thunder,W,118,111
+2017-03-05,ARI,Carolina Hurricanes,L,1,2,PHO,Boston Celtics,W,109,106
+2017-03-09,ARI,Ottawa Senators,L,2,3,PHO,Los Angeles Lakers,L,110,122
+2017-03-11,ARI,New Jersey Devils,W,5,4,PHO,Dallas Mavericks,W,100,98
+2017-03-21,ARI,Tampa Bay Lightning,W,5,3,PHO,Miami Heat,L,97,112
+2017-03-23,ARI,Florida Panthers,L,1,3,PHO,Brooklyn Nets,L,98,126
+2017-04-02,ARI,Los Angeles Kings,W,2,1,PHO,Houston Rockets,L,116,123
+2017-10-21,ARI,Chicago Blackhawks,L,2,4,PHO,Los Angeles Clippers,L,88,130
+2017-10-28,ARI,New Jersey Devils,L,3,4,PHO,Portland Trail Blazers,L,107,114
+2017-10-31,ARI,Detroit Red Wings,L,3,5,PHO,Brooklyn Nets,W,122,114
+2017-11-06,ARI,Washington Capitals,L,2,3,PHO,Brooklyn Nets,L,92,98
+2017-11-11,ARI,Winnipeg Jets,L,1,4,PHO,Minnesota Timberwolves,W,118,110
+2017-11-16,ARI,Montreal Canadiens,W,5,4,PHO,Houston Rockets,L,116,142
+2017-11-22,ARI,San Jose Sharks,L,1,3,PHO,Milwaukee Bucks,L,107,113
+2017-11-24,ARI,Los Angeles Kings,W,3,2,PHO,New Orleans Pelicans,L,91,115
+2017-11-28,ARI,Edmonton Oilers,L,2,3,PHO,Chicago Bulls,W,104,99
+2017-12-02,ARI,New Jersey Devils,W,5,0,PHO,Boston Celtics,L,111,116
+2017-12-07,ARI,Boston Bruins,L,1,6,PHO,Washington Wizards,L,99,109
+2017-12-09,ARI,Columbus Blue Jackets,L,0,1,PHO,San Antonio Spurs,L,101,104
+2017-12-16,ARI,Pittsburgh Penguins,L,2,4,PHO,Minnesota Timberwolves,W,108,106
+2017-12-23,ARI,Colorado Avalanche,L,2,6,PHO,Minnesota Timberwolves,L,106,115
+2017-12-31,ARI,Anaheim Ducks,L,2,5,PHO,Philadelphia 76ers,L,110,123
+2018-01-12,ARI,Edmonton Oilers,L,2,4,PHO,Houston Rockets,L,95,112
+2018-01-16,ARI,San Jose Sharks,L,2,3,PHO,Portland Trail Blazers,L,111,118
+2018-01-22,ARI,New York Islanders,W,3,2,PHO,Milwaukee Bucks,L,105,109
+2018-02-06,ARI,Winnipeg Jets,L,3,4,PHO,Los Angeles Lakers,L,93,112
+2018-02-10,ARI,Philadelphia Flyers,L,3,4,PHO,Denver Nuggets,L,113,123
+2018-02-12,ARI,Chicago Blackhawks,W,6,1,PHO,Golden State Warriors,L,83,129
+2018-02-24,ARI,Anaheim Ducks,W,2,0,PHO,Portland Trail Blazers,L,104,106
+2018-03-05,ARI,Edmonton Oilers,L,3,4,PHO,Miami Heat,L,103,125
+2018-03-10,ARI,Colorado Avalanche,L,2,5,PHO,Charlotte Hornets,L,115,122
+2018-03-13,ARI,Los Angeles Kings,W,4,3,PHO,Cleveland Cavaliers,L,107,129
+2018-03-15,ARI,Nashville Predators,L,2,3,PHO,Utah Jazz,L,88,116
+2018-03-17,ARI,Minnesota Wild,L,1,3,PHO,Golden State Warriors,L,109,124
+2018-03-24,ARI,Florida Panthers,L,2,4,PHO,Orlando Magic,L,99,105
+2018-03-26,ARI,Tampa Bay Lightning,W,4,1,PHO,Boston Celtics,L,94,102
+2018-03-28,ARI,Vegas Golden Knights,W,3,2,PHO,Los Angeles Clippers,L,99,111
+2018-04-03,ARI,Calgary Flames,W,4,1,PHO,Sacramento Kings,W,97,94
+2018-10-20,ARI,Winnipeg Jets,L,3,5,PHO,Denver Nuggets,L,91,119
+2018-10-27,ARI,Tampa Bay Lightning,W,7,1,PHO,Memphis Grizzlies,L,96,117
+2018-11-02,ARI,Carolina Hurricanes,W,4,3,PHO,Toronto Raptors,L,98,107
+2018-11-08,ARI,Philadelphia Flyers,L,4,5,PHO,Boston Celtics,L,109,116
+2018-11-10,ARI,Pittsburgh Penguins,L,0,4,PHO,New Orleans Pelicans,L,99,119
+2018-11-17,ARI,Boston Bruins,L,1,2,PHO,Oklahoma City Thunder,L,100,110
+2018-11-21,ARI,Vegas Golden Knights,L,2,3,PHO,Chicago Bulls,L,116,124
+2018-11-23,ARI,Colorado Avalanche,L,1,5,PHO,Milwaukee Bucks,W,116,114
+2018-11-25,ARI,Calgary Flames,L,1,6,PHO,Detroit Pistons,L,107,118
+2018-11-27,ARI,Minnesota Wild,W,4,3,PHO,Indiana Pacers,L,104,109
+2018-12-04,ARI,Los Angeles Kings,W,2,1,PHO,Sacramento Kings,L,105,122
+2018-12-06,ARI,Washington Capitals,L,2,4,PHO,Portland Trail Blazers,L,86,108
+2018-12-11,ARI,Boston Bruins,L,3,4,PHO,San Antonio Spurs,L,86,111
+2018-12-13,ARI,Buffalo Sabres,L,1,3,PHO,Dallas Mavericks,W,99,89
+2018-12-22,ARI,Colorado Avalanche,W,6,4,PHO,Washington Wizards,L,146,149
+2018-12-23,ARI,San Jose Sharks,W,4,3,PHO,Brooklyn Nets,L,103,111
+2018-12-29,ARI,Anaheim Ducks,W,5,4,PHO,Denver Nuggets,L,118,122
+2019-01-02,ARI,Edmonton Oilers,L,1,3,PHO,Philadelphia 76ers,L,127,132
+2019-01-04,ARI,New Jersey Devils,L,2,3,PHO,Los Angeles Clippers,L,111,121
+2019-01-06,ARI,New York Rangers,W,5,0,PHO,Charlotte Hornets,L,113,119
+2019-01-12,ARI,Edmonton Oilers,W,3,2,PHO,Denver Nuggets,W,102,93
+2019-01-20,ARI,Toronto Maple Leafs,W,4,2,PHO,Minnesota Timberwolves,L,114,116
+2019-01-22,ARI,Ottawa Senators,W,3,2,PHO,Minnesota Timberwolves,L,91,118
+2019-02-02,ARI,San Jose Sharks,L,2,3,PHO,Atlanta Hawks,L,112,118
+2019-02-04,ARI,Dallas Stars,L,4,5,PHO,Houston Rockets,L,110,118
+2019-02-21,ARI,Vancouver Canucks,W,3,2,PHO,Cleveland Cavaliers,L,98,111
+2019-03-02,ARI,Detroit Red Wings,W,3,1,PHO,Los Angeles Lakers,W,118,109
+2019-03-09,ARI,Los Angeles Kings,W,4,2,PHO,Portland Trail Blazers,L,120,127
+2019-03-16,ARI,Edmonton Oilers,L,2,3,PHO,New Orleans Pelicans,W,138,136
+2019-03-18,ARI,Tampa Bay Lightning,L,1,4,PHO,Chicago Bulls,L,101,116
+2019-03-21,ARI,Florida Panthers,L,2,4,PHO,Detroit Pistons,L,98,118
+2019-03-23,ARI,New Jersey Devils,L,1,2,PHO,Sacramento Kings,L,103,112
+2019-10-25,ARI,New Jersey Devils,W,5,3,PHO,Denver Nuggets,L,107,108
+2019-10-28,ARI,Buffalo Sabres,W,3,2,PHO,Utah Jazz,L,95,96
+2019-10-30,ARI,Montreal Canadiens,L,1,4,PHO,Golden State Warriors,W,121,110
+2019-11-02,ARI,Colorado Avalanche,W,3,0,PHO,Memphis Grizzlies,W,114,105
+2019-11-04,ARI,Edmonton Oilers,W,3,2,PHO,Philadelphia 76ers,W,114,109
+2019-11-07,ARI,Columbus Blue Jackets,L,2,3,PHO,Miami Heat,L,108,124
+2019-11-12,ARI,St. Louis Blues,W,3,2,PHO,Los Angeles Lakers,L,115,123
+2019-11-14,ARI,Minnesota Wild,L,2,3,PHO,Atlanta Hawks,W,128,112
+2019-11-18,ARI,Los Angeles Kings,W,3,0,PHO,Boston Celtics,L,85,99
+2019-11-21,ARI,Toronto Maple Leafs,L,1,3,PHO,New Orleans Pelicans,L,121,124
+2019-11-23,ARI,Los Angeles Kings,W,3,2,PHO,Minnesota Timberwolves,W,100,98
+2019-11-24,ARI,Edmonton Oilers,L,3,4,PHO,Denver Nuggets,L,104,116
+2019-11-27,ARI,Anaheim Ducks,W,4,3,PHO,Washington Wizards,L,132,140
+2019-11-29,ARI,Vegas Golden Knights,L,1,2,PHO,Dallas Mavericks,L,113,120
+2019-12-05,ARI,Philadelphia Flyers,W,3,1,PHO,New Orleans Pelicans,W,139,132
+2019-12-14,ARI,New Jersey Devils,L,1,2,PHO,San Antonio Spurs,L,119,121
+2019-12-17,ARI,San Jose Sharks,W,3,2,PHO,Los Angeles Clippers,L,99,120
+2019-12-23,ARI,Nashville Predators,L,2,3,PHO,Denver Nuggets,L,111,113
+2019-12-28,ARI,Vegas Golden Knights,L,1,4,PHO,Sacramento Kings,W,112,110
+2020-01-07,ARI,Florida Panthers,W,5,2,PHO,Sacramento Kings,L,103,114
+2020-01-10,ARI,Carolina Hurricanes,L,0,3,PHO,Orlando Magic,W,98,94
+2020-01-12,ARI,Pittsburgh Penguins,L,3,4,PHO,Charlotte Hornets,W,100,92
+2020-01-14,ARI,San Jose Sharks,W,6,3,PHO,Atlanta Hawks,L,110,123
+2020-01-16,ARI,Vancouver Canucks,L,1,3,PHO,New York Knicks,W,121,98
+2020-01-18,ARI,Edmonton Oilers,L,3,7,PHO,Boston Celtics,W,123,119
+2020-02-08,ARI,Boston Bruins,L,2,4,PHO,Denver Nuggets,L,108,117
+2020-02-10,ARI,Montreal Canadiens,W,3,2,PHO,Los Angeles Lakers,L,100,125
+2020-02-22,ARI,Tampa Bay Lightning,W,7,3,PHO,Chicago Bulls,W,112,104
+2020-02-29,ARI,Buffalo Sabres,W,5,2,PHO,Golden State Warriors,L,99,115
+2020-03-06,ARI,Calgary Flames,L,2,3,PHO,Portland Trail Blazers,W,127,117
+2021-01-18,ARI,Vegas Golden Knights,L,2,4,PHO,Memphis Grizzlies,L,104,108
+2021-01-20,ARI,Vegas Golden Knights,L,2,5,PHO,Houston Rockets,W,109,103
+2021-01-22,ARI,Vegas Golden Knights,W,5,2,PHO,Denver Nuggets,L,126,130
+2021-01-28,ARI,Anaheim Ducks,W,3,2,PHO,Golden State Warriors,W,114,93
+2021-02-08,ARI,St. Louis Blues,W,4,3,PHO,Cleveland Cavaliers,W,119,113
+2021-02-13,ARI,St. Louis Blues,L,4,5,PHO,Philadelphia 76ers,W,120,111
+2021-02-20,ARI,Los Angeles Kings,L,2,4,PHO,Memphis Grizzlies,W,128,97
+2021-02-22,ARI,Anaheim Ducks,W,4,3,PHO,Portland Trail Blazers,W,132,100
+2021-02-24,ARI,Anaheim Ducks,W,4,3,PHO,Charlotte Hornets,L,121,124
+2021-02-26,ARI,Colorado Avalanche,L,2,3,PHO,Chicago Bulls,W,106,97
+2021-03-18,ARI,Anaheim Ducks,L,2,3,PHO,Minnesota Timberwolves,L,119,123
+2021-03-23,ARI,Colorado Avalanche,W,5,4,PHO,Miami Heat,W,110,100
+2021-03-26,ARI,San Jose Sharks,W,5,2,PHO,Toronto Raptors,W,104,100
+2021-03-31,ARI,Colorado Avalanche,L,3,9,PHO,Chicago Bulls,W,121,116
+2021-04-02,ARI,Anaheim Ducks,W,4,2,PHO,Oklahoma City Thunder,W,140,103
+2021-04-05,ARI,Los Angeles Kings,W,5,2,PHO,Houston Rockets,W,133,130
+2021-04-07,ARI,Los Angeles Kings,L,3,4,PHO,Utah Jazz,W,117,113
+2021-04-12,ARI,Colorado Avalanche,L,2,4,PHO,Houston Rockets,W,126,120
+2021-04-17,ARI,St. Louis Blues,W,3,2,PHO,San Antonio Spurs,L,85,111
+2021-04-19,ARI,Minnesota Wild,L,2,5,PHO,Milwaukee Bucks,W,128,127
+2021-04-21,ARI,Minnesota Wild,L,1,4,PHO,Philadelphia 76ers,W,116,113
+2021-04-26,ARI,San Jose Sharks,L,4,6,PHO,New York Knicks,W,118,110
+2021-04-28,ARI,San Jose Sharks,L,2,4,PHO,Los Angeles Clippers,W,109,101
+2021-04-30,ARI,Vegas Golden Knights,W,3,0,PHO,Utah Jazz,W,121,100
+2021-05-05,ARI,Los Angeles Kings,L,2,4,PHO,Atlanta Hawks,L,103,135
+2021-05-07,ARI,San Jose Sharks,W,5,2,PHO,New York Knicks,W,128,105
+2021-10-23,ARI,New York Islanders,L,0,3,PHO,Portland Trail Blazers,L,105,134
+2021-11-02,ARI,Philadelphia Flyers,L,0,3,PHO,New Orleans Pelicans,W,112,100
+2021-11-06,ARI,Seattle Kraken,W,5,4,PHO,Atlanta Hawks,W,121,117
+2021-11-10,ARI,Minnesota Wild,L,2,5,PHO,Portland Trail Blazers,W,119,109
+2021-11-12,ARI,Chicago Blackhawks,L,1,2,PHO,Memphis Grizzlies,W,119,94
+2021-11-21,ARI,Los Angeles Kings,W,2,1,PHO,Denver Nuggets,W,126,97
+2021-11-24,ARI,Edmonton Oilers,L,3,5,PHO,Cleveland Cavaliers,W,120,115
+2021-11-27,ARI,Dallas Stars,L,2,3,PHO,Brooklyn Nets,W,113,107
+2021-11-30,ARI,Minnesota Wild,L,2,5,PHO,Golden State Warriors,W,104,96
+2021-12-03,ARI,Vegas Golden Knights,L,1,7,PHO,Golden State Warriors,L,96,118
+2021-12-06,ARI,Dallas Stars,L,1,4,PHO,San Antonio Spurs,W,108,104
+2021-12-10,ARI,Florida Panthers,L,1,3,PHO,Boston Celtics,W,111,90
+2022-01-04,ARI,Winnipeg Jets,L,1,3,PHO,New Orleans Pelicans,W,123,110
+2022-01-06,ARI,Chicago Blackhawks,W,6,4,PHO,Los Angeles Clippers,W,106,89
+2022-01-08,ARI,Nashville Predators,L,2,4,PHO,Miami Heat,L,100,123
+2022-01-14,ARI,Colorado Avalanche,L,3,4,PHO,Indiana Pacers,W,112,94
+2022-01-17,ARI,Montreal Canadiens,W,5,2,PHO,San Antonio Spurs,W,121,107
+2022-01-22,ARI,New York Rangers,L,3,7,PHO,Indiana Pacers,W,113,103
+2022-01-28,ARI,Boston Bruins,L,1,2,PHO,Minnesota Timberwolves,W,134,124
+2022-02-01,ARI,Colorado Avalanche,W,3,2,PHO,Brooklyn Nets,W,121,111
+2022-02-08,ARI,Vancouver Canucks,L,1,5,PHO,Philadelphia 76ers,W,114,109
+2022-02-25,ARI,Vegas Golden Knights,W,3,1,PHO,New Orleans Pelicans,L,102,117
+2022-02-27,ARI,Winnipeg Jets,L,3,5,PHO,Utah Jazz,L,114,118
+2022-03-08,ARI,Detroit Red Wings,W,9,2,PHO,Orlando Magic,W,102,99
+2022-03-15,ARI,Montreal Canadiens,W,6,3,PHO,New Orleans Pelicans,W,131,115
+2022-03-20,ARI,San Jose Sharks,L,2,4,PHO,Sacramento Kings,W,127,124
+2022-03-27,ARI,Winnipeg Jets,L,1,2,PHO,Philadelphia 76ers,W,114,104
+2022-03-30,ARI,San Jose Sharks,W,5,2,PHO,Golden State Warriors,W,107,103
+2022-04-01,ARI,Anaheim Ducks,L,0,5,PHO,Memphis Grizzlies,L,114,122
+2022-04-03,ARI,Chicago Blackhawks,W,3,2,PHO,Oklahoma City Thunder,L,96,117
+2022-10-25,ARI,Columbus Blue Jackets,W,6,3,PHO,Golden State Warriors,W,134,105
+2022-10-28,ARI,Winnipeg Jets,L,2,3,PHO,New Orleans Pelicans,W,124,111
+2022-10-30,ARI,New York Rangers,L,2,3,PHO,Houston Rockets,W,124,109
+2022-11-01,ARI,Florida Panthers,W,3,1,PHO,Minnesota Timberwolves,W,116,107
+2022-11-05,ARI,Washington Capitals,W,3,2,PHO,Portland Trail Blazers,W,102,82
+2022-11-25,ARI,Detroit Red Wings,L,3,4,PHO,Detroit Pistons,W,108,102
+2022-12-05,ARI,Calgary Flames,L,2,3,PHO,Dallas Mavericks,L,111,130
+2022-12-07,ARI,Edmonton Oilers,L,2,8,PHO,Boston Celtics,L,98,125
+2022-12-09,ARI,Boston Bruins,W,4,3,PHO,New Orleans Pelicans,L,117,128
+2022-12-11,ARI,Philadelphia Flyers,W,5,4,PHO,New Orleans Pelicans,L,124,129
+2022-12-13,ARI,San Jose Sharks,L,2,3,PHO,Houston Rockets,L,97,111
+2022-12-17,ARI,Buffalo Sabres,L,2,5,PHO,New Orleans Pelicans,W,118,114
+2022-12-19,ARI,Montreal Canadiens,L,2,3,PHO,Los Angeles Lakers,W,130,104
+2022-12-23,ARI,Los Angeles Kings,W,2,1,PHO,Memphis Grizzlies,L,100,125
+2022-12-27,ARI,Colorado Avalanche,W,6,3,PHO,Memphis Grizzlies,W,125,108
+2023-01-06,ARI,Chicago Blackhawks,L,0,2,PHO,Miami Heat,L,96,104
+2023-01-08,ARI,Pittsburgh Penguins,L,1,4,PHO,Cleveland Cavaliers,L,98,112
+2023-01-10,ARI,San Jose Sharks,L,2,4,PHO,Golden State Warriors,W,125,113
+2023-01-19,ARI,Washington Capitals,L,0,4,PHO,Brooklyn Nets,W,117,112
+2023-01-21,ARI,Dallas Stars,L,0,4,PHO,Indiana Pacers,W,112,107
+2023-01-22,ARI,Vegas Golden Knights,W,4,1,PHO,Memphis Grizzlies,W,112,110
+2023-01-24,ARI,Anaheim Ducks,L,2,5,PHO,Charlotte Hornets,W,128,97
+2023-01-26,ARI,St. Louis Blues,W,5,0,PHO,Dallas Mavericks,L,95,99
+2023-01-28,ARI,Anaheim Ducks,L,1,2,PHO,San Antonio Spurs,W,128,118
+2023-02-10,ARI,Chicago Blackhawks,L,3,4,PHO,Indiana Pacers,W,117,104
+2023-02-26,ARI,Nashville Predators,,,,PHO,Milwaukee Bucks,,,
+2023-03-01,ARI,Dallas Stars,,,,PHO,Charlotte Hornets,,,
+2023-03-03,ARI,Carolina Hurricanes,,,,PHO,Chicago Bulls,,,
+2023-03-05,ARI,New Jersey Devils,,,,PHO,Dallas Mavericks,,,
+2023-03-11,ARI,Colorado Avalanche,,,,PHO,Sacramento Kings,,,
+2023-03-14,ARI,Calgary Flames,,,,PHO,Milwaukee Bucks,,,
+2023-03-16,ARI,Vancouver Canucks,,,,PHO,Orlando Magic,,,
+2023-03-22,ARI,Edmonton Oilers,,,,PHO,Los Angeles Lakers,,,
+2023-03-24,ARI,Colorado Avalanche,,,,PHO,Sacramento Kings,,,
+2023-03-27,ARI,Edmonton Oilers,,,,PHO,Utah Jazz,,,
+2023-03-31,ARI,Dallas Stars,,,,PHO,Denver Nuggets,,,
+2023-04-06,ARI,Seattle Kraken,,,,PHO,Denver Nuggets,,,

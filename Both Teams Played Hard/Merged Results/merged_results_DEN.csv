@@ -1,0 +1,282 @@
+Date,NHL Team,NHL Opponent,NHL Result,NHL Team Score,NHL Opponent Score,NBA Team,NBA Opponent,NBA Result,NBA Team Score,NBA Opponent Score
+2011-12-26,COL,Minnesota Wild,W,4,2,DEN,Dallas Mavericks,W,115,93
+2011-12-29,COL,Phoenix Coyotes,W,3,2,DEN,Portland Trail Blazers,L,102,111
+2011-12-31,COL,Anaheim Ducks,W,4,2,DEN,Los Angeles Lakers,L,89,92
+2012-01-02,COL,Los Angeles Kings,W,2,1,DEN,Milwaukee Bucks,W,91,86
+2012-01-06,COL,Chicago Blackhawks,W,4,0,DEN,New Orleans Hornets,W,96,88
+2012-01-07,COL,St. Louis Blues,L,0,4,DEN,San Antonio Spurs,L,117,121
+2012-01-18,COL,Florida Panthers,W,4,3,DEN,Philadelphia 76ers,W,108,104
+2012-01-21,COL,Los Angeles Kings,W,3,1,DEN,New York Knicks,W,119,114
+2012-01-31,COL,Edmonton Oilers,L,2,3,DEN,Memphis Grizzlies,L,97,100
+2012-02-02,COL,Minnesota Wild,L,0,1,DEN,Los Angeles Clippers,W,112,91
+2012-02-04,COL,Vancouver Canucks,L,2,3,DEN,Portland Trail Blazers,L,97,117
+2012-02-11,COL,St. Louis Blues,L,2,3,DEN,Indiana Pacers,W,113,109
+2012-02-15,COL,Vancouver Canucks,L,1,3,DEN,Dallas Mavericks,L,84,102
+2012-02-17,COL,Edmonton Oilers,W,3,1,DEN,Memphis Grizzlies,L,102,103
+2012-02-19,COL,Winnipeg Jets,L,1,5,DEN,Oklahoma City Thunder,L,118,124
+2012-02-22,COL,Los Angeles Kings,W,4,1,DEN,Los Angeles Clippers,L,95,103
+2012-03-04,COL,Minnesota Wild,W,2,0,DEN,San Antonio Spurs,W,99,94
+2012-03-15,COL,New Jersey Devils,L,0,1,DEN,Oklahoma City Thunder,L,90,103
+2012-03-17,COL,New York Rangers,W,3,1,DEN,Boston Celtics,W,98,91
+2012-03-26,COL,San Jose Sharks,L,1,5,DEN,Chicago Bulls,W,108,91
+2012-03-28,COL,Vancouver Canucks,L,0,1,DEN,Toronto Raptors,L,96,105
+2012-03-30,COL,Calgary Flames,W,4,1,DEN,Charlotte Bobcats,W,99,88
+2012-04-07,COL,Nashville Predators,L,1,6,DEN,Golden State Warriors,L,97,112
+2013-01-26,COL,San Jose Sharks,L,0,4,DEN,Sacramento Kings,W,121,93
+2013-01-28,COL,Edmonton Oilers,L,1,4,DEN,Indiana Pacers,W,102,101
+2013-01-30,COL,Vancouver Canucks,L,0,3,DEN,Houston Rockets,W,118,110
+2013-02-23,COL,Los Angeles Kings,L,1,4,DEN,Charlotte Bobcats,W,113,99
+2013-03-05,COL,Detroit Red Wings,L,1,2,DEN,Sacramento Kings,W,120,113
+2013-03-18,COL,Chicago Blackhawks,L,2,5,DEN,Chicago Bulls,W,119,118
+2013-03-23,COL,Dallas Stars,L,2,5,DEN,Sacramento Kings,W,101,95
+2013-03-27,COL,Calgary Flames,L,3,4,DEN,San Antonio Spurs,L,99,100
+2013-04-06,COL,Phoenix Coyotes,L,0,4,DEN,Houston Rockets,W,132,114
+2013-04-10,COL,Anaheim Ducks,W,4,1,DEN,San Antonio Spurs,W,96,86
+2013-04-15,COL,Columbus Blue Jackets,L,3,4,DEN,Milwaukee Bucks,W,112,111
+2013-11-01,COL,Dallas Stars,W,3,2,DEN,Portland Trail Blazers,L,98,113
+2013-11-08,COL,Calgary Flames,W,4,2,DEN,Phoenix Suns,L,103,114
+2013-11-16,COL,Florida Panthers,L,1,4,DEN,Houston Rockets,L,111,122
+2013-11-21,COL,Phoenix Coyotes,W,4,3,DEN,Chicago Bulls,W,97,87
+2013-11-23,COL,Los Angeles Kings,W,1,0,DEN,Dallas Mavericks,W,102,100
+2013-11-27,COL,St. Louis Blues,L,1,4,DEN,Minnesota Timberwolves,W,117,110
+2013-11-29,COL,Minnesota Wild,W,3,1,DEN,New York Knicks,W,97,95
+2013-12-06,COL,Calgary Flames,W,3,2,DEN,Boston Celtics,L,98,106
+2013-12-17,COL,Dallas Stars,L,2,3,DEN,Oklahoma City Thunder,L,93,105
+2013-12-21,COL,Los Angeles Kings,L,2,3,DEN,Los Angeles Clippers,L,91,112
+2013-12-23,COL,San Jose Sharks,L,4,5,DEN,Golden State Warriors,L,81,89
+2013-12-27,COL,Chicago Blackhawks,L,2,7,DEN,New Orleans Pelicans,L,89,105
+2014-01-11,COL,Minnesota Wild,W,4,2,DEN,Orlando Magic,W,120,94
+2014-01-25,COL,Tampa Bay Lightning,L,2,5,DEN,Indiana Pacers,W,109,96
+2014-02-03,COL,New Jersey Devils,W,2,1,DEN,Los Angeles Clippers,W,116,115
+2014-02-08,COL,New York Islanders,W,5,2,DEN,Detroit Pistons,L,109,126
+2014-03-10,COL,Winnipeg Jets,W,3,2,DEN,Charlotte Bobcats,L,98,105
+2014-03-12,COL,Chicago Blackhawks,W,3,2,DEN,Orlando Magic,W,120,112
+2014-03-14,COL,Anaheim Ducks,L,4,6,DEN,Miami Heat,W,111,107
+2014-03-19,COL,Winnipeg Jets,L,4,5,DEN,Detroit Pistons,W,118,109
+2014-03-21,COL,Boston Bruins,L,0,2,DEN,Dallas Mavericks,L,106,122
+2014-04-06,COL,Pittsburgh Penguins,L,2,3,DEN,Houston Rockets,L,125,130
+2014-04-10,COL,Vancouver Canucks,W,4,2,DEN,Golden State Warriors,W,100,99
+2014-11-01,COL,St. Louis Blues,L,2,3,DEN,Oklahoma City Thunder,L,91,102
+2014-11-25,COL,Arizona Coyotes,W,4,3,DEN,Chicago Bulls,W,114,109
+2014-11-26,COL,Chicago Blackhawks,L,2,3,DEN,Phoenix Suns,L,112,120
+2014-12-01,COL,Montreal Canadiens,L,3,4,DEN,Utah Jazz,W,103,101
+2014-12-05,COL,Winnipeg Jets,L,2,6,DEN,Washington Wizards,L,89,119
+2014-12-13,COL,St. Louis Blues,L,2,3,DEN,Houston Rockets,L,96,108
+2014-12-20,COL,Buffalo Sabres,W,5,1,DEN,Indiana Pacers,W,76,73
+2014-12-23,COL,St. Louis Blues,W,5,0,DEN,Brooklyn Nets,L,96,102
+2015-01-17,COL,Tampa Bay Lightning,L,2,3,DEN,Minnesota Timberwolves,L,105,113
+2015-01-19,COL,St. Louis Blues,L,1,3,DEN,Golden State Warriors,L,79,122
+2015-02-03,COL,Dallas Stars,W,3,2,DEN,Philadelphia 76ers,L,98,105
+2015-02-20,COL,Chicago Blackhawks,W,4,1,DEN,Milwaukee Bucks,L,81,89
+2015-02-22,COL,Tampa Bay Lightning,W,5,4,DEN,Oklahoma City Thunder,L,94,119
+2015-02-27,COL,Dallas Stars,W,5,4,DEN,Utah Jazz,L,82,104
+2015-03-04,COL,Pittsburgh Penguins,W,3,1,DEN,Minnesota Timberwolves,W,100,85
+2015-03-07,COL,Columbus Blue Jackets,W,4,0,DEN,Houston Rockets,L,100,114
+2015-03-19,COL,Arizona Coyotes,W,5,2,DEN,Houston Rockets,L,108,118
+2015-03-20,COL,Anaheim Ducks,L,2,3,DEN,Miami Heat,L,91,108
+2015-03-25,COL,Edmonton Oilers,L,3,4,DEN,Philadelphia 76ers,L,85,99
+2015-03-28,COL,Buffalo Sabres,W,5,3,DEN,Portland Trail Blazers,L,114,120
+2015-04-01,COL,San Jose Sharks,L,1,5,DEN,Utah Jazz,L,84,98
+2015-04-03,COL,Anaheim Ducks,W,4,2,DEN,San Antonio Spurs,L,93,123
+2015-04-04,COL,Los Angeles Kings,L,1,3,DEN,Los Angeles Clippers,L,92,107
+2015-10-30,COL,Carolina Hurricanes,L,2,3,DEN,Minnesota Timberwolves,L,78,95
+2015-11-01,COL,San Jose Sharks,L,3,4,DEN,Oklahoma City Thunder,L,93,117
+2015-11-03,COL,Calgary Flames,W,6,3,DEN,Los Angeles Lakers,W,120,109
+2015-11-05,COL,Arizona Coyotes,L,2,4,DEN,Utah Jazz,L,84,96
+2015-11-06,COL,New York Rangers,L,1,2,DEN,Golden State Warriors,L,104,119
+2015-11-14,COL,Montreal Canadiens,W,6,1,DEN,Phoenix Suns,L,81,105
+2015-11-17,COL,Toronto Maple Leafs,L,1,5,DEN,New Orleans Pelicans,W,115,98
+2015-11-28,COL,Winnipeg Jets,W,5,3,DEN,Dallas Mavericks,L,81,92
+2015-11-30,COL,New York Islanders,L,3,5,DEN,Milwaukee Bucks,L,74,92
+2015-12-03,COL,New York Rangers,W,2,1,DEN,Toronto Raptors,W,106,105
+2015-12-05,COL,Minnesota Wild,L,0,3,DEN,Philadelphia 76ers,W,108,105
+2015-12-15,COL,Chicago Blackhawks,W,3,0,DEN,Minnesota Timberwolves,W,112,100
+2015-12-27,COL,Arizona Coyotes,L,1,2,DEN,Oklahoma City Thunder,L,112,122
+2016-01-02,COL,Calgary Flames,L,0,4,DEN,Golden State Warriors,L,108,111
+2016-01-06,COL,St. Louis Blues,W,4,3,DEN,Minnesota Timberwolves,W,78,74
+2016-01-08,COL,Nashville Predators,W,5,3,DEN,Memphis Grizzlies,L,84,91
+2016-01-10,COL,Chicago Blackhawks,L,3,6,DEN,Charlotte Hornets,W,95,92
+2016-01-23,COL,Dallas Stars,W,3,1,DEN,Detroit Pistons,W,104,101
+2016-01-27,COL,Los Angeles Kings,W,4,3,DEN,Boston Celtics,L,103,111
+2016-02-21,COL,Vancouver Canucks,L,1,5,DEN,Boston Celtics,L,101,121
+2016-02-24,COL,San Jose Sharks,W,4,3,DEN,Los Angeles Clippers,W,87,81
+2016-03-12,COL,Winnipeg Jets,L,2,3,DEN,Washington Wizards,W,116,100
+2016-03-28,COL,Nashville Predators,W,4,3,DEN,Dallas Mavericks,L,88,97
+2016-04-05,COL,Nashville Predators,L,3,4,DEN,Oklahoma City Thunder,L,102,124
+2016-10-29,COL,Arizona Coyotes,W,3,2,DEN,Portland Trail Blazers,L,113,115
+2016-11-03,COL,Chicago Blackhawks,L,0,4,DEN,Minnesota Timberwolves,W,102,99
+2016-11-05,COL,Minnesota Wild,W,1,0,DEN,Detroit Pistons,L,86,103
+2016-11-06,COL,St. Louis Blues,L,1,5,DEN,Boston Celtics,W,123,107
+2016-11-08,COL,Arizona Coyotes,L,2,4,DEN,Memphis Grizzlies,L,107,108
+2016-11-13,COL,Boston Bruins,L,0,2,DEN,Portland Trail Blazers,L,105,112
+2016-11-23,COL,Edmonton Oilers,L,3,6,DEN,Utah Jazz,L,83,108
+2016-12-03,COL,Dallas Stars,L,0,3,DEN,Utah Jazz,L,98,105
+2016-12-08,COL,Boston Bruins,W,4,2,DEN,Washington Wizards,L,85,92
+2016-12-10,COL,Montreal Canadiens,L,1,10,DEN,Orlando Magic,W,121,113
+2016-12-20,COL,Minnesota Wild,L,0,2,DEN,Los Angeles Clippers,L,102,119
+2016-12-23,COL,Chicago Blackhawks,W,2,1,DEN,Atlanta Hawks,L,108,109
+2017-01-02,COL,Vancouver Canucks,L,2,3,DEN,Golden State Warriors,L,119,127
+2017-01-12,COL,Anaheim Ducks,L,1,4,DEN,Indiana Pacers,W,140,112
+2017-01-17,COL,Chicago Blackhawks,L,4,6,DEN,Los Angeles Lakers,W,127,121
+2017-01-19,COL,Anaheim Ducks,L,1,2,DEN,San Antonio Spurs,L,104,118
+2017-01-21,COL,San Jose Sharks,L,2,3,DEN,Los Angeles Clippers,W,123,98
+2017-01-31,COL,Anaheim Ducks,L,1,5,DEN,Los Angeles Lakers,L,116,120
+2017-02-01,COL,Los Angeles Kings,L,0,5,DEN,Memphis Grizzlies,L,99,119
+2017-02-04,COL,Winnipeg Jets,W,5,2,DEN,San Antonio Spurs,L,97,121
+2017-02-11,COL,New York Rangers,L,2,4,DEN,Cleveland Cavaliers,L,109,125
+2017-02-23,COL,Nashville Predators,L,2,4,DEN,Sacramento Kings,L,100,116
+2017-02-28,COL,Philadelphia Flyers,L,0,4,DEN,Chicago Bulls,W,125,107
+2017-03-04,COL,Winnipeg Jets,L,1,6,DEN,Charlotte Hornets,L,102,112
+2017-03-11,COL,Ottawa Senators,L,2,4,DEN,Sacramento Kings,W,105,92
+2017-03-13,COL,Arizona Coyotes,L,0,1,DEN,Los Angeles Lakers,W,129,101
+2017-03-18,COL,Detroit Red Wings,L,1,5,DEN,Houston Rockets,L,105,109
+2017-03-31,COL,St. Louis Blues,W,2,1,DEN,Charlotte Hornets,L,114,122
+2017-04-02,COL,Minnesota Wild,L,2,5,DEN,Miami Heat,W,116,113
+2017-04-04,COL,Chicago Blackhawks,W,4,3,DEN,New Orleans Pelicans,W,134,131
+2017-04-09,COL,St. Louis Blues,L,2,3,DEN,Oklahoma City Thunder,L,105,106
+2017-10-27,COL,Vegas Golden Knights,L,0,7,DEN,Atlanta Hawks,W,105,100
+2017-11-04,COL,Philadelphia Flyers,W,5,4,DEN,Golden State Warriors,L,108,127
+2017-11-11,COL,Ottawa Senators,L,3,4,DEN,Orlando Magic,W,125,107
+2017-11-19,COL,Detroit Red Wings,W,4,3,DEN,Los Angeles Lakers,L,109,127
+2017-11-22,COL,Dallas Stars,W,3,0,DEN,Houston Rockets,L,95,125
+2017-11-24,COL,Minnesota Wild,L,2,3,DEN,Memphis Grizzlies,W,104,92
+2017-12-12,COL,Washington Capitals,L,2,5,DEN,Detroit Pistons,W,103,84
+2017-12-18,COL,Pittsburgh Penguins,W,4,2,DEN,Oklahoma City Thunder,L,94,95
+2017-12-23,COL,Arizona Coyotes,W,6,2,DEN,Golden State Warriors,W,96,81
+2017-12-27,COL,Arizona Coyotes,L,1,3,DEN,Minnesota Timberwolves,L,125,128
+2018-01-06,COL,Minnesota Wild,W,7,2,DEN,Sacramento Kings,L,98,106
+2018-01-13,COL,Dallas Stars,W,4,1,DEN,San Antonio Spurs,L,80,112
+2018-01-22,COL,Toronto Maple Leafs,W,4,2,DEN,Portland Trail Blazers,W,104,101
+2018-01-25,COL,St. Louis Blues,L,1,3,DEN,New York Knicks,W,130,118
+2018-01-30,COL,Vancouver Canucks,L,3,4,DEN,San Antonio Spurs,L,104,106
+2018-02-01,COL,Edmonton Oilers,W,4,3,DEN,Oklahoma City Thunder,W,127,124
+2018-02-03,COL,Winnipeg Jets,L,0,3,DEN,Golden State Warriors,W,115,108
+2018-02-10,COL,Carolina Hurricanes,L,1,3,DEN,Phoenix Suns,W,123,113
+2018-03-02,COL,Minnesota Wild,W,7,1,DEN,Memphis Grizzlies,W,108,102
+2018-03-06,COL,Chicago Blackhawks,L,1,2,DEN,Dallas Mavericks,L,107,118
+2018-03-13,COL,Minnesota Wild,W,5,1,DEN,Los Angeles Lakers,L,103,112
+2018-03-15,COL,St. Louis Blues,W,4,1,DEN,Detroit Pistons,W,120,113
+2018-03-26,COL,Vegas Golden Knights,L,1,4,DEN,Philadelphia 76ers,L,104,123
+2018-03-30,COL,Chicago Blackhawks,W,5,0,DEN,Oklahoma City Thunder,W,126,125
+2018-04-01,COL,Anaheim Ducks,L,3,4,DEN,Milwaukee Bucks,W,128,125
+2018-04-05,COL,San Jose Sharks,L,2,4,DEN,Minnesota Timberwolves,W,100,96
+2018-04-07,COL,St. Louis Blues,W,5,2,DEN,Los Angeles Clippers,W,134,115
+2018-10-20,COL,Carolina Hurricanes,W,3,1,DEN,Phoenix Suns,W,119,91
+2018-11-01,COL,Calgary Flames,L,5,6,DEN,Cleveland Cavaliers,W,110,91
+2018-11-07,COL,Nashville Predators,L,1,4,DEN,Memphis Grizzlies,L,87,89
+2018-11-09,COL,Winnipeg Jets,L,2,5,DEN,Brooklyn Nets,L,110,112
+2018-11-11,COL,Edmonton Oilers,W,4,1,DEN,Milwaukee Bucks,L,114,121
+2018-11-21,COL,Los Angeles Kings,W,7,3,DEN,Minnesota Timberwolves,W,103,101
+2018-11-23,COL,Arizona Coyotes,W,5,1,DEN,Orlando Magic,W,112,87
+2018-11-24,COL,Dallas Stars,W,3,2,DEN,Oklahoma City Thunder,W,105,98
+2018-11-27,COL,Nashville Predators,W,3,2,DEN,Los Angeles Lakers,W,117,85
+2018-11-30,COL,St. Louis Blues,L,2,3,DEN,Portland Trail Blazers,W,113,112
+2018-12-08,COL,Tampa Bay Lightning,L,1,7,DEN,Atlanta Hawks,L,98,106
+2018-12-14,COL,St. Louis Blues,L,3,4,DEN,Oklahoma City Thunder,W,109,98
+2018-12-22,COL,Arizona Coyotes,L,4,6,DEN,Los Angeles Clippers,L,111,132
+2018-12-29,COL,Chicago Blackhawks,L,2,3,DEN,Phoenix Suns,W,122,118
+2019-01-08,COL,Winnipeg Jets,L,4,7,DEN,Miami Heat,W,103,99
+2019-01-12,COL,Montreal Canadiens,L,0,3,DEN,Phoenix Suns,L,93,102
+2019-01-19,COL,Los Angeles Kings,W,7,1,DEN,Cleveland Cavaliers,W,124,102
+2019-01-23,COL,Minnesota Wild,L,2,5,DEN,Utah Jazz,L,108,114
+2019-02-02,COL,Vancouver Canucks,L,1,5,DEN,Minnesota Timberwolves,W,107,106
+2019-02-22,COL,Chicago Blackhawks,W,5,3,DEN,Dallas Mavericks,W,114,104
+2019-03-21,COL,Dallas Stars,W,3,1,DEN,Washington Wizards,W,113,108
+2019-03-24,COL,Chicago Blackhawks,L,1,2,DEN,Indiana Pacers,L,88,124
+2019-03-29,COL,Arizona Coyotes,W,3,2,DEN,Oklahoma City Thunder,W,115,105
+2019-04-02,COL,Edmonton Oilers,W,6,2,DEN,Golden State Warriors,L,102,116
+2019-10-25,COL,Vegas Golden Knights,W,6,1,DEN,Phoenix Suns,W,108,107
+2019-11-02,COL,Arizona Coyotes,L,0,3,DEN,Orlando Magic,W,91,87
+2019-11-05,COL,Dallas Stars,L,1,4,DEN,Miami Heat,W,109,89
+2019-11-12,COL,Winnipeg Jets,W,4,0,DEN,Atlanta Hawks,L,121,125
+2019-11-14,COL,Edmonton Oilers,L,2,6,DEN,Brooklyn Nets,W,101,93
+2019-11-30,COL,Chicago Blackhawks,W,7,3,DEN,Sacramento Kings,L,97,100
+2019-12-05,COL,Montreal Canadiens,W,3,2,DEN,New York Knicks,W,129,92
+2019-12-18,COL,Chicago Blackhawks,W,4,1,DEN,Orlando Magic,W,113,104
+2019-12-23,COL,Vegas Golden Knights,W,7,3,DEN,Phoenix Suns,W,113,111
+2019-12-28,COL,Dallas Stars,L,2,3,DEN,Memphis Grizzlies,W,119,110
+2019-12-31,COL,Winnipeg Jets,L,4,7,DEN,Houston Rockets,L,104,130
+2020-01-02,COL,St. Louis Blues,W,7,3,DEN,Indiana Pacers,W,124,116
+2020-01-04,COL,New Jersey Devils,W,5,2,DEN,Washington Wizards,L,114,128
+2020-01-06,COL,New York Islanders,L,0,1,DEN,Atlanta Hawks,W,123,115
+2020-01-16,COL,San Jose Sharks,W,4,0,DEN,Golden State Warriors,W,134,131
+2020-01-20,COL,Detroit Red Wings,W,6,3,DEN,Minnesota Timberwolves,W,107,100
+2020-02-04,COL,Buffalo Sabres,W,6,1,DEN,Portland Trail Blazers,W,127,99
+2020-02-08,COL,Columbus Blue Jackets,W,2,1,DEN,Phoenix Suns,W,117,108
+2020-02-21,COL,Anaheim Ducks,W,1,0,DEN,Oklahoma City Thunder,L,101,113
+2020-02-28,COL,Carolina Hurricanes,W,3,2,DEN,Los Angeles Clippers,L,103,132
+2020-03-09,COL,Los Angeles Kings,L,1,3,DEN,Milwaukee Bucks,W,109,95
+2020-03-11,COL,New York Rangers,W,3,2,DEN,Dallas Mavericks,L,97,113
+2021-01-19,COL,Los Angeles Kings,W,3,2,DEN,Oklahoma City Thunder,W,119,101
+2021-01-22,COL,Anaheim Ducks,W,3,2,DEN,Phoenix Suns,W,130,126
+2021-01-31,COL,Minnesota Wild,L,3,4,DEN,Utah Jazz,W,128,117
+2021-02-14,COL,Vegas Golden Knights,L,0,1,DEN,Los Angeles Lakers,W,122,105
+2021-02-16,COL,Vegas Golden Knights,W,3,2,DEN,Boston Celtics,L,99,112
+2021-02-27,COL,Arizona Coyotes,W,6,2,DEN,Oklahoma City Thunder,W,126,96
+2021-03-01,COL,San Jose Sharks,L,2,6,DEN,Chicago Bulls,W,118,112
+2021-03-12,COL,Los Angeles Kings,W,2,0,DEN,Memphis Grizzlies,W,103,102
+2021-03-23,COL,Arizona Coyotes,L,4,5,DEN,Orlando Magic,W,110,99
+2021-04-07,COL,Minnesota Wild,L,3,8,DEN,San Antonio Spurs,W,106,96
+2021-04-09,COL,Anaheim Ducks,W,2,0,DEN,San Antonio Spurs,W,121,119
+2021-04-11,COL,Anaheim Ducks,W,4,1,DEN,Boston Celtics,L,87,105
+2021-04-12,COL,Arizona Coyotes,W,4,2,DEN,Golden State Warriors,L,107,116
+2021-04-14,COL,St. Louis Blues,W,4,3,DEN,Miami Heat,W,123,106
+2021-04-24,COL,St. Louis Blues,L,3,5,DEN,Houston Rockets,W,129,116
+2021-04-26,COL,St. Louis Blues,L,1,4,DEN,Memphis Grizzlies,W,120,96
+2021-04-28,COL,Vegas Golden Knights,L,2,5,DEN,New Orleans Pelicans,W,114,112
+2021-05-01,COL,San Jose Sharks,W,4,3,DEN,Los Angeles Clippers,W,110,104
+2021-05-03,COL,San Jose Sharks,W,5,4,DEN,Los Angeles Lakers,L,89,93
+2021-05-05,COL,San Jose Sharks,L,2,3,DEN,New York Knicks,W,113,97
+2021-05-07,COL,Los Angeles Kings,W,3,2,DEN,Utah Jazz,L,120,127
+2021-05-08,COL,Los Angeles Kings,W,3,2,DEN,Brooklyn Nets,L,119,125
+2021-05-13,COL,Los Angeles Kings,W,5,1,DEN,Minnesota Timberwolves,W,114,103
+2021-10-26,COL,Vegas Golden Knights,L,1,3,DEN,Utah Jazz,L,110,122
+2021-10-30,COL,Minnesota Wild,W,4,1,DEN,Minnesota Timberwolves,W,93,91
+2021-11-03,COL,Columbus Blue Jackets,L,4,5,DEN,Memphis Grizzlies,L,106,108
+2021-11-06,COL,Columbus Blue Jackets,L,2,4,DEN,Houston Rockets,W,95,94
+2021-11-19,COL,Seattle Kraken,W,7,3,DEN,Chicago Bulls,L,108,114
+2021-11-26,COL,Dallas Stars,L,1,3,DEN,Milwaukee Bucks,L,109,120
+2021-12-01,COL,Toronto Maple Leafs,L,3,8,DEN,Orlando Magic,L,103,108
+2021-12-04,COL,Ottawa Senators,L,5,6,DEN,New York Knicks,W,113,99
+2021-12-06,COL,Philadelphia Flyers,W,7,5,DEN,Chicago Bulls,L,97,109
+2021-12-08,COL,New York Rangers,W,7,3,DEN,New Orleans Pelicans,W,120,114
+2022-01-11,COL,Nashville Predators,L,4,5,DEN,Los Angeles Clippers,L,85,87
+2022-01-15,COL,Arizona Coyotes,W,5,0,DEN,Los Angeles Lakers,W,133,96
+2022-01-19,COL,Anaheim Ducks,W,2,0,DEN,Los Angeles Clippers,W,130,128
+2022-01-26,COL,Boston Bruins,W,4,3,DEN,Brooklyn Nets,W,124,118
+2022-01-28,COL,Chicago Blackhawks,W,6,4,DEN,New Orleans Pelicans,W,116,105
+2022-01-30,COL,Buffalo Sabres,W,4,1,DEN,Milwaukee Bucks,W,136,100
+2022-02-01,COL,Arizona Coyotes,L,2,3,DEN,Minnesota Timberwolves,L,115,130
+2022-02-16,COL,Vegas Golden Knights,W,2,0,DEN,Golden State Warriors,W,117,116
+2022-02-26,COL,Vegas Golden Knights,W,3,2,DEN,Sacramento Kings,W,115,110
+2022-03-07,COL,New York Islanders,W,5,4,DEN,Golden State Warriors,W,131,124
+2022-03-10,COL,Carolina Hurricanes,L,0,2,DEN,Golden State Warriors,L,102,113
+2022-03-18,COL,San Jose Sharks,W,5,3,DEN,Cleveland Cavaliers,L,116,119
+2022-04-05,COL,Pittsburgh Penguins,W,6,4,DEN,San Antonio Spurs,L,97,116
+2022-10-19,COL,Winnipeg Jets,L,3,4,DEN,Utah Jazz,L,102,123
+2022-10-21,COL,Seattle Kraken,L,2,3,DEN,Golden State Warriors,W,128,123
+2022-10-22,COL,Vegas Golden Knights,W,3,2,DEN,Oklahoma City Thunder,W,122,117
+2022-10-28,COL,New Jersey Devils,L,0,1,DEN,Utah Jazz,W,117,101
+2022-11-05,COL,Columbus Blue Jackets,W,5,1,DEN,San Antonio Spurs,W,126,101
+2022-11-23,COL,Vancouver Canucks,L,3,4,DEN,Oklahoma City Thunder,W,131,126
+2022-12-23,COL,Nashville Predators,W,3,2,DEN,Portland Trail Blazers,W,120,107
+2022-12-27,COL,Arizona Coyotes,L,3,6,DEN,Sacramento Kings,W,113,106
+2023-01-02,COL,Vegas Golden Knights,L,2,3,DEN,Minnesota Timberwolves,L,111,124
+2023-01-05,COL,Vancouver Canucks,L,2,4,DEN,Los Angeles Clippers,W,122,91
+2023-01-18,COL,Calgary Flames,W,4,1,DEN,Minnesota Timberwolves,W,122,118
+2023-01-20,COL,Vancouver Canucks,W,4,1,DEN,Indiana Pacers,W,134,111
+2023-01-24,COL,Washington Capitals,W,3,2,DEN,New Orleans Pelicans,W,99,98
+2023-01-28,COL,St. Louis Blues,W,4,2,DEN,Philadelphia 76ers,L,119,126
+2023-02-07,COL,Pittsburgh Penguins,L,1,2,DEN,Minnesota Timberwolves,W,146,112
+2023-02-09,COL,Tampa Bay Lightning,L,0,5,DEN,Orlando Magic,L,104,115
+2023-02-11,COL,Florida Panthers,W,5,3,DEN,Charlotte Hornets,W,119,105
+2023-02-15,COL,Minnesota Wild,W,3,2,DEN,Dallas Mavericks,W,118,109
+2023-02-25,COL,Calgary Flames,,,,DEN,Memphis Grizzlies,,,
+2023-03-16,COL,Ottawa Senators,,,,DEN,Detroit Pistons,,,
+2023-03-18,COL,Detroit Red Wings,,,,DEN,New York Knicks,,,
+2023-03-22,COL,Pittsburgh Penguins,,,,DEN,Washington Wizards,,,
+2023-03-27,COL,Anaheim Ducks,,,,DEN,Philadelphia 76ers,,,
+2023-04-04,COL,San Jose Sharks,,,,DEN,Houston Rockets,,,
+2023-04-06,COL,San Jose Sharks,,,,DEN,Phoenix Suns,,,
+2023-04-08,COL,Los Angeles Kings,,,,DEN,Utah Jazz,,,
+2023-04-09,COL,Anaheim Ducks,,,,DEN,Sacramento Kings,,,
